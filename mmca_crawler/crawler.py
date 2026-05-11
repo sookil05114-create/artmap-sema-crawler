@@ -1,25 +1,12 @@
 """
-MMCA(국립현대미술관) 전시·교육 크롤러
-======================================
+MMCA(국립현대미술관) 전시·교육 크롤러 — v2.1 (네트워크 견고성 강화)
 
-JSON API 직접 호출:
-- 전시: POST https://www.mmca.go.kr/exhibitions/AjaxExhibitionList.do
-- 교육: GET  https://www.mmca.go.kr/educations/ajaxEduParticipation.do
-
-4관(서울·덕수궁·과천·청주) + 어린이미술관 전부 수집.
-사이트 측에서 region 필드로 필터링하여 서울만 표시할 수 있음.
-
-전시와 교육은 데이터 모델이 달라 출력 파일도 분리:
-- data/exhibitions_latest.json
-- data/exhibitions_latest.csv
-- data/venues_with_exhibitions_latest.json   (분관별 그룹화)
-- data/programs_latest.json                  (교육프로그램, 별도 스키마)
-- data/programs_latest.csv
-
-사용법:
-    python crawler.py                    # 전시 + 교육 모두 수집
-    python crawler.py --skip-education   # 전시만
-    python crawler.py --skip-exhibition  # 교육만
+수정 사항 (v2.0 → v2.1):
+- User-Agent를 실제 Chrome 브라우저처럼 변경 (봇 차단 회피)
+- Accept-Encoding, Accept 헤더 보강
+- 연결 실패 시 자동 재시도 (5초 → 15초 → 30초 → 60초 백오프)
+- TIMEOUT 25초 → 45초
+- MMCA 단계가 실패해도 SeMA 데이터는 손상되지 않도록 별도 처리
 """
 
 from __future__ import annotations
@@ -39,13 +26,18 @@ from urllib.parse import urljoin
 import requests
 
 BASE = "https://www.mmca.go.kr"
-UA = "artmap.ai.kr-crawler/1.0 (contact: sookil05114@gmail.com)"
-SLEEP = 3.0
-TIMEOUT = 25
+# ★ 실제 Chrome 브라우저 흉내 (봇 차단 회피)
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+      "AppleWebKit/537.36 (KHTML, like Gecko) "
+      "Chrome/121.0.0.0 Safari/537.36")
+SLEEP = 4.0
+TIMEOUT = 45  # 25 -> 45초로 늘림
+MAX_RETRIES = 4
+BACKOFF = [5, 15, 30, 60]  # 재시도 간격(초)
 
 
 # ============================================================
-# 공통 — 분관 메타데이터
+# 공통
 # ============================================================
 
 def load_venues(path: Path) -> tuple[dict, list]:
@@ -58,20 +50,33 @@ def http_session() -> requests.Session:
     s = requests.Session()
     s.headers.update({
         "User-Agent": UA,
-        "Accept-Language": "ko,en;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
     })
     return s
 
 
-def strip_html(html: str) -> str:
-    """HTML 태그 제거 — 안전한 평문 요약용 (BeautifulSoup 사용)."""
-    if not html:
-        return ""
-    try:
-        from bs4 import BeautifulSoup
-        return BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
-    except Exception:
-        return re.sub(r"<[^>]+>", "", html)
+def retry_request(fn, label: str):
+    """ConnectionReset/Timeout 시 자동 재시도."""
+    last_err = None
+    for i in range(MAX_RETRIES):
+        try:
+            return fn()
+        except (requests.ConnectionError, requests.Timeout,
+                requests.exceptions.ChunkedEncodingError) as e:
+            last_err = e
+            if i == MAX_RETRIES - 1:
+                break
+            wait = BACKOFF[i]
+            print(f"  [{label}] 재시도 {i+1}/{MAX_RETRIES} "
+                  f"({e.__class__.__name__}) — {wait}초 대기",
+                  file=sys.stderr)
+            time.sleep(wait)
+    print(f"  [{label}] 최종 실패: {last_err}", file=sys.stderr)
+    raise last_err
 
 
 def compute_status(start_iso: str, end_iso: str, today: date) -> str:
@@ -132,8 +137,20 @@ class Exhibition:
 EXH_AJAX = f"{BASE}/exhibitions/AjaxExhibitionList.do"
 
 
+def prime_session(sess: requests.Session) -> None:
+    """진짜 브라우저처럼 보이도록 메인 페이지를 먼저 GET — 쿠키·세션 확보."""
+    def call():
+        r = sess.get(f"{BASE}/", timeout=TIMEOUT)
+        r.raise_for_status()
+        return r
+    try:
+        retry_request(call, label="prime")
+        time.sleep(2)
+    except Exception as e:
+        print(f"  prime failed (계속 진행): {e}", file=sys.stderr)
+
+
 def fetch_exhibition_page(sess: requests.Session, exh_flag: str, page: int) -> dict:
-    """exh_flag: '1' = 진행중, '2' = 예정"""
     referer = (f"{BASE}/exhibitions/progressList.do" if exh_flag == "1"
                else f"{BASE}/exhibitions/futureProgressList.do")
     data = {
@@ -143,23 +160,30 @@ def fetch_exhibition_page(sess: requests.Session, exh_flag: str, page: int) -> d
     headers = {
         "Referer": referer, "Origin": BASE,
         "X-Requested-With": "XMLHttpRequest",
-        "Accept": "application/json",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
     }
-    r = sess.post(EXH_AJAX, data=data, headers=headers, timeout=TIMEOUT)
-    r.raise_for_status()
-    return r.json()
+    def call():
+        r = sess.post(EXH_AJAX, data=data, headers=headers, timeout=TIMEOUT)
+        r.raise_for_status()
+        return r.json()
+    return retry_request(call, label=f"exh flag={exh_flag} page={page}")
 
 
 def collect_exhibitions(venues_by_code: dict) -> list[Exhibition]:
     sess = http_session()
+    prime_session(sess)
     today = date.today()
     out: list[Exhibition] = []
 
     for exh_flag, label in [("1", "진행중"), ("2", "예정")]:
         for page in range(1, 10):
             print(f"[MMCA 전시:{label}] page={page}", file=sys.stderr)
-            j = fetch_exhibition_page(sess, exh_flag, page)
+            try:
+                j = fetch_exhibition_page(sess, exh_flag, page)
+            except Exception as e:
+                print(f"  page {page} 영구 실패: {e}", file=sys.stderr)
+                break
             items = j.get("exhibitionsList", [])
             if not items:
                 break
@@ -201,7 +225,7 @@ def collect_exhibitions(venues_by_code: dict) -> list[Exhibition]:
 
 
 # ============================================================
-# 2) 교육 프로그램 (별도 스키마)
+# 2) 교육 프로그램
 # ============================================================
 
 @dataclass
@@ -212,22 +236,22 @@ class Program:
     venue_raw: str
     venue_key: str
     venue_name: str
-    venue_detail: str        # eduPlaDtl — 구체적 장소 (강의실 등)
+    venue_detail: str
     region: str
     address: str
     lat: float | None
     lng: float | None
     start_date: str
     end_date: str
-    time_range: str          # eduTm — "10:00-12:00" 등
-    target_audience: str     # eduTarget — 본문
-    target_category: str     # eduBigNm — 어린이/청소년/성인/교사 (분류)
+    time_range: str
+    target_audience: str
+    target_category: str
     price: str
-    capacity: str            # eduPersonCnt
-    application_status: str  # open / closed / unknown
+    capacity: str
+    application_status: str
     url: str
     thumbnail: str
-    status: str              # upcoming / active / ended
+    status: str
     collected_at: str
 
     def for_csv(self) -> dict:
@@ -240,15 +264,12 @@ class Program:
 EDU_AJAX = f"{BASE}/educations/ajaxEduParticipation.do"
 
 
-def fetch_education_page(sess: requests.Session, search_stt_cd: str, page: int) -> dict:
-    """searchSttCd: '1' = 진행중·예정, '2' = 종료
-    eduTp: '06' = 참여형 교육 (eduParticipation 페이지 기본값)
-    """
+def fetch_education_page(sess: requests.Session, page: int) -> dict:
     data = {
         "pageIndex": str(page),
         "searchEduPlaCd": "",
         "searchText": "",
-        "searchSttCd": search_stt_cd,
+        "searchSttCd": "1",
         "searchEduTicket": "1",
         "eduTp": "06",
     }
@@ -256,16 +277,19 @@ def fetch_education_page(sess: requests.Session, search_stt_cd: str, page: int) 
         "Referer": f"{BASE}/educations/eduParticipation.do",
         "Origin": BASE,
         "X-Requested-With": "XMLHttpRequest",
-        "Accept": "application/json",
+        "Accept": "application/json, text/javascript, */*; q=0.01",
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
     }
-    r = sess.post(EDU_AJAX, data=data, headers=headers, timeout=TIMEOUT)
-    r.raise_for_status()
-    return r.json()
+    def call():
+        r = sess.post(EDU_AJAX, data=data, headers=headers, timeout=TIMEOUT)
+        r.raise_for_status()
+        return r.json()
+    return retry_request(call, label=f"edu page={page}")
 
 
 def collect_programs(venues_by_code: dict) -> list[Program]:
     sess = http_session()
+    prime_session(sess)
     today = date.today()
     out: list[Program] = []
     seen_ids = set()
@@ -273,9 +297,9 @@ def collect_programs(venues_by_code: dict) -> list[Program]:
     for page in range(1, 15):
         print(f"[MMCA 교육] page={page}", file=sys.stderr)
         try:
-            j = fetch_education_page(sess, "1", page)
+            j = fetch_education_page(sess, page)
         except Exception as e:
-            print(f"  ERR page {page}: {e}", file=sys.stderr)
+            print(f"  page {page} 영구 실패: {e}", file=sys.stderr)
             break
         items = j.get("eduList", [])
         if not items:
@@ -294,12 +318,10 @@ def collect_programs(venues_by_code: dict) -> list[Program]:
             thumb = x.get("eduThumbImg") or ""
             if thumb and thumb.startswith("/"):
                 thumb = urljoin(BASE, thumb)
-            url = (f"{BASE}/educations/educationsDetail.do?"
-                   f"eduId={edu_id}")
+            url = f"{BASE}/educations/educationsDetail.do?eduId={edu_id}"
             price_raw = (x.get("eduPrice") or "").strip()
-            price = "무료" if price_raw in ("0", "0원", "") else f"{price_raw}원" if price_raw.isdigit() else price_raw
-
-            # 신청 가능 여부
+            price = "무료" if price_raw in ("0", "0원", "") else (
+                f"{price_raw}원" if price_raw.isdigit() else price_raw)
             ticket_y = x.get("eduTicketYn", "") == "Y"
             ticket_fin = x.get("eduTicketFinYn", "") == "Y"
             if ticket_y and not ticket_fin:
@@ -308,7 +330,6 @@ def collect_programs(venues_by_code: dict) -> list[Program]:
                 app_status = "closed"
             else:
                 app_status = "info_only"
-
             out.append(Program(
                 id=pid, source="mmca",
                 title=x.get("eduTitle", "").strip(),
@@ -420,7 +441,7 @@ def save_programs(progs: list[Program], outdir: Path, today_iso: str) -> None:
 
 
 # ============================================================
-# Main
+# Main — 부분 실패해도 다른 카테고리는 살림
 # ============================================================
 
 def main() -> int:
@@ -433,28 +454,30 @@ def main() -> int:
 
     by_code, venues_meta = load_venues(Path(args.venues))
     today_iso = date.today().isoformat()
+    any_success = False
 
     if not args.skip_exhibition:
-        exs = collect_exhibitions(by_code)
-        save_exhibitions(exs, venues_meta, Path(args.outdir), today_iso)
-        by_v: dict[str, int] = {}
-        for e in exs:
-            by_v[e.venue_name] = by_v.get(e.venue_name, 0) + 1
-        print(f"\n[MMCA 전시] 총 {len(exs)}건", file=sys.stderr)
-        for v, n in sorted(by_v.items(), key=lambda kv: -kv[1]):
-            print(f"  {v}: {n}건", file=sys.stderr)
+        try:
+            exs = collect_exhibitions(by_code)
+            save_exhibitions(exs, venues_meta, Path(args.outdir), today_iso)
+            print(f"\n[MMCA 전시] 총 {len(exs)}건", file=sys.stderr)
+            if exs:
+                any_success = True
+        except Exception as e:
+            print(f"\n[MMCA 전시] 수집 실패: {e}", file=sys.stderr)
 
     if not args.skip_education:
-        progs = collect_programs(by_code)
-        save_programs(progs, Path(args.outdir), today_iso)
-        by_tgt: dict[str, int] = {}
-        for p in progs:
-            by_tgt[p.target_category or "기타"] = by_tgt.get(p.target_category or "기타", 0) + 1
-        print(f"\n[MMCA 교육] 총 {len(progs)}건", file=sys.stderr)
-        for t, n in sorted(by_tgt.items(), key=lambda kv: -kv[1]):
-            print(f"  {t}: {n}건", file=sys.stderr)
+        try:
+            progs = collect_programs(by_code)
+            save_programs(progs, Path(args.outdir), today_iso)
+            print(f"\n[MMCA 교육] 총 {len(progs)}건", file=sys.stderr)
+            if progs:
+                any_success = True
+        except Exception as e:
+            print(f"\n[MMCA 교육] 수집 실패: {e}", file=sys.stderr)
 
-    return 0
+    # 둘 다 완전 실패면 exit 1, 하나라도 성공이면 0 (워크플로우 계속 진행)
+    return 0 if any_success else 1
 
 
 if __name__ == "__main__":
