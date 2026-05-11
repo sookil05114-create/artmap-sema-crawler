@@ -1,4 +1,4 @@
-name: SeMA 전시 자동 수집 (매일)
+name: SeMA + MMCA 전시·교육 자동 수집 (매일)
 
 on:
   schedule:
@@ -10,11 +10,8 @@ permissions:
   contents: write
 
 jobs:
-  crawl:
+  crawl_all:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: sema_crawler
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,20 +24,26 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r sema_crawler/requirements.txt
+          pip install -r mmca_crawler/requirements.txt
 
-      - name: Run crawler
-        run: python crawler.py
+      - name: Run SeMA crawler
+        run: python sema_crawler/crawler.py
+
+      - name: Run MMCA crawler (exhibitions + education)
+        run: python mmca_crawler/crawler.py
+
+      - name: Merge all sources
+        run: python merger/merge.py
 
       - name: Commit data
-        working-directory: ${{ github.workspace }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add sema_crawler/data/
+          git add sema_crawler/data/ mmca_crawler/data/ merger/data/
           if git diff --staged --quiet; then
             echo "변경 없음 — 커밋 생략"
           else
-            git commit -m "SeMA 전시 데이터 자동 업데이트 ($(date -u +%Y-%m-%d))"
+            git commit -m "전시·교육 데이터 자동 업데이트 ($(date -u +%Y-%m-%d))"
             git push
           fi
