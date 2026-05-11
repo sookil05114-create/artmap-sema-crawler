@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-05-12T16:00:00Z",
+  "deals": [
+    {
+      "id": 1,
+      "title": "서울시립미술관 전관 무료 관람",
+      "price": "무료",
+      "author": "전시맵왕초",
+      "source": "서울시립미술관",
+      "content": "서소문본관, 북서울, 서서울, 사진미술관, 미술아카이브 전관 무료입니다.",
+      "url": "https://sema.seoul.go.kr",
+      "created_at": "2026-05-12T16:00:00Z",
+      "comments": 0,
+      "has_image": false
+    }
+  ]
+}
