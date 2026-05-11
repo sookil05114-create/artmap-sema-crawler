@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-11T11:52:25Z",
+  "generated_at": "2026-05-11T12:31:54Z",
   "source": "sema",
-  "count": 14,
+  "count": 16,
   "exhibitions": [
     {
       "id": "c86ab895d64a",
@@ -19,7 +19,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "8008de7d4c8b",
@@ -37,7 +37,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "8c6b5f69a49f",
@@ -55,7 +55,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "d6dbc9d86014",
@@ -73,7 +73,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "aa76ea7574ec",
@@ -91,7 +91,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "779bcfd909a3",
@@ -109,7 +109,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "c847215907a1",
@@ -127,7 +127,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "223f1a5b6923",
@@ -145,7 +145,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "cd7578bb2c1d",
@@ -163,7 +163,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "2f365f2796a0",
@@ -181,7 +181,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "4a22ea484b12",
@@ -199,7 +199,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
     },
     {
       "id": "c183b205b058",
@@ -217,7 +217,43 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
       "status": "active",
-      "collected_at": "2026-05-11T11:52:18Z"
+      "collected_at": "2026-05-11T12:31:36Z"
+    },
+    {
+      "id": "c8b35220df20",
+      "source": "sema",
+      "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+      "venue_raw": "Seosomun Main Branch",
+      "venue_key": "unknown",
+      "venue_name": "Seosomun Main Branch",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-05-19",
+      "end_date": "2026-10-25",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
+      "status": "upcoming",
+      "collected_at": "2026-05-11T12:31:44Z"
+    },
+    {
+      "id": "02b9cd31ac79",
+      "source": "sema",
+      "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+      "venue_raw": "Seo-Seoul Museum of Art",
+      "venue_key": "unknown",
+      "venue_name": "Seo-Seoul Museum of Art",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-05-14",
+      "end_date": "2026-07-26",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+      "status": "upcoming",
+      "collected_at": "2026-05-11T12:31:44Z"
     },
     {
       "id": "46fcf986eb53",
@@ -235,7 +271,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "upcoming",
-      "collected_at": "2026-05-11T11:52:22Z"
+      "collected_at": "2026-05-11T12:31:49Z"
     },
     {
       "id": "cf57d344c0c1",
@@ -253,7 +289,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "upcoming",
-      "collected_at": "2026-05-11T11:52:22Z"
+      "collected_at": "2026-05-11T12:31:49Z"
     }
   ]
 }
