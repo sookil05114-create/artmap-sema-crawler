@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-05-11T12:31:54Z",
+  "generated_at": "2026-05-11T16:02:39Z",
   "source": "sema",
-  "count": 16,
+  "count": 14,
   "exhibitions": [
     {
-      "id": "c86ab895d64a",
+      "id": "d340ac7a2efe",
       "source": "sema",
       "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+      "artists": "",
       "venue_raw": "서울시립미술관 서소문본관",
       "venue_key": "seosomun",
       "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
       "address": "서울 중구 덕수궁길 61",
       "lat": 37.5641,
       "lng": 126.9737,
@@ -19,15 +21,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "8008de7d4c8b",
+      "id": "ca1723230151",
       "source": "sema",
       "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
+      "artists": "",
       "venue_raw": "서울시립 서서울미술관",
       "venue_key": "seoseoul",
       "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
       "address": "서울 금천구 시흥대로73길 70",
       "lat": 37.4581,
       "lng": 126.8959,
@@ -37,15 +41,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "8c6b5f69a49f",
+      "id": "c657aa61a28e",
       "source": "sema",
       "title": "《글짓, 쓰는 예술》",
+      "artists": "",
       "venue_raw": "서울시립 북서울미술관",
       "venue_key": "bukseoul",
       "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
       "address": "서울 노원구 동일로 1238",
       "lat": 37.6452,
       "lng": 127.0734,
@@ -55,15 +61,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "d6dbc9d86014",
+      "id": "aebb8561f013",
       "source": "sema",
       "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+      "artists": "",
       "venue_raw": "서울시립미술관 서소문본관",
       "venue_key": "seosomun",
       "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
       "address": "서울 중구 덕수궁길 61",
       "lat": 37.5641,
       "lng": 126.9737,
@@ -73,15 +81,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "aa76ea7574ec",
+      "id": "56a32968a140",
       "source": "sema",
       "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
+      "artists": "",
       "venue_raw": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
       "venue_key": "unknown",
       "venue_name": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
+      "region": "seoul",
       "address": "",
       "lat": null,
       "lng": null,
@@ -91,15 +101,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "779bcfd909a3",
+      "id": "a2ce75e6ada3",
       "source": "sema",
       "title": "2026 서울사진축제 《컴백홈》",
+      "artists": "",
       "venue_raw": "서울시립 사진미술관",
       "venue_key": "photosema",
       "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
       "address": "서울 도봉구 마들로13길 68",
       "lat": 37.6612,
       "lng": 127.0432,
@@ -109,15 +121,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "c847215907a1",
+      "id": "bd8a5f6ebb44",
       "source": "sema",
       "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+      "artists": "",
       "venue_raw": "서울시립 북서울미술관",
       "venue_key": "bukseoul",
       "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
       "address": "서울 노원구 동일로 1238",
       "lat": 37.6452,
       "lng": 127.0734,
@@ -127,15 +141,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "223f1a5b6923",
+      "id": "d9fcc33b96b0",
       "source": "sema",
       "title": "알렉사에게",
+      "artists": "",
       "venue_raw": "서울시립 미술아카이브",
       "venue_key": "art_archive",
       "venue_name": "서울시립 미술아카이브",
+      "region": "seoul",
       "address": "서울 종로구 평창문화로 101",
       "lat": 37.6097,
       "lng": 126.9742,
@@ -145,15 +161,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "cd7578bb2c1d",
+      "id": "6ba058729ef0",
       "source": "sema",
       "title": "포토 디스커버리 프로젝트 《사진집》",
+      "artists": "",
       "venue_raw": "서울시립 사진미술관",
       "venue_key": "photosema",
       "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
       "address": "서울 도봉구 마들로13길 68",
       "lat": 37.6612,
       "lng": 127.0432,
@@ -163,15 +181,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "2f365f2796a0",
+      "id": "06934f057ce3",
       "source": "sema",
       "title": "SeMA 프로젝트V_얄루",
+      "artists": "",
       "venue_raw": "서울시립 서서울미술관",
       "venue_key": "seoseoul",
       "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
       "address": "서울 금천구 시흥대로73길 70",
       "lat": 37.4581,
       "lng": 126.8959,
@@ -181,15 +201,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "4a22ea484b12",
+      "id": "dd23cadf6549",
       "source": "sema",
       "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
+      "artists": "",
       "venue_raw": "서울시립 서서울미술관",
       "venue_key": "seoseoul",
       "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
       "address": "서울 금천구 시흥대로73길 70",
       "lat": 37.4581,
       "lng": 126.8959,
@@ -199,15 +221,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "c183b205b058",
+      "id": "1b568dc5dc5c",
       "source": "sema",
       "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
+      "artists": "",
       "venue_raw": "서울시립 북서울미술관",
       "venue_key": "bukseoul",
       "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
       "address": "서울 노원구 동일로 1238",
       "lat": 37.6452,
       "lng": 127.0734,
@@ -217,51 +241,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
       "status": "active",
-      "collected_at": "2026-05-11T12:31:36Z"
+      "collected_at": "2026-05-11T16:02:32Z"
     },
     {
-      "id": "c8b35220df20",
+      "id": "5fdda35e076a",
       "source": "sema",
       "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
-      "venue_raw": "Seosomun Main Branch",
-      "venue_key": "unknown",
-      "venue_name": "Seosomun Main Branch",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "start_date": "2026-05-19",
-      "end_date": "2026-10-25",
-      "price": "무료",
-      "url": "",
-      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
-      "status": "upcoming",
-      "collected_at": "2026-05-11T12:31:44Z"
-    },
-    {
-      "id": "02b9cd31ac79",
-      "source": "sema",
-      "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
-      "venue_raw": "Seo-Seoul Museum of Art",
-      "venue_key": "unknown",
-      "venue_name": "Seo-Seoul Museum of Art",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "start_date": "2026-05-14",
-      "end_date": "2026-07-26",
-      "price": "무료",
-      "url": "",
-      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
-      "status": "upcoming",
-      "collected_at": "2026-05-11T12:31:44Z"
-    },
-    {
-      "id": "46fcf986eb53",
-      "source": "sema",
-      "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+      "artists": "",
       "venue_raw": "서울시립미술관 서소문본관",
       "venue_key": "seosomun",
       "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
       "address": "서울 중구 덕수궁길 61",
       "lat": 37.5641,
       "lng": 126.9737,
@@ -271,15 +261,17 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "upcoming",
-      "collected_at": "2026-05-11T12:31:49Z"
+      "collected_at": "2026-05-11T16:02:36Z"
     },
     {
-      "id": "cf57d344c0c1",
+      "id": "a9a7e67786af",
       "source": "sema",
       "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+      "artists": "",
       "venue_raw": "서울시립 서서울미술관",
       "venue_key": "seoseoul",
       "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
       "address": "서울 금천구 시흥대로73길 70",
       "lat": 37.4581,
       "lng": 126.8959,
@@ -289,7 +281,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "upcoming",
-      "collected_at": "2026-05-11T12:31:49Z"
+      "collected_at": "2026-05-11T16:02:36Z"
     }
   ]
 }

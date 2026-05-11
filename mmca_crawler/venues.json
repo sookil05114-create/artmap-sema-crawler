@@ -1,0 +1,10 @@
+{
+  "_comment": "국립현대미술관(MMCA) 4관 + 어린이미술관. region=서울만 사이트 표시, 나머지는 데이터 수집만.",
+  "venues": [
+    {"venue_key":"mmca_seoul","venue_name":"국립현대미술관 서울","exh_pla_cd":"130","region":"seoul","address":"서울 종로구 삼청로 30","lat":37.5793,"lng":126.9806,"official_url":"https://www.mmca.go.kr/contents.do?menuId=4500001028"},
+    {"venue_key":"mmca_deoksugung","venue_name":"국립현대미술관 덕수궁","exh_pla_cd":"120","region":"seoul","address":"서울 중구 세종대로 99","lat":37.5658,"lng":126.9744,"official_url":"https://www.mmca.go.kr/contents.do?menuId=4500001029"},
+    {"venue_key":"mmca_children","venue_name":"국립현대미술관 어린이미술관","exh_pla_cd":"140","region":"seoul","address":"서울 종로구 삼청로 30","lat":37.5793,"lng":126.9806,"official_url":"https://www.mmca.go.kr/contents.do?menuId=4500001028"},
+    {"venue_key":"mmca_gwacheon","venue_name":"국립현대미술관 과천","exh_pla_cd":"110","region":"gwacheon","address":"경기 과천시 광명로 313","lat":37.4310,"lng":127.0186,"official_url":"https://www.mmca.go.kr/contents.do?menuId=4500001030"},
+    {"venue_key":"mmca_cheongju","venue_name":"국립현대미술관 청주","exh_pla_cd":"150","region":"cheongju","address":"충북 청주시 청원구 상당로 314","lat":36.6394,"lng":127.4944,"official_url":"https://www.mmca.go.kr/contents.do?menuId=4500001031"}
+  ]
+}

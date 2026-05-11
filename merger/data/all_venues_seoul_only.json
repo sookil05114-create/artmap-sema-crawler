@@ -1,0 +1,388 @@
+{
+  "generated_at": "2026-05-11T16:02:39Z",
+  "sources": [
+    "sema",
+    "mmca"
+  ],
+  "venue_count": 8,
+  "venues": [
+    {
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
+      "active_count": 2,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "aebb8561f013",
+          "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+          "start_date": "2026-04-16",
+          "end_date": "2026-11-22",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "d340ac7a2efe",
+          "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+          "start_date": "2026-04-30",
+          "end_date": "2026-09-06",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "5fdda35e076a",
+          "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+          "start_date": "2026-05-19",
+          "end_date": "2026-10-25",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
+      "active_count": 3,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "1b568dc5dc5c",
+          "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
+          "start_date": "2025-09-02",
+          "end_date": "2026-05-31",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "bd8a5f6ebb44",
+          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "start_date": "2026-04-02",
+          "end_date": "2027-05-30",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "c657aa61a28e",
+          "title": "《글짓, 쓰는 예술》",
+          "start_date": "2026-04-23",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
+      "active_count": 3,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "06934f057ce3",
+          "title": "SeMA 프로젝트V_얄루",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "dd23cadf6549",
+          "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "ca1723230151",
+          "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
+          "start_date": "2026-04-28",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "a9a7e67786af",
+          "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+          "start_date": "2026-05-14",
+          "end_date": "2026-07-26",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "photosema",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.6612,
+      "lng": 127.0432,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
+      "active_count": 2,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "6ba058729ef0",
+          "title": "포토 디스커버리 프로젝트 《사진집》",
+          "start_date": "2026-03-18",
+          "end_date": "2026-06-14",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "a2ce75e6ada3",
+          "title": "2026 서울사진축제 《컴백홈》",
+          "start_date": "2026-04-09",
+          "end_date": "2026-06-14",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "art_archive",
+      "venue_name": "서울시립 미술아카이브",
+      "region": "seoul",
+      "address": "서울 종로구 평창문화로 101",
+      "lat": 37.6097,
+      "lng": 126.9742,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/art_archive",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "d9fcc33b96b0",
+          "title": "알렉사에게",
+          "start_date": "2026-03-26",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
+      "active_count": 5,
+      "upcoming_count": 5,
+      "exhibitions": [
+        {
+          "id": "6c442c37d7a8",
+          "title": "MMCA 서울 상설전 «한국현대미술 하이라이트»",
+          "artists": "김수자, 김환기, 박서보, 박현기, 서도호, 신학철, 양혜규, 이불, 이우환, 문경원+전준호 등 80여 명",
+          "start_date": "2025-05-01",
+          "end_date": "2026-05-31",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/04/2025041405075562519096.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001886&exhFlag=1",
+          "price": "2,000원"
+        },
+        {
+          "id": "4b0293f16d8e",
+          "title": "데이미언 허스트",
+          "artists": "데이미언 허스트",
+          "start_date": "2026-03-20",
+          "end_date": "2026-06-28",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
+          "price": "8,000원"
+        },
+        {
+          "id": "1839cc2fef5a",
+          "title": "데이미언 허스트와 YBA",
+          "artists": "크리스 킹, 샘 홉킨스, 제랄드 폭스, 질리언 웨어링",
+          "start_date": "2026-04-01",
+          "end_date": "2026-06-06",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026033009492612313790.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002025&exhFlag=1",
+          "price": "무료"
+        },
+        {
+          "id": "e29350c595df",
+          "title": "MMCA 다원예술 2026: 탐정의 시간",
+          "artists": "료지 이케다/앙상블 모데른, 마말리안 다이빙 리플렉스, 엘 콘데 데 토레필, 마테오 마랑고니/디터 반도렌, 신서, 위성희, 리타 후프와이크, 살로메 무이, 샘 소이어만, 박민희, 크리스토퍼 놀란, 정여름",
+          "start_date": "2026-04-01",
+          "end_date": "2026-12-06",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
+          "price": "개별 프로그램 별 상이"
+        },
+        {
+          "id": "bf130acf18c8",
+          "title": "그래도 해보던 날들",
+          "artists": "양정욱",
+          "start_date": "2026-04-17",
+          "end_date": "2026-08-30",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
+          "price": "무료"
+        },
+        {
+          "id": "a6ec77ae545e",
+          "title": "이것은 개념미술이 (아니)다",
+          "artists": "곽덕준, 김범, 김순기, 김용익, 김차섭, 김홍석, 박이소, 안규철, 오인환, 정서영 등 20여 명",
+          "start_date": "2026-06-19",
+          "end_date": "2026-10-11",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012105052518619667.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
+          "price": "-"
+        },
+        {
+          "id": "51659f018a70",
+          "title": "올해의 작가상 2026",
+          "artists": "이해민선, 홍진훤, 이정우, 전현선",
+          "start_date": "2026-07-24",
+          "end_date": "2026-12-06",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010210464870616917.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
+          "price": "2,000원"
+        },
+        {
+          "id": "580fded5c044",
+          "title": "MMCA×LG OLED 시리즈 2026",
+          "artists": "-",
+          "start_date": "2026-07-31",
+          "end_date": "2026-11-29",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012004105783217595.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
+          "price": "-"
+        },
+        {
+          "id": "e6f107b3043a",
+          "title": "서도호",
+          "artists": "서도호",
+          "start_date": "2026-08-28",
+          "end_date": "2027-02-09",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
+          "price": "-"
+        },
+        {
+          "id": "a1a64de63d62",
+          "title": "읽기의 기술: 종이에서 픽셀로",
+          "artists": "-",
+          "start_date": "2026-11-20",
+          "end_date": "2027-04-04",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
+          "price": "-"
+        }
+      ]
+    },
+    {
+      "venue_key": "mmca_deoksugung",
+      "venue_name": "국립현대미술관 덕수궁",
+      "region": "seoul",
+      "address": "서울 중구 세종대로 99",
+      "lat": 37.5658,
+      "lng": 126.9744,
+      "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001029",
+      "active_count": 0,
+      "upcoming_count": 2,
+      "exhibitions": [
+        {
+          "id": "576a1c954144",
+          "title": "이대원",
+          "artists": "이대원",
+          "start_date": "2026-08-06",
+          "end_date": "2026-11-08",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
+          "price": "-"
+        },
+        {
+          "id": "37c00224b438",
+          "title": "파리의 이방인",
+          "artists": "권옥연, 김기린, 김순기, 김창열, 김흥수, 남관, 문신, 방혜자, 이성자, 이세득, 이응노, 이우환, 이항성, 임세택, 한묵 등 50여 명",
+          "start_date": "2026-12-17",
+          "end_date": "2027-05-09",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
+          "price": "-"
+        }
+      ]
+    },
+    {
+      "venue_key": "mmca_children",
+      "venue_name": "국립현대미술관 어린이미술관",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "1fe18767dc6b",
+          "title": "오~감각미술관",
+          "artists": "깪, 엄정순, 함진",
+          "start_date": "2026-04-30",
+          "end_date": "2027-02-21",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
+          "price": "무료"
+        }
+      ]
+    }
+  ],
+  "filter": "region=seoul"
+}
