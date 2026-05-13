@@ -1,0 +1,5 @@
+{
+  "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
+  "generated_at": "",
+  "items": []
+}

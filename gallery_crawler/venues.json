@@ -1,0 +1,474 @@
+{
+  "_comment": "을지로 권역 시각예술 공간 시드. 좌표는 추후 본인이 검수 화면 또는 venues.json 직접 편집으로 보완.",
+  "source_doc": "'26 서울아트위크 기간 중 전시목록+을지로공간 목록",
+  "venues": [
+    {
+      "venue_key": "euljiro_yk_presents",
+      "venue_name": "YK Presents",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/yk_presents/",
+      "instagram_handle": "yk_presents",
+      "naver_map_url": "https://naver.me/FN7pve98",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "YK Presents"
+      ]
+    },
+    {
+      "venue_key": "euljiro_flow_n_beat",
+      "venue_name": "플로우앤비트",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/flow.n.beat/",
+      "instagram_handle": "flow.n.beat",
+      "naver_map_url": "https://naver.me/xXwCvI0B",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "플로우앤비트"
+      ]
+    },
+    {
+      "venue_key": "euljiro_doosanartcenter_gallery",
+      "venue_name": "두산갤러리",
+      "category": "전시공간",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/doosanartcenter_gallery/",
+      "instagram_handle": "doosanartcenter_gallery",
+      "naver_map_url": "https://naver.me/FW6GHHNi",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "두산갤러리"
+      ]
+    },
+    {
+      "venue_key": "euljiro_die_huette_gallery",
+      "venue_name": "디휘테 갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/die_huette_gallery/",
+      "instagram_handle": "die_huette_gallery",
+      "naver_map_url": "https://naver.me/FqWOpJdv",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "디휘테 갤러리"
+      ]
+    },
+    {
+      "venue_key": "euljiro_ypc_seoul",
+      "venue_name": "YPC스페이스",
+      "category": "전시공간",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/ypc.seoul/",
+      "instagram_handle": "ypc.seoul",
+      "naver_map_url": "https://naver.me/5Kbi3Wwz",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "YPC스페이스"
+      ]
+    },
+    {
+      "venue_key": "euljiro_gallerysoso",
+      "venue_name": "더 소소",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/gallerysoso_/",
+      "instagram_handle": "gallerysoso_",
+      "naver_map_url": "https://naver.me/x3jvVUTk",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "더 소소"
+      ]
+    },
+    {
+      "venue_key": "euljiro_p_s_center",
+      "venue_name": "PS센터",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/p.s.center/",
+      "instagram_handle": "p.s.center",
+      "naver_map_url": "https://naver.me/Gq84WS8l",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "PS센터"
+      ]
+    },
+    {
+      "venue_key": "euljiro_alternativespaceloop",
+      "venue_name": "대안공간루프",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/alternativespaceloop/",
+      "instagram_handle": "alternativespaceloop",
+      "naver_map_url": "https://naver.me/FV7VgxCJ",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "대안공간루프"
+      ]
+    },
+    {
+      "venue_key": "euljiro_ffseoul",
+      "venue_name": "FF서울",
+      "category": "전시공간",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/ffseoul/",
+      "instagram_handle": "ffseoul",
+      "naver_map_url": "https://naver.me/FN7dlUNy",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "FF서울"
+      ]
+    },
+    {
+      "venue_key": "euljiro_pilseungsa_art",
+      "venue_name": "시각미술연구소 필승사",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/pilseungsa.art/",
+      "instagram_handle": "pilseungsa.art",
+      "naver_map_url": "https://naver.me/5yh4jAtD",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "시각미술연구소 필승사"
+      ]
+    },
+    {
+      "venue_key": "euljiro_pokettales",
+      "venue_name": "포켓테일즈",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/pokettales/",
+      "instagram_handle": "pokettales",
+      "naver_map_url": "https://naver.me/GUwbFd68",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "포켓테일즈"
+      ]
+    },
+    {
+      "venue_key": "euljiro_coso_seoul",
+      "venue_name": "COSO",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/coso_seoul/",
+      "instagram_handle": "coso_seoul",
+      "naver_map_url": "https://naver.me/xnh7Fn0U",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "COSO"
+      ]
+    },
+    {
+      "venue_key": "euljiro_sahngupgallery",
+      "venue_name": "상업화랑 을지로",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/sahngupgallery/",
+      "instagram_handle": "sahngupgallery",
+      "naver_map_url": "https://naver.me/G9rgCjJk",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "상업화랑 을지로"
+      ]
+    },
+    {
+      "venue_key": "euljiro_nslasha_kr",
+      "venue_name": "N/A",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/nslasha.kr/",
+      "instagram_handle": "nslasha.kr",
+      "naver_map_url": "https://naver.me/xAFCHeS7",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "N/A"
+      ]
+    },
+    {
+      "venue_key": "euljiro_space_unit_plus",
+      "venue_name": "스페이스유닛+",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/space.unit_plus/",
+      "instagram_handle": "space.unit_plus",
+      "naver_map_url": "https://naver.me/xl0gH04M",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "스페이스유닛+"
+      ]
+    },
+    {
+      "venue_key": "euljiro_gallerymos_official",
+      "venue_name": "갤러리모스",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/gallerymos.official/",
+      "instagram_handle": "gallerymos.official",
+      "naver_map_url": "https://naver.me/xlbMJOwY",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "갤러리모스"
+      ]
+    },
+    {
+      "venue_key": "euljiro_gblue_gallery",
+      "venue_name": "그블루갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/gblue_gallery/",
+      "instagram_handle": "gblue_gallery",
+      "naver_map_url": "https://naver.me/5D8Gm4Vo",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "그블루갤러리"
+      ]
+    },
+    {
+      "venue_key": "euljiro_jungganjijeom_l",
+      "venue_name": "중간지점 하나",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/jungganjijeom_l/",
+      "instagram_handle": "jungganjijeom_l",
+      "naver_map_url": "https://naver.me/GgWCst9i",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "중간지점 하나"
+      ]
+    },
+    {
+      "venue_key": "euljiro_cadalogs_space",
+      "venue_name": "스페이스카다로그",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/cadalogs_space/",
+      "instagram_handle": "cadalogs_space",
+      "naver_map_url": "https://naver.me/xv3MFpPi",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "스페이스카다로그"
+      ]
+    },
+    {
+      "venue_key": "euljiro_pco_seoul",
+      "venue_name": "PCO",
+      "category": "전시공간",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/pco.seoul/",
+      "instagram_handle": "pco.seoul",
+      "naver_map_url": "https://naver.me/5CW0a6ju",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "PCO"
+      ]
+    },
+    {
+      "venue_key": "euljiro_artspace_hyeong",
+      "venue_name": "공간 형",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/artspace_hyeong/",
+      "instagram_handle": "artspace_hyeong",
+      "naver_map_url": "https://naver.me/GOPeKAGc",
+      "official_url": "",
+      "note": "*혜화로 이주",
+      "aliases": [
+        "공간 형"
+      ]
+    },
+    {
+      "venue_key": "euljiro_eckeida",
+      "venue_name": "에케이다",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/eckeida",
+      "instagram_handle": "eckeida",
+      "naver_map_url": "https://naver.me/5eDObFEh",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "에케이다"
+      ]
+    },
+    {
+      "venue_key": "euljiro_womanopentechlab",
+      "venue_name": "여성을 위한 열린 기술랩",
+      "category": "연구소, 작가스튜디오",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/womanopentechlab/",
+      "instagram_handle": "womanopentechlab",
+      "naver_map_url": "https://naver.me/FTMOEgfX",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "여성을 위한 열린 기술랩"
+      ]
+    },
+    {
+      "venue_key": "euljiro_separate_spaces",
+      "venue_name": "Separate Spaces",
+      "category": "예술 서적 전문서점",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/separate.spaces/",
+      "instagram_handle": "separate.spaces",
+      "naver_map_url": "https://naver.me/xAAs1UTI",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "Separate Spaces"
+      ]
+    },
+    {
+      "venue_key": "euljiro_paradise_cultural_foundation",
+      "venue_name": "파라다이스문화재단 아트랩",
+      "category": "문화재단",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/paradise_cultural_foundation/",
+      "instagram_handle": "paradise_cultural_foundation",
+      "naver_map_url": "https://naver.me/xl0HLXv9",
+      "official_url": "",
+      "note": "*하트원과 협력하여 아트 페스티벌 개최 경험 有",
+      "aliases": [
+        "파라다이스문화재단 아트랩"
+      ]
+    },
+    {
+      "venue_key": "euljiro_h_art1_euljiro",
+      "venue_name": "하나은행 하트원",
+      "category": "복합문화공간",
+      "region": "seoul",
+      "subregion": "euljiro",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/h.art1_euljiro",
+      "instagram_handle": "h.art1_euljiro",
+      "naver_map_url": "https://naver.me/FTXw02tS",
+      "official_url": "",
+      "note": "",
+      "aliases": [
+        "하나은행 하트원"
+      ]
+    }
+  ]
+}
