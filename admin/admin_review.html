@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>제보 검수 — artmap</title>
+<style>
+  :root {
+    --bg: #f7f7f8; --card: #ffffff; --border: #e5e7eb;
+    --text: #1f2937; --muted: #6b7280; --accent: #2563eb;
+    --ok: #16a34a; --warn: #d97706; --bad: #dc2626;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 24px; font-family: -apple-system, "Apple SD Gothic Neo", system-ui, sans-serif;
+         background: var(--bg); color: var(--text); }
+  header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px; gap: 16px; flex-wrap: wrap;}
+  h1 { margin: 0; font-size: 20px; }
+  .stats { color: var(--muted); font-size: 13px; }
+  .actions { display: flex; gap: 8px; }
+  button { font: inherit; cursor: pointer; border: 1px solid var(--border); background: white; padding: 6px 12px;
+           border-radius: 6px; }
+  button:hover { background: #f3f4f6; }
+  button.primary { background: var(--accent); color: white; border-color: var(--accent); }
+  button.ok { background: var(--ok); color: white; border-color: var(--ok); }
+  button.bad { background: var(--bad); color: white; border-color: var(--bad); }
+  button.warn { background: var(--warn); color: white; border-color: var(--warn); }
+  button:disabled { opacity: 0.4; cursor: not-allowed; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 16px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px;
+          display: flex; flex-direction: column; gap: 8px; }
+  .card.approved { border-color: var(--ok); background: #f0fdf4; }
+  .card.rejected { border-color: var(--bad); background: #fef2f2; opacity: 0.6; }
+  .card img.thumb { width: 100%; height: 180px; object-fit: cover; border-radius: 6px; background: #eee; }
+  .card .row { display: flex; gap: 8px; align-items: center; }
+  .card label { font-size: 11px; color: var(--muted); display: block; margin-top: 4px; }
+  .card input, .card textarea {
+    width: 100%; padding: 6px 8px; border: 1px solid var(--border); border-radius: 4px; font: inherit; background: white;
+  }
+  .card input.compact { padding: 4px 6px; font-size: 13px; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 11px;
+           background: #f3f4f6; color: var(--muted); }
+  .badge.pending { background: #fef3c7; color: #92400e; }
+  .badge.approved { background: #dcfce7; color: #166534; }
+  .badge.rejected { background: #fee2e2; color: #991b1b; }
+  .badge.conf { background: #ddd6fe; color: #5b21b6; }
+  .card .meta { font-size: 12px; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .card .actions-row { display: flex; gap: 6px; margin-top: 8px; }
+  .card .actions-row button { flex: 1; font-size: 13px; padding: 6px 8px; }
+  .summary-empty { padding: 60px 0; text-align: center; color: var(--muted); }
+  .modal-bg { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: flex;
+              align-items: center; justify-content: center; z-index: 1000; padding: 24px; }
+  .modal { background: white; border-radius: 10px; padding: 24px; max-width: 520px; width: 100%; }
+  .modal h2 { margin: 0 0 12px 0; font-size: 18px; }
+  .modal p { margin: 6px 0; color: var(--muted); font-size: 14px; line-height: 1.5; }
+  .modal input { width: 100%; padding: 10px; border: 1px solid var(--border); border-radius: 6px; font: inherit; }
+  .modal .footer { display: flex; gap: 8px; justify-content: flex-end; margin-top: 16px; }
+  pre.summary { font-size: 12px; background: #f9fafb; padding: 8px; border-radius: 4px;
+                white-space: pre-wrap; word-break: break-word; max-height: 80px; overflow-y: auto; margin: 0; }
+  .filter-tabs { display: flex; gap: 4px; }
+  .filter-tabs button.active { background: var(--text); color: white; border-color: var(--text); }
+  details summary { cursor: pointer; font-size: 12px; color: var(--muted); }
+  details[open] summary { margin-bottom: 6px; }
+  .pat-status { font-size: 12px; padding: 4px 10px; border-radius: 4px; }
+  .pat-status.ok { background: #dcfce7; color: #166534; }
+  .pat-status.miss { background: #fee2e2; color: #991b1b; }
+  .toast { position: fixed; bottom: 24px; right: 24px; background: #1f2937; color: white;
+           padding: 12px 18px; border-radius: 6px; font-size: 14px; z-index: 1100; opacity: 0;
+           transition: opacity 0.2s; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>제보 검수 — artmap</h1>
+    <div class="stats" id="stats">불러오는 중…</div>
+  </div>
+  <div class="actions">
+    <div class="filter-tabs">
+      <button id="filter-pending" class="active">대기 <span id="cnt-pending">0</span></button>
+      <button id="filter-approved">승인 <span id="cnt-approved">0</span></button>
+      <button id="filter-rejected">반려 <span id="cnt-rejected">0</span></button>
+      <button id="filter-all">전체</button>
+    </div>
+    <span class="pat-status miss" id="pat-status">PAT 미등록</span>
+    <button id="btn-pat">PAT 설정</button>
+    <button id="btn-reload">새로고침</button>
+  </div>
+</header>
+
+<div id="grid" class="grid"></div>
+
+<div id="modal-pat" class="modal-bg" style="display:none">
+  <div class="modal">
+    <h2>GitHub Personal Access Token 등록</h2>
+    <p>이 토큰은 <strong>본인 브라우저(localStorage)에만 저장</strong>됩니다. GitHub에는 절대 업로드되지 않아요.</p>
+    <p><strong>발급 방법</strong> (5분):</p>
+    <ol style="font-size:13px;color:var(--muted);line-height:1.7">
+      <li><a href="https://github.com/settings/personal-access-tokens/new" target="_blank">github.com/settings/personal-access-tokens/new</a> 이동</li>
+      <li>Token name: <code>artmap-review</code></li>
+      <li>Expiration: 90 days</li>
+      <li>Repository access: <strong>Only select repositories → artmap-sema-crawler</strong></li>
+      <li>Permissions → Repository permissions → <strong>Contents → Read and write</strong></li>
+      <li>맨 아래 <strong>Generate token</strong> → 표시된 토큰 복사 (한 번만 보임)</li>
+    </ol>
+    <input id="pat-input" type="password" placeholder="github_pat_... 또는 ghp_..." autocomplete="off">
+    <div class="footer">
+      <button id="pat-cancel">취소</button>
+      <button class="primary" id="pat-save">저장</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script>
+// ============== 설정 ==============
+const OWNER = "sookil05114-create";
+const REPO = "artmap-sema-crawler";
+const PATH = "submissions/data/pending_queue.json";
+const RAW_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${PATH}`;
+const API_URL = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH}`;
+
+// ============== 상태 ==============
+let queue = { items: [] };
+let fileSha = null;       // GitHub API의 파일 SHA (PUT 시 필요)
+let filterMode = "pending"; // pending / approved / rejected / all
+
+// ============== PAT ==============
+function getPAT() { return localStorage.getItem("artmap_pat") || ""; }
+function setPAT(t) { localStorage.setItem("artmap_pat", t); updatePatStatus(); }
+function updatePatStatus() {
+  const el = document.getElementById("pat-status");
+  if (getPAT()) { el.textContent = "PAT 등록됨"; el.className = "pat-status ok"; }
+  else { el.textContent = "PAT 미등록"; el.className = "pat-status miss"; }
+}
+document.getElementById("btn-pat").onclick = () => {
+  document.getElementById("pat-input").value = getPAT();
+  document.getElementById("modal-pat").style.display = "flex";
+};
+document.getElementById("pat-cancel").onclick = () => {
+  document.getElementById("modal-pat").style.display = "none";
+};
+document.getElementById("pat-save").onclick = () => {
+  setPAT(document.getElementById("pat-input").value.trim());
+  document.getElementById("modal-pat").style.display = "none";
+  toast("PAT 저장됨");
+};
+
+// ============== 토스트 ==============
+function toast(msg, ms=2000) {
+  const el = document.getElementById("toast");
+  el.textContent = msg;
+  el.classList.add("show");
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => el.classList.remove("show"), ms);
+}
+
+// ============== 큐 fetch ==============
+async function loadQueue() {
+  document.getElementById("stats").textContent = "불러오는 중…";
+  const pat = getPAT();
+  try {
+    // PAT 있으면 API로 (SHA 함께 받음), 없으면 raw URL fallback
+    if (pat) {
+      const r = await fetch(API_URL, { headers: { Authorization: `Bearer ${pat}`, "X-GitHub-Api-Version": "2022-11-28" }});
+      if (!r.ok) throw new Error(`API ${r.status}: ${await r.text()}`);
+      const j = await r.json();
+      fileSha = j.sha;
+      const decoded = decodeURIComponent(escape(atob(j.content.replace(/\n/g, ""))));
+      queue = JSON.parse(decoded);
+    } else {
+      // raw — 캐시 무력화
+      const r = await fetch(RAW_URL + `?t=${Date.now()}`);
+      if (!r.ok) throw new Error(`raw ${r.status}`);
+      queue = await r.json();
+      fileSha = null;
+    }
+    render();
+  } catch (e) {
+    toast(`로드 실패: ${e.message}`);
+    document.getElementById("stats").textContent = "로드 실패";
+  }
+}
+
+// ============== 렌더 ==============
+function counts() {
+  const c = { pending: 0, approved: 0, rejected: 0, all: queue.items.length };
+  queue.items.forEach(it => { if (c[it.status] !== undefined) c[it.status]++; });
+  return c;
+}
+function render() {
+  const c = counts();
+  document.getElementById("cnt-pending").textContent = c.pending;
+  document.getElementById("cnt-approved").textContent = c.approved;
+  document.getElementById("cnt-rejected").textContent = c.rejected;
+  document.getElementById("stats").textContent =
+    `${queue.items.length}건 · 대기 ${c.pending} · 승인 ${c.approved} · 반려 ${c.rejected}` +
+    (queue.generated_at ? ` · ${queue.generated_at.slice(0,16).replace("T"," ")}` : "");
+
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+  const filtered = filterMode === "all" ? queue.items : queue.items.filter(it => it.status === filterMode);
+  if (!filtered.length) {
+    grid.innerHTML = `<div class="summary-empty">${filterMode === "pending" ? "검수 대기 중인 제보가 없습니다." : "표시할 항목 없음"}</div>`;
+    return;
+  }
+  filtered.forEach((it, idx) => {
+    const realIdx = queue.items.indexOf(it);
+    const card = renderCard(it, realIdx);
+    grid.appendChild(card);
+  });
+}
+function renderCard(it, idx) {
+  const el = document.createElement("div");
+  el.className = `card ${it.status}`;
+  const conf = it.extracted?.confidence;
+  const isExh = it.extracted?.is_exhibition !== false;
+  el.innerHTML = `
+    ${it.thumbnail ? `<img class="thumb" src="${escapeHtml(it.thumbnail)}" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : ""}
+    <div class="meta">
+      <span class="badge ${it.status}">${it.status}</span>
+      ${typeof conf === "number" ? `<span class="badge conf">conf ${conf.toFixed(2)}</span>` : ""}
+      ${!isExh ? `<span class="badge" style="background:#fee2e2;color:#991b1b">전시 정보 아님</span>` : ""}
+      <a href="${escapeHtml(it.source_url)}" target="_blank">원본 ↗</a>
+    </div>
+    <label>전시명</label>
+    <input class="compact f-title" value="${escapeHtml(it.title || "")}">
+    <label>작가</label>
+    <input class="compact f-artists" value="${escapeHtml(it.artists || "")}">
+    <label>공간</label>
+    <input class="compact f-venue" value="${escapeHtml(it.venue_name || "")}" placeholder="예: PS CENTER">
+    <div class="row" style="gap:6px">
+      <div style="flex:1">
+        <label>시작</label>
+        <input class="compact f-start" value="${escapeHtml(it.start_date || "")}" placeholder="YYYY-MM-DD">
+      </div>
+      <div style="flex:1">
+        <label>종료</label>
+        <input class="compact f-end" value="${escapeHtml(it.end_date || "")}" placeholder="YYYY-MM-DD">
+      </div>
+    </div>
+    <details>
+      <summary>AI 추출 원본 (참고)</summary>
+      <pre class="summary">${escapeHtml(JSON.stringify(it.extracted, null, 2))}</pre>
+    </details>
+    <div class="actions-row">
+      <button class="ok" data-act="approve">승인</button>
+      <button class="warn" data-act="save">수정만 저장</button>
+      <button class="bad" data-act="reject">반려</button>
+    </div>
+  `;
+  el.querySelector('[data-act="approve"]').onclick = () => action(idx, "approved", el);
+  el.querySelector('[data-act="save"]').onclick = () => action(idx, "edited", el);
+  el.querySelector('[data-act="reject"]').onclick = () => action(idx, "rejected", el);
+  return el;
+}
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+function readFields(cardEl) {
+  return {
+    title: cardEl.querySelector(".f-title").value.trim(),
+    artists: cardEl.querySelector(".f-artists").value.trim(),
+    venue_name: cardEl.querySelector(".f-venue").value.trim(),
+    start_date: cardEl.querySelector(".f-start").value.trim(),
+    end_date: cardEl.querySelector(".f-end").value.trim(),
+  };
+}
+
+// ============== 액션 ==============
+async function action(idx, newStatus, cardEl) {
+  if (!getPAT()) {
+    toast("먼저 PAT를 설정하세요");
+    document.getElementById("btn-pat").click();
+    return;
+  }
+  const fields = readFields(cardEl);
+  const it = queue.items[idx];
+  Object.assign(it, fields);
+  it.status = (newStatus === "edited" ? it.status : newStatus);
+  it.reviewed_at = new Date().toISOString();
+
+  cardEl.querySelectorAll("button").forEach(b => b.disabled = true);
+  toast("저장 중…");
+  try {
+    await pushQueue(`검수: ${newStatus} — ${fields.title || it.id}`);
+    toast(`완료: ${newStatus}`);
+    render();
+  } catch (e) {
+    toast(`실패: ${e.message}`, 4000);
+    cardEl.querySelectorAll("button").forEach(b => b.disabled = false);
+  }
+}
+
+async function pushQueue(commitMsg) {
+  const pat = getPAT();
+  // 항상 최신 SHA를 재확보 (다른 변경 있을 수 있음)
+  const getR = await fetch(API_URL, { headers: { Authorization: `Bearer ${pat}`, "X-GitHub-Api-Version": "2022-11-28" }});
+  if (!getR.ok) throw new Error(`SHA 가져오기 실패: ${getR.status}`);
+  const head = await getR.json();
+  fileSha = head.sha;
+
+  queue.generated_at = new Date().toISOString().replace(/\.\d+Z$/, "Z");
+  const content = btoa(unescape(encodeURIComponent(JSON.stringify(queue, null, 2))));
+  const putR = await fetch(API_URL, {
+    method: "PUT",
+    headers: { Authorization: `Bearer ${pat}`, "X-GitHub-Api-Version": "2022-11-28",
+               "Content-Type": "application/json" },
+    body: JSON.stringify({ message: commitMsg, content, sha: fileSha, branch: "main" }),
+  });
+  if (!putR.ok) throw new Error(`PUT ${putR.status}: ${(await putR.text()).slice(0, 200)}`);
+}
+
+// ============== 필터 탭 ==============
+["pending", "approved", "rejected", "all"].forEach(k => {
+  document.getElementById(`filter-${k}`).onclick = () => {
+    filterMode = k;
+    document.querySelectorAll(".filter-tabs button").forEach(b => b.classList.remove("active"));
+    document.getElementById(`filter-${k}`).classList.add("active");
+    render();
+  };
+});
+
+document.getElementById("btn-reload").onclick = loadQueue;
+
+// ============== 시작 ==============
+updatePatStatus();
+loadQueue();
+</script>
+</body>
+</html>
