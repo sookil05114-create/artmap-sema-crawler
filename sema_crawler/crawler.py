@@ -1,22 +1,11 @@
 """
-SeMA(서울시립미술관) 전시 크롤러 — v2.1 (네트워크 견고성 강화)
+SeMA(서울시립미술관) 전시 크롤러 — v2.2
 
-수정 사항 (v2.0 → v2.1):
-- User-Agent를 실제 Chrome 브라우저처럼 변경 (봇 차단 회피)
-- Accept-Encoding, Accept 헤더 보강
-- prime_session — 메인 페이지 먼저 GET해서 쿠키·세션 확보
-- 연결 실패 시 자동 재시도 (5초 → 15초 → 30초 → 60초 백오프)
-- TIMEOUT 20초 → 45초
-- 페이지에서 0건이어도 영구 실패가 아니라 다음 페이지 계속 시도
-
-출력 (v2.0과 동일):
-    data/exhibitions_YYYY-MM-DD.csv
-    data/exhibitions_YYYY-MM-DD.json
-    data/exhibitions_latest.csv
-    data/exhibitions_latest.json
-    data/venues_with_exhibitions_latest.json
+v2.1 → v2.2 변경:
+- venue_raw에서 괄호 안 주소 자동 제거
+  예: "충무아트센터 갤러리(서울 중구 퇴계로 287)" → "충무아트센터 갤러리"
+  서울/경기/인천 등 시·도로 시작하거나, 끝에 "(...주소...)" 패턴 감지
 """
-
 from __future__ import annotations
 
 import argparse
@@ -37,7 +26,6 @@ from bs4 import BeautifulSoup
 
 BASE = "https://sema.seoul.go.kr"
 LIST_PATH = "/kr/whatson/landing"
-# ★ 실제 Chrome 브라우저 흉내 (봇 차단 회피)
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
       "AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/121.0.0.0 Safari/537.36")
@@ -45,6 +33,25 @@ SLEEP_SECONDS = 4.0
 TIMEOUT = 45
 MAX_RETRIES = 4
 BACKOFF = [5, 15, 30, 60]
+
+# venue 표기에서 주소 괄호 제거용 정규식
+# 예: "충무아트센터 갤러리(서울 중구 퇴계로 287)" → "충무아트센터 갤러리"
+ADDR_PAREN_RE = re.compile(
+    r"\s*\(\s*(?:서울|경기|인천|부산|대구|광주|대전|울산|세종|강원|충북|충남|전북|전남|경북|경남|제주)\s[^)]*\)\s*$"
+)
+# 좀 더 일반화: 괄호 안에 "로 N", "길 N", "동" 같은 주소 단위가 있으면 제거
+ADDR_PAREN_GENERIC_RE = re.compile(
+    r"\s*\([^)]*(?:로\s*\d|길\s*\d|동\s*\d|번지|읍|면\s*\d)[^)]*\)\s*$"
+)
+
+
+def clean_venue_name(raw: str) -> str:
+    """venue_raw에서 주소 부분을 떼어 공간명만 남김."""
+    if not raw:
+        return raw
+    s = ADDR_PAREN_RE.sub("", raw)
+    s = ADDR_PAREN_GENERIC_RE.sub("", s)
+    return s.strip()
 
 
 @dataclass
@@ -127,7 +134,6 @@ def retry_request(fn, label: str):
 
 
 def prime_session(sess: requests.Session) -> None:
-    """진짜 브라우저처럼 보이도록 메인 페이지를 먼저 GET — 쿠키·세션 확보."""
     def call():
         r = sess.get(f"{BASE}/", timeout=TIMEOUT)
         r.raise_for_status()
@@ -184,6 +190,9 @@ def parse_list_page(html: str) -> list[dict]:
             parts = re.split(r"[,\n]", after, maxsplit=2)
             if len(parts) >= 2:
                 venue = parts[1].strip()
+        # ★ 주소 괄호 제거
+        venue = clean_venue_name(venue)
+
         if isinstance(m, re.Match) and m.re is DATE_RANGE_RE:
             start = parse_date(m.group(1), m.group(2), m.group(3))
             end = parse_date(m.group(4), m.group(5), m.group(6))
@@ -245,7 +254,6 @@ def collect(when_types: Iterable[str], venues_path: Path) -> list[Exhibition]:
                 break
             cards = parse_list_page(html)
             if not cards:
-                # 빈 페이지는 정상적인 종료 신호
                 break
             added = 0
             for c in cards:
@@ -260,7 +268,7 @@ def collect(when_types: Iterable[str], venues_path: Path) -> list[Exhibition]:
                     title=c["title"], artists="",
                     venue_raw=c["venue_raw"],
                     venue_key=v.get("venue_key", "unknown"),
-                    venue_name=v.get("venue_name", c["venue_raw"]),
+                    venue_name=v.get("venue_name", c["venue_raw"]),  # 주소 이미 떼어진 값
                     region=v.get("region", "seoul"),
                     address=v.get("address", ""),
                     lat=v.get("lat"), lng=v.get("lng"),
@@ -367,7 +375,6 @@ def main() -> int:
         exhibitions = collect(when_types, Path(args.venues))
     except Exception as e:
         print(f"\n[SeMA] 수집 실패: {e}", file=sys.stderr)
-        # 이전 데이터를 0건으로 덮어쓰지 않도록 종료 (실패 신호)
         return 1
     save(exhibitions, venues_meta, Path(args.outdir), date.today().isoformat())
 
