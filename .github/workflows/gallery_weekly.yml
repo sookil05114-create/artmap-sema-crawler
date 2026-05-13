@@ -1,0 +1,53 @@
+name: 을지로 갤러리 자동 수집 (매주)
+
+on:
+  schedule:
+    # 매주 월요일 한국시간 새벽 6시 (UTC 일요일 21시)
+    - cron: "0 21 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gallery_crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r submissions/requirements.txt
+
+      - name: Run gallery crawler (을지로 26곳)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python gallery_crawler/crawler.py
+
+      - name: Commit pending queue updates (with retry)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add submissions/data/
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git commit -m "갤러리 자동 수집 — 검수 큐 업데이트 ($(date -u +%Y-%m-%d))"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "push 성공 (시도 $i)"
+              exit 0
+            fi
+            echo "push 거부 — pull --rebase 후 재시도 ($i/5)"
+            sleep 5
+            git pull --rebase --autostash || true
+          done
+          exit 1
