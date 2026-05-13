@@ -36,14 +36,25 @@ jobs:
       - name: Merge all sources
         run: python merger/merge.py
 
-      - name: Commit data
+      - name: Commit data (with retry on conflict)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add sema_crawler/data/ mmca_crawler/data/ merger/data/
           if git diff --staged --quiet; then
             echo "변경 없음 — 커밋 생략"
-          else
-            git commit -m "전시·교육 데이터 자동 업데이트 ($(date -u +%Y-%m-%d))"
-            git push
+            exit 0
           fi
+          git commit -m "전시·교육 데이터 자동 업데이트 ($(date -u +%Y-%m-%d))"
+          # 다른 작업과의 push 경합 처리 — 충돌 시 rebase 후 재시도 (최대 5회)
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "push 성공 (시도 $i)"
+              exit 0
+            fi
+            echo "push 거부 — pull --rebase 후 재시도 ($i/5)"
+            sleep 5
+            git pull --rebase --autostash || true
+          done
+          echo "5회 시도 모두 실패"
+          exit 1
