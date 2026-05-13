@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:05:31Z",
+  "generated_at": "2026-05-13T23:40:27Z",
   "sources": [
     "sema",
     "mmca",
@@ -63,20 +63,9 @@
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
       "category": "",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "1b568dc5dc5c",
-          "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
-          "artists": "",
-          "start_date": "2025-09-02",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "bd8a5f6ebb44",
           "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
@@ -407,7 +396,7 @@
     },
     {
       "venue_key": "unknown",
-      "venue_name": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
+      "venue_name": "충무아트센터 갤러리",
       "region": "seoul",
       "address": "",
       "lat": null,
@@ -418,7 +407,7 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
-          "id": "56a32968a140",
+          "id": "fc01a56a2c8f",
           "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
           "artists": "",
           "start_date": "2026-04-15",

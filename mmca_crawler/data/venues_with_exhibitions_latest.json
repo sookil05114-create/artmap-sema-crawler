@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:05:23Z",
+  "generated_at": "2026-05-13T23:40:19Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -237,7 +237,7 @@
           "end_date": "2026-09-27",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=1",
           "price": "과천 전시관람권 3,000원"
         },
         {
