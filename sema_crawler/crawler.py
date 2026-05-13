@@ -4,7 +4,6 @@ SeMA(서울시립미술관) 전시 크롤러 — v2.2
 v2.1 → v2.2 변경:
 - venue_raw에서 괄호 안 주소 자동 제거
   예: "충무아트센터 갤러리(서울 중구 퇴계로 287)" → "충무아트센터 갤러리"
-  서울/경기/인천 등 시·도로 시작하거나, 끝에 "(...주소...)" 패턴 감지
 """
 from __future__ import annotations
 
@@ -34,19 +33,15 @@ TIMEOUT = 45
 MAX_RETRIES = 4
 BACKOFF = [5, 15, 30, 60]
 
-# venue 표기에서 주소 괄호 제거용 정규식
-# 예: "충무아트센터 갤러리(서울 중구 퇴계로 287)" → "충무아트센터 갤러리"
 ADDR_PAREN_RE = re.compile(
     r"\s*\(\s*(?:서울|경기|인천|부산|대구|광주|대전|울산|세종|강원|충북|충남|전북|전남|경북|경남|제주)\s[^)]*\)\s*$"
 )
-# 좀 더 일반화: 괄호 안에 "로 N", "길 N", "동" 같은 주소 단위가 있으면 제거
 ADDR_PAREN_GENERIC_RE = re.compile(
     r"\s*\([^)]*(?:로\s*\d|길\s*\d|동\s*\d|번지|읍|면\s*\d)[^)]*\)\s*$"
 )
 
 
 def clean_venue_name(raw: str) -> str:
-    """venue_raw에서 주소 부분을 떼어 공간명만 남김."""
     if not raw:
         return raw
     s = ADDR_PAREN_RE.sub("", raw)
@@ -190,7 +185,6 @@ def parse_list_page(html: str) -> list[dict]:
             parts = re.split(r"[,\n]", after, maxsplit=2)
             if len(parts) >= 2:
                 venue = parts[1].strip()
-        # ★ 주소 괄호 제거
         venue = clean_venue_name(venue)
 
         if isinstance(m, re.Match) and m.re is DATE_RANGE_RE:
@@ -268,7 +262,7 @@ def collect(when_types: Iterable[str], venues_path: Path) -> list[Exhibition]:
                     title=c["title"], artists="",
                     venue_raw=c["venue_raw"],
                     venue_key=v.get("venue_key", "unknown"),
-                    venue_name=v.get("venue_name", c["venue_raw"]),  # 주소 이미 떼어진 값
+                    venue_name=v.get("venue_name", c["venue_raw"]),
                     region=v.get("region", "seoul"),
                     address=v.get("address", ""),
                     lat=v.get("lat"), lng=v.get("lng"),
