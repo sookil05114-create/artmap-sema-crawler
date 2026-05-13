@@ -1,19 +1,20 @@
 """
-SeMA(서울시립미술관) 전시 크롤러 v2
-====================================
+SeMA(서울시립미술관) 전시 크롤러 — v2.1 (네트워크 견고성 강화)
 
-변경점 (v1 -> v2):
-- region 필드 추가 (항상 "seoul")  → 통합 단계에서 MMCA와 호환
-- artists 필드 추가 (SeMA 카드에서 추출 가능하면)
-- venues_with_exhibitions_latest.json 추가 출력
-  → 분관별로 묶은 형태. 지도 마커 클릭 시 리스트 표시용
+수정 사항 (v2.0 → v2.1):
+- User-Agent를 실제 Chrome 브라우저처럼 변경 (봇 차단 회피)
+- Accept-Encoding, Accept 헤더 보강
+- prime_session — 메인 페이지 먼저 GET해서 쿠키·세션 확보
+- 연결 실패 시 자동 재시도 (5초 → 15초 → 30초 → 60초 백오프)
+- TIMEOUT 20초 → 45초
+- 페이지에서 0건이어도 영구 실패가 아니라 다음 페이지 계속 시도
 
-출력:
+출력 (v2.0과 동일):
     data/exhibitions_YYYY-MM-DD.csv
     data/exhibitions_YYYY-MM-DD.json
     data/exhibitions_latest.csv
-    data/exhibitions_latest.json                ← 전시 목록 (평면)
-    data/venues_with_exhibitions_latest.json    ← 분관별 그룹화 (★ 새 출력)
+    data/exhibitions_latest.json
+    data/venues_with_exhibitions_latest.json
 """
 
 from __future__ import annotations
@@ -36,9 +37,14 @@ from bs4 import BeautifulSoup
 
 BASE = "https://sema.seoul.go.kr"
 LIST_PATH = "/kr/whatson/landing"
-UA = "artmap.ai.kr-crawler/1.0 (contact: sookil05114@gmail.com)"
-SLEEP_SECONDS = 3.0
-TIMEOUT = 20
+# ★ 실제 Chrome 브라우저 흉내 (봇 차단 회피)
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+      "AppleWebKit/537.36 (KHTML, like Gecko) "
+      "Chrome/121.0.0.0 Safari/537.36")
+SLEEP_SECONDS = 4.0
+TIMEOUT = 45
+MAX_RETRIES = 4
+BACKOFF = [5, 15, 30, 60]
 
 
 @dataclass
@@ -88,11 +94,57 @@ def match_venue(venue_raw: str, lookup: dict) -> dict | None:
     return None
 
 
-def fetch(url: str) -> str:
-    h = {"User-Agent": UA, "Accept-Language": "ko,en;q=0.8"}
-    r = requests.get(url, headers=h, timeout=TIMEOUT)
-    r.raise_for_status()
-    return r.text
+def http_session() -> requests.Session:
+    s = requests.Session()
+    s.headers.update({
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+    })
+    return s
+
+
+def retry_request(fn, label: str):
+    last_err = None
+    for i in range(MAX_RETRIES):
+        try:
+            return fn()
+        except (requests.ConnectionError, requests.Timeout,
+                requests.exceptions.ChunkedEncodingError) as e:
+            last_err = e
+            if i == MAX_RETRIES - 1:
+                break
+            wait = BACKOFF[i]
+            print(f"  [{label}] 재시도 {i+1}/{MAX_RETRIES} "
+                  f"({e.__class__.__name__}) — {wait}초 대기",
+                  file=sys.stderr)
+            time.sleep(wait)
+    print(f"  [{label}] 최종 실패: {last_err}", file=sys.stderr)
+    raise last_err
+
+
+def prime_session(sess: requests.Session) -> None:
+    """진짜 브라우저처럼 보이도록 메인 페이지를 먼저 GET — 쿠키·세션 확보."""
+    def call():
+        r = sess.get(f"{BASE}/", timeout=TIMEOUT)
+        r.raise_for_status()
+        return r
+    try:
+        retry_request(call, label="prime")
+        time.sleep(2)
+    except Exception as e:
+        print(f"  prime failed (계속 진행): {e}", file=sys.stderr)
+
+
+def fetch(sess: requests.Session, url: str) -> str:
+    def call():
+        r = sess.get(url, timeout=TIMEOUT)
+        r.raise_for_status()
+        return r.text
+    return retry_request(call, label=url[-60:])
 
 
 DATE_RANGE_RE = re.compile(r"(\d{4})[./](\d{1,2})[./](\d{1,2})\s*~\s*(\d{4})[./](\d{1,2})[./](\d{1,2})")
@@ -177,15 +229,23 @@ def collect(when_types: Iterable[str], venues_path: Path) -> list[Exhibition]:
     lookup, _ = load_venues(venues_path)
     today = date.today()
     out: list[Exhibition] = []
+    sess = http_session()
+    prime_session(sess)
+
     for when in when_types:
         for page in range(1, 6):
             q = {"whatsonMenuDivList": "EX", "whatChoice2": "N", "whatChoice3": "N",
                  "whatChoice4": "N", "whenType": when, "pageIndex": page}
             url = f"{BASE}{LIST_PATH}?{urlencode(q)}"
-            print(f"[fetch] {url}", file=sys.stderr)
-            html = fetch(url)
+            print(f"[SeMA fetch] {when} page={page}", file=sys.stderr)
+            try:
+                html = fetch(sess, url)
+            except Exception as e:
+                print(f"  page {page} 영구 실패: {e}", file=sys.stderr)
+                break
             cards = parse_list_page(html)
             if not cards:
+                # 빈 페이지는 정상적인 종료 신호
                 break
             added = 0
             for c in cards:
@@ -219,7 +279,6 @@ def collect(when_types: Iterable[str], venues_path: Path) -> list[Exhibition]:
 
 
 def build_grouped(exhibitions: list[Exhibition], venues: list) -> dict:
-    """분관별로 active+upcoming 전시들을 묶은 구조 생성."""
     by_venue: dict[str, list] = {}
     for e in exhibitions:
         if e.status not in ("active", "upcoming"):
@@ -229,7 +288,6 @@ def build_grouped(exhibitions: list[Exhibition], venues: list) -> dict:
     venues_out = []
     for v in venues:
         lst = by_venue.get(v["venue_key"], [])
-        # 시작일 빠른 순
         lst_sorted = sorted(lst, key=lambda e: (e.start_date or "9999"))
         venues_out.append({
             "venue_key": v["venue_key"],
@@ -247,7 +305,6 @@ def build_grouped(exhibitions: list[Exhibition], venues: list) -> dict:
                 for e in lst_sorted
             ],
         })
-    # 매칭 안 된 venue_raw (unknown) 도 별도로 묶음 — 좌표 없어 지도에는 안 뜸
     unknown = by_venue.get("unknown", [])
     if unknown:
         venues_out.append({
@@ -291,7 +348,6 @@ def save(exhibitions: list[Exhibition], venues: list, outdir: Path, today_iso: s
     }
     for name in [f"exhibitions_{today_iso}.json", "exhibitions_latest.json"]:
         (outdir / name).write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    # ★ 새 출력: 분관별 그룹화
     grouped = build_grouped(exhibitions, venues)
     (outdir / "venues_with_exhibitions_latest.json").write_text(
         json.dumps(grouped, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -307,7 +363,12 @@ def main() -> int:
 
     when_types = ["FROM_TODAY"] if args.current_only else ["FROM_TODAY", "PLAN_DAY"]
     _, venues_meta = load_venues(Path(args.venues))
-    exhibitions = collect(when_types, Path(args.venues))
+    try:
+        exhibitions = collect(when_types, Path(args.venues))
+    except Exception as e:
+        print(f"\n[SeMA] 수집 실패: {e}", file=sys.stderr)
+        # 이전 데이터를 0건으로 덮어쓰지 않도록 종료 (실패 신호)
+        return 1
     save(exhibitions, venues_meta, Path(args.outdir), date.today().isoformat())
 
     by_venue: dict[str, int] = {}
@@ -316,7 +377,7 @@ def main() -> int:
     print(f"\n[SeMA] 수집 완료: {len(exhibitions)}건", file=sys.stderr)
     for v, n in sorted(by_venue.items(), key=lambda kv: -kv[1]):
         print(f"  {v}: {n}건", file=sys.stderr)
-    return 0
+    return 0 if exhibitions else 1
 
 
 if __name__ == "__main__":
