@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-12T23:40:28Z",
+  "generated_at": "2026-05-13T05:50:51Z",
   "sources": [
     "sema",
     "mmca"
   ],
-  "count": 22,
+  "count": 36,
   "exhibitions": [
     {
       "id": "b829843ff1be",
@@ -24,7 +24,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202012030001338&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2021/07/2021072711383216619535.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "6c442c37d7a8",
@@ -44,7 +44,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001886&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/04/2025041405075562519096.jpg",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "dd247df805d8",
@@ -64,7 +64,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202507100001975&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/07/2025071003423383917280.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "e748ba205719",
@@ -84,7 +84,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508060001987&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/08/2025080610534430517778.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
+    },
+    {
+      "id": "1b568dc5dc5c",
+      "source": "sema",
+      "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2025-09-02",
+      "end_date": "2026-05-31",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
     },
     {
       "id": "3b1d3f599806",
@@ -104,7 +124,67 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508210001995&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/09/2025090801003815116883.gif",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
+    },
+    {
+      "id": "06934f057ce3",
+      "source": "sema",
+      "title": "SeMA 프로젝트V_얄루",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "start_date": "2026-03-12",
+      "end_date": "2026-07-26",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
+    },
+    {
+      "id": "dd23cadf6549",
+      "source": "sema",
+      "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "start_date": "2026-03-12",
+      "end_date": "2026-07-12",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
+    },
+    {
+      "id": "6ba058729ef0",
+      "source": "sema",
+      "title": "포토 디스커버리 프로젝트 《사진집》",
+      "artists": "",
+      "venue_raw": "서울시립 사진미술관",
+      "venue_key": "photosema",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.6612,
+      "lng": 127.0432,
+      "start_date": "2026-03-18",
+      "end_date": "2026-06-14",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
     },
     {
       "id": "4b0293f16d8e",
@@ -124,7 +204,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
+    },
+    {
+      "id": "d9fcc33b96b0",
+      "source": "sema",
+      "title": "알렉사에게",
+      "artists": "",
+      "venue_raw": "서울시립 미술아카이브",
+      "venue_key": "art_archive",
+      "venue_name": "서울시립 미술아카이브",
+      "region": "seoul",
+      "address": "서울 종로구 평창문화로 101",
+      "lat": 37.6097,
+      "lng": 126.9742,
+      "start_date": "2026-03-26",
+      "end_date": "2026-07-26",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
     },
     {
       "id": "1839cc2fef5a",
@@ -144,7 +244,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002025&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026033009492612313790.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
     },
     {
       "id": "e29350c595df",
@@ -164,7 +264,87 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
+    },
+    {
+      "id": "bd8a5f6ebb44",
+      "source": "sema",
+      "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-04-02",
+      "end_date": "2027-05-30",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
+    },
+    {
+      "id": "a2ce75e6ada3",
+      "source": "sema",
+      "title": "2026 서울사진축제 《컴백홈》",
+      "artists": "",
+      "venue_raw": "서울시립 사진미술관",
+      "venue_key": "photosema",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.6612,
+      "lng": 127.0432,
+      "start_date": "2026-04-09",
+      "end_date": "2026-06-14",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
+    },
+    {
+      "id": "56a32968a140",
+      "source": "sema",
+      "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
+      "artists": "",
+      "venue_raw": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
+      "venue_key": "unknown",
+      "venue_name": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-04-15",
+      "end_date": "2026-05-17",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
+    },
+    {
+      "id": "aebb8561f013",
+      "source": "sema",
+      "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+      "artists": "",
+      "venue_raw": "서울시립미술관 서소문본관",
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "start_date": "2026-04-16",
+      "end_date": "2026-11-22",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
     },
     {
       "id": "bf130acf18c8",
@@ -184,7 +364,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
     },
     {
       "id": "3bbfebcbd371",
@@ -204,7 +384,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001885&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042010563457812371.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
     },
     {
       "id": "a580710ab31c",
@@ -224,7 +404,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001884&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/202604201055291871388.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
+    },
+    {
+      "id": "c657aa61a28e",
+      "source": "sema",
+      "title": "《글짓, 쓰는 예술》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-04-23",
+      "end_date": "2026-07-12",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
     },
     {
       "id": "dd94e31ec15e",
@@ -244,7 +444,47 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002022&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026031704552119711784.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
+    },
+    {
+      "id": "ca1723230151",
+      "source": "sema",
+      "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "start_date": "2026-04-28",
+      "end_date": "2026-07-12",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
+    },
+    {
+      "id": "d340ac7a2efe",
+      "source": "sema",
+      "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+      "artists": "",
+      "venue_raw": "서울시립미술관 서소문본관",
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "start_date": "2026-04-30",
+      "end_date": "2026-09-06",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
+      "status": "active",
+      "collected_at": "2026-05-13T05:50:07Z"
     },
     {
       "id": "1fe18767dc6b",
@@ -264,7 +504,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
       "status": "active",
-      "collected_at": "2026-05-12T23:40:10Z"
+      "collected_at": "2026-05-13T05:50:28Z"
+    },
+    {
+      "id": "a9a7e67786af",
+      "source": "sema",
+      "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "start_date": "2026-05-14",
+      "end_date": "2026-07-26",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+      "status": "upcoming",
+      "collected_at": "2026-05-13T05:50:12Z"
     },
     {
       "id": "8dbbbdd0486d",
@@ -284,7 +544,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
+    },
+    {
+      "id": "5fdda35e076a",
+      "source": "sema",
+      "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+      "artists": "",
+      "venue_raw": "서울시립미술관 서소문본관",
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "start_date": "2026-05-19",
+      "end_date": "2026-10-25",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
+      "status": "upcoming",
+      "collected_at": "2026-05-13T05:50:12Z"
     },
     {
       "id": "a6ec77ae545e",
@@ -304,7 +584,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012105052518619667.jpg",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "513e8e6a1473",
@@ -324,7 +604,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002026&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010610504597216426.png",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "51659f018a70",
@@ -344,7 +624,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010210464870616917.png",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "580fded5c044",
@@ -364,7 +644,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012004105783217595.png",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "576a1c954144",
@@ -384,7 +664,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "e6f107b3043a",
@@ -404,7 +684,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "a1a64de63d62",
@@ -424,7 +704,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:15Z"
+      "collected_at": "2026-05-13T05:50:33Z"
     },
     {
       "id": "37c00224b438",
@@ -444,7 +724,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
       "status": "upcoming",
-      "collected_at": "2026-05-12T23:40:19Z"
+      "collected_at": "2026-05-13T05:50:37Z"
     }
   ]
 }

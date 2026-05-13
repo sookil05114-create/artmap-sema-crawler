@@ -1,11 +1,230 @@
 {
-  "generated_at": "2026-05-12T23:40:28Z",
+  "generated_at": "2026-05-13T05:50:51Z",
   "sources": [
     "sema",
     "mmca"
   ],
-  "venue_count": 5,
+  "venue_count": 11,
   "venues": [
+    {
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
+      "active_count": 2,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "aebb8561f013",
+          "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+          "start_date": "2026-04-16",
+          "end_date": "2026-11-22",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "d340ac7a2efe",
+          "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+          "start_date": "2026-04-30",
+          "end_date": "2026-09-06",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "5fdda35e076a",
+          "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+          "start_date": "2026-05-19",
+          "end_date": "2026-10-25",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
+      "active_count": 3,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "1b568dc5dc5c",
+          "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
+          "start_date": "2025-09-02",
+          "end_date": "2026-05-31",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "bd8a5f6ebb44",
+          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "start_date": "2026-04-02",
+          "end_date": "2027-05-30",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "c657aa61a28e",
+          "title": "《글짓, 쓰는 예술》",
+          "start_date": "2026-04-23",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
+      "active_count": 3,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "06934f057ce3",
+          "title": "SeMA 프로젝트V_얄루",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "dd23cadf6549",
+          "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "ca1723230151",
+          "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
+          "start_date": "2026-04-28",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "a9a7e67786af",
+          "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+          "start_date": "2026-05-14",
+          "end_date": "2026-07-26",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "photosema",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.6612,
+      "lng": 127.0432,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
+      "active_count": 2,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "6ba058729ef0",
+          "title": "포토 디스커버리 프로젝트 《사진집》",
+          "start_date": "2026-03-18",
+          "end_date": "2026-06-14",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "a2ce75e6ada3",
+          "title": "2026 서울사진축제 《컴백홈》",
+          "start_date": "2026-04-09",
+          "end_date": "2026-06-14",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "art_archive",
+      "venue_name": "서울시립 미술아카이브",
+      "region": "seoul",
+      "address": "서울 종로구 평창문화로 101",
+      "lat": 37.6097,
+      "lng": 126.9742,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/art_archive",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "d9fcc33b96b0",
+          "title": "알렉사에게",
+          "start_date": "2026-03-26",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "unknown",
+      "venue_name": "기타·외부 협력",
+      "region": "unknown",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "56a32968a140",
+          "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
+          "venue_raw": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
+          "start_date": "2026-04-15",
+          "end_date": "2026-05-17",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
     {
       "venue_key": "mmca_seoul",
       "venue_name": "국립현대미술관 서울",
