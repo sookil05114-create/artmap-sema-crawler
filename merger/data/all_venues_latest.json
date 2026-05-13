@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-05-13T05:50:51Z",
+  "generated_at": "2026-05-13T09:53:31Z",
   "sources": [
     "sema",
-    "mmca"
+    "mmca",
+    "submissions"
   ],
-  "venue_count": 11,
+  "venue_count": 12,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -14,12 +15,14 @@
       "lat": 37.5641,
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
+      "category": "",
       "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "aebb8561f013",
           "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+          "artists": "",
           "start_date": "2026-04-16",
           "end_date": "2026-11-22",
           "status": "active",
@@ -30,6 +33,7 @@
         {
           "id": "d340ac7a2efe",
           "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+          "artists": "",
           "start_date": "2026-04-30",
           "end_date": "2026-09-06",
           "status": "active",
@@ -40,6 +44,7 @@
         {
           "id": "5fdda35e076a",
           "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+          "artists": "",
           "start_date": "2026-05-19",
           "end_date": "2026-10-25",
           "status": "upcoming",
@@ -57,12 +62,14 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
+      "category": "",
       "active_count": 3,
       "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "1b568dc5dc5c",
           "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
+          "artists": "",
           "start_date": "2025-09-02",
           "end_date": "2026-05-31",
           "status": "active",
@@ -73,6 +80,7 @@
         {
           "id": "bd8a5f6ebb44",
           "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "artists": "",
           "start_date": "2026-04-02",
           "end_date": "2027-05-30",
           "status": "active",
@@ -83,6 +91,7 @@
         {
           "id": "c657aa61a28e",
           "title": "《글짓, 쓰는 예술》",
+          "artists": "",
           "start_date": "2026-04-23",
           "end_date": "2026-07-12",
           "status": "active",
@@ -100,12 +109,14 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
+      "category": "",
       "active_count": 3,
       "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "06934f057ce3",
           "title": "SeMA 프로젝트V_얄루",
+          "artists": "",
           "start_date": "2026-03-12",
           "end_date": "2026-07-26",
           "status": "active",
@@ -116,6 +127,7 @@
         {
           "id": "dd23cadf6549",
           "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
+          "artists": "",
           "start_date": "2026-03-12",
           "end_date": "2026-07-12",
           "status": "active",
@@ -126,6 +138,7 @@
         {
           "id": "ca1723230151",
           "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
+          "artists": "",
           "start_date": "2026-04-28",
           "end_date": "2026-07-12",
           "status": "active",
@@ -136,6 +149,7 @@
         {
           "id": "a9a7e67786af",
           "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+          "artists": "",
           "start_date": "2026-05-14",
           "end_date": "2026-07-26",
           "status": "upcoming",
@@ -153,12 +167,14 @@
       "lat": 37.6612,
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
+      "category": "",
       "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "6ba058729ef0",
           "title": "포토 디스커버리 프로젝트 《사진집》",
+          "artists": "",
           "start_date": "2026-03-18",
           "end_date": "2026-06-14",
           "status": "active",
@@ -169,6 +185,7 @@
         {
           "id": "a2ce75e6ada3",
           "title": "2026 서울사진축제 《컴백홈》",
+          "artists": "",
           "start_date": "2026-04-09",
           "end_date": "2026-06-14",
           "status": "active",
@@ -186,40 +203,18 @@
       "lat": 37.6097,
       "lng": 126.9742,
       "official_url": "https://sema.seoul.go.kr/kr/visit/art_archive",
+      "category": "",
       "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "d9fcc33b96b0",
           "title": "알렉사에게",
+          "artists": "",
           "start_date": "2026-03-26",
           "end_date": "2026-07-26",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
-          "url": "",
-          "price": "무료"
-        }
-      ]
-    },
-    {
-      "venue_key": "unknown",
-      "venue_name": "기타·외부 협력",
-      "region": "unknown",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "official_url": "",
-      "active_count": 1,
-      "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "56a32968a140",
-          "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
-          "venue_raw": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
-          "start_date": "2026-04-15",
-          "end_date": "2026-05-17",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
           "url": "",
           "price": "무료"
         }
@@ -233,6 +228,7 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
+      "category": "",
       "active_count": 5,
       "upcoming_count": 5,
       "exhibitions": [
@@ -356,6 +352,7 @@
       "lat": 37.5658,
       "lng": 126.9744,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001029",
+      "category": "",
       "active_count": 0,
       "upcoming_count": 2,
       "exhibitions": [
@@ -391,6 +388,7 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
+      "category": "",
       "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
@@ -415,6 +413,7 @@
       "lat": 37.431,
       "lng": 127.0186,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001030",
+      "category": "",
       "active_count": 3,
       "upcoming_count": 2,
       "exhibitions": [
@@ -483,6 +482,7 @@
       "lat": 36.6394,
       "lng": 127.4944,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001031",
+      "category": "",
       "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
@@ -529,6 +529,56 @@
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026031704552119711784.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002022&exhFlag=1",
           "price": "2,000원"
+        }
+      ]
+    },
+    {
+      "venue_key": "unknown",
+      "venue_name": "충무아트센터 갤러리(서울 중구 퇴계로 287)",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "56a32968a140",
+          "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
+          "artists": "",
+          "start_date": "2026-04-15",
+          "end_date": "2026-05-17",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
+          "url": "",
+          "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "unknown_submission",
+      "venue_name": "PS CENTER",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "587b5d3c97f2",
+          "title": "My Own Rules (내가 만든 규칙)",
+          "artists": "Sukho Kang, Dahoon Nam, Changbeom Heo",
+          "start_date": "2026-05-16",
+          "end_date": "2026-06-06",
+          "status": "upcoming",
+          "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F",
+          "url": "https://www.instagram.com/p/DX8J51phDTL/",
+          "price": ""
         }
       ]
     }
