@@ -1,5 +1,27 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "",
-  "items": []
+  "generated_at": "2026-05-13T09:18:29Z",
+  "items": [
+    {
+      "id": "c73b1a906fd8",
+      "source": "submission",
+      "submitted_at": "2026-05-13T09:18:28Z",
+      "submitted_by": "test",
+      "submitter_note": "",
+      "source_url": "https://www.instagram.com/alternativespaceloop/",
+      "og_title": "대안공간 루프 ALT SPACE LOOP(@alternativespaceloop) • Instagram 사진 및 동영상",
+      "og_image": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/31888501_1946344045389918_4149430847411322880_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=rDQamOopqdkQ7kNvwEYKutZ&_nc_oc=AdpNZ9aDfyW85px-Q6lCnWQsuZQYvLyDFf9t9uhqhqQMoV_xXjAuxQkbSTMX7feL24s&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b60f&oh=00_Af5DRix2HixO7m_En0_vDJw1Av3tJ_EX2yZRqjaqMNDIEA&oe=6A0A1F0A",
+      "extracted": {
+        "is_exhibition": false
+      },
+      "status": "pending",
+      "venue_key": "",
+      "venue_name": "",
+      "title": "",
+      "artists": "",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/31888501_1946344045389918_4149430847411322880_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=rDQamOopqdkQ7kNvwEYKutZ&_nc_oc=AdpNZ9aDfyW85px-Q6lCnWQsuZQYvLyDFf9t9uhqhqQMoV_xXjAuxQkbSTMX7feL24s&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b60f&oh=00_Af5DRix2HixO7m_En0_vDJw1Av3tJ_EX2yZRqjaqMNDIEA&oe=6A0A1F0A"
+    }
+  ]
 }
