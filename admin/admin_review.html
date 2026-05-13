@@ -16,7 +16,7 @@
   header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 18px; gap: 16px; flex-wrap: wrap;}
   h1 { margin: 0; font-size: 20px; }
   .stats { color: var(--muted); font-size: 13px; }
-  .actions { display: flex; gap: 8px; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
   button { font: inherit; cursor: pointer; border: 1px solid var(--border); background: white; padding: 6px 12px;
            border-radius: 6px; }
   button:hover { background: #f3f4f6; }
@@ -27,7 +27,7 @@
   button:disabled { opacity: 0.4; cursor: not-allowed; }
   .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 16px; }
   .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px;
-          display: flex; flex-direction: column; gap: 8px; }
+          display: flex; flex-direction: column; gap: 8px; position: relative; }
   .card.approved { border-color: var(--ok); background: #f0fdf4; }
   .card.rejected { border-color: var(--bad); background: #fef2f2; opacity: 0.6; }
   .card img.thumb { width: 100%; height: 180px; object-fit: cover; border-radius: 6px; background: #eee; }
@@ -38,12 +38,18 @@
   }
   .card input.compact { padding: 4px 6px; font-size: 13px; }
   .badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 11px;
-           background: #f3f4f6; color: var(--muted); }
+           background: #f3f4f6; color: var(--muted); white-space: nowrap; }
   .badge.pending { background: #fef3c7; color: #92400e; }
   .badge.approved { background: #dcfce7; color: #166534; }
   .badge.rejected { background: #fee2e2; color: #991b1b; }
   .badge.conf { background: #ddd6fe; color: #5b21b6; }
-  .card .meta { font-size: 12px; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  /* 시간 상태 뱃지 */
+  .badge.time-active { background: #dbeafe; color: #1e40af; font-weight: 600; }
+  .badge.time-upcoming { background: #fed7aa; color: #9a3412; font-weight: 600; }
+  .badge.time-ended { background: #e5e7eb; color: #4b5563; }
+  .badge.time-permanent { background: #e0e7ff; color: #3730a3; }
+  .badge.time-unknown { background: #f3f4f6; color: var(--muted); }
+  .card .meta { font-size: 12px; color: var(--muted); display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
   .card .actions-row { display: flex; gap: 6px; margin-top: 8px; }
   .card .actions-row button { flex: 1; font-size: 13px; padding: 6px 8px; }
   .summary-empty { padding: 60px 0; text-align: center; color: var(--muted); }
@@ -56,8 +62,10 @@
   .modal .footer { display: flex; gap: 8px; justify-content: flex-end; margin-top: 16px; }
   pre.summary { font-size: 12px; background: #f9fafb; padding: 8px; border-radius: 4px;
                 white-space: pre-wrap; word-break: break-word; max-height: 80px; overflow-y: auto; margin: 0; }
-  .filter-tabs { display: flex; gap: 4px; }
+  .filter-tabs { display: flex; gap: 4px; flex-wrap: wrap; }
   .filter-tabs button.active { background: var(--text); color: white; border-color: var(--text); }
+  .filter-time { display: flex; gap: 4px; padding-left: 8px; border-left: 1px solid var(--border); }
+  .filter-time button.active { background: #1e40af; color: white; border-color: #1e40af; }
   details summary { cursor: pointer; font-size: 12px; color: var(--muted); }
   details[open] summary { margin-bottom: 6px; }
   .pat-status { font-size: 12px; padding: 4px 10px; border-radius: 4px; }
@@ -82,6 +90,11 @@
       <button id="filter-approved">승인 <span id="cnt-approved">0</span></button>
       <button id="filter-rejected">반려 <span id="cnt-rejected">0</span></button>
       <button id="filter-all">전체</button>
+    </div>
+    <div class="filter-time">
+      <button id="time-any" class="active">시간:전체</button>
+      <button id="time-active">진행중 <span id="cnt-time-active">0</span></button>
+      <button id="time-upcoming">예정 <span id="cnt-time-upcoming">0</span></button>
     </div>
     <span class="pat-status miss" id="pat-status">PAT 미등록</span>
     <button id="btn-pat">PAT 설정</button>
@@ -115,19 +128,17 @@
 <div id="toast" class="toast"></div>
 
 <script>
-// ============== 설정 ==============
 const OWNER = "sookil05114-create";
 const REPO = "artmap-sema-crawler";
 const PATH = "submissions/data/pending_queue.json";
 const RAW_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${PATH}`;
 const API_URL = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${PATH}`;
 
-// ============== 상태 ==============
 let queue = { items: [] };
-let fileSha = null;       // GitHub API의 파일 SHA (PUT 시 필요)
-let filterMode = "pending"; // pending / approved / rejected / all
+let fileSha = null;
+let filterMode = "pending";    // pending / approved / rejected / all
+let timeMode = "any";          // any / active / upcoming
 
-// ============== PAT ==============
 function getPAT() { return localStorage.getItem("artmap_pat") || ""; }
 function setPAT(t) { localStorage.setItem("artmap_pat", t); updatePatStatus(); }
 function updatePatStatus() {
@@ -139,16 +150,14 @@ document.getElementById("btn-pat").onclick = () => {
   document.getElementById("pat-input").value = getPAT();
   document.getElementById("modal-pat").style.display = "flex";
 };
-document.getElementById("pat-cancel").onclick = () => {
+document.getElementById("pat-cancel").onclick = () =>
   document.getElementById("modal-pat").style.display = "none";
-};
 document.getElementById("pat-save").onclick = () => {
   setPAT(document.getElementById("pat-input").value.trim());
   document.getElementById("modal-pat").style.display = "none";
   toast("PAT 저장됨");
 };
 
-// ============== 토스트 ==============
 function toast(msg, ms=2000) {
   const el = document.getElementById("toast");
   el.textContent = msg;
@@ -157,12 +166,25 @@ function toast(msg, ms=2000) {
   toast._t = setTimeout(() => el.classList.remove("show"), ms);
 }
 
-// ============== 큐 fetch ==============
+// ★ 시간 상태 계산
+function timeStatus(start, end) {
+  if (!start) return "unknown";
+  if (start === "permanent" || end === "permanent") return "permanent";
+  const today = new Date().toISOString().slice(0, 10);
+  const s = (start || "").slice(0, 10);
+  const e = (end || start || "").slice(0, 10);
+  if (today < s) return "upcoming";
+  if (today > e) return "ended";
+  return "active";
+}
+function timeLabel(ts) {
+  return { active:"진행중", upcoming:"예정", ended:"종료", permanent:"상시", unknown:"기간?" }[ts] || ts;
+}
+
 async function loadQueue() {
   document.getElementById("stats").textContent = "불러오는 중…";
   const pat = getPAT();
   try {
-    // PAT 있으면 API로 (SHA 함께 받음), 없으면 raw URL fallback
     if (pat) {
       const r = await fetch(API_URL, { headers: { Authorization: `Bearer ${pat}`, "X-GitHub-Api-Version": "2022-11-28" }});
       if (!r.ok) throw new Error(`API ${r.status}: ${await r.text()}`);
@@ -171,7 +193,6 @@ async function loadQueue() {
       const decoded = decodeURIComponent(escape(atob(j.content.replace(/\n/g, ""))));
       queue = JSON.parse(decoded);
     } else {
-      // raw — 캐시 무력화
       const r = await fetch(RAW_URL + `?t=${Date.now()}`);
       if (!r.ok) throw new Error(`raw ${r.status}`);
       queue = await r.json();
@@ -184,43 +205,52 @@ async function loadQueue() {
   }
 }
 
-// ============== 렌더 ==============
 function counts() {
-  const c = { pending: 0, approved: 0, rejected: 0, all: queue.items.length };
-  queue.items.forEach(it => { if (c[it.status] !== undefined) c[it.status]++; });
+  const c = { pending: 0, approved: 0, rejected: 0, all: queue.items.length, active: 0, upcoming: 0 };
+  queue.items.forEach(it => {
+    if (c[it.status] !== undefined) c[it.status]++;
+    const ts = timeStatus(it.start_date, it.end_date);
+    if (ts === "active") c.active++;
+    if (ts === "upcoming") c.upcoming++;
+  });
   return c;
 }
+
 function render() {
   const c = counts();
   document.getElementById("cnt-pending").textContent = c.pending;
   document.getElementById("cnt-approved").textContent = c.approved;
   document.getElementById("cnt-rejected").textContent = c.rejected;
+  document.getElementById("cnt-time-active").textContent = c.active;
+  document.getElementById("cnt-time-upcoming").textContent = c.upcoming;
   document.getElementById("stats").textContent =
-    `${queue.items.length}건 · 대기 ${c.pending} · 승인 ${c.approved} · 반려 ${c.rejected}` +
+    `${queue.items.length}건 · 대기 ${c.pending} · 승인 ${c.approved} · 반려 ${c.rejected} · 진행중 ${c.active} · 예정 ${c.upcoming}` +
     (queue.generated_at ? ` · ${queue.generated_at.slice(0,16).replace("T"," ")}` : "");
 
   const grid = document.getElementById("grid");
   grid.innerHTML = "";
-  const filtered = filterMode === "all" ? queue.items : queue.items.filter(it => it.status === filterMode);
+  let filtered = filterMode === "all" ? queue.items : queue.items.filter(it => it.status === filterMode);
+  if (timeMode !== "any") {
+    filtered = filtered.filter(it => timeStatus(it.start_date, it.end_date) === timeMode);
+  }
   if (!filtered.length) {
-    grid.innerHTML = `<div class="summary-empty">${filterMode === "pending" ? "검수 대기 중인 제보가 없습니다." : "표시할 항목 없음"}</div>`;
+    grid.innerHTML = `<div class="summary-empty">표시할 항목 없음</div>`;
     return;
   }
-  filtered.forEach((it, idx) => {
-    const realIdx = queue.items.indexOf(it);
-    const card = renderCard(it, realIdx);
-    grid.appendChild(card);
-  });
+  filtered.forEach(it => grid.appendChild(renderCard(it, queue.items.indexOf(it))));
 }
+
 function renderCard(it, idx) {
   const el = document.createElement("div");
   el.className = `card ${it.status}`;
   const conf = it.extracted?.confidence;
   const isExh = it.extracted?.is_exhibition !== false;
+  const ts = timeStatus(it.start_date, it.end_date);
   el.innerHTML = `
     ${it.thumbnail ? `<img class="thumb" src="${escapeHtml(it.thumbnail)}" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : ""}
     <div class="meta">
       <span class="badge ${it.status}">${it.status}</span>
+      <span class="badge time-${ts}">${timeLabel(ts)}</span>
       ${typeof conf === "number" ? `<span class="badge conf">conf ${conf.toFixed(2)}</span>` : ""}
       ${!isExh ? `<span class="badge" style="background:#fee2e2;color:#991b1b">전시 정보 아님</span>` : ""}
       <a href="${escapeHtml(it.source_url)}" target="_blank">원본 ↗</a>
@@ -256,6 +286,7 @@ function renderCard(it, idx) {
   el.querySelector('[data-act="reject"]').onclick = () => action(idx, "rejected", el);
   return el;
 }
+
 function escapeHtml(s) {
   return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 }
@@ -269,7 +300,6 @@ function readFields(cardEl) {
   };
 }
 
-// ============== 액션 ==============
 async function action(idx, newStatus, cardEl) {
   if (!getPAT()) {
     toast("먼저 PAT를 설정하세요");
@@ -281,7 +311,6 @@ async function action(idx, newStatus, cardEl) {
   Object.assign(it, fields);
   it.status = (newStatus === "edited" ? it.status : newStatus);
   it.reviewed_at = new Date().toISOString();
-
   cardEl.querySelectorAll("button").forEach(b => b.disabled = true);
   toast("저장 중…");
   try {
@@ -296,12 +325,10 @@ async function action(idx, newStatus, cardEl) {
 
 async function pushQueue(commitMsg) {
   const pat = getPAT();
-  // 항상 최신 SHA를 재확보 (다른 변경 있을 수 있음)
   const getR = await fetch(API_URL, { headers: { Authorization: `Bearer ${pat}`, "X-GitHub-Api-Version": "2022-11-28" }});
   if (!getR.ok) throw new Error(`SHA 가져오기 실패: ${getR.status}`);
   const head = await getR.json();
   fileSha = head.sha;
-
   queue.generated_at = new Date().toISOString().replace(/\.\d+Z$/, "Z");
   const content = btoa(unescape(encodeURIComponent(JSON.stringify(queue, null, 2))));
   const putR = await fetch(API_URL, {
@@ -313,7 +340,6 @@ async function pushQueue(commitMsg) {
   if (!putR.ok) throw new Error(`PUT ${putR.status}: ${(await putR.text()).slice(0, 200)}`);
 }
 
-// ============== 필터 탭 ==============
 ["pending", "approved", "rejected", "all"].forEach(k => {
   document.getElementById(`filter-${k}`).onclick = () => {
     filterMode = k;
@@ -322,10 +348,16 @@ async function pushQueue(commitMsg) {
     render();
   };
 });
+["any", "active", "upcoming"].forEach(k => {
+  document.getElementById(`time-${k}`).onclick = () => {
+    timeMode = k;
+    document.querySelectorAll(".filter-time button").forEach(b => b.classList.remove("active"));
+    document.getElementById(`time-${k}`).classList.add("active");
+    render();
+  };
+});
 
 document.getElementById("btn-reload").onclick = loadQueue;
-
-// ============== 시작 ==============
 updatePatStatus();
 loadQueue();
 </script>
