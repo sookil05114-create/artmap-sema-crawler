@@ -1,7 +1,36 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-13T09:21:20Z",
+  "generated_at": "2026-05-13T09:27:30Z",
   "items": [
+    {
+      "id": "587b5d3c97f2",
+      "source": "submission",
+      "submitted_at": "2026-05-13T09:27:28Z",
+      "submitted_by": "test",
+      "submitter_note": "",
+      "source_url": "https://www.instagram.com/p/DX8J51phDTL/",
+      "og_title": "Instagram의 PS CENTER님 : \"PS CENTER가 오는 5월 16일부터 6월 6일까지 강석호, 남다현, 허창범과 함께 ⟪내가 만든 규칙⟫ 전시를 선보입니다. 오프닝 리셉션은 5월 16일 오후 4시에 진행됩니다. 참석을 원하시는 분은 @p.s.center 프로필 링크를 통해 신청해주세요.\n\nPS CENTER is pleased to present «My Own Rules», featuring works by Sukho Kang, Dahoon Nam, and Changbeom Heo, on view from May 16 to June 6.\nAn Opening Reception will take place on May 16 at 4 PM. To attend, please RSVP via the link in our profile.\n\n5.16 (SAT) - 6.6 (SAT)\n11:00 - 18:00\n* 일요일, 월요일 휴무\nOpening Reception : 5.16 (SAT) 16:00\n\nLocation\nPS CENTER\n서울 중구 창경궁로5다길 18, 3층\n3F, 18, Changgyeonggung-ro 5da-gil, Jung-gu, Seoul, South Korea\n\nArtist\nSukho Kang @sukho621\nDahoon Nam @dhnam_001\nChangbeom Heo @heo.changbeom\n\nOrganizer\nCENTER Corp. @center.corp\"",
+      "og_image": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "My Own Rules (내가 만든 규칙)",
+        "artists": "Sukho Kang, Dahoon Nam, Changbeom Heo",
+        "venue_name": "PS CENTER",
+        "start_date": "2026-05-16",
+        "end_date": "2026-06-06",
+        "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F",
+        "description_summary": "PS CENTER에서 강석호, 남다현, 허창범의 작품을 선보이는 전시. 5월 16일 오후 4시 오프닝 리셉션 예정.",
+        "confidence": 0.95
+      },
+      "status": "pending",
+      "venue_key": "",
+      "venue_name": "PS CENTER",
+      "title": "My Own Rules (내가 만든 규칙)",
+      "artists": "Sukho Kang, Dahoon Nam, Changbeom Heo",
+      "start_date": "2026-05-16",
+      "end_date": "2026-06-06",
+      "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F"
+    },
     {
       "id": "c73b1a906fd8",
       "source": "submission",
