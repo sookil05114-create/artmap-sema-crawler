@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:40:19Z",
+  "generated_at": "2026-05-14T23:14:47Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -193,8 +193,8 @@
       "lat": 37.431,
       "lng": 127.0186,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001030",
-      "active_count": 3,
-      "upcoming_count": 2,
+      "active_count": 4,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "3b1d3f599806",
@@ -235,7 +235,7 @@
           "artists": "곽인식, 남화연, 다나카 고키, 나카무라 마사토, 무라카미 다카시, 박서보, 서승원, 이불, 이우환, 정연두, 조양규 등 40여 명",
           "start_date": "2026-05-14",
           "end_date": "2026-09-27",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=1",
           "price": "과천 전시관람권 3,000원"

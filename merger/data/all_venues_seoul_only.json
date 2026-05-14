@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:40:27Z",
+  "generated_at": "2026-05-14T23:14:55Z",
   "sources": [
     "sema",
     "mmca",
@@ -64,7 +64,7 @@
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
       "category": "",
       "active_count": 2,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "bd8a5f6ebb44",
@@ -87,6 +87,17 @@
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
           "url": "",
           "price": "무료"
+        },
+        {
+          "id": "85636baf089c",
+          "title": "《권병준: 내 마음속에 너는》",
+          "artists": "",
+          "start_date": "2026-06-11",
+          "end_date": "2027-05-16",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1009792",
+          "url": "",
+          "price": "무료"
         }
       ]
     },
@@ -99,8 +110,8 @@
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
       "category": "",
-      "active_count": 3,
-      "upcoming_count": 1,
+      "active_count": 4,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "06934f057ce3",
@@ -141,7 +152,7 @@
           "artists": "",
           "start_date": "2026-05-14",
           "end_date": "2026-07-26",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
           "url": "",
           "price": "무료"

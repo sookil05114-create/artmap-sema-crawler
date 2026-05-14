@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:39:47Z",
+  "generated_at": "2026-05-14T23:14:11Z",
   "source": "sema",
   "venue_count": 6,
   "venues": [
@@ -55,7 +55,7 @@
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
       "active_count": 2,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "bd8a5f6ebb44",
@@ -76,6 +76,16 @@
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
           "url": "",
           "price": "무료"
+        },
+        {
+          "id": "85636baf089c",
+          "title": "《권병준: 내 마음속에 너는》",
+          "start_date": "2026-06-11",
+          "end_date": "2027-05-16",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1009792",
+          "url": "",
+          "price": "무료"
         }
       ]
     },
@@ -87,8 +97,8 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
-      "active_count": 3,
-      "upcoming_count": 1,
+      "active_count": 4,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "06934f057ce3",
@@ -125,7 +135,7 @@
           "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
           "start_date": "2026-05-14",
           "end_date": "2026-07-26",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
           "url": "",
           "price": "무료"
