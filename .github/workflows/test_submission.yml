@@ -1,18 +1,27 @@
-name: TEST — 제보 URL 1건 처리
+name: 제보 URL 1건 처리
 
 on:
   workflow_dispatch:
     inputs:
       url:
-        description: '테스트할 인스타 게시물 URL'
+        description: '제보 URL (인스타·갤러리 홈페이지)'
         required: true
         type: string
+      note:
+        description: '제보자 메모 (선택)'
+        required: false
+        type: string
+      submitter:
+        description: '제보자 식별자'
+        required: false
+        type: string
+        default: 'web'
 
 permissions:
   contents: write
 
 jobs:
-  test:
+  process:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,9 +31,21 @@ jobs:
       - run: pip install -r submissions/requirements.txt
       - env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python submissions/processor.py "${{ inputs.url }}" --submitted-by "test"
+        run: |
+          python submissions/processor.py "${{ inputs.url }}" \
+            --submitted-by "${{ inputs.submitter }}" \
+            --note "${{ inputs.note }}"
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add submissions/data/
-          git diff --staged --quiet || (git commit -m "test 제보 1건" && git push)
+          if git diff --staged --quiet; then
+            echo "변경 없음"; exit 0
+          fi
+          git commit -m "제보 1건 — ${{ inputs.submitter }}"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            sleep 5
+            git pull --rebase --autostash || true
+          done
+          exit 1
