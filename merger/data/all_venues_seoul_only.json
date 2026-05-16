@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T22:41:42Z",
+  "generated_at": "2026-05-16T22:31:14Z",
   "sources": [
     "sema",
     "mmca",
     "submissions"
   ],
-  "venue_count": 10,
+  "venue_count": 9,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -63,9 +63,20 @@
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
       "category": "",
-      "active_count": 2,
+      "active_count": 3,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "1b568dc5dc5c",
+          "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
+          "artists": "",
+          "start_date": "2025-09-02",
+          "end_date": "2026-05-31",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
+          "url": "",
+          "price": "무료"
+        },
         {
           "id": "bd8a5f6ebb44",
           "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
@@ -406,8 +417,8 @@
       ]
     },
     {
-      "venue_key": "unknown",
-      "venue_name": "충무아트센터 갤러리",
+      "venue_key": "unknown_submission",
+      "venue_name": "PS CENTER",
       "region": "seoul",
       "address": "",
       "lat": null,
@@ -418,37 +429,12 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
-          "id": "fc01a56a2c8f",
-          "title": "자치구 협력전시 《SeMA Collection: 청록미로》",
-          "artists": "",
-          "start_date": "2026-04-15",
-          "end_date": "2026-05-17",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007664",
-          "url": "",
-          "price": "무료"
-        }
-      ]
-    },
-    {
-      "venue_key": "unknown_submission",
-      "venue_name": "PS CENTER",
-      "region": "seoul",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "official_url": "",
-      "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
-      "exhibitions": [
-        {
           "id": "587b5d3c97f2",
           "title": "My Own Rules (내가 만든 규칙)",
           "artists": "Sukho Kang, Dahoon Nam, Changbeom Heo",
           "start_date": "2026-05-16",
           "end_date": "2026-06-06",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F",
           "url": "https://www.instagram.com/p/DX8J51phDTL/",
           "price": ""
