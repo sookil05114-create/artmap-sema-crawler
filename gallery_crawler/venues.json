@@ -1,6 +1,6 @@
 {
-  "_comment": "을지로 권역 시각예술 공간 시드. 좌표는 추후 본인이 검수 화면 또는 venues.json 직접 편집으로 보완.",
-  "source_doc": "'26 서울아트위크 기간 중 전시목록+을지로공간 목록",
+  "_comment": "을지로 권역 시드 26곳 + 사용자 추가 8곳(2026-05-17). 좌표는 추후 검수 화면 또는 venues.json 직접 편집으로 보완.",
+  "source_doc": "'26 서울아트위크 기간 중 전시목록+을지로공간 목록 + 사용자 직접 추가",
   "venues": [
     {
       "venue_key": "euljiro_yk_presents",
@@ -140,10 +140,11 @@
       "instagram_url": "https://www.instagram.com/alternativespaceloop/",
       "instagram_handle": "alternativespaceloop",
       "naver_map_url": "https://naver.me/FV7VgxCJ",
-      "official_url": "",
+      "official_url": "http://altspaceloop.com/",
       "note": "",
       "aliases": [
-        "대안공간루프"
+        "대안공간루프",
+        "대안공간 루프"
       ]
     },
     {
@@ -194,7 +195,7 @@
       "instagram_url": "https://www.instagram.com/pokettales/",
       "instagram_handle": "pokettales",
       "naver_map_url": "https://naver.me/GUwbFd68",
-      "official_url": "",
+      "official_url": "https://pokettales.com/",
       "note": "",
       "aliases": [
         "포켓테일즈"
@@ -230,10 +231,11 @@
       "instagram_url": "https://www.instagram.com/sahngupgallery/",
       "instagram_handle": "sahngupgallery",
       "naver_map_url": "https://naver.me/G9rgCjJk",
-      "official_url": "",
+      "official_url": "https://sahngupgallery.com/",
       "note": "",
       "aliases": [
-        "상업화랑 을지로"
+        "상업화랑 을지로",
+        "상업화랑"
       ]
     },
     {
@@ -248,7 +250,7 @@
       "instagram_url": "https://www.instagram.com/nslasha.kr/",
       "instagram_handle": "nslasha.kr",
       "naver_map_url": "https://naver.me/xAFCHeS7",
-      "official_url": "",
+      "official_url": "https://nslasha.kr/",
       "note": "",
       "aliases": [
         "N/A"
@@ -389,7 +391,7 @@
       "address": "",
       "lat": null,
       "lng": null,
-      "instagram_url": "https://www.instagram.com/eckeida",
+      "instagram_url": "https://www.instagram.com/eckeida/",
       "instagram_handle": "eckeida",
       "naver_map_url": "https://naver.me/5eDObFEh",
       "official_url": "",
@@ -461,13 +463,162 @@
       "address": "",
       "lat": null,
       "lng": null,
-      "instagram_url": "https://www.instagram.com/h.art1_euljiro",
+      "instagram_url": "https://www.instagram.com/h.art1_euljiro/",
       "instagram_handle": "h.art1_euljiro",
       "naver_map_url": "https://naver.me/FTXw02tS",
       "official_url": "",
       "note": "",
       "aliases": [
         "하나은행 하트원"
+      ]
+    },
+
+    {
+      "venue_key": "seoul_craft_museum",
+      "venue_name": "서울공예박물관",
+      "category": "박물관",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 율곡로3길 4",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "",
+      "instagram_handle": "",
+      "naver_map_url": "",
+      "official_url": "https://craftmuseum.seoul.go.kr/main",
+      "note": "사용자 추가 (2026-05-17)",
+      "aliases": [
+        "서울공예박물관"
+      ]
+    },
+    {
+      "venue_key": "seoul_museum_seokpajeong",
+      "venue_name": "서울미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "buam",
+      "address": "서울 종로구 창의문로 11길 4-1",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "",
+      "instagram_handle": "",
+      "naver_map_url": "",
+      "official_url": "https://www.seoulmuseum.org/EXHIBITION",
+      "note": "석파정 서울미술관. 사용자 추가 (2026-05-17)",
+      "aliases": [
+        "서울미술관",
+        "석파정 서울미술관"
+      ]
+    },
+    {
+      "venue_key": "apma_amorepacific",
+      "venue_name": "아모레퍼시픽미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한강대로 100",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "",
+      "instagram_handle": "",
+      "naver_map_url": "",
+      "official_url": "https://apma.amorepacific.com/contents/exhibition/index.do",
+      "note": "APMA. 사용자 추가 (2026-05-17)",
+      "aliases": [
+        "아모레퍼시픽미술관",
+        "APMA"
+      ]
+    },
+    {
+      "venue_key": "ilmin_museum",
+      "venue_name": "일민미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "gwanghwamun",
+      "address": "서울 종로구 세종대로 152",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "",
+      "instagram_handle": "",
+      "naver_map_url": "",
+      "official_url": "https://ilmin.org/",
+      "note": "사용자 추가 (2026-05-17)",
+      "aliases": [
+        "일민미술관"
+      ]
+    },
+    {
+      "venue_key": "artsonje_center",
+      "venue_name": "아트선재센터",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "samcheong",
+      "address": "서울 종로구 율곡로3길 87",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "",
+      "instagram_handle": "",
+      "naver_map_url": "",
+      "official_url": "https://artsonje.org/exhibition-program/exhibition/",
+      "note": "사용자 추가 (2026-05-17)",
+      "aliases": [
+        "아트선재센터"
+      ]
+    },
+    {
+      "venue_key": "keumsan_gallery",
+      "venue_name": "금산갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/keumsangallery/",
+      "instagram_handle": "keumsangallery",
+      "naver_map_url": "",
+      "official_url": "",
+      "note": "사용자 추가 (2026-05-17). 홈페이지 URL 미정",
+      "aliases": [
+        "금산갤러리"
+      ]
+    },
+    {
+      "venue_key": "gallery_point",
+      "venue_name": "갤러리포인트",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "https://www.instagram.com/point_by_gallerypoint/",
+      "instagram_handle": "point_by_gallerypoint",
+      "naver_map_url": "",
+      "official_url": "",
+      "note": "사용자 추가 (2026-05-17). 홈페이지 URL 미정",
+      "aliases": [
+        "갤러리포인트",
+        "point by gallerypoint"
+      ]
+    },
+    {
+      "venue_key": "kukje_gallery",
+      "venue_name": "국제갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "samcheong",
+      "address": "서울 종로구 삼청로 54",
+      "lat": null,
+      "lng": null,
+      "instagram_url": "",
+      "instagram_handle": "",
+      "naver_map_url": "",
+      "official_url": "https://www.kukjegallery.com/",
+      "note": "사용자 추가 (2026-05-17)",
+      "aliases": [
+        "국제갤러리",
+        "Kukje Gallery"
       ]
     }
   ]
