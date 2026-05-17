@@ -2,7 +2,6 @@ name: 을지로 갤러리 자동 수집 (매주)
 
 on:
   schedule:
-    # 매주 월요일 한국시간 새벽 6시 (UTC 일요일 21시)
     - cron: "0 21 * * 0"
   workflow_dispatch:
 
@@ -15,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,23 +35,51 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python gallery_crawler/crawler.py
 
-      - name: Commit pending queue updates (with retry)
+      - name: Commit pending queue updates (with safe retry)
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add submissions/data/ gallery_crawler/coords_cache.json
+
+          # 변경 사항을 임시 stash (워크플로우가 만든 변경만)
+          git add -A submissions/data/ gallery_crawler/coords_cache.json || true
           if git diff --staged --quiet; then
             echo "변경 없음 — 커밋 생략"
             exit 0
           fi
+
+          # main branch 최신화하기 위해 일단 stash
+          git stash push --include-untracked -m "wf-changes" \
+            -- submissions/data/ gallery_crawler/coords_cache.json || true
+
+          # 최신 main 로 강제 정렬
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+          # 워크플로우 변경 복원
+          git stash pop || true
+
+          # 다시 add + commit
+          git add submissions/data/ gallery_crawler/coords_cache.json
+          if git diff --staged --quiet; then
+            echo "stash pop 후 변경 없음 — 종료"
+            exit 0
+          fi
           git commit -m "갤러리 자동 수집 — 검수 큐 업데이트 ($(date -u +%Y-%m-%d))"
+
+          # push 재시도 (5회) — 충돌 시 fetch + rebase
           for i in 1 2 3 4 5; do
-            if git push; then
+            if git push origin main; then
               echo "push 성공 (시도 $i)"
               exit 0
             fi
-            echo "push 거부 — pull --rebase 후 재시도 ($i/5)"
+            echo "push 거부 — fetch + rebase 재시도 ($i/5)"
             sleep 5
-            git pull --rebase --autostash || true
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo "rebase 충돌 — abort 후 다음 시도"
+              git rebase --abort || true
+            fi
           done
           exit 1
