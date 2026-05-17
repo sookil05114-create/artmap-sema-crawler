@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T14:53:31Z",
+  "generated_at": "2026-05-17T14:54:14Z",
   "items": [
     {
       "id": "b5e4cb5e42cc",
@@ -56,18 +56,19 @@
         "description_summary": "아트선재센터의 현재 전시",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "artsonje_center",
       "venue_name": "아트선재센터",
       "title": "스펙트로신테시스",
-      "artists": null,
-      "start_date": "",
-      "end_date": "",
+      "artists": "",
+      "start_date": "2026-03-20",
+      "end_date": "2026-06-28",
       "thumbnail": "",
       "lat": null,
       "lng": null,
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-17T14:54:13.117Z"
     },
     {
       "id": "be91eca50ea9",
