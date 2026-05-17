@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T14:43:28Z",
+  "generated_at": "2026-05-17T14:53:22Z",
   "items": [
     {
       "id": "b5e4cb5e42cc",
@@ -22,18 +22,19 @@
         "description_summary": "진동하는 사물들을 주제로 한 전시. 쿡제갤러리 서울 K1, K2 공간에서 개최되는 현대미술 전시.",
         "confidence": 0.8
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Objects in Oscillation",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-09",
       "end_date": "2026-07-19",
       "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
       "lat": null,
       "lng": null,
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-17T14:53:22.564Z"
     },
     {
       "id": "d8805a747782",
