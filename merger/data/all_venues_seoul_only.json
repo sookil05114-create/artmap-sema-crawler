@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T22:31:14Z",
+  "generated_at": "2026-05-17T14:58:58Z",
   "sources": [
     "sema",
     "mmca",
     "submissions"
   ],
-  "venue_count": 9,
+  "venue_count": 13,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -413,6 +413,106 @@
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
           "price": "무료"
+        }
+      ]
+    },
+    {
+      "venue_key": "seoul_craft_museum",
+      "venue_name": "서울공예박물관",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로3길 4",
+      "lat": null,
+      "lng": null,
+      "official_url": "https://craftmuseum.seoul.go.kr/main",
+      "category": "박물관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "bd95331abfea",
+          "title": "색유만개 : 권순형 기증특별전시",
+          "artists": "권순형",
+          "start_date": "2026-05-12",
+          "end_date": "2026-08-02",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://craftmuseum.seoul.go.kr/main",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "venue_key": "ilmin_museum",
+      "venue_name": "일민미술관",
+      "region": "seoul",
+      "address": "서울 종로구 세종대로 152",
+      "lat": null,
+      "lng": null,
+      "official_url": "https://ilmin.org/",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "be91eca50ea9",
+          "title": "기.기.기(奇.己.氣): 동시대와 시행착오",
+          "artists": "",
+          "start_date": "2026-04-01",
+          "end_date": "2026-05-31",
+          "status": "active",
+          "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
+          "url": "https://ilmin.org/",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "venue_key": "artsonje_center",
+      "venue_name": "아트선재센터",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로3길 87",
+      "lat": null,
+      "lng": null,
+      "official_url": "https://artsonje.org/exhibition-program/exhibition/",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "d8805a747782",
+          "title": "스펙트로신테시스",
+          "artists": "",
+          "start_date": "2026-03-20",
+          "end_date": "2026-06-28",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://artsonje.org/exhibition-program/exhibition/",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "venue_key": "kukje_gallery",
+      "venue_name": "국제갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 54",
+      "lat": null,
+      "lng": null,
+      "official_url": "https://www.kukjegallery.com/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "b5e4cb5e42cc",
+          "title": "Objects in Oscillation",
+          "artists": "",
+          "start_date": "2026-06-09",
+          "end_date": "2026-07-19",
+          "status": "upcoming",
+          "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+          "url": "https://www.kukjegallery.com/",
+          "price": ""
         }
       ]
     },
