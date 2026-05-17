@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T17:23:44Z",
+  "generated_at": "2026-05-17T22:39:28Z",
   "source": "sema",
   "count": 14,
   "exhibitions": [
@@ -21,7 +21,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "d340ac7a2efe",
@@ -41,7 +41,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "ca1723230151",
@@ -61,7 +61,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "c657aa61a28e",
@@ -81,7 +81,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "aebb8561f013",
@@ -101,7 +101,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "a2ce75e6ada3",
@@ -121,7 +121,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "bd8a5f6ebb44",
@@ -141,7 +141,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "d9fcc33b96b0",
@@ -161,7 +161,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "6ba058729ef0",
@@ -181,7 +181,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "06934f057ce3",
@@ -201,7 +201,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "dd23cadf6549",
@@ -221,7 +221,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "1b568dc5dc5c",
@@ -241,7 +241,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
       "status": "active",
-      "collected_at": "2026-05-17T17:23:35Z"
+      "collected_at": "2026-05-17T22:39:18Z"
     },
     {
       "id": "85636baf089c",
@@ -261,7 +261,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1009792",
       "status": "upcoming",
-      "collected_at": "2026-05-17T17:23:40Z"
+      "collected_at": "2026-05-17T22:39:24Z"
     },
     {
       "id": "5fdda35e076a",
@@ -281,7 +281,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "upcoming",
-      "collected_at": "2026-05-17T17:23:40Z"
+      "collected_at": "2026-05-17T22:39:24Z"
     }
   ]
 }
