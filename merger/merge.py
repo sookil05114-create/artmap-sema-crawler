@@ -1,21 +1,26 @@
 """
-SeMA + MMCA + 승인된 제보를 통합하는 merger (v3)
+SeMA + MMCA + 승인된 제보 통합 merger (v4 — 자동 좌표 폴백)
 
 입력:
     ../sema_crawler/data/exhibitions_latest.json
-    ../sema_crawler/data/venues_with_exhibitions_latest.json
     ../mmca_crawler/data/exhibitions_latest.json
-    ../mmca_crawler/data/venues_with_exhibitions_latest.json
     ../mmca_crawler/data/programs_latest.json
-    ../submissions/data/pending_queue.json   ← ★ 새 입력: 승인된 제보·갤러리 자동 수집
-    ../gallery_crawler/venues.json           ← ★ 갤러리 분관 메타 (좌표 등)
+    ../submissions/data/pending_queue.json   ← approved 제보·갤러리 자동 수집
+    ../gallery_crawler/venues.json           ← 갤러리 메타
+    ../gallery_crawler/coords_cache.json     ← (선택) 자동 좌표 캐시 — venues.json 좌표 누락 시 폴백
+    ../sema_crawler/venues.json, ../mmca_crawler/venues.json (메타)
 
 출력:
     data/all_exhibitions_latest.json
     data/all_venues_latest.json
-    data/all_venues_seoul_only.json        ★ 사이트 메인
+    data/all_venues_seoul_only.json    ★ 사이트 메인
     data/all_exhibitions_seoul_only.json
     data/all_programs_latest.json
+
+v6 변경점:
+  - submission_to_exhibition: pending item 자체의 lat/lng/address 우선, venues.json은 fallback
+  - build_venues_grouped: venues.json 좌표 누락 시 그 분관에 속한 첫 전시의 좌표를 사용
+  - load_coords_cache: 좌표 캐시 파일도 로드해서, 전시 평면화 직전에 모든 item의 lat/lng 보강
 """
 from __future__ import annotations
 
@@ -54,8 +59,22 @@ def compute_status(start: str, end: str, today: date) -> str:
     return "active"
 
 
-def submission_to_exhibition(it: dict, gallery_venues_by_key: dict) -> dict | None:
-    """submissions/pending_queue.json 의 approved 1건을 통합 전시 스키마로 변환."""
+def resolve_coords_for_venue(vk: str, venue_meta: dict | None, coords_cache: dict) -> tuple[float | None, float | None, str]:
+    """venues.json > coords_cache 순으로 좌표·주소 결정."""
+    if venue_meta:
+        lat = venue_meta.get("lat")
+        lng = venue_meta.get("lng")
+        addr = venue_meta.get("address", "")
+        if lat is not None and lng is not None:
+            return lat, lng, addr
+    cached = coords_cache.get(vk)
+    if cached:
+        return cached.get("lat"), cached.get("lng"), cached.get("address", "") or (venue_meta or {}).get("address", "")
+    return None, None, (venue_meta or {}).get("address", "")
+
+
+def submission_to_exhibition(it: dict, gv_by_key: dict, coords_cache: dict) -> dict | None:
+    """pending_queue 의 approved 1건을 통합 전시 스키마로 변환."""
     if it.get("status") != "approved":
         return None
     if it.get("extracted", {}).get("is_exhibition") is False:
@@ -66,16 +85,30 @@ def submission_to_exhibition(it: dict, gallery_venues_by_key: dict) -> dict | No
     today = date.today()
     start = it.get("start_date") or ""
     end = it.get("end_date") or start
+
     vk = it.get("venue_key") or ""
-    venue = gallery_venues_by_key.get(vk, {})
-    # venue_key가 비어있으면 venue_name으로 매칭 시도
+    venue = gv_by_key.get(vk, {})
     if not venue and it.get("venue_name"):
         vn = it["venue_name"].replace(" ", "")
-        for k, v in gallery_venues_by_key.items():
+        for k, v in gv_by_key.items():
             if v.get("venue_name", "").replace(" ", "") == vn:
                 venue = v
                 vk = k
                 break
+
+    # 좌표·주소 결정 순서:
+    #  1) pending item 자체의 lat/lng (crawler가 자동 추정한 값 또는 사용자 수정)
+    #  2) venues.json
+    #  3) coords_cache (gallery_crawler가 만든 캐시)
+    lat = it.get("lat")
+    lng = it.get("lng")
+    addr = it.get("address", "")
+    if lat is None or lng is None:
+        vlat, vlng, vaddr = resolve_coords_for_venue(vk, venue, coords_cache)
+        if lat is None: lat = vlat
+        if lng is None: lng = vlng
+        if not addr: addr = vaddr
+
     return {
         "id": it["id"],
         "source": it.get("source", "submission"),
@@ -84,10 +117,10 @@ def submission_to_exhibition(it: dict, gallery_venues_by_key: dict) -> dict | No
         "venue_raw": it.get("venue_name", ""),
         "venue_key": vk or "unknown_submission",
         "venue_name": venue.get("venue_name") or it.get("venue_name", ""),
-        "region": venue.get("region", "seoul"),  # 제보는 기본 seoul로
-        "address": venue.get("address", ""),
-        "lat": venue.get("lat"),
-        "lng": venue.get("lng"),
+        "region": venue.get("region", "seoul"),
+        "address": addr,
+        "lat": lat,
+        "lng": lng,
         "start_date": start,
         "end_date": end,
         "price": "",
@@ -98,8 +131,10 @@ def submission_to_exhibition(it: dict, gallery_venues_by_key: dict) -> dict | No
     }
 
 
-def build_venues_grouped(exhibitions: list, all_venues_meta: list) -> list:
-    """전시 평면 리스트를 분관별로 그룹화 (이미 grouped인 SeMA·MMCA 출력과 형식 통일)."""
+def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache: dict) -> list:
+    """전시 평면 리스트를 분관별로 그룹화.
+    v6: venues.json 좌표가 비어 있으면 분관 첫 전시의 좌표 또는 coords_cache로 폴백.
+    """
     by_v: dict[str, list] = {}
     for e in exhibitions:
         if e.get("status") not in ("active", "upcoming"):
@@ -115,12 +150,25 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list) -> list:
         if not lst:
             continue
         lst_sorted = sorted(lst, key=lambda e: e.get("start_date") or "9999")
+        sample = lst_sorted[0]
+
+        # 좌표 폴백 사다리
+        lat = v.get("lat")
+        lng = v.get("lng")
+        addr = v.get("address", "")
+        if lat is None or lng is None:
+            cached = coords_cache.get(vk, {})
+            if lat is None: lat = sample.get("lat") if sample.get("lat") is not None else cached.get("lat")
+            if lng is None: lng = sample.get("lng") if sample.get("lng") is not None else cached.get("lng")
+            if not addr:
+                addr = sample.get("address") or cached.get("address", "")
+
         venues_out.append({
             "venue_key": vk,
             "venue_name": v.get("venue_name", ""),
             "region": v.get("region", "unknown"),
-            "address": v.get("address", ""),
-            "lat": v.get("lat"), "lng": v.get("lng"),
+            "address": addr,
+            "lat": lat, "lng": lng,
             "official_url": v.get("official_url", v.get("instagram_url", "")),
             "category": v.get("category", ""),
             "active_count": sum(1 for e in lst if e.get("status") == "active"),
@@ -133,17 +181,20 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list) -> list:
                 for e in lst_sorted
             ],
         })
-    # 메타에 없지만 데이터에 있는 venue들 (예: unknown_submission, 외부 협력)
+
+    # 메타에 없지만 데이터에 있는 venue (외부 협력 등)
     for vk, lst in by_v.items():
         if vk in seen_keys: continue
         lst_sorted = sorted(lst, key=lambda e: e.get("start_date") or "9999")
         sample = lst[0]
+        cached = coords_cache.get(vk, {})
         venues_out.append({
             "venue_key": vk,
             "venue_name": sample.get("venue_name", "(미분류)"),
             "region": sample.get("region", "unknown"),
-            "address": sample.get("address", ""),
-            "lat": sample.get("lat"), "lng": sample.get("lng"),
+            "address": sample.get("address") or cached.get("address", ""),
+            "lat": sample.get("lat") if sample.get("lat") is not None else cached.get("lat"),
+            "lng": sample.get("lng") if sample.get("lng") is not None else cached.get("lng"),
             "official_url": "",
             "category": "기타",
             "active_count": sum(1 for e in lst if e.get("status") == "active"),
@@ -167,6 +218,9 @@ def main() -> int:
     gallery_venues_doc = load_json(ROOT / "gallery_crawler" / "venues.json")
     sema_venues_doc = load_json(ROOT / "sema_crawler" / "venues.json")
     mmca_venues_doc = load_json(ROOT / "mmca_crawler" / "venues.json")
+    coords_cache_doc = load_json(ROOT / "gallery_crawler" / "coords_cache.json")
+
+    coords_cache = (coords_cache_doc or {}).get("venues", {})
 
     outdir = HERE / "data"
     outdir.mkdir(parents=True, exist_ok=True)
@@ -177,7 +231,6 @@ def main() -> int:
     if sema_exh: all_exs.extend(sema_exh.get("exhibitions", [])); sources.append("sema")
     if mmca_exh: all_exs.extend(mmca_exh.get("exhibitions", [])); sources.append("mmca")
 
-    # 갤러리 venues 키 인덱스
     gv_by_key = {}
     if gallery_venues_doc:
         for v in gallery_venues_doc.get("venues", []):
@@ -186,9 +239,8 @@ def main() -> int:
     approved_count = 0
     if queue:
         for it in queue.get("items", []):
-            ex = submission_to_exhibition(it, gv_by_key)
+            ex = submission_to_exhibition(it, gv_by_key, coords_cache)
             if ex:
-                # 중복 체크 (같은 id면 스킵)
                 if not any(e.get("id") == ex["id"] for e in all_exs):
                     all_exs.append(ex)
                     approved_count += 1
@@ -196,14 +248,14 @@ def main() -> int:
 
     all_exs.sort(key=lambda e: e.get("start_date") or "9999")
 
-    # 2) 전체 venues 메타 모음 (그룹화용)
+    # 2) 전체 venues 메타
     all_venues_meta: list = []
     for doc in [sema_venues_doc, mmca_venues_doc, gallery_venues_doc]:
         if doc:
             all_venues_meta.extend(doc.get("venues", []))
 
     # 3) 분관별 그룹화
-    venues_grouped = build_venues_grouped(all_exs, all_venues_meta)
+    venues_grouped = build_venues_grouped(all_exs, all_venues_meta, coords_cache)
     active_venues = [v for v in venues_grouped if v["active_count"] + v["upcoming_count"] > 0]
 
     # 4) 출력
@@ -238,7 +290,7 @@ def main() -> int:
                    ensure_ascii=False, indent=2),
         encoding="utf-8")
 
-    # 교육 — 그대로
+    # 교육
     all_progs: list = []
     prog_sources: list = []
     if mmca_prog:
@@ -251,11 +303,16 @@ def main() -> int:
                    ensure_ascii=False, indent=2),
         encoding="utf-8")
 
-    # 요약
-    print(f"\n[Merger v3] 통합 완료", file=sys.stderr)
+    # 좌표 보정 통계
+    seoul_marker_with_xy = sum(1 for v in seoul_venues if v.get("lat") and v.get("lng"))
+    seoul_marker_no_xy = len(seoul_venues) - seoul_marker_with_xy
+
+    print(f"\n[Merger v4] 통합 완료", file=sys.stderr)
     print(f"  전시 평면 총 {len(all_exs)}건 (서울 {len(seoul_exs)}건)", file=sys.stderr)
-    print(f"  분관 마커 {len(active_venues)}곳 (서울 {len(seoul_venues)}곳)", file=sys.stderr)
+    print(f"  분관 마커 {len(active_venues)}곳 (서울 {len(seoul_venues)}곳) — "
+          f"좌표있음 {seoul_marker_with_xy} / 좌표없음 {seoul_marker_no_xy}", file=sys.stderr)
     print(f"  승인된 제보 통합: {approved_count}건", file=sys.stderr)
+    print(f"  좌표 캐시 적용: {len(coords_cache)}곳", file=sys.stderr)
     print(f"  교육: {len(all_progs)}건", file=sys.stderr)
     return 0
 
