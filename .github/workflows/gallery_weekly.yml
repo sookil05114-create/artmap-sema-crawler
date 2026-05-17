@@ -26,10 +26,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r submissions/requirements.txt
 
-      - name: Run gallery crawler (을지로 26곳)
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python gallery_crawler/crawler.py
+      - - name: Run gallery crawler ...
+  env:
+    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+    NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+  run: python gallery_crawler/crawler.py
 
       - name: Commit pending queue updates (with retry)
         run: |
