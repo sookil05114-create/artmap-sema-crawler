@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T14:53:22Z",
+  "generated_at": "2026-05-17T14:53:27Z",
   "items": [
     {
       "id": "b5e4cb5e42cc",
@@ -89,18 +89,19 @@
         "description_summary": "일민미술관에서 개최하는 《기.기.기(奇.己.氣): 동시대와 시행착오》 전시. 동시대 미술의 다양한 시행착오와 실천을 탐구하는 전시이다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "ilmin_museum",
       "venue_name": "일민미술관",
       "title": "기.기.기(奇.己.氣): 동시대와 시행착오",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-01",
       "end_date": "2026-05-31",
       "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
       "lat": null,
       "lng": null,
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-17T14:53:27.124Z"
     },
     {
       "id": "01c4bbc9c753",
