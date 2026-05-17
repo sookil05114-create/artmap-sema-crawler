@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T14:54:14Z",
+  "generated_at": "2026-05-17T14:55:05Z",
   "items": [
     {
       "id": "b5e4cb5e42cc",
@@ -124,7 +124,7 @@
         "description_summary": "Mark Bradford의 작품들을 소개하는 전시로, 타오르는 피노키오, 명백한 운명, 상업 포스터, 심장이 뛰는 쪽, 파랑, 떠오르다 등의 작품들을 선보인다.",
         "confidence": 0.7
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "apma_amorepacific",
       "venue_name": "아모레퍼시픽미술관",
       "title": "Mark Bradford: Keep Walking",
@@ -135,7 +135,8 @@
       "lat": null,
       "lng": null,
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-17T14:55:04.381Z"
     },
     {
       "id": "bd95331abfea",
