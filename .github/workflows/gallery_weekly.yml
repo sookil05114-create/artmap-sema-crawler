@@ -26,18 +26,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r submissions/requirements.txt
 
-      - - name: Run gallery crawler ...
-  env:
-    ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-    NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
-    NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-  run: python gallery_crawler/crawler.py
+      - name: Run gallery crawler
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python gallery_crawler/crawler.py
 
       - name: Commit pending queue updates (with retry)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add submissions/data/
+          git add submissions/data/ gallery_crawler/coords_cache.json
           if git diff --staged --quiet; then
             echo "변경 없음 — 커밋 생략"
             exit 0
