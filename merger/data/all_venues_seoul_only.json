@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:58:58Z",
+  "generated_at": "2026-05-17T17:24:27Z",
   "sources": [
     "sema",
     "mmca",
     "submissions"
   ],
-  "venue_count": 13,
+  "venue_count": 14,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -417,12 +417,37 @@
       ]
     },
     {
+      "venue_key": "euljiro_pokettales",
+      "venue_name": "포켓테일즈",
+      "region": "seoul",
+      "address": "서울특별시 중구 을지로 157 대림상가 9층, 961호",
+      "lat": 37.566663,
+      "lng": 126.995532,
+      "official_url": "https://pokettales.com/",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "557ce7e5df62",
+          "title": "Patterned Impressions",
+          "artists": "Camille Biddell",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://pokettales.com/",
+          "price": ""
+        }
+      ]
+    },
+    {
       "venue_key": "seoul_craft_museum",
       "venue_name": "서울공예박물관",
       "region": "seoul",
       "address": "서울 종로구 율곡로3길 4",
-      "lat": null,
-      "lng": null,
+      "lat": 37.576647,
+      "lng": 126.983379,
       "official_url": "https://craftmuseum.seoul.go.kr/main",
       "category": "박물관",
       "active_count": 1,
@@ -446,8 +471,8 @@
       "venue_name": "일민미술관",
       "region": "seoul",
       "address": "서울 종로구 세종대로 152",
-      "lat": null,
-      "lng": null,
+      "lat": 37.569836,
+      "lng": 126.977696,
       "official_url": "https://ilmin.org/",
       "category": "미술관",
       "active_count": 1,
@@ -471,8 +496,8 @@
       "venue_name": "아트선재센터",
       "region": "seoul",
       "address": "서울 종로구 율곡로3길 87",
-      "lat": null,
-      "lng": null,
+      "lat": 37.579475,
+      "lng": 126.981837,
       "official_url": "https://artsonje.org/exhibition-program/exhibition/",
       "category": "미술관",
       "active_count": 1,
@@ -496,13 +521,24 @@
       "venue_name": "국제갤러리",
       "region": "seoul",
       "address": "서울 종로구 삼청로 54",
-      "lat": null,
-      "lng": null,
+      "lat": 37.580701,
+      "lng": 126.980477,
       "official_url": "https://www.kukjegallery.com/",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "cd8efb980e27",
+          "title": "Hong Seung-Hye On the Move",
+          "artists": "Hong Seung-Hye",
+          "start_date": "2026-04-24",
+          "end_date": "2026-06-14",
+          "status": "active",
+          "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+          "url": "https://www.kukjegallery.com/",
+          "price": ""
+        },
         {
           "id": "b5e4cb5e42cc",
           "title": "Objects in Oscillation",
