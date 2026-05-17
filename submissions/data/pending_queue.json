@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T16:23:55Z",
+  "generated_at": "2026-05-17T16:24:00Z",
   "items": [
     {
       "id": "cd8efb980e27",
@@ -150,7 +150,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "euljiro_alternativespaceloop",
       "venue_name": "대안공간루프",
       "title": "FAS Festival 2026: Feminism as a Method",
@@ -162,7 +162,8 @@
       "lng": 126.99683,
       "address": "서울특별시 중구 청계천로 172-1 3층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-17T16:23:59.339Z"
     },
     {
       "id": "b5e4cb5e42cc",
