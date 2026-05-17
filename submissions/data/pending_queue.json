@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T14:53:27Z",
+  "generated_at": "2026-05-17T14:53:31Z",
   "items": [
     {
       "id": "b5e4cb5e42cc",
@@ -156,7 +156,7 @@
         "description_summary": "색으로 도자를 다시 쓴 한국 현대공예 선구자 권순형의 기증 특별전. 도자 공예의 색감과 미학을 집중 조명하는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seoul_craft_museum",
       "venue_name": "서울공예박물관",
       "title": "색유만개 : 권순형 기증특별전시",
@@ -167,7 +167,8 @@
       "lat": null,
       "lng": null,
       "region": "seoul",
-      "category": "박물관"
+      "category": "박물관",
+      "reviewed_at": "2026-05-17T14:53:30.897Z"
     },
     {
       "id": "587b5d3c97f2",
