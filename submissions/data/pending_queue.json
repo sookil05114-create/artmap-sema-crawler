@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T16:06:06Z",
+  "generated_at": "2026-05-17T16:23:53Z",
   "items": [
     {
       "id": "cd8efb980e27",
@@ -25,7 +25,7 @@
         "description_summary": "쿡제갤러리 부산 공간에서 열리는 홍승혜 작가의 '이동 중(On the Move)' 전시.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Hong Seung-Hye On the Move",
@@ -37,7 +37,8 @@
       "lng": 126.980477,
       "address": "서울특별시 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-17T16:23:53.165Z"
     },
     {
       "id": "aa4378da3039",
