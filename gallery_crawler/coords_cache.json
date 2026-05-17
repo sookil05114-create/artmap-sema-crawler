@@ -1,0 +1,269 @@
+{
+  "generated_at": "2026-05-17T16:06:06Z",
+  "venues": {
+    "euljiro_yk_presents": {
+      "lat": 37.566852,
+      "lng": 127.006875,
+      "address": "서울특별시 중구 을지로43길 13",
+      "name_matched": "YK PRESENTS",
+      "query": "YK Presents 서울",
+      "cached_at": "2026-05-17T16:01:59Z"
+    },
+    "euljiro_flow_n_beat": {
+      "lat": 37.568859,
+      "lng": 127.001741,
+      "address": "서울특별시 중구 동호로 385-2 1층 102호",
+      "name_matched": "플로우앤비트",
+      "query": "플로우앤비트 서울",
+      "cached_at": "2026-05-17T16:02:06Z"
+    },
+    "euljiro_doosanartcenter_gallery": {
+      "lat": 37.571907,
+      "lng": 127.001209,
+      "address": "서울특별시 종로구 종로33길 15",
+      "name_matched": "두산아트센터",
+      "query": "두산갤러리 서울",
+      "cached_at": "2026-05-17T16:02:12Z"
+    },
+    "euljiro_die_huette_gallery": {
+      "lat": 37.56426,
+      "lng": 127.001068,
+      "address": "서울특별시 중구 마른내로12길 7-11 2층",
+      "name_matched": "디휘테",
+      "query": "디휘테 갤러리 서울",
+      "cached_at": "2026-05-17T16:02:18Z"
+    },
+    "euljiro_ypc_seoul": {
+      "lat": 37.562524,
+      "lng": 127.000406,
+      "address": "서울특별시 중구 퇴계로 258",
+      "name_matched": "YPC SPACE",
+      "query": "YPC스페이스 서울",
+      "cached_at": "2026-05-17T16:02:24Z"
+    },
+    "euljiro_gallerysoso": {
+      "lat": 37.568367,
+      "lng": 126.996816,
+      "address": "서울특별시 중구 청계천로 172-1 4-5층",
+      "name_matched": "더 소소",
+      "query": "더 소소 서울",
+      "cached_at": "2026-05-17T16:02:30Z"
+    },
+    "euljiro_p_s_center": {
+      "lat": 37.5244,
+      "lng": 127.027978,
+      "address": "서울특별시 강남구 논현로 843 2층, 4층",
+      "name_matched": "더리젠성형외과의원",
+      "query": "PS센터 서울",
+      "cached_at": "2026-05-17T16:02:36Z"
+    },
+    "euljiro_alternativespaceloop": {
+      "lat": 37.568387,
+      "lng": 126.99683,
+      "address": "서울특별시 중구 청계천로 172-1 3층",
+      "name_matched": "대안공간 루프",
+      "query": "대안공간루프 서울",
+      "cached_at": "2026-05-17T16:02:43Z"
+    },
+    "euljiro_ffseoul": {
+      "lat": 37.515016,
+      "lng": 126.886036,
+      "address": "서울특별시 영등포구 경인로71길 70 벽산디지털밸리 501호",
+      "name_matched": "FF STUDIO",
+      "query": "FF서울 서울",
+      "cached_at": "2026-05-17T16:02:53Z"
+    },
+    "euljiro_pilseungsa_art": {
+      "lat": 37.569284,
+      "lng": 126.99524,
+      "address": "서울특별시 종로구 청계천로 159 . 가동 라열 435호",
+      "name_matched": "시각미술연구소 필승사",
+      "query": "시각미술연구소 필승사 서울",
+      "cached_at": "2026-05-17T16:02:59Z"
+    },
+    "euljiro_pokettales": {
+      "lat": 37.566663,
+      "lng": 126.995532,
+      "address": "서울특별시 중구 을지로 157 대림상가 9층, 961호",
+      "name_matched": "포켓테일즈",
+      "query": "포켓테일즈 서울",
+      "cached_at": "2026-05-17T16:03:06Z"
+    },
+    "euljiro_coso_seoul": {
+      "lat": 37.558059,
+      "lng": 126.943189,
+      "address": "서울특별시 서대문구 신촌역로 16 신촌가이아 1층",
+      "name_matched": "코소",
+      "query": "COSO 서울",
+      "cached_at": "2026-05-17T16:03:13Z"
+    },
+    "euljiro_sahngupgallery": {
+      "lat": 37.566609,
+      "lng": 126.993946,
+      "address": "서울특별시 중구 을지로 143 4층",
+      "name_matched": "상업화랑",
+      "query": "상업화랑 을지로 서울",
+      "cached_at": "2026-05-17T16:03:19Z"
+    },
+    "euljiro_nslasha_kr": {
+      "lat": 37.566915,
+      "lng": 126.996441,
+      "address": "서울특별시 중구 창경궁로5길 27",
+      "name_matched": "엔에이",
+      "query": "N/A 서울",
+      "cached_at": "2026-05-17T16:03:28Z"
+    },
+    "euljiro_space_unit_plus": {
+      "lat": 37.566659,
+      "lng": 126.993944,
+      "address": "서울특별시 중구 을지로 143 1F",
+      "name_matched": "스페이스유닛플러스",
+      "query": "스페이스유닛+ 서울",
+      "cached_at": "2026-05-17T16:03:36Z"
+    },
+    "euljiro_gallerymos_official": {
+      "lat": 37.514045,
+      "lng": 126.900548,
+      "address": "서울특별시 영등포구 경인로 784-1 B1층 갤러리 모스",
+      "name_matched": "갤러리 모스",
+      "query": "갤러리모스 서울",
+      "cached_at": "2026-05-17T16:03:43Z"
+    },
+    "euljiro_gblue_gallery": {
+      "lat": 37.565226,
+      "lng": 126.992501,
+      "address": "서울특별시 중구 충무로5길 2 3층 302호",
+      "name_matched": "그블루 갤러리",
+      "query": "그블루갤러리 서울",
+      "cached_at": "2026-05-17T16:03:49Z"
+    },
+    "euljiro_cadalogs_space": {
+      "lat": 37.566485,
+      "lng": 126.989882,
+      "address": "서울특별시 중구 수표로 58-1 3층",
+      "name_matched": "스페이스 카다로그",
+      "query": "스페이스카다로그 서울",
+      "cached_at": "2026-05-17T16:04:03Z"
+    },
+    "euljiro_pco_seoul": {
+      "lat": 37.56864,
+      "lng": 126.98716,
+      "address": "서울특별시 종로구 청계천로 85 8층",
+      "name_matched": "한국PCO협회",
+      "query": "PCO 서울",
+      "cached_at": "2026-05-17T16:04:10Z"
+    },
+    "euljiro_artspace_hyeong": {
+      "lat": 37.570184,
+      "lng": 126.872592,
+      "address": "서울특별시 마포구 한강난지로 28",
+      "name_matched": "[[8월]] 25년 한강공원 난지캠핑장, 일반캠핑존 A형(2인용, 자갈형)",
+      "query": "공간 형 서울",
+      "cached_at": "2026-05-17T16:04:16Z"
+    },
+    "euljiro_eckeida": {
+      "lat": 37.561935,
+      "lng": 126.994528,
+      "address": "서울특별시 중구 퇴계로39길 12-7 1층",
+      "name_matched": "에케이다",
+      "query": "에케이다 서울",
+      "cached_at": "2026-05-17T16:04:23Z"
+    },
+    "euljiro_womanopentechlab": {
+      "lat": 37.563614,
+      "lng": 126.995833,
+      "address": "서울특별시 중구 마른내로 72 인현상가 세운메이커스큐브(상가 외부 데크) 중301호",
+      "name_matched": "여성을 위한 열린 기술랩",
+      "query": "여성을 위한 열린 기술랩 서울",
+      "cached_at": "2026-05-17T16:04:29Z"
+    },
+    "euljiro_separate_spaces": {
+      "lat": 37.562328,
+      "lng": 126.990125,
+      "address": "서울특별시 중구 삼일대로6길 20 3층 302호",
+      "name_matched": "세퍼럿 스페이시즈",
+      "query": "Separate Spaces 서울",
+      "cached_at": "2026-05-17T16:04:35Z"
+    },
+    "euljiro_paradise_cultural_foundation": {
+      "lat": 37.564133,
+      "lng": 127.004682,
+      "address": "서울특별시 중구 퇴계로 299 3층",
+      "name_matched": "파라다이스문화재단",
+      "query": "파라다이스문화재단 아트랩 서울",
+      "cached_at": "2026-05-17T16:04:42Z"
+    },
+    "euljiro_h_art1_euljiro": {
+      "lat": 37.5668,
+      "lng": 126.996618,
+      "address": "서울특별시 중구 을지로 167",
+      "name_matched": "하나은행 하트원",
+      "query": "하나은행 하트원 서울",
+      "cached_at": "2026-05-17T16:04:50Z"
+    },
+    "seoul_craft_museum": {
+      "lat": 37.576647,
+      "lng": 126.983379,
+      "address": "서울특별시 종로구 율곡로3길 4",
+      "name_matched": "서울공예박물관",
+      "query": "서울공예박물관 서울",
+      "cached_at": "2026-05-17T16:04:57Z"
+    },
+    "seoul_museum_seokpajeong": {
+      "lat": 37.564207,
+      "lng": 126.973773,
+      "address": "서울특별시 중구 덕수궁길 61",
+      "name_matched": "서울시립미술관",
+      "query": "서울미술관 서울",
+      "cached_at": "2026-05-17T16:05:08Z"
+    },
+    "apma_amorepacific": {
+      "lat": 37.528853,
+      "lng": 126.968623,
+      "address": "서울특별시 용산구 한강대로 100",
+      "name_matched": "아모레퍼시픽미술관",
+      "query": "아모레퍼시픽미술관 서울",
+      "cached_at": "2026-05-17T16:05:17Z"
+    },
+    "ilmin_museum": {
+      "lat": 37.569836,
+      "lng": 126.977696,
+      "address": "서울특별시 종로구 세종대로 152 일민미술관",
+      "name_matched": "일민미술관",
+      "query": "일민미술관 gwanghwamun",
+      "cached_at": "2026-05-17T16:05:25Z"
+    },
+    "artsonje_center": {
+      "lat": 37.579475,
+      "lng": 126.981837,
+      "address": "서울특별시 종로구 율곡로3길 87 아트선재센터",
+      "name_matched": "아트선재센터",
+      "query": "아트선재센터 서울",
+      "cached_at": "2026-05-17T16:05:35Z"
+    },
+    "keumsan_gallery": {
+      "lat": 37.559323,
+      "lng": 126.982934,
+      "address": "서울특별시 중구 소공로 46 B-103",
+      "name_matched": "금산갤러리",
+      "query": "금산갤러리 서울",
+      "cached_at": "2026-05-17T16:05:42Z"
+    },
+    "gallery_point": {
+      "lat": 37.566955,
+      "lng": 126.984916,
+      "address": "서울특별시 중구 을지로5길 16 지하 1층",
+      "name_matched": "갤러리 포인트",
+      "query": "갤러리포인트 서울",
+      "cached_at": "2026-05-17T16:05:49Z"
+    },
+    "kukje_gallery": {
+      "lat": 37.580701,
+      "lng": 126.980477,
+      "address": "서울특별시 종로구 삼청로 54",
+      "name_matched": "국제갤러리",
+      "query": "국제갤러리 서울",
+      "cached_at": "2026-05-17T16:05:57Z"
+    }
+  }
+}

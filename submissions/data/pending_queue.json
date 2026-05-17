@@ -1,7 +1,167 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T14:55:05Z",
+  "generated_at": "2026-05-17T16:06:06Z",
   "items": [
+    {
+      "id": "cd8efb980e27",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-05-17T16:06:02Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (homepage; 좌표=naver_geocode)",
+      "source_url": "https://www.kukjegallery.com/",
+      "source_urls": [
+        "https://www.kukjegallery.com/"
+      ],
+      "og_title": "KUKJE GALLERY",
+      "og_image": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Hong Seung-Hye On the Move",
+        "artists": "Hong Seung-Hye",
+        "venue_name": "KUKJE GALLERY Busan",
+        "start_date": "2026-04-24",
+        "end_date": "2026-06-14",
+        "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+        "description_summary": "쿡제갤러리 부산 공간에서 열리는 홍승혜 작가의 '이동 중(On the Move)' 전시.",
+        "confidence": 0.85
+      },
+      "status": "pending",
+      "venue_key": "kukje_gallery",
+      "venue_name": "국제갤러리",
+      "title": "Hong Seung-Hye On the Move",
+      "artists": "Hong Seung-Hye",
+      "start_date": "2026-04-24",
+      "end_date": "2026-06-14",
+      "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+      "lat": 37.580701,
+      "lng": 126.980477,
+      "address": "서울특별시 종로구 삼청로 54",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "aa4378da3039",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-05-17T16:03:31Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=naver_geocode)",
+      "source_url": "https://nslasha.kr/",
+      "source_urls": [
+        "https://www.instagram.com/nslasha.kr/",
+        "https://nslasha.kr/"
+      ],
+      "og_title": "N/A",
+      "og_image": "http://nslasha.kr/na/n_a_preview.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Envelopes",
+        "artists": "Donghoon Gang, Siyi Li",
+        "venue_name": "N/A",
+        "start_date": "2026-03-06",
+        "end_date": "2026-04-12",
+        "thumbnail": "http://nslasha.kr/na/n_a_preview.jpg",
+        "description_summary": "N/A 갤러리에서 개최되는 Donghoon Gang과 Siyi Li의 전시.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "euljiro_nslasha_kr",
+      "venue_name": "N/A",
+      "title": "Envelopes",
+      "artists": "Donghoon Gang, Siyi Li",
+      "start_date": "2026-03-06",
+      "end_date": "2026-04-12",
+      "thumbnail": "http://nslasha.kr/na/n_a_preview.jpg",
+      "lat": 37.566915,
+      "lng": 126.996441,
+      "address": "서울특별시 중구 창경궁로5길 27",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "557ce7e5df62",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-05-17T16:03:08Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=naver_geocode)",
+      "source_url": "https://pokettales.com/",
+      "source_urls": [
+        "https://www.instagram.com/pokettales/",
+        "https://pokettales.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Patterned Impressions",
+        "artists": "Camille Biddell",
+        "venue_name": "포켓테일즈",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "EP 5 2026 전시 시리즈의 첫 번째 전시로, Camille Biddell의 작업을 선보이는 전시.",
+        "confidence": 0.65,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "euljiro_pokettales",
+      "venue_name": "포켓테일즈",
+      "title": "Patterned Impressions",
+      "artists": "Camille Biddell",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "",
+      "lat": 37.566663,
+      "lng": 126.995532,
+      "address": "서울특별시 중구 을지로 157 대림상가 9층, 961호",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "80c0aebc9726",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-05-17T16:02:48Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=naver_geocode)",
+      "source_url": "http://altspaceloop.com/",
+      "source_urls": [
+        "https://www.instagram.com/alternativespaceloop/",
+        "http://altspaceloop.com/"
+      ],
+      "og_title": "LOOP",
+      "og_image": "http://altspaceloop.com/assets/images/og-image.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "FAS Festival 2026: Feminism as a Method",
+        "artists": "Dohoo Kim, Minsun Kim, Jiahn Kim, Jiye Kim, Hyesu Kim, Nam Hana, Okyoung Noh, Nohae, Dantaé Garee Elliott, Moor Minju, Moon Arreum, Jiseon Min, Celestína Minichová, Dahyun Song, Bomi Ahn, Ahn Jae Woo, U Eun, Heesook Yoon, Jaehun, Jeon Suhyun, Minchae Cho, Elly Cho, Ju Jeongmi, Jisoo, Hyuna Ji, Hyein Choi, Kaya, Pooja Seshadri, Hadong, Jihyoung Han",
+        "venue_name": "Alternative Space LOOP",
+        "start_date": "2026-05-07",
+        "end_date": "2026-05-13",
+        "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
+        "description_summary": "사운드 아트 코리아가 주최하는 페스티벌로, 페미니즘을 방법론으로 삼아 다양한 예술가들이 참여하는 국제 교류 전시. 매일 10:00-19:00 운영.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "euljiro_alternativespaceloop",
+      "venue_name": "대안공간루프",
+      "title": "FAS Festival 2026: Feminism as a Method",
+      "artists": "Dohoo Kim, Minsun Kim, Jiahn Kim, Jiye Kim, Hyesu Kim, Nam Hana, Okyoung Noh, Nohae, Dantaé Garee Elliott, Moor Minju, Moon Arreum, Jiseon Min, Celestína Minichová, Dahyun Song, Bomi Ahn, Ahn Jae Woo, U Eun, Heesook Yoon, Jaehun, Jeon Suhyun, Minchae Cho, Elly Cho, Ju Jeongmi, Jisoo, Hyuna Ji, Hyein Choi, Kaya, Pooja Seshadri, Hadong, Jihyoung Han",
+      "start_date": "2026-05-07",
+      "end_date": "2026-05-13",
+      "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
+      "lat": 37.568387,
+      "lng": 126.99683,
+      "address": "서울특별시 중구 청계천로 172-1 3층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
     {
       "id": "b5e4cb5e42cc",
       "source": "gallery_crawler",
