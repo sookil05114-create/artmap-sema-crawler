@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T22:39:28Z",
+  "generated_at": "2026-05-18T23:42:46Z",
   "source": "sema",
   "venue_count": 5,
   "venues": [
@@ -54,19 +54,9 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "1b568dc5dc5c",
-          "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
-          "start_date": "2025-09-02",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "bd8a5f6ebb44",
           "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",

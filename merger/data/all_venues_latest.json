@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T22:40:14Z",
+  "generated_at": "2026-05-18T23:43:13Z",
   "sources": [
     "sema",
     "mmca",
     "submissions"
   ],
-  "venue_count": 17,
+  "venue_count": 16,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -63,20 +63,9 @@
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
       "category": "",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "1b568dc5dc5c",
-          "title": "유휴공간 전시 《지구울림 ― 헤르츠앤도우》",
-          "artists": "",
-          "start_date": "2025-09-02",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=974127",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "bd8a5f6ebb44",
           "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
@@ -544,31 +533,6 @@
       ]
     },
     {
-      "venue_key": "euljiro_pokettales",
-      "venue_name": "포켓테일즈",
-      "region": "seoul",
-      "address": "서울특별시 중구 을지로 157 대림상가 9층, 961호",
-      "lat": 37.566663,
-      "lng": 126.995532,
-      "official_url": "https://pokettales.com/",
-      "category": "갤러리",
-      "active_count": 1,
-      "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "557ce7e5df62",
-          "title": "Patterned Impressions",
-          "artists": "Camille Biddell",
-          "start_date": "",
-          "end_date": "",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://pokettales.com/",
-          "price": ""
-        }
-      ]
-    },
-    {
       "venue_key": "seoul_craft_museum",
       "venue_name": "서울공예박물관",
       "region": "seoul",
@@ -577,9 +541,20 @@
       "lng": 126.983379,
       "official_url": "https://craftmuseum.seoul.go.kr/main",
       "category": "박물관",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "a903037f0746",
+          "title": "색유만개: 권순형 기증특별전시",
+          "artists": "권순형",
+          "start_date": "2026-05-12",
+          "end_date": "2026-08-02",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://craftmuseum.seoul.go.kr/main",
+          "price": ""
+        },
         {
           "id": "bd95331abfea",
           "title": "색유만개 : 권순형 기증특별전시",
@@ -723,7 +698,7 @@
           "start_date": "2026-05-29",
           "end_date": "2026-06-07",
           "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051404403761612277.png",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051802304277614945.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202605140002074&exhFlag=2",
           "price": "무료"
         }
