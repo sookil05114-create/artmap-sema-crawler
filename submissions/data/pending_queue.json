@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-18T09:45:04Z",
+  "generated_at": "2026-05-18T09:45:09Z",
   "items": [
     {
       "id": "a903037f0746",
@@ -147,7 +147,7 @@
           "homepage"
         ]
       },
-      "status": "approved",
+      "status": "rejected",
       "venue_key": "euljiro_pokettales",
       "venue_name": "포켓테일즈",
       "title": "Patterned Impressions",
@@ -160,7 +160,7 @@
       "address": "서울특별시 중구 을지로 157 대림상가 9층, 961호",
       "region": "seoul",
       "category": "갤러리",
-      "reviewed_at": "2026-05-17T16:24:03.464Z"
+      "reviewed_at": "2026-05-18T09:45:09.080Z"
     },
     {
       "id": "80c0aebc9726",
