@@ -1,7 +1,44 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-17T17:14:43Z",
+  "generated_at": "2026-05-18T00:16:39Z",
   "items": [
+    {
+      "id": "a903037f0746",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-05-18T00:15:48Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (homepage; 좌표=cache)",
+      "source_url": "https://craftmuseum.seoul.go.kr/main",
+      "source_urls": [
+        "https://craftmuseum.seoul.go.kr/main"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "색유만개: 권순형 기증특별전시",
+        "artists": "권순형",
+        "venue_name": "서울공예박물관 전시1동 1층 로비, 안내동 일부",
+        "start_date": "2026-05-12",
+        "end_date": "2026-08-02",
+        "thumbnail": null,
+        "description_summary": "색으로 도자를 다시 쓴 한국 현대공예 선구자 권순형의 기증 특별전시로, 현대공예의 색채미를 선보인다.",
+        "confidence": 0.95
+      },
+      "status": "pending",
+      "venue_key": "seoul_craft_museum",
+      "venue_name": "서울공예박물관",
+      "title": "색유만개: 권순형 기증특별전시",
+      "artists": "권순형",
+      "start_date": "2026-05-12",
+      "end_date": "2026-08-02",
+      "thumbnail": "",
+      "lat": 37.576647,
+      "lng": 126.983379,
+      "address": "서울특별시 종로구 율곡로3길 4",
+      "region": "seoul",
+      "category": "박물관"
+    },
     {
       "id": "cd8efb980e27",
       "source": "gallery_crawler",
