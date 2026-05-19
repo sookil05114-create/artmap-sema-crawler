@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T23:42:46Z",
+  "generated_at": "2026-05-19T23:45:11Z",
   "source": "sema",
   "venue_count": 5,
   "venues": [
@@ -11,8 +11,8 @@
       "lat": 37.5641,
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
-      "active_count": 2,
-      "upcoming_count": 1,
+      "active_count": 3,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "aebb8561f013",
@@ -39,7 +39,7 @@
           "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
           "start_date": "2026-05-19",
           "end_date": "2026-10-25",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
           "url": "",
           "price": "무료"

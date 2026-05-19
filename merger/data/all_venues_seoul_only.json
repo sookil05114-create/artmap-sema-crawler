@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T23:43:13Z",
+  "generated_at": "2026-05-19T23:45:53Z",
   "sources": [
     "sema",
     "mmca",
@@ -16,8 +16,8 @@
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
       "category": "",
-      "active_count": 2,
-      "upcoming_count": 1,
+      "active_count": 3,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "aebb8561f013",
@@ -47,7 +47,7 @@
           "artists": "",
           "start_date": "2026-05-19",
           "end_date": "2026-10-25",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
           "url": "",
           "price": "무료"
@@ -294,7 +294,7 @@
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
           "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012105052518619667.jpg",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
           "price": "-"
         },
