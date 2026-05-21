@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-18T09:45:09Z",
+  "generated_at": "2026-05-21T03:56:44Z",
   "items": [
     {
       "id": "a903037f0746",
@@ -105,7 +105,7 @@
           "homepage"
         ]
       },
-      "status": "approved",
+      "status": "rejected",
       "venue_key": "euljiro_nslasha_kr",
       "venue_name": "N/A",
       "title": "Envelopes",
@@ -118,7 +118,7 @@
       "address": "서울특별시 중구 창경궁로5길 27",
       "region": "seoul",
       "category": "갤러리",
-      "reviewed_at": "2026-05-17T16:23:54.231Z"
+      "reviewed_at": "2026-05-21T03:56:44.045Z"
     },
     {
       "id": "557ce7e5df62",
