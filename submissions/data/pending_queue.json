@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T05:58:57Z",
+  "generated_at": "2026-05-25T06:35:31Z",
   "items": [
     {
       "id": "41e2e916647d",
@@ -29,7 +29,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "euljiro_alternativespaceloop",
       "venue_name": "대안공간루프",
       "title": "leesima Solo Exhibition: the orange revile",
@@ -41,7 +41,8 @@
       "lng": 126.99683,
       "address": "서울특별시 중구 청계천로 172-1 3층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T06:35:31.908Z"
     },
     {
       "id": "a903037f0746",
