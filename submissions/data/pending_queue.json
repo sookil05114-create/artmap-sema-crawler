@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:07Z",
+  "generated_at": "2026-05-25T08:23:10Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -991,7 +991,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_page_room_8",
       "venue_name": "페이지룸8",
       "title": "표석 HEAD STONE",
@@ -1003,7 +1003,8 @@
       "lng": 126.9676475,
       "address": "서울 종로구 옥인길 18",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:10.375Z"
     },
     {
       "id": "538e49ebc917",
