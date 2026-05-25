@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:35Z",
+  "generated_at": "2026-05-25T08:22:39Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -659,7 +659,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_johyeonhwarang_seoul",
       "venue_name": "조현화랑 서울",
       "title": "Lingering Silence",
@@ -671,7 +671,8 @@
       "lng": 127.0051533,
       "address": "서울 중구 동호로 249 서울 신라호텔 B1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:39.363Z"
     },
     {
       "id": "72b50cc36ce6",
