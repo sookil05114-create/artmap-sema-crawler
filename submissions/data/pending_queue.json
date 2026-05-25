@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:38Z",
+  "generated_at": "2026-05-25T08:23:42Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1325,11 +1325,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_hwangimisulgwan",
       "venue_name": "환기미술관",
       "title": "환기미술관 하이라이트",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-08",
       "end_date": "2026-06-07",
       "thumbnail": "http://whankimuseum.org/wp-content/uploads/2022/05/og-2.jpg",
@@ -1337,7 +1337,8 @@
       "lng": 126.9661217,
       "address": "서울 종로구 자하문로40길 63 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:23:39.238Z"
     },
     {
       "id": "528c3448d97c",
@@ -1446,7 +1447,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_choi_choi",
       "venue_name": "초이앤초이갤러리",
       "title": "Read My Lips",
@@ -1458,7 +1459,8 @@
       "lng": 126.9275406,
       "address": "서울 서대문구 연희로11가길 48-10",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:41.838Z"
     },
     {
       "id": "2e89b0d35046",
