@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:57Z",
+  "generated_at": "2026-05-25T08:23:01Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -865,11 +865,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "junggu_jungganjijeom_hana_dul",
       "venue_name": "중간지점 하나 / 둘",
       "title": "Potency",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "https://framerusercontent.com/images/fAX96XfS9B7vqS9xBJeXz5Lpukw.png",
@@ -877,7 +877,8 @@
       "lng": 126.9923596,
       "address": "서울 중구 을지로14길 15 장양빌딩 703호",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:01.405Z"
     },
     {
       "id": "113a57fab119",
