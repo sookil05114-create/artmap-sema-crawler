@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:52Z",
+  "generated_at": "2026-05-25T08:22:57Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -823,7 +823,7 @@
         "description_summary": "원숙하고 화려한 색채와 기하학적 형태를 결합한 감각적인 작품을 선보이는 미국 추상표현주의 거장 엔리코 엠브롤리의 초대전. 기하학적 미니멀리즘과 추상 표현주의가 결합된 스타일로, 회화, 조각, 판화 등 다양한 매체를 통해 깊이 있는 색채와 질감을 표현한다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_yuminateumyujieom",
       "venue_name": "유민아트뮤지엄",
       "title": "미국 추상표현주의 미술의 거장 Enrico Embroli 초대전",
@@ -835,7 +835,8 @@
       "lng": 127.0657586,
       "address": "서울 강남구 테헤란로108길 8 B1",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:22:57.542Z"
     },
     {
       "id": "744525b3eab3",
