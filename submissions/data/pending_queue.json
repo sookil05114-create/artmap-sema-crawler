@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:21:58Z",
+  "generated_at": "2026-05-25T08:22:03Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -281,7 +281,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_beuraungaelreori",
       "venue_name": "브라운갤러리",
       "title": "Precision & Art 정교함과 예술",
@@ -293,7 +293,8 @@
       "lng": 127.0581852,
       "address": "서울 강남구 테헤란로87길 46 호텔오크우드프리미어 코엑스센터 B2 18호",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:03.098Z"
     },
     {
       "id": "23b658b2dfd4",
