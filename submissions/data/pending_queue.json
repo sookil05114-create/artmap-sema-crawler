@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:49Z",
+  "generated_at": "2026-05-25T08:23:54Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1573,7 +1573,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreorisimon",
       "venue_name": "갤러리시몬",
       "title": "Round and Round",
@@ -1585,7 +1585,8 @@
       "lng": 126.9732514,
       "address": "서울 종로구 자하문로6길 20",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:50.413Z"
     },
     {
       "id": "24098923f380",
@@ -1738,7 +1739,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_myujieomhanmi_samcheong",
       "venue_name": "뮤지엄한미 삼청",
       "title": "모든 순간이 꽃봉오리인 것을: 육명심·홍순태·한정식·박영숙",
@@ -1750,7 +1751,8 @@
       "lng": 126.9806172,
       "address": "서울 종로구 삼청로9길 45",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:23:53.931Z"
     },
     {
       "id": "fd73a33095f8",
