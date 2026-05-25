@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:04Z",
+  "generated_at": "2026-05-25T08:23:07Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -949,7 +949,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_gallery_now",
       "venue_name": "갤러리나우",
       "title": "SOME",
@@ -961,7 +961,8 @@
       "lng": 127.0350152,
       "address": "서울 강남구 언주로152길 16",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:07.511Z"
     },
     {
       "id": "90adcc2fe3bd",
