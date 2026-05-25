@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:54Z",
+  "generated_at": "2026-05-25T08:23:58Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1698,7 +1698,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_arariogaelreori_seoul",
       "venue_name": "아라리오갤러리 서울",
       "title": "KANG Cheolgyu: Discarded Host",
@@ -1710,7 +1710,8 @@
       "lng": 126.9885265,
       "address": "서울 종로구 율곡로 85",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:58.645Z"
     },
     {
       "id": "cdead8b3f7bb",
@@ -1781,7 +1782,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_sun_gallery",
       "venue_name": "선화랑",
       "title": "Sebastián Espejo",
@@ -1793,7 +1794,8 @@
       "lng": 126.9856846,
       "address": "서울 종로구 인사동5길 8",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:55.255Z"
     },
     {
       "id": "158f5a97ba43",
