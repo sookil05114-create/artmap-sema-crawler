@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:15Z",
+  "generated_at": "2026-05-25T08:22:19Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -449,11 +449,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_operagaelreori",
       "venue_name": "오페라갤러리",
       "title": "Regards sur l'art espagnol, 1945-2025",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-22",
       "end_date": "2026-06-17",
       "thumbnail": "",
@@ -461,7 +461,8 @@
       "lng": 127.0355021,
       "address": "서울 강남구 언주로164길 24 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:19.136Z"
     },
     {
       "id": "3647f29eb66c",
