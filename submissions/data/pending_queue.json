@@ -1,7 +1,48 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-21T03:56:44Z",
+  "generated_at": "2026-05-25T05:58:57Z",
   "items": [
+    {
+      "id": "41e2e916647d",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-05-25T05:56:09Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=cache)",
+      "source_url": "http://altspaceloop.com/",
+      "source_urls": [
+        "https://www.instagram.com/alternativespaceloop/",
+        "http://altspaceloop.com/"
+      ],
+      "og_title": "LOOP",
+      "og_image": "http://altspaceloop.com/assets/images/og-image.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "leesima Solo Exhibition: the orange revile",
+        "artists": "leesima",
+        "venue_name": "Alternative Space LOOP",
+        "start_date": "2026-05-22",
+        "end_date": "2026-06-20",
+        "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
+        "description_summary": "대안공간 루프 작가 공모 선정 전시. 퍼포먼스와 작가와의 대화 프로그램이 포함되어 있다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "euljiro_alternativespaceloop",
+      "venue_name": "대안공간루프",
+      "title": "leesima Solo Exhibition: the orange revile",
+      "artists": "leesima",
+      "start_date": "2026-05-22",
+      "end_date": "2026-06-20",
+      "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
+      "lat": 37.568387,
+      "lng": 126.99683,
+      "address": "서울특별시 중구 청계천로 172-1 3층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
     {
       "id": "a903037f0746",
       "source": "gallery_crawler",
