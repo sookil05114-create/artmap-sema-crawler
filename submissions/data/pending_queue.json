@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:31Z",
+  "generated_at": "2026-05-25T08:22:35Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -617,7 +617,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seocho_yesuruijeondang_hangaramdijainmisulgwan",
       "venue_name": "예술의전당 한가람디자인미술관",
       "title": "페르난도 보테로: 형태의 미학",
@@ -629,7 +629,8 @@
       "lng": 127.0127084,
       "address": "서울 서초구 남부순환로 2406",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:22:35.139Z"
     },
     {
       "id": "d9bda09685b3",
