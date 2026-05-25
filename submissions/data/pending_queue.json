@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:07Z",
+  "generated_at": "2026-05-25T08:22:11Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -365,7 +365,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_iyujingaelreori",
       "venue_name": "이유진갤러리",
       "title": "Painting II Comparatively Figurative",
@@ -377,7 +377,8 @@
       "lng": 127.0476558,
       "address": "서울 강남구 압구정로77길 17",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:10.998Z"
     },
     {
       "id": "30fd1ddfc074",
