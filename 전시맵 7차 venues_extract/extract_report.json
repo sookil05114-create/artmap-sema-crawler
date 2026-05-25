@@ -1,0 +1,77 @@
+{
+  "total_extracted": 130,
+  "by_sheet": {
+    "종로": {
+      "extracted": 72,
+      "verified_OK": 72,
+      "verification_pending": 0,
+      "skipped": {
+        "휴관": 6,
+        "X": 3,
+        "폐관": 5,
+        "제외": 0,
+        "진행중": 0,
+        "운영여부빈값": 2
+      },
+      "by_category": {
+        "미술관": 21,
+        "갤러리": 50,
+        "기타": 1
+      }
+    },
+    "중구": {
+      "extracted": 24,
+      "verified_OK": 24,
+      "verification_pending": 0,
+      "skipped": {
+        "휴관": 2,
+        "X": 0,
+        "폐관": 0,
+        "제외": 0,
+        "진행중": 0,
+        "운영여부빈값": 0
+      },
+      "by_category": {
+        "갤러리": 17,
+        "미술관": 5,
+        "기타": 2
+      }
+    },
+    "강남·서초": {
+      "extracted": 34,
+      "verified_OK": 33,
+      "verification_pending": 1,
+      "skipped": {
+        "휴관": 2,
+        "X": 3,
+        "폐관": 10,
+        "제외": 0,
+        "진행중": 0,
+        "운영여부빈값": 11
+      },
+      "by_category": {
+        "미술관": 6,
+        "갤러리": 27,
+        "기타": 1
+      }
+    }
+  },
+  "by_category_total": {
+    "미술관": 32,
+    "갤러리": 94,
+    "기타": 4
+  },
+  "by_verification_total": {
+    "verified": 129,
+    "pending": 1
+  },
+  "by_subregion_total": {
+    "jongno": 71,
+    "yongsan": 4,
+    "gangnam": 26,
+    "seongdong": 2,
+    "junggu": 23,
+    "seocho": 4
+  },
+  "manual_coord_count": 4
+}

@@ -1,0 +1,34 @@
+{
+  "_comment": "서울공예박물관 본관 + 어린이박물관 분관",
+  "source": "https://craftmuseum.seoul.go.kr",
+  "venues": [
+    {
+      "venue_key": "seoul_craft_museum",
+      "venue_name": "서울공예박물관",
+      "category": "박물관",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 율곡로3길 4",
+      "lat": 37.576647,
+      "lng": 126.983379,
+      "official_url": "https://craftmuseum.seoul.go.kr/main",
+      "list_url": "https://craftmuseum.seoul.go.kr/exhibit/plan/list/1",
+      "view_url_prefix": "https://craftmuseum.seoul.go.kr/exhibit/plan/view/",
+      "aliases": ["서울공예박물관", "SeMoCA"]
+    },
+    {
+      "venue_key": "seoul_craft_museum_kids",
+      "venue_name": "서울공예박물관 어린이박물관",
+      "category": "박물관 분관",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 율곡로3길 4",
+      "lat": 37.576647,
+      "lng": 126.983379,
+      "official_url": "https://craftmuseum.seoul.go.kr/chimsm/exhibit/plan/list/1",
+      "list_url": "https://craftmuseum.seoul.go.kr/chimsm/exhibit/plan/list/1",
+      "view_url_prefix": "https://craftmuseum.seoul.go.kr/chimsm/exhibit/plan/view/",
+      "aliases": ["어린이박물관", "공예 어린이박물관"]
+    }
+  ]
+}
