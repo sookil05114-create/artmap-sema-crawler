@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:24:18Z",
+  "generated_at": "2026-05-25T08:24:24Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1159,11 +1159,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_kiche",
       "venue_name": "갤러리 KICHE",
       "title": "Ball and Water Mold",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-21",
       "end_date": "2026-06-20",
       "thumbnail": "",
@@ -1171,7 +1171,8 @@
       "lng": 127.0039086,
       "address": "서울 성북구 창경궁로43길 27",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:24:23.957Z"
     },
     {
       "id": "bbdbc34f7c72",
@@ -1867,7 +1868,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gwanhungaelreori",
       "venue_name": "관훈갤러리",
       "title": "부품의 대가 - 사람들 (The Price of Parts - People)",
@@ -1879,7 +1880,8 @@
       "lng": 126.9842613,
       "address": "서울 종로구 인사동11길 11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:24:19.188Z"
     },
     {
       "id": "c92e0e022bb4",
