@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:34Z",
+  "generated_at": "2026-05-25T08:23:38Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1366,7 +1366,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreoridam",
       "venue_name": "갤러리담",
       "title": "Takeshi Machiya : Take Took",
@@ -1378,7 +1378,8 @@
       "lng": 126.9834402,
       "address": "서울 종로구 윤보선길 72",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:38.255Z"
     },
     {
       "id": "f2c03a40ade7",
