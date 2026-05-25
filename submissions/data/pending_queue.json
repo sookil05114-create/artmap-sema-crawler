@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:03Z",
+  "generated_at": "2026-05-25T08:22:07Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -323,7 +323,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_horiateuseupeiseu",
       "venue_name": "호리아트스페이스",
       "title": "HIDDEN BREATHS",
@@ -335,7 +335,8 @@
       "lng": 126.9811597,
       "address": "서울 종로구 삼청로7길 11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:07.655Z"
     },
     {
       "id": "f38a5f08d72f",
