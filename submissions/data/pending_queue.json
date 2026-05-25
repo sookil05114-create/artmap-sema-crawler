@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:10Z",
+  "generated_at": "2026-05-25T08:23:19Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1033,7 +1033,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_wolhamisul",
       "venue_name": "월하미술",
       "title": "고요한 귀로 歸路",
@@ -1045,7 +1045,8 @@
       "lng": 127.0686373,
       "address": "서울 동대문구 장한로 79",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:18.491Z"
     },
     {
       "id": "8855dc75d274",
