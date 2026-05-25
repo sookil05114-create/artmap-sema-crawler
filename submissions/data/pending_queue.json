@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:43Z",
+  "generated_at": "2026-05-25T08:22:47Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -743,11 +743,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_songeun",
       "venue_name": "송은",
       "title": "Spring Fever",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-02",
       "end_date": "2026-05-23",
       "thumbnail": "https://dbuuh2wfbpxcx.cloudfront.net/media/thumbnail/1200/1200/jpg/eyJpZCI6IjQ4NTVhZWVkZThkNThkOTM5OWU4NzU0ODM1NDg1M2Y0LmpwZyIsInN0b3JhZ2UiOiJzdG9yZSJ9?type=image%2Fjpeg&signature=ed158e05373c6213497a096020daaf4ce7536a357f14470a6d411248cd228f4e",
@@ -755,7 +755,8 @@
       "lng": 127.0441206,
       "address": "서울 강남구 도산대로 441",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:46.963Z"
     },
     {
       "id": "748def81efd2",
