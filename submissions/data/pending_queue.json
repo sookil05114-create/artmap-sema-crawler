@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:47Z",
+  "generated_at": "2026-05-25T08:22:52Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -785,7 +785,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongdong_d_gallery",
       "venue_name": "더페이지갤러리",
       "title": "Time Interface",
@@ -797,7 +797,8 @@
       "lng": 127.0427626,
       "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 G205",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:52.173Z"
     },
     {
       "id": "84a7e5b26a57",
