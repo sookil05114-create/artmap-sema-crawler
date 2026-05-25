@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:21:48Z",
+  "generated_at": "2026-05-25T08:21:51Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -155,7 +155,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_lina_gallery",
       "venue_name": "리나갤러리",
       "title": "Peace from Above",
@@ -167,7 +167,8 @@
       "lng": 127.0328542,
       "address": "서울 강남구 논현로142길 43",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:21:51.481Z"
     },
     {
       "id": "f13539f77d7d",
