@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:19Z",
+  "generated_at": "2026-05-25T08:23:28Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1075,7 +1075,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_hakgojae_ateusenteo",
       "venue_name": "학고재 아트센터",
       "title": "Rebirth: Becoming",
@@ -1087,7 +1087,8 @@
       "lng": 126.9804601,
       "address": "서울 종로구 삼청로 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:28.022Z"
     },
     {
       "id": "49f4902e8c5e",
