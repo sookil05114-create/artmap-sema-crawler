@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:28Z",
+  "generated_at": "2026-05-25T08:23:31Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1117,7 +1117,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_geurimson",
       "venue_name": "갤러리 그림손",
       "title": "김석호 개인전 Objetscape : 이후에 남는 것",
@@ -1129,7 +1129,8 @@
       "lng": 126.9861401,
       "address": "서울 종로구 인사동10길 22",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:29.792Z"
     },
     {
       "id": "576827f3cf3d",
@@ -1240,11 +1241,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_jahamisulgwan",
       "venue_name": "자하미술관",
       "title": "포레페스타 ForeFesta",
-      "artists": null,
+      "artists": "",
       "start_date": "2025-08-01",
       "end_date": "2025-09-30",
       "thumbnail": "",
@@ -1252,7 +1253,8 @@
       "lng": 126.9603187,
       "address": "서울 종로구 창의문로5가길 46 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:23:30.939Z"
     },
     {
       "id": "ec5b4c6670bf",
