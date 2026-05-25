@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:01Z",
+  "generated_at": "2026-05-25T08:23:04Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -907,7 +907,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_pyogaelreori",
       "venue_name": "표갤러리",
       "title": "Nature in, Nature out",
@@ -919,7 +919,8 @@
       "lng": 126.9708457,
       "address": "서울 종로구 자하문로5길 18-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:04.546Z"
     },
     {
       "id": "614105985711",
