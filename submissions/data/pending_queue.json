@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:31Z",
+  "generated_at": "2026-05-25T08:23:34Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1283,7 +1283,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_totalmisulgwan",
       "venue_name": "토탈미술관",
       "title": "World.exe: Eden and Its Shadow",
@@ -1295,7 +1295,8 @@
       "lng": 126.9756892,
       "address": "서울 종로구 평창32길 8 (평창동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:23:32.464Z"
     },
     {
       "id": "b26c41d81988",
@@ -1402,11 +1403,11 @@
         "description_summary": "미래의 씨앗을 주제로 한 전시로, 새로운 사회의 가능성과 비전을 탐색하는 작품들을 선보이는 전시",
         "confidence": 0.7
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_songwonateusenteo",
       "venue_name": "송원아트센터",
       "title": "The Seed of New Society",
-      "artists": null,
+      "artists": "",
       "start_date": "2018-07-20",
       "end_date": "2018-12-30",
       "thumbnail": "",
@@ -1414,7 +1415,8 @@
       "lng": 126.9834482,
       "address": "서울 종로구 윤보선길 75",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:34.524Z"
     },
     {
       "id": "6dd79250b5b5",
