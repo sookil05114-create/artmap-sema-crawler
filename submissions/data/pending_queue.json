@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:58Z",
+  "generated_at": "2026-05-25T08:24:18Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1657,7 +1657,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreoriijeu",
       "venue_name": "갤러리이즈",
       "title": "황인재 개인전",
@@ -1669,7 +1669,8 @@
       "lng": 126.9841615,
       "address": "서울 종로구 인사동길 52-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:59.665Z"
     },
     {
       "id": "d710f4ce54ad",
@@ -1824,11 +1825,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_ihwaikgaelreori",
       "venue_name": "이화익갤러리",
       "title": "파랑의 공간 들",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-07",
       "end_date": "2026-05-27",
       "thumbnail": "http://leehwaikgallery.com/img/logo.png",
@@ -1836,7 +1837,8 @@
       "lng": 126.98203,
       "address": "서울 종로구 율곡로3길 67 (안국동)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:24:18.013Z"
     },
     {
       "id": "862f6d5efe47",
