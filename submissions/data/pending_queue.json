@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:22:11Z",
+  "generated_at": "2026-05-25T08:22:15Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -407,7 +407,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_oeioeigaelreori",
       "venue_name": "오에이오에이갤러리",
       "title": "Micro-Disaster",
@@ -419,7 +419,8 @@
       "lng": 127.0570691,
       "address": "서울 강남구 삼성로63길 32-11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:22:15.174Z"
     },
     {
       "id": "4b0d43b843c3",
