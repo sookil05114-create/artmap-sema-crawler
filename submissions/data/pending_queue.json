@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:42Z",
+  "generated_at": "2026-05-25T08:23:45Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1489,7 +1489,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_topohauseu_ateusenteo",
       "venue_name": "토포하우스 아트센터",
       "title": "푸른 골목의 안쪽",
@@ -1501,7 +1501,8 @@
       "lng": 126.984313,
       "address": "서울 종로구 인사동11길 6",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:42.972Z"
     },
     {
       "id": "c307e7966faf",
@@ -1612,11 +1613,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_tonginhwarang",
       "venue_name": "통인화랑",
       "title": "TONG-IN 100 YEARS OF SOLITUDE",
-      "artists": null,
+      "artists": "",
       "start_date": "2024-10-30",
       "end_date": "",
       "thumbnail": "",
@@ -1624,7 +1625,8 @@
       "lng": 126.9858072,
       "address": "서울 종로구 인사동길 32",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:44.630Z"
     },
     {
       "id": "736a208edf73",
