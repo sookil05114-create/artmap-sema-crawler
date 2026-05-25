@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:23:45Z",
+  "generated_at": "2026-05-25T08:23:49Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1531,11 +1531,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreorisejul",
       "venue_name": "갤러리세줄",
       "title": "Flower & Abstract",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-01",
       "end_date": "2026-06-19",
       "thumbnail": "",
@@ -1543,7 +1543,8 @@
       "lng": 126.9751579,
       "address": "서울 종로구 평창30길 40",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:23:49.525Z"
     },
     {
       "id": "19b9c1a228ce",
