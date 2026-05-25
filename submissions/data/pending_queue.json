@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:21:51Z",
+  "generated_at": "2026-05-25T08:21:55Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -197,7 +197,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_igirigugaelreori",
       "venue_name": "이길이구갤러리",
       "title": "Hayoung Eum",
@@ -209,7 +209,8 @@
       "lng": 127.0215026,
       "address": "서울 강남구 강남대로158길 35",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:21:54.796Z"
     },
     {
       "id": "59e29969f1b0",
