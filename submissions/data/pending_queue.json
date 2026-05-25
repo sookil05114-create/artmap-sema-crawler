@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T08:24:24Z",
+  "generated_at": "2026-05-25T08:24:27Z",
   "items": [
     {
       "id": "11b27f21f3ff",
@@ -1201,7 +1201,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_jjjungjeonggaelreori",
       "venue_name": "JJ중정갤러리",
       "title": "Adrift | 유영",
@@ -1213,7 +1213,8 @@
       "lng": 126.9681162,
       "address": "서울 종로구 평창10길 7-12",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-25T08:24:24.588Z"
     },
     {
       "id": "12193394329a",
@@ -1910,7 +1911,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_ocimisulgwan",
       "venue_name": "OCI미술관",
       "title": "영원한 경이",
@@ -1922,7 +1923,8 @@
       "lng": 126.9821074,
       "address": "서울 종로구 우정국로 45-14",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:24:27.164Z"
     },
     {
       "id": "6a8643f2e5bf",
@@ -1951,11 +1953,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_seoulsirip_misurakaibeu",
       "venue_name": "서울시립 미술아카이브",
       "title": "알렉사에게",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-03-26",
       "end_date": "2026-07-26",
       "thumbnail": "",
@@ -1963,7 +1965,8 @@
       "lng": 126.9719266,
       "address": "서울시 종로구 평창문화로 101",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-25T08:24:25.413Z"
     },
     {
       "id": "41e2e916647d",
