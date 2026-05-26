@@ -720,10 +720,10 @@
     "matched_address": "서울특별시 강남구 압구정로77길 17"
   },
   "gangnam_313_art_project": {
-    "lat": null,
-    "lng": null,
-    "query": "313 ART PROJECT",
-    "confidence": "needs_manual",
+    "lat": 37.5949918,
+    "lng": 126.9893104,
+    "query": "313 ART PROJECT 서울시",
+    "confidence": "new",
     "matched_title": "313 ART PROJECT",
     "matched_address": "서울특별시 성북구 성북로31길 34 313 아트 프로젝트"
   },
@@ -816,10 +816,10 @@
     "matched_address": "서울특별시 강서구 마곡중앙8로 32"
   },
   "yongsan_gaelreorierd": {
-    "lat": null,
-    "lng": null,
+    "lat": 37.5215179,
+    "lng": 127.0485289,
     "query": "갤러리ERD 서울",
-    "confidence": "needs_manual",
+    "confidence": "new",
     "matched_title": "하우스 오브 핀 율 서울",
     "matched_address": "서울특별시 강남구 삼성로 741 덕암빌딩 1층"
   },
@@ -1078,12 +1078,12 @@
     "matched_address": "서울특별시 중구 소공로 46 B-103"
   },
   "gallery_point": {
-    "lat": null,
-    "lng": null,
-    "query": "갤러리포인트",
-    "confidence": "needs_manual",
-    "matched_title": "갤러리포인트",
-    "matched_address": "부산광역시 해운대구 해운대해변로 257"
+    "lat": 37.5669546,
+    "lng": 126.9849157,
+    "query": "갤러리포인트 서울",
+    "confidence": "new",
+    "matched_title": "갤러리 포인트",
+    "matched_address": "서울특별시 중구 을지로5길 16 지하 1층"
   },
   "kukje_gallery": {
     "lat": 37.5807006,
@@ -1093,5 +1093,546 @@
     "matched_title": "국제갤러리",
     "matched_address": "서울특별시 종로구 삼청로 54"
   },
-  "generated_at": "2026-05-25T11:58:26Z"
+  "yongsan_v_d929530652": {
+    "lat": 37.5420507,
+    "lng": 126.9690789,
+    "query": "상업화랑 용산 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "상업화랑 용산",
+    "matched_address": "서울특별시 용산구 원효로97길 26"
+  },
+  "yongsan_v_a1078304d2": {
+    "lat": 37.5364251,
+    "lng": 127.0121759,
+    "query": "갤러리바톤 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "갤러리바톤",
+    "matched_address": "서울특별시 용산구 독서당로 116 1층"
+  },
+  "yongsan_v_725fbd745b": {
+    "lat": 37.5380141,
+    "lng": 126.9994097,
+    "query": "리움미술관 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "리움미술관",
+    "matched_address": "서울특별시 용산구 이태원로55길 60-16"
+  },
+  "yongsan_v_f799103f1c": {
+    "lat": 37.5441105,
+    "lng": 126.9902292,
+    "query": "박여숙화랑 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "박여숙화랑",
+    "matched_address": "서울특별시 용산구 소월로38길 30-34 박여숙화랑"
+  },
+  "yongsan_v_40618ac755": {
+    "lat": 37.5384432,
+    "lng": 127.0013336,
+    "query": "페이스갤러리 서울 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "페이스갤러리",
+    "matched_address": "서울특별시 용산구 이태원로 267 페이스갤러리"
+  },
+  "yongsan_v_8100d2824a": {
+    "lat": 37.5380522,
+    "lng": 127.0006632,
+    "query": "갤러리조은 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "갤러리조은",
+    "matched_address": "서울특별시 용산구 이태원로55가길 3 골든너겟 빌딩 1층 갤러리 조은"
+  },
+  "yongsan_v_fae4283bf3": {
+    "lat": 37.5307928,
+    "lng": 126.9725424,
+    "query": "라흰갤러리",
+    "confidence": "suspect",
+    "matched_title": "La Heen Gallery",
+    "matched_address": "서울특별시 용산구 한강대로50길 38-7 라흰갤러리"
+  },
+  "yongsan_v_06eb86d6f8": {
+    "lat": 37.5383092,
+    "lng": 126.9942969,
+    "query": "갤러리에스피 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "갤러리에스피",
+    "matched_address": "서울특별시 용산구 회나무로44가길 30"
+  },
+  "yongsan_v_d2d167936c": {
+    "lat": 37.536852,
+    "lng": 127.0128664,
+    "query": "타데우스로팍 서울 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "타데우스 로팍 서울",
+    "matched_address": "서울특별시 용산구 독서당로 122-1 1, 2층"
+  },
+  "yongsan_v_d530e9f450": {
+    "lat": 37.5316595,
+    "lng": 127.0077538,
+    "query": "모노하 한남 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "모노하 한남",
+    "matched_address": "서울특별시 용산구 독서당로 36 모노하 한남"
+  },
+  "yongsan_v_80cf71354a": {
+    "lat": 37.5396013,
+    "lng": 126.997452,
+    "query": "가나아트 남산 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "가나아트 남산",
+    "matched_address": "서울특별시 용산구 소월로 322 L층"
+  },
+  "yongsan_v_fc1149a23f": {
+    "lat": 36.6295063,
+    "lng": 127.4896703,
+    "query": "필갤러리",
+    "confidence": "suspect",
+    "matched_title": "필갤러리",
+    "matched_address": "충청북도 청주시 상당구 상당로13번길 26 필겔러리"
+  },
+  "yongsan_v_e9960bfb05": {
+    "lat": 37.5541682,
+    "lng": 126.9782202,
+    "query": "화이트스톤갤러리 서울 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "화이트스톤갤러리",
+    "matched_address": "서울특별시 용산구 소월로 70"
+  },
+  "yongsan_lvs_craft": {
+    "lat": 37.5287912,
+    "lng": 126.9686735,
+    "query": "LVS CRAFT 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "LVS CRAFT 신용산",
+    "matched_address": "서울특별시 용산구 한강대로 100 아모레퍼시픽 본사 2층"
+  },
+  "yongsan_v_e2b0a35513": {
+    "lat": 37.5398647,
+    "lng": 126.989661,
+    "query": "휘슬 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "휘슬",
+    "matched_address": "서울특별시 용산구 회나무로13길 12 1층, 지하1층"
+  },
+  "yongsan_p21": {
+    "lat": 37.5401122,
+    "lng": 126.9938585,
+    "query": "P21 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "P21",
+    "matched_address": "서울특별시 용산구 회나무로 66"
+  },
+  "yongsan_v_7b9337098a": {
+    "lat": 37.5364754,
+    "lng": 126.9984339,
+    "query": "뉴스프링프로젝트 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "뉴스프링프로젝트",
+    "matched_address": "서울특별시 용산구 이태원로45길 22"
+  },
+  "yongsan_v_342d23fef8": {
+    "lat": 37.5245821,
+    "lng": 126.9666249,
+    "query": "디멘션갤러리 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "디멘션갤러리",
+    "matched_address": "서울특별시 용산구 한강대로14길 35-32 1층"
+  },
+  "yongsan_v_e4315d5de2": {
+    "lat": 37.5540407,
+    "lng": 126.9784555,
+    "query": "눈컨템포러리",
+    "confidence": "suspect",
+    "matched_title": "눈 컨템포러리",
+    "matched_address": "서울특별시 용산구 소월로 72"
+  },
+  "yongsan_v_e94dc905f1": {
+    "lat": 37.5377662,
+    "lng": 127.0017855,
+    "query": "아마도예술공간 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "아마도예술공간",
+    "matched_address": "서울특별시 용산구 이태원로54길 8"
+  },
+  "yongsan_v_5b44565266": {
+    "lat": 37.5424256,
+    "lng": 126.9927463,
+    "query": "어반아트 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "어반아트",
+    "matched_address": "서울특별시 용산구 소월로44길 7"
+  },
+  "yongsan_v_c0ce0399d0": {
+    "lat": 37.5393653,
+    "lng": 126.9671902,
+    "query": "캡션서울 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "캡션서울",
+    "matched_address": "서울특별시 용산구 원효로81길 5 2층"
+  },
+  "yongsan_v_6d6dc09dd4": {
+    "lat": 37.5348308,
+    "lng": 126.9962052,
+    "query": "토마스 파크 클럼지 플레이스 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "토마스 파크 클럼지 플레이스",
+    "matched_address": "서울특별시 용산구 이태원로 199 4층"
+  },
+  "yongsan_v_998c88e1fb": {
+    "lat": 37.5382464,
+    "lng": 127.0028449,
+    "query": "히피한남",
+    "confidence": "suspect",
+    "matched_title": "히피 한남",
+    "matched_address": "서울특별시 용산구 한남대로27가길 26-20 1층"
+  },
+  "yongsan_v_3218026cac": {
+    "lat": 37.5226783,
+    "lng": 126.9779352,
+    "query": "국립중앙박물관 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "투썸플레이스 국립중앙박물관3점",
+    "matched_address": "서울특별시 용산구 서빙고로 137"
+  },
+  "yongsan_v_1afb74bc02": {
+    "lat": 37.5371049,
+    "lng": 127.0044368,
+    "query": "매스갤러리 한남 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "매스갤러리 한남",
+    "matched_address": "서울특별시 용산구 한남대로 91 나인원 한남 고메이 494 G층"
+  },
+  "yongsan_v_82f34a42ae": {
+    "lat": 37.5434754,
+    "lng": 127.0030782,
+    "query": "디스위켄드룸 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "디스위켄드룸",
+    "matched_address": "서울특별시 용산구 한남대로42길 30 1층"
+  },
+  "yongsan_komplex": {
+    "lat": 37.5510836,
+    "lng": 126.9768376,
+    "query": "Komplex",
+    "confidence": "suspect",
+    "matched_title": "콤플렉스",
+    "matched_address": "서울특별시 용산구 후암로 59 2층"
+  },
+  "yongsan_v_65b5f85b8b": {
+    "lat": 37.5362657,
+    "lng": 127.0049872,
+    "query": "그라운드시소 한남 서울 용산구",
+    "confidence": "ok",
+    "matched_title": "그라운드시소 한남",
+    "matched_address": "서울특별시 용산구 한남대로 91 고메이494 한남 B층, 그라운드시소 한남"
+  },
+  "mapo_v_48d3ac28a9": {
+    "lat": 37.5715312,
+    "lng": 126.935569,
+    "query": "박서보재단 서울",
+    "confidence": "suspect",
+    "matched_title": "박서보재단",
+    "matched_address": "서울특별시 서대문구 연희로24길 9-2"
+  },
+  "mapo_v_c8ed0c7725": {
+    "lat": 37.5602136,
+    "lng": 126.9212316,
+    "query": "챕터투 서울 마포구",
+    "confidence": "ok",
+    "matched_title": "챕터투",
+    "matched_address": "서울특별시 마포구 동교로27길 54"
+  },
+  "mapo_v_0af6086a": {
+    "lat": 37.577145,
+    "lng": 126.9318146,
+    "query": "갤러리 인HQ 서울 서대문구",
+    "confidence": "ok",
+    "matched_title": "갤러리 인 HQ",
+    "matched_address": "서울특별시 서대문구 홍연길 97 1F/ B1"
+  },
+  "mapo_v_b7973129d3": {
+    "lat": 37.5701011,
+    "lng": 126.9295136,
+    "query": "스페이스애프터 서울 서대문구",
+    "confidence": "ok",
+    "matched_title": "스페이스애프터",
+    "matched_address": "서울특별시 서대문구 연희로15길 64 B1"
+  },
+  "mapo_v_549ffba9d0": {
+    "lat": 37.5663107,
+    "lng": 126.9344661,
+    "query": "온에어갤러리 서울 서대문구",
+    "confidence": "ok",
+    "matched_title": "온에어갤러리",
+    "matched_address": "서울특별시 서대문구 연희로14길 62-57 온에어갤러리"
+  },
+  "mapo_v_c8ce1004ff": {
+    "lat": 37.5624931,
+    "lng": 126.9202856,
+    "query": "CR Collective 서울",
+    "confidence": "suspect",
+    "matched_title": "CR Collective",
+    "matched_address": "서울특별시 마포구 성미산로 120 일심빌딩 2층"
+  },
+  "mapo_v_5a38aa2053": {
+    "lat": 37.552479,
+    "lng": 126.9209321,
+    "query": "레드로드예술실험센터 서울 마포구",
+    "confidence": "ok",
+    "matched_title": "레드로드예술실험센터",
+    "matched_address": "서울특별시 마포구 잔다리로6길 33"
+  },
+  "mapo_v_c1316d9d7e": {
+    "lat": 37.5534479,
+    "lng": 126.9177704,
+    "query": "온수공간 서울 마포구",
+    "confidence": "ok",
+    "matched_title": "온수공간",
+    "matched_address": "서울특별시 마포구 월드컵북로1길 74"
+  },
+  "mapo_www_space": {
+    "lat": 37.5552506,
+    "lng": 126.9037499,
+    "query": "WWW SPACE 서울 마포구",
+    "confidence": "ok",
+    "matched_title": "WWW SPACE",
+    "matched_address": "서울특별시 마포구 망원로6길 37 지하1층"
+  },
+  "mapo_v_00d8331098": {
+    "lat": 37.5742868,
+    "lng": 126.9259985,
+    "query": "팩션 서울 서대문구",
+    "confidence": "ok",
+    "matched_title": "팩션",
+    "matched_address": "서울특별시 서대문구 홍제천로6길 26 지하1층"
+  },
+  "mapo_v_04911c65d7": {
+    "lat": 37.5931181,
+    "lng": 126.9440319,
+    "query": "래빗앤타이거 서울 서대문구",
+    "confidence": "ok",
+    "matched_title": "래빗앤타이거",
+    "matched_address": "서울특별시 서대문구 세검정로1길 46 1층"
+  },
+  "seongbuk_v_4d7461f17f": {
+    "lat": 37.6409659,
+    "lng": 127.0667885,
+    "query": "서울시립 북서울미술관 서울 노원구",
+    "confidence": "ok",
+    "matched_title": "서울시립 북서울미술관",
+    "matched_address": "서울특별시 노원구 동일로 1238"
+  },
+  "dobong_v_dd23d120a3": {
+    "lat": 37.655482,
+    "lng": 127.0487773,
+    "query": "서울시립 사진미술관 서울 도봉구",
+    "confidence": "ok",
+    "matched_title": "서울 시립사진미술관 민영 주차장",
+    "matched_address": "서울특별시 도봉구 마들로13길 68"
+  },
+  "seongbuk_v_ae499090eb": {
+    "lat": 37.594829,
+    "lng": 126.9948995,
+    "query": "성북구립미술관 서울 성북구",
+    "confidence": "ok",
+    "matched_title": "성북구립미술관",
+    "matched_address": "서울특별시 성북구 성북로 134"
+  },
+  "seongbuk_v_5c6a41c318": {
+    "lat": 37.6106627,
+    "lng": 127.0042834,
+    "query": "성북구립 최만린미술관 서울 성북구",
+    "confidence": "ok",
+    "matched_title": "성북구립 최만린미술관",
+    "matched_address": "서울특별시 성북구 솔샘로7길 23"
+  },
+  "eunpyeong_v_104cc78134": {
+    "lat": 37.6416329,
+    "lng": 126.9412376,
+    "query": "삼각산금암미술관 서울 은평구",
+    "confidence": "ok",
+    "matched_title": "삼각산금암미술관",
+    "matched_address": "서울특별시 은평구 진관길 21-2 삼각산금암미술관"
+  },
+  "nowon_v_682ba5c8bc": {
+    "lat": 37.6502349,
+    "lng": 127.0802907,
+    "query": "노원아트뮤지엄 서울 노원구",
+    "confidence": "ok",
+    "matched_title": "노원아트뮤지엄",
+    "matched_address": "서울특별시 노원구 중계로 181 4층"
+  },
+  "seongbuk_v_aceb96d6f4": {
+    "lat": 37.5900625,
+    "lng": 127.004135,
+    "query": "성북예술창작터 서울 성북구",
+    "confidence": "ok",
+    "matched_title": "성북예술창작터",
+    "matched_address": "서울특별시 성북구 성북로 23"
+  },
+  "jungnang_v_c5dad07638": {
+    "lat": 37.5985,
+    "lng": 127.0912806,
+    "query": "중랑아트센터 서울 중랑구",
+    "confidence": "ok",
+    "matched_title": "중랑아트센터",
+    "matched_address": "서울특별시 중랑구 망우로 353 이노시티 C동 B2F 중랑아트센터"
+  },
+  "seongbuk_v_caf1ee64fb": {
+    "lat": 37.5936279,
+    "lng": 126.9969241,
+    "query": "간송미술관 서울 성북구",
+    "confidence": "ok",
+    "matched_title": "간송미술관삼층석탑",
+    "matched_address": "서울특별시 성북구 성북로 102-11"
+  },
+  "seongbuk_bb_m": {
+    "lat": 37.5933838,
+    "lng": 126.9954009,
+    "query": "BB&M",
+    "confidence": "suspect",
+    "matched_title": "BB&amp;M",
+    "matched_address": "서울특별시 성북구 성북로23길 10"
+  },
+  "dobong_mess_mass": {
+    "lat": 37.6783397,
+    "lng": 127.0435281,
+    "query": "MESS MASS",
+    "confidence": "suspect",
+    "matched_title": "메스 매스",
+    "matched_address": "서울특별시 도봉구 도봉로169나길 32 401호"
+  },
+  "seongbuk_tinc": {
+    "lat": 37.5888345,
+    "lng": 127.0108654,
+    "query": "TINC 서울 성북구",
+    "confidence": "ok",
+    "matched_title": "TINC",
+    "matched_address": "서울특별시 성북구 동소문로10길 34-16"
+  },
+  "songpa_v_3328327af1": {
+    "lat": 37.512492,
+    "lng": 127.102829,
+    "query": "롯데뮤지엄 서울 송파구",
+    "confidence": "ok",
+    "matched_title": "롯데뮤지엄",
+    "matched_address": "서울특별시 송파구 올림픽로 300 롯데월드타워 7층"
+  },
+  "songpa_v_53ecff4b65": {
+    "lat": 37.5169172,
+    "lng": 127.1179749,
+    "query": "소마미술관 서울 송파구",
+    "confidence": "ok",
+    "matched_title": "소마미술관",
+    "matched_address": "서울특별시 송파구 올림픽로 424"
+  },
+  "songpa_v_d4a87dd36a": {
+    "lat": null,
+    "lng": null,
+    "confidence": "no_result",
+    "query": ""
+  },
+  "geumcheon_v_75b99b9f74": {
+    "lat": 37.4577976,
+    "lng": 126.8954095,
+    "query": "서울시립 서서울미술관 서울 금천구",
+    "confidence": "ok",
+    "matched_title": "서울시립 서서울미술관",
+    "matched_address": "서울특별시 금천구 시흥대로79길 65"
+  },
+  "gwanak_v_4903d075a2": {
+    "lat": 37.4760645,
+    "lng": 126.9795205,
+    "query": "서울시립 남서울미술관 서울 관악구",
+    "confidence": "ok",
+    "matched_title": "서울시립 남서울미술관",
+    "matched_address": "서울특별시 관악구 남부순환로 2076 서울시립미술관"
+  },
+  "geumcheon_v_559fa666af": {
+    "lat": 37.4688299,
+    "lng": 126.8919585,
+    "query": "금천예술공장 서울 금천구",
+    "confidence": "ok",
+    "matched_title": "금천예술공장",
+    "matched_address": "서울특별시 금천구 범안로15길 57 금천예술공장"
+  },
+  "yeongdeungpo_v_81b75e69": {
+    "lat": 37.514432,
+    "lng": 126.8957891,
+    "query": "스페이스 xx 서울 영등포구",
+    "confidence": "ok",
+    "matched_title": "space xx",
+    "matched_address": "서울특별시 영등포구 도림로128가길 1 B1"
+  },
+  "yeongdeungpo_alt1": {
+    "lat": 37.5260667,
+    "lng": 126.9289154,
+    "query": "ALT.1 더현대서울 서울 영등포구",
+    "confidence": "ok",
+    "matched_title": "ALT.1 더현대서울현대백화점",
+    "matched_address": "서울특별시 영등포구 여의도동 여의대로 108"
+  },
+  "seongdong_v_8df71e5086": {
+    "lat": 37.543826,
+    "lng": 127.0442175,
+    "query": "디뮤지엄 서울 성동구",
+    "confidence": "ok",
+    "matched_title": "디뮤지엄",
+    "matched_address": "서울특별시 성동구 왕십리로 83-21 디뮤지엄"
+  },
+  "seongdong_v_4bfa5335a6": {
+    "lat": 37.5369936,
+    "lng": 127.0557679,
+    "query": "오시선 서울 성동구",
+    "confidence": "ok",
+    "matched_title": "오시선",
+    "matched_address": "서울특별시 성동구 성덕정길 112"
+  },
+  "seongdong_v_5cbca32c8f": {
+    "lat": 37.5481744,
+    "lng": 127.0532505,
+    "query": "헬로우뮤지엄",
+    "confidence": "suspect",
+    "matched_title": "헬로우뮤지움",
+    "matched_address": "서울특별시 성동구 성수일로12길 20"
+  },
+  "jongno_futura_seoul": {
+    "lat": 37.5822738,
+    "lng": 126.9848149,
+    "query": "푸투라 서울 서울",
+    "confidence": "new",
+    "matched_title": "푸투라서울",
+    "matched_address": "서울특별시 종로구 북촌로 61 푸투라서울"
+  },
+  "jongno_arko_art_center": {
+    "lat": 37.5805408,
+    "lng": 127.0032406,
+    "query": "아르코미술관 서울",
+    "confidence": "new",
+    "matched_title": "아르코미술관",
+    "matched_address": "서울특별시 종로구 동숭길 3 한국문화예술위원회 아르코미술관"
+  },
+  "jongno_artside_gallery": {
+    "lat": 37.5782436,
+    "lng": 126.9729903,
+    "query": "아트사이드 갤러리 서울",
+    "confidence": "new",
+    "matched_title": "아트사이드 갤러리",
+    "matched_address": "서울특별시 종로구 자하문로6길 15 아트사이드 갤러리"
+  },
+  "junggu_french_embassy": {
+    "lat": 37.5612818,
+    "lng": 126.965031,
+    "query": "주한프랑스대사관저 서울",
+    "confidence": "new",
+    "matched_title": "주한 프랑스 대사관",
+    "matched_address": "서울특별시 서대문구 서소문로 43-12"
+  },
+  "yeouido_hanwha_pompidou": {
+    "lat": 37.5199203,
+    "lng": 126.9401102,
+    "query": "한화 퐁피두센터 서울",
+    "confidence": "new",
+    "matched_title": "퐁피두센터 한화",
+    "matched_address": "서울특별시 영등포구 63로 50 63빌딩 별관"
+  }
 }
