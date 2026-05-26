@@ -593,8 +593,8 @@
       "region": "seoul",
       "subregion": "",
       "address": "",
-      "lat": null,
-      "lng": null,
+      "lat": 37.5669546,
+      "lng": 126.9849157,
       "instagram_url": "https://www.instagram.com/point_by_gallerypoint/",
       "instagram_handle": "point_by_gallerypoint",
       "naver_map_url": "",
@@ -2278,8 +2278,8 @@
       "hours": "11:00~17:00(화-토)",
       "exhibit_channel": "인스타",
       "verification_status": "verified",
-      "lat": null,
-      "lng": null
+      "lat": 37.5949918,
+      "lng": 126.9893104
     },
     {
       "venue_key": "jongno_horiateuseupeiseu",
@@ -2496,8 +2496,8 @@
       "hours": "10:00~19:00(화-토)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "lat": null,
-      "lng": null
+      "lat": 37.5215179,
+      "lng": 127.0485289
     },
     {
       "venue_key": "gangnam_hideunemgaelreori",
@@ -2515,6 +2515,1358 @@
       "verification_status": "verified",
       "lat": 37.4998385,
       "lng": 127.0389433
+    },
+    {
+      "venue_key": "yongsan_v_d929530652",
+      "venue_name": "상업화랑 용산",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 원효로97길 26",
+      "lat": 37.5420507,
+      "lng": 126.9690789,
+      "official_url": "https://sahngupgallery.com/",
+      "instagram_url": "https://www.instagram.com/sahngupgallery/",
+      "aliases": [
+        "상업화랑 용산"
+      ],
+      "phone": "02-794-2226",
+      "email": "sahnggub@gmail.com",
+      "hours": "11:00~19:00(화-금), 13:00~18:00(토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified",
+      "auto_collected": "갤러리 자동"
+    },
+    {
+      "venue_key": "yongsan_v_a1078304d2",
+      "venue_name": "갤러리바톤",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 독서당로 116",
+      "lat": 37.5364251,
+      "lng": 127.0121759,
+      "official_url": "https://gallerybaton.com/",
+      "instagram_url": "https://www.instagram.com/gallerybaton",
+      "aliases": [
+        "Gallery Baton"
+      ],
+      "phone": "02-597-5701",
+      "email": "info@gallerybaton.com",
+      "hours": "10:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_725fbd745b",
+      "venue_name": "리움미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 이태원로55길 60-16",
+      "lat": 37.5380141,
+      "lng": 126.9994097,
+      "official_url": "https://www.leeumhoam.org/",
+      "instagram_url": "https://www.instagram.com/leeummuseumofart",
+      "aliases": [
+        "Leeum"
+      ],
+      "phone": "02-2014-6900",
+      "email": "leeum@samsungfoundation.org",
+      "hours": "10:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_f799103f1c",
+      "venue_name": "박여숙화랑",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 소월로38길 30-34",
+      "lat": 37.5441105,
+      "lng": 126.9902292,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/parkryusook",
+      "aliases": [
+        "박여숙화랑"
+      ],
+      "phone": "02-549-7576",
+      "email": "info@parkryusookgallery.com",
+      "hours": "10:00~18:00(일-금)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_40618ac755",
+      "venue_name": "페이스갤러리 서울",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 이태원로 262",
+      "lat": 37.5384432,
+      "lng": 127.0013336,
+      "official_url": "https://www.pacegallery.com/",
+      "instagram_url": "https://www.instagram.com/pacegallery/",
+      "aliases": [
+        "Pace Gallery"
+      ],
+      "phone": "02-790-9388",
+      "email": "seoul@pacegallery.com",
+      "hours": "11:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_8100d2824a",
+      "venue_name": "갤러리조은",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 이태원로55가길 3 골든너겟 빌딩 1층",
+      "lat": 37.5380522,
+      "lng": 127.0006632,
+      "official_url": "https://galleryjoeun.com/kor/main/",
+      "instagram_url": "https://www.instagram.com/galleryjoeun",
+      "aliases": [
+        "갤러리조은"
+      ],
+      "phone": "02-790-5889",
+      "email": "info@galleryjoeun.com",
+      "hours": "10:00~18:00(월-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_fae4283bf3",
+      "venue_name": "라흰갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한강대로50길 38-7",
+      "lat": 37.5307928,
+      "lng": 126.9725424,
+      "official_url": "https://www.laheengallery.com/",
+      "instagram_url": "https://www.instagram.com/laheen_gallery",
+      "aliases": [
+        "라흰갤러리"
+      ],
+      "phone": "02-534-2033",
+      "email": "info@lahin-gallery.com",
+      "hours": "11:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_06eb86d6f8",
+      "venue_name": "갤러리에스피",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 회나무로44가길 30",
+      "lat": 37.5383092,
+      "lng": 126.9942969,
+      "official_url": "https://www.gallerysp.com/",
+      "instagram_url": "https://www.instagram.com/gallery__sp/",
+      "aliases": [
+        "갤러리에스피"
+      ],
+      "phone": "02-546-3560",
+      "email": "info@galleryesp.kr",
+      "hours": "10:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_d2d167936c",
+      "venue_name": "타데우스로팍 서울",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 독서당로 122-1",
+      "lat": 37.536852,
+      "lng": 127.0128664,
+      "official_url": "https://ropac.net/ko/",
+      "instagram_url": "https://www.instagram.com/ThaddaeusRopac/",
+      "aliases": [
+        "Thaddaeus Ropac"
+      ],
+      "phone": "02-6949-1760",
+      "email": "seoul@ropac.net",
+      "hours": "10:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_d530e9f450",
+      "venue_name": "모노하 한남",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 독서당로 36",
+      "lat": 37.5316595,
+      "lng": 127.0077538,
+      "official_url": "https://monoha.com/",
+      "instagram_url": "https://www.instagram.com/monoha_craft/",
+      "aliases": [
+        "모노하 한남"
+      ],
+      "phone": "070-4150-7515",
+      "email": "info@monoha.co.kr",
+      "hours": "11:00~19:30(매일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_80cf71354a",
+      "venue_name": "가나아트 남산",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 소월로 322 L층",
+      "lat": 37.5396013,
+      "lng": 126.997452,
+      "official_url": "https://www.ganaart.com/",
+      "instagram_url": "https://www.instagram.com/ganaart__official/",
+      "aliases": [
+        "가나아트 남산"
+      ],
+      "phone": "02-395-5005",
+      "email": "info@ganaart.com",
+      "hours": "10:00~19:00(매일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_fc1149a23f",
+      "venue_name": "필갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 유엔빌리지길 24",
+      "lat": 36.6295063,
+      "lng": 127.4896703,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/fillgallery",
+      "aliases": [
+        "필갤러리"
+      ],
+      "phone": "02-795-0046",
+      "email": "info@gallery-phil.com",
+      "hours": "11:00~18:00(매일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_e9960bfb05",
+      "venue_name": "화이트스톤갤러리 서울",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 소월로 70",
+      "lat": 37.5541682,
+      "lng": 126.9782202,
+      "official_url": "https://www.whitestone-gallery.com/",
+      "instagram_url": "https://www.instagram.com/whitestonegallery.official/",
+      "aliases": [
+        "화이트스톤갤러리 서울"
+      ],
+      "phone": "02-318-1012",
+      "email": "info_seoul@whitestone-gallery.com",
+      "hours": "11:00~19:30(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_lvs_craft",
+      "venue_name": "LVS CRAFT",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한강대로 100 2층",
+      "lat": 37.5287912,
+      "lng": 126.9686735,
+      "official_url": "https://lvscraft.co.kr/",
+      "instagram_url": "https://www.instagram.com/lvscraft/",
+      "aliases": [
+        "LVS CRAFT"
+      ],
+      "phone": "0502-1925-7475",
+      "email": "info@lvsgallery.com",
+      "hours": "10:00~18:00(월-금)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_e2b0a35513",
+      "venue_name": "휘슬",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 회나무로13길 12 1층",
+      "lat": 37.5398647,
+      "lng": 126.989661,
+      "official_url": "https://whistlewhistle.kr/",
+      "instagram_url": "https://www.instagram.com/whistle_seoul",
+      "aliases": [
+        "Whistle"
+      ],
+      "phone": "02-794-4775",
+      "email": "info@notwhistle.com",
+      "hours": "13:00~19:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_p21",
+      "venue_name": "P21",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 회나무로 66",
+      "lat": 37.5401122,
+      "lng": 126.9938585,
+      "official_url": "https://p21.kr/",
+      "instagram_url": "https://www.instagram.com/p21.kr",
+      "aliases": [
+        "P21"
+      ],
+      "phone": "02-790-5503",
+      "email": "info@p21.kr",
+      "hours": "11:00~18:00(화-금)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_7b9337098a",
+      "venue_name": "뉴스프링프로젝트",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 이태원로45길 22",
+      "lat": 37.5364754,
+      "lng": 126.9984339,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/newspringproject",
+      "aliases": [
+        "NewSpring"
+      ],
+      "phone": "0507-1323-0222",
+      "email": "info@newspringproject.com",
+      "hours": "11:00~18:00(화-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_342d23fef8",
+      "venue_name": "디멘션갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한강대로14길 35-32 1층",
+      "lat": 37.5245821,
+      "lng": 126.9666249,
+      "official_url": "http://dimensiongallery.co.kr/",
+      "instagram_url": "https://www.instagram.com/art.dimension.seoul",
+      "aliases": [
+        "디멘션갤러리"
+      ],
+      "phone": "0507-1330-7594",
+      "email": "info@dimensiongallery.com",
+      "hours": "12:00~19:00(매일,예약제)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_e4315d5de2",
+      "venue_name": "눈컨템포러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 소월로 72",
+      "lat": 37.5540407,
+      "lng": 126.9784555,
+      "official_url": "https://www.nooncontemporary.com/",
+      "instagram_url": "https://www.instagram.com/nooncontemporary",
+      "aliases": [
+        "눈컨템포러리"
+      ],
+      "phone": "02-6958-7172",
+      "email": "info@nuncontemporary.com",
+      "hours": "12:00~18:00(수-일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_e94dc905f1",
+      "venue_name": "아마도예술공간",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 이태원로54길 8",
+      "lat": 37.5377662,
+      "lng": 127.0017855,
+      "official_url": "https://amadoart.org/",
+      "instagram_url": "https://www.instagram.com/amadoartspace/",
+      "aliases": [
+        "Amado Art Space"
+      ],
+      "phone": "02-790-1178",
+      "email": "amadoart@gmail.com",
+      "hours": "11:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_5b44565266",
+      "venue_name": "어반아트",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 소월로44길 7",
+      "lat": 37.5424256,
+      "lng": 126.9927463,
+      "official_url": "https://www.urbanart4u.com/",
+      "instagram_url": "https://www.instagram.com/urbanart_seoul",
+      "aliases": [
+        "어반아트"
+      ],
+      "phone": "02-511-2931",
+      "email": "urbanart4u@gmail.com",
+      "hours": "9:00~17:00(월-금,예약필수)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_c0ce0399d0",
+      "venue_name": "캡션서울",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 원효로81길 5 2층",
+      "lat": 37.5393653,
+      "lng": 126.9671902,
+      "official_url": "https://www.captionseoul.com/",
+      "instagram_url": "https://www.instagram.com/caption.seoul/",
+      "aliases": [
+        "Caption Seoul"
+      ],
+      "phone": "0507-1409-7995",
+      "email": "info@captionseoul.com",
+      "hours": "13:00~19:00(수-일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_6d6dc09dd4",
+      "venue_name": "토마스 파크 클럼지 플레이스",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 이태원로 199 4층",
+      "lat": 37.5348308,
+      "lng": 126.9962052,
+      "official_url": "https://thomaspark.site/",
+      "instagram_url": "https://www.instagram.com/thomasparkgallery/",
+      "aliases": [
+        "토마스 파크 클럼지 플레이스"
+      ],
+      "phone": "02-794-2973",
+      "email": "info@thomaspark.kr",
+      "hours": "11:00~18:00(수-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_998c88e1fb",
+      "venue_name": "히피한남",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한남대로27가길 26-20",
+      "lat": 37.5382464,
+      "lng": 127.0028449,
+      "official_url": "https://hippiehannam.com/",
+      "instagram_url": "https://www.instagram.com/hippie_hannam",
+      "aliases": [
+        "히피한남"
+      ],
+      "phone": "0507-1328-1846",
+      "email": "hippie.hannam@gmail.com",
+      "hours": "11:00~19:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_3218026cac",
+      "venue_name": "국립중앙박물관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 서빙고로 137",
+      "lat": 37.5226783,
+      "lng": 126.9779352,
+      "official_url": "https://www.museum.go.kr/MUSEUM/main/index.do",
+      "instagram_url": "https://www.instagram.com/nationalmuseumofkorea/",
+      "aliases": [
+        "국립중앙박물관"
+      ],
+      "phone": "02-2077-9000",
+      "email": "",
+      "hours": "9:30~17:30(월,화,목,금,일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_1afb74bc02",
+      "venue_name": "매스갤러리 한남",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한남대로 91 나인원 한남 고메이 494 G층",
+      "lat": 37.5371049,
+      "lng": 127.0044368,
+      "official_url": "https://www.massgallery.info/",
+      "instagram_url": "",
+      "aliases": [
+        "매스갤러리 한남"
+      ],
+      "phone": "02-6261-8877",
+      "email": "massartsplq@gmail.com",
+      "hours": "10:00~19:00(월-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_82f34a42ae",
+      "venue_name": "디스위켄드룸",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한남대로42길 30",
+      "lat": 37.5434754,
+      "lng": 127.0030782,
+      "official_url": "http://thisweekendroom.com/",
+      "instagram_url": "https://www.instagram.com/thisweekendroom_official",
+      "aliases": [
+        "ThisWeekendRoom"
+      ],
+      "phone": "070-8868-9120",
+      "email": "info@thisweekendroom.com",
+      "hours": "12:00~19:00(수-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_komplex",
+      "venue_name": "Komplex",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 후암로 59 2층",
+      "lat": 37.5510836,
+      "lng": 126.9768376,
+      "official_url": "https://www.komplex.kr/",
+      "instagram_url": "https://www.instagram.com/gallery_komplex",
+      "aliases": [
+        "Komplex"
+      ],
+      "phone": "0507-1494-2094",
+      "email": "info@komplex.kr",
+      "hours": "11:00~18:00(화-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yongsan_v_65b5f85b8b",
+      "venue_name": "그라운드시소 한남",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
+      "lat": 37.5362657,
+      "lng": 127.0049872,
+      "official_url": "https://groundseesaw.co.kr/",
+      "instagram_url": "https://www.instagram.com/groundseesaw/",
+      "aliases": [
+        "그라운드시소 한남"
+      ],
+      "phone": "0507-1370-6252",
+      "email": "",
+      "hours": "10:00~19:00",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_48d3ac28a9",
+      "venue_name": "박서보미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 서대문구 연희로24길 9-2",
+      "lat": 37.5715312,
+      "lng": 126.935569,
+      "official_url": "https://psbf.kr/",
+      "instagram_url": "https://www.instagram.com/parkseobo.foundation",
+      "aliases": [
+        "박서보재단"
+      ],
+      "phone": "0507-1430-0062",
+      "email": "info@parkseobo.org",
+      "hours": "매주 수요일 오후 2시 예약제",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_c8ed0c7725",
+      "venue_name": "챕터투",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 마포구 동교로27길 54",
+      "lat": 37.5602136,
+      "lng": 126.9212316,
+      "official_url": "https://chapterii.org/",
+      "instagram_url": "https://www.instagram.com/chapterii_",
+      "aliases": [
+        "Chapter II"
+      ],
+      "phone": "070-4895-1031",
+      "email": "info@chapterii.org",
+      "hours": "10:00~18:00(화-금)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_0af6086a",
+      "venue_name": "갤러리 인HQ",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 서대문구 홍연길 97",
+      "lat": 37.577145,
+      "lng": 126.9318146,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/_innsinn_/",
+      "aliases": [
+        "갤러리 인HQ"
+      ],
+      "phone": "0507-1393-2056",
+      "email": "info@galleryin.kr",
+      "hours": "11:00~19:00(월-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_b7973129d3",
+      "venue_name": "스페이스애프터",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 서대문구 연희로15길 64 B1",
+      "lat": 37.5701011,
+      "lng": 126.9295136,
+      "official_url": "https://www.spaceaefter.com/",
+      "instagram_url": "https://www.instagram.com/space_aefter",
+      "aliases": [
+        "스페이스애프터"
+      ],
+      "phone": "0507-1330-7512",
+      "email": "info@spaceafter.kr",
+      "hours": "12:00~19:00(수-일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_549ffba9d0",
+      "venue_name": "온에어갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 서대문구 연희로14길 62-57",
+      "lat": 37.5663107,
+      "lng": 126.9344661,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/onairgallery",
+      "aliases": [
+        "온에어갤러리"
+      ],
+      "phone": "0507-1405-8842",
+      "email": "info@onairgallery.com",
+      "hours": "12:00~19:00(화-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_c8ce1004ff",
+      "venue_name": "씨알콜렉티브",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 마포구 성미산로 120 일심빌딩 2층",
+      "lat": 37.5624931,
+      "lng": 126.9202856,
+      "official_url": "http://cr-collective.co.kr/",
+      "instagram_url": "https://www.instagram.com/cr_collective_",
+      "aliases": [
+        "CR Collective"
+      ],
+      "phone": "02-333-0022",
+      "email": "info@crcollective.org",
+      "hours": "12:00~18:00(화-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_5a38aa2053",
+      "venue_name": "레드로드예술실험센터",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 마포구 잔다리로6길 33",
+      "lat": 37.552479,
+      "lng": 126.9209321,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/artspace_redroad",
+      "aliases": [
+        "서교예술실험센터"
+      ],
+      "phone": "02-322-6163",
+      "email": "redroadas@naver.com",
+      "hours": "9:00~18:00(화-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_c1316d9d7e",
+      "venue_name": "온수공간",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 마포구 월드컵북로1길 74",
+      "lat": 37.5534479,
+      "lng": 126.9177704,
+      "official_url": "https://www.onsu-gonggan.com/",
+      "instagram_url": "https://www.instagram.com/os_gonggan",
+      "aliases": [
+        "온수공간"
+      ],
+      "phone": "070-7543-3767",
+      "email": "info@onsoogonggan.com",
+      "hours": "전시별로 다름",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_www_space",
+      "venue_name": "WWW SPACE",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 마포구 망원로6길 37 지하1층",
+      "lat": 37.5552506,
+      "lng": 126.9037499,
+      "official_url": "https://www.wwwspace.kr/",
+      "instagram_url": "https://www.instagram.com/www__space",
+      "aliases": [
+        "WWW SPACE"
+      ],
+      "phone": "010-6365-7241",
+      "email": "wwwspace.kr@gmail.com",
+      "hours": "12:00~19:00(수-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_00d8331098",
+      "venue_name": "팩션",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 서대문구 홍제천로6길 26 지하1층",
+      "lat": 37.5742868,
+      "lng": 126.9259985,
+      "official_url": "https://factionseoul.com/",
+      "instagram_url": "https://www.instagram.com/faction.seoul/",
+      "aliases": [
+        "Faction"
+      ],
+      "phone": "0507-1306-2618",
+      "email": "factionseoul@gmail.com",
+      "hours": "13:00~19:00(매일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "mapo_v_04911c65d7",
+      "venue_name": "래빗앤타이거",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "mapo",
+      "address": "서울 서대문구 세검정로1길 46",
+      "lat": 37.5931181,
+      "lng": 126.9440319,
+      "official_url": "https://www.rabbitandtigergallery.com/",
+      "instagram_url": "https://www.instagram.com/rabbitandtigergallery",
+      "aliases": [
+        "Rabbit & Tiger"
+      ],
+      "phone": "0507-1372-0527",
+      "email": "info@rabbitandtiger.com",
+      "hours": "13:00~19:00(화-일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongbuk_v_4d7461f17f",
+      "venue_name": "서울시립 북서울미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6409659,
+      "lng": 127.0667885,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
+      "aliases": [
+        "서울시립 북서울미술관"
+      ],
+      "phone": "02-2124-5201",
+      "email": "buksema@seoul.go.kr",
+      "hours": "10:00~20:00(화-목)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified",
+      "auto_collected": "SeMA 자동"
+    },
+    {
+      "venue_key": "dobong_v_dd23d120a3",
+      "venue_name": "서울시립 사진미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "dobong",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.655482,
+      "lng": 127.0487773,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
+      "aliases": [
+        "서울시립 사진미술관"
+      ],
+      "phone": "02-2124-7600",
+      "email": "smaphoto@seoul.go.kr",
+      "hours": "10:00~20:00(화-금)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified",
+      "auto_collected": "SeMA 자동"
+    },
+    {
+      "venue_key": "seongbuk_v_ae499090eb",
+      "venue_name": "성북구립미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 성북구 성북로 134",
+      "lat": 37.594829,
+      "lng": 126.9948995,
+      "official_url": "https://sma.sbculture.or.kr/sma/index.do",
+      "instagram_url": "https://www.instagram.com/seongbukmuseumofart/",
+      "aliases": [
+        "성북구립미술관"
+      ],
+      "phone": "02-6925-5011",
+      "email": "art@sb.go.kr",
+      "hours": "10:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongbuk_v_5c6a41c318",
+      "venue_name": "성북구립 최만린미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 성북구 솔샘로7길 23",
+      "lat": 37.6106627,
+      "lng": 127.0042834,
+      "official_url": "https://sma.sbculture.or.kr/cml/index.do",
+      "instagram_url": "https://www.instagram.com/seongbukmuseumofart/",
+      "aliases": [
+        "성북구립 최만린미술관"
+      ],
+      "phone": "02-6952-5016",
+      "email": "info@choemanlin.com",
+      "hours": "10:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "eunpyeong_v_104cc78134",
+      "venue_name": "삼각산금암미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "eunpyeong",
+      "address": "서울 은평구 진관길 21-2",
+      "lat": 37.6416329,
+      "lng": 126.9412376,
+      "official_url": "https://museum.ep.go.kr/",
+      "instagram_url": "https://www.instagram.com/eunpyeong_museum/",
+      "aliases": [
+        "삼각산금암미술관"
+      ],
+      "phone": "02-351-8554",
+      "email": "",
+      "hours": "9:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "nowon_v_682ba5c8bc",
+      "venue_name": "노원아트뮤지엄",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "nowon",
+      "address": "서울 노원구 중계로 181 4층",
+      "lat": 37.6502349,
+      "lng": 127.0802907,
+      "official_url": "https://www.nowonarts.kr/",
+      "instagram_url": "https://www.instagram.com/nowonfac/",
+      "aliases": [
+        "노원아트뮤지엄"
+      ],
+      "phone": "02-2289-3439",
+      "email": "nowonfac@nowonarts.kr",
+      "hours": "10:00~17:00(월-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongbuk_v_aceb96d6f4",
+      "venue_name": "성북예술창작터",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 성북구 성북로 23",
+      "lat": 37.5900625,
+      "lng": 127.004135,
+      "official_url": "https://sma.sbculture.or.kr/youngartspace/index.do",
+      "instagram_url": "https://www.instagram.com/sma.youngartspace/",
+      "aliases": [
+        "성북예술창작터"
+      ],
+      "phone": "02-2038-9989",
+      "email": "scc@sfac.or.kr",
+      "hours": "10:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "jungnang_v_c5dad07638",
+      "venue_name": "중랑아트센터",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "jungnang",
+      "address": "서울 중랑구 망우로 353 이노시티 C동 B2F",
+      "lat": 37.5985,
+      "lng": 127.0912806,
+      "official_url": "https://www.jnfac.or.kr/art/index",
+      "instagram_url": "https://www.instagram.com/jungnangartcenter",
+      "aliases": [
+        "중랑아트센터"
+      ],
+      "phone": "02-3407-6500",
+      "email": "kdu100@jnfac.or.kr",
+      "hours": "10:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongbuk_v_caf1ee64fb",
+      "venue_name": "간송미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 성북구 성북로 102-11",
+      "lat": 37.5936279,
+      "lng": 126.9969241,
+      "official_url": "https://kansong.org/",
+      "instagram_url": "https://www.instagram.com/kansongart",
+      "aliases": [
+        "간송미술관"
+      ],
+      "phone": "02-744-7830",
+      "email": "kansong@kansong.org",
+      "hours": "10:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongbuk_bb_m",
+      "venue_name": "BB&M",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 성북구 성북로23길 10",
+      "lat": 37.5933838,
+      "lng": 126.9954009,
+      "official_url": "https://www.gallerybbm.com/ko/",
+      "instagram_url": "https://www.instagram.com/gallerybbm/",
+      "aliases": [
+        "BB&M"
+      ],
+      "phone": "02-3674-7773",
+      "email": "bbnm.contact@gmail.com",
+      "hours": "11:00~18:00(화-토)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "dobong_mess_mass",
+      "venue_name": "MESS MASS",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "dobong",
+      "address": "서울 도봉구 도봉로169나길 32 401호",
+      "lat": 37.6783397,
+      "lng": 127.0435281,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/messmass2025",
+      "aliases": [
+        "MESS MASS"
+      ],
+      "phone": "0507-1423-3508",
+      "email": "info@messmass.kr",
+      "hours": "13:00~19:30(수-일)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongbuk_tinc",
+      "venue_name": "TINC",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울 성북구 동소문로10길 34-16",
+      "lat": 37.5888345,
+      "lng": 127.0108654,
+      "official_url": "https://t-i-n-c.com/",
+      "instagram_url": "https://www.instagram.com/this_is_not_a_church/",
+      "aliases": [
+        "TINC"
+      ],
+      "phone": "",
+      "email": "info@tinc.kr",
+      "hours": "",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "songpa_v_3328327af1",
+      "venue_name": "롯데뮤지엄",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "songpa",
+      "address": "서울 송파구 올림픽로 300 롯데월드타워 7층",
+      "lat": 37.512492,
+      "lng": 127.102829,
+      "official_url": "https://www.lottemuseum.com/",
+      "instagram_url": "https://www.instagram.com/lottemuseum",
+      "aliases": [
+        "Lotte Museum of Art"
+      ],
+      "phone": "1544-7744",
+      "email": "lottemuseum@lotte.net",
+      "hours": "10:30~19:00(월-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "songpa_v_53ecff4b65",
+      "venue_name": "소마미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "songpa",
+      "address": "서울 송파구 올림픽로 424",
+      "lat": 37.5169172,
+      "lng": 127.1179749,
+      "official_url": "https://soma.kspo.or.kr/main",
+      "instagram_url": "https://www.instagram.com/soma_museum/",
+      "aliases": [
+        "SOMA"
+      ],
+      "phone": "02-425-1077",
+      "email": "soma@kspo.or.kr",
+      "hours": "10:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "songpa_v_d4a87dd36a",
+      "venue_name": "한성백제박물관 분관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "songpa",
+      "address": "서울 송파구 위례성대로 71",
+      "lat": null,
+      "lng": null,
+      "official_url": "https://baekjemuseum.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulbaekjemuseum/",
+      "aliases": [
+        "한성백제박물관 분관"
+      ],
+      "phone": "02-2152-5800",
+      "email": "",
+      "hours": "9:00~19:00(매일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "geumcheon_v_75b99b9f74",
+      "venue_name": "서울시립 서서울미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "geumcheon",
+      "address": "서울 금천구 시흥대로79길 65",
+      "lat": 37.4577976,
+      "lng": 126.8954095,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart",
+      "aliases": [
+        "서울시립 서서울미술관"
+      ],
+      "phone": "02-2124-5800",
+      "email": "sseoul@seoul.go.kr",
+      "hours": "10:00~20:00(화-금)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified",
+      "auto_collected": "신규 자동"
+    },
+    {
+      "venue_key": "gwanak_v_4903d075a2",
+      "venue_name": "서울시립 남서울미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "gwanak",
+      "address": "서울 관악구 남부순환로 2076",
+      "lat": 37.4760645,
+      "lng": 126.9795205,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart",
+      "aliases": [
+        "서울시립 남서울미술관"
+      ],
+      "phone": "02-598-6247",
+      "email": "namseoul@seoul.go.kr",
+      "hours": "10:00~20:00(화-금)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified",
+      "auto_collected": "SeMA 자동"
+    },
+    {
+      "venue_key": "geumcheon_v_559fa666af",
+      "venue_name": "금천예술공장",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "geumcheon",
+      "address": "서울 금천구 범안로15길 57",
+      "lat": 37.4688299,
+      "lng": 126.8919585,
+      "official_url": "https://www.sfac.or.kr/artspace/artspace/geumcheon_main.do",
+      "instagram_url": "https://www.instagram.com/art.space.geumcheon",
+      "aliases": [
+        "금천예술공장"
+      ],
+      "phone": "02-807-4800",
+      "email": "scc@sfac.or.kr",
+      "hours": "10:00~18:00(월-금)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yeongdeungpo_v_81b75e69",
+      "venue_name": "스페이스 xx",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yeongdeungpo",
+      "address": "서울 영등포구 도림로128가길 1 B1",
+      "lat": 37.514432,
+      "lng": 126.8957891,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/space_xx_/",
+      "aliases": [
+        "space xx"
+      ],
+      "phone": "",
+      "email": "info@spacexx.kr",
+      "hours": "12:00~19:00(화-토)",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yeongdeungpo_alt1",
+      "venue_name": "ALT.1 더현대서울",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "yeongdeungpo",
+      "address": "서울 영등포구 여의대로 108",
+      "lat": 37.5260667,
+      "lng": 126.9289154,
+      "official_url": "https://www.ehyundai.com/newPortal/index.do",
+      "instagram_url": "https://www.instagram.com/thehyundai_seoul/",
+      "aliases": [
+        "ALT.1 더현대서울"
+      ],
+      "phone": "02-3277-0610",
+      "email": "art@thehyundai.com",
+      "hours": "10:30~20:00(월-목)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongdong_v_8df71e5086",
+      "venue_name": "디뮤지엄",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seongdong",
+      "address": "서울 성동구 왕십리로 83-21",
+      "lat": 37.543826,
+      "lng": 127.0442175,
+      "official_url": "https://www.daelimmuseum.org/",
+      "instagram_url": "https://www.instagram.com/daelimmuseum/",
+      "aliases": [
+        "D Museum"
+      ],
+      "phone": "02-6233-7200",
+      "email": "dmuseum@daelim.org",
+      "hours": "11:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongdong_v_4bfa5335a6",
+      "venue_name": "오시선",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "seongdong",
+      "address": "서울 성동구 성덕정길 112",
+      "lat": 37.5369936,
+      "lng": 127.0557679,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/osisun.ch",
+      "aliases": [
+        "오시선"
+      ],
+      "phone": "010-8356-1782",
+      "email": "oshiseon@gmail.com",
+      "hours": "월요일 휴관",
+      "exhibit_channel": "인스타",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "seongdong_v_5cbca32c8f",
+      "venue_name": "헬로우뮤지엄",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seongdong",
+      "address": "서울 성동구 성수일로12길 20",
+      "lat": 37.5481744,
+      "lng": 127.0532505,
+      "official_url": "https://www.hellomuseum.com/",
+      "instagram_url": "https://www.instagram.com/hellomuseum/",
+      "aliases": [
+        "헬로우뮤지엄"
+      ],
+      "phone": "02-3217-4222",
+      "email": "info@hellomuseum.com",
+      "hours": "10:00~18:00(화-일)",
+      "exhibit_channel": "홈페이지",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "jongno_futura_seoul",
+      "venue_name": "푸투라 서울",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 북촌로 61",
+      "lat": 37.5822738,
+      "lng": 126.9848149,
+      "official_url": "https://futuraseoul.org/",
+      "instagram_url": "https://www.instagram.com/futuraseoul",
+      "aliases": [
+        "Futura Seoul",
+        "푸투라"
+      ],
+      "phone": "02-3676-1000",
+      "hours": "9:30~20:00(화-금,일), 9:30~21:00(토)",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "jongno_arko_art_center",
+      "venue_name": "아르코미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 동숭길 3",
+      "lat": 37.5805408,
+      "lng": 127.0032406,
+      "official_url": "https://www.arko.or.kr",
+      "instagram_url": "https://www.instagram.com/arko_art_center/",
+      "aliases": [
+        "ARKO",
+        "arko"
+      ],
+      "phone": "02-760-4850",
+      "hours": "11:00~19:00(화-일), 11:00~21:00(수)",
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "jongno_artside_gallery",
+      "venue_name": "아트사이드 갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 자하문로6길 15",
+      "lat": 37.5782436,
+      "lng": 126.9729903,
+      "official_url": "https://www.artside.org/",
+      "instagram_url": "",
+      "aliases": [
+        "Artside"
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "junggu_french_embassy",
+      "venue_name": "주한프랑스대사관저",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "junggu",
+      "address": "서울 중구 합정로 30",
+      "lat": 37.5612818,
+      "lng": 126.965031,
+      "official_url": "",
+      "instagram_url": "",
+      "aliases": [
+        "French Embassy"
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "venue_key": "yeouido_hanwha_pompidou",
+      "venue_name": "한화 퐁피두센터",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "yeongdeungpo",
+      "address": "서울 영등포구 여의대로 (63빌딩 인근)",
+      "lat": 37.5199203,
+      "lng": 126.9401102,
+      "official_url": "",
+      "instagram_url": "",
+      "aliases": [
+        "퐁피두센터",
+        "Hanwha Pompidou"
+      ],
+      "verification_status": "upcoming"
     }
   ]
 }
