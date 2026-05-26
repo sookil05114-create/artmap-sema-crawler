@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-26T13:33:46Z",
+  "generated_at": "2026-05-26T13:33:52Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -365,11 +365,11 @@
         "description_summary": "아트선재센터의 현재 전시",
         "confidence": 0.4
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "artsonje_center",
       "venue_name": "아트선재센터",
       "title": "스펙트로신테시스 서울",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -377,7 +377,8 @@
       "lng": 126.9816647,
       "address": "서울 종로구 율곡로3길 87",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-26T13:33:50.929Z"
     },
     {
       "id": "8456ddcc34ec",
