@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-05-25T23:44:56Z",
+  "generated_at": "2026-05-26T13:31:01Z",
   "sources": [
     "sema",
     "mmca",
-    "submissions"
+    "submissions",
+    "art_week"
   ],
-  "venue_count": 48,
+  "venue_count": 223,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -15,8 +16,9 @@
       "lat": 37.5641,
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
+      "instagram_url": "",
       "category": "",
-      "active_count": 3,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -28,7 +30,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "d340ac7a2efe",
@@ -39,7 +42,20 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
+        },
+        {
+          "id": "3a7ed788f877",
+          "title": "유영국 탄생 110주년 기념 회고전《유영국: 산은 내 안에 있다》",
+          "artists": "",
+          "start_date": "2026-05-14",
+          "end_date": "2026-10-18",
+          "status": "active",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         },
         {
           "id": "5fdda35e076a",
@@ -50,7 +66,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         }
       ]
     },
@@ -62,6 +79,7 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
+      "instagram_url": "",
       "category": "",
       "active_count": 2,
       "upcoming_count": 1,
@@ -75,7 +93,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "c657aa61a28e",
@@ -86,7 +105,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "85636baf089c",
@@ -97,7 +117,8 @@
           "status": "upcoming",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1009792",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         }
       ]
     },
@@ -109,6 +130,7 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
+      "instagram_url": "",
       "category": "",
       "active_count": 4,
       "upcoming_count": 0,
@@ -122,7 +144,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "dd23cadf6549",
@@ -133,7 +156,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "ca1723230151",
@@ -144,7 +168,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "a9a7e67786af",
@@ -155,7 +180,35 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
+        }
+      ]
+    },
+    {
+      "venue_key": "namseoul",
+      "venue_name": "서울시립 남서울미술관",
+      "region": "seoul",
+      "address": "서울 관악구 남부순환로 2076",
+      "lat": 37.4793,
+      "lng": 126.9577,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/namseoul",
+      "instagram_url": "",
+      "category": "",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "9ae886c0d6c9",
+          "title": "《조숙진 개인전》",
+          "artists": "",
+          "start_date": "2026-07-29",
+          "end_date": "2026-11-15",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -167,6 +220,7 @@
       "lat": 37.6612,
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
+      "instagram_url": "",
       "category": "",
       "active_count": 2,
       "upcoming_count": 0,
@@ -180,7 +234,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         },
         {
           "id": "a2ce75e6ada3",
@@ -191,7 +246,8 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         }
       ]
     },
@@ -203,6 +259,7 @@
       "lat": 37.6097,
       "lng": 126.9742,
       "official_url": "https://sema.seoul.go.kr/kr/visit/art_archive",
+      "instagram_url": "",
       "category": "",
       "active_count": 1,
       "upcoming_count": 0,
@@ -216,9 +273,66 @@
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
           "url": "",
-          "price": "무료"
+          "price": "무료",
+          "source": "sema"
         }
       ]
+    },
+    {
+      "venue_key": "nanji",
+      "venue_name": "서울시립 난지미술창작스튜디오",
+      "region": "seoul",
+      "address": "서울 마포구 하늘공원로 108-1",
+      "lat": 37.5704,
+      "lng": 126.8757,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/nanji_residency",
+      "instagram_url": "",
+      "category": "",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "paik_house",
+      "venue_name": "서울시립 백남준을 기억하는 집",
+      "region": "seoul",
+      "address": "서울 종로구 창신길 197",
+      "lat": 37.5778,
+      "lng": 127.0117,
+      "official_url": "https://sema.seoul.go.kr/kr/visit/nam_june_paik_house",
+      "instagram_url": "",
+      "category": "",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "bunker",
+      "venue_name": "SeMA 벙커",
+      "region": "seoul",
+      "address": "서울 영등포구 여의대로 76",
+      "lat": 37.5253,
+      "lng": 126.9215,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "",
+      "category": "",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "warehouse",
+      "venue_name": "SeMA 창고",
+      "region": "seoul",
+      "address": "서울 은평구 통일로 684",
+      "lat": 37.6196,
+      "lng": 126.9192,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "",
+      "category": "",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "mmca_seoul",
@@ -228,9 +342,10 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
+      "instagram_url": "",
       "category": "",
       "active_count": 5,
-      "upcoming_count": 5,
+      "upcoming_count": 8,
       "exhibitions": [
         {
           "id": "6c442c37d7a8",
@@ -241,7 +356,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/04/2025041405075562519096.jpg",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001886&exhFlag=1",
-          "price": "2,000원"
+          "price": "2,000원",
+          "source": "mmca"
         },
         {
           "id": "4b0293f16d8e",
@@ -252,7 +368,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
-          "price": "8,000원"
+          "price": "8,000원",
+          "source": "mmca"
         },
         {
           "id": "1839cc2fef5a",
@@ -263,7 +380,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026033009492612313790.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002025&exhFlag=1",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         },
         {
           "id": "e29350c595df",
@@ -274,7 +392,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
-          "price": "개별 프로그램 별 상이"
+          "price": "개별 프로그램 별 상이",
+          "source": "mmca"
         },
         {
           "id": "bf130acf18c8",
@@ -285,7 +404,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         },
         {
           "id": "a6ec77ae545e",
@@ -296,7 +416,20 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
+        },
+        {
+          "id": "52b0ef2a39df",
+          "title": "《이것은 개념미술이 (아니)다》",
+          "artists": "",
+          "start_date": "2026-06-19",
+          "end_date": "2026-10-11",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         },
         {
           "id": "51659f018a70",
@@ -307,7 +440,20 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010210464870616917.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
-          "price": "2,000원"
+          "price": "2,000원",
+          "source": "mmca"
+        },
+        {
+          "id": "fd6e830fa660",
+          "title": "《올해의 작가상 2026》",
+          "artists": "",
+          "start_date": "2026-07-24",
+          "end_date": "2026-12-06",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         },
         {
           "id": "580fded5c044",
@@ -318,7 +464,8 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012004105783217595.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
         },
         {
           "id": "e6f107b3043a",
@@ -329,7 +476,20 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
+        },
+        {
+          "id": "2413571b8918",
+          "title": "《서도호 개인전》",
+          "artists": "",
+          "start_date": "2026-08-28",
+          "end_date": "2027-02-09",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         },
         {
           "id": "a1a64de63d62",
@@ -340,7 +500,8 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
         }
       ]
     },
@@ -352,9 +513,10 @@
       "lat": 37.5658,
       "lng": 126.9744,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001029",
+      "instagram_url": "",
       "category": "",
       "active_count": 0,
-      "upcoming_count": 2,
+      "upcoming_count": 3,
       "exhibitions": [
         {
           "id": "576a1c954144",
@@ -365,7 +527,20 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
+        },
+        {
+          "id": "cd405fc79942",
+          "title": "《이대원 개인전》",
+          "artists": "",
+          "start_date": "2026-08-06",
+          "end_date": "2026-11-08",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         },
         {
           "id": "37c00224b438",
@@ -376,7 +551,8 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
         }
       ]
     },
@@ -388,6 +564,7 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
+      "instagram_url": "",
       "category": "",
       "active_count": 1,
       "upcoming_count": 0,
@@ -401,7 +578,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         }
       ]
     },
@@ -413,6 +591,7 @@
       "lat": 37.431,
       "lng": 127.0186,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001030",
+      "instagram_url": "",
       "category": "",
       "active_count": 4,
       "upcoming_count": 1,
@@ -426,7 +605,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/09/2025090801003815116883.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508210001995&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
+          "price": "과천 전시관람권 3,000원",
+          "source": "mmca"
         },
         {
           "id": "3bbfebcbd371",
@@ -437,7 +617,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042010563457812371.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001885&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
+          "price": "과천 전시관람권 3,000원",
+          "source": "mmca"
         },
         {
           "id": "a580710ab31c",
@@ -448,7 +629,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/202604201055291871388.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001884&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
+          "price": "과천 전시관람권 3,000원",
+          "source": "mmca"
         },
         {
           "id": "8dbbbdd0486d",
@@ -459,7 +641,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
+          "price": "과천 전시관람권 3,000원",
+          "source": "mmca"
         },
         {
           "id": "513e8e6a1473",
@@ -470,7 +653,8 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010610504597216426.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002026&exhFlag=2",
-          "price": "-"
+          "price": "-",
+          "source": "mmca"
         }
       ]
     },
@@ -482,6 +666,7 @@
       "lat": 36.6394,
       "lng": 127.4944,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001031",
+      "instagram_url": "",
       "category": "",
       "active_count": 4,
       "upcoming_count": 0,
@@ -495,7 +680,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2021/07/2021072711383216619535.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202012030001338&exhFlag=1",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         },
         {
           "id": "dd247df805d8",
@@ -506,7 +692,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/07/2025071003423383917280.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202507100001975&exhFlag=1",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         },
         {
           "id": "e748ba205719",
@@ -517,7 +704,8 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/08/2025080610534430517778.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508060001987&exhFlag=1",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         },
         {
           "id": "dd94e31ec15e",
@@ -528,9 +716,121 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026031704552119711784.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002022&exhFlag=1",
-          "price": "2,000원"
+          "price": "2,000원",
+          "source": "mmca"
         }
       ]
+    },
+    {
+      "venue_key": "euljiro_yk_presents",
+      "venue_name": "YK Presents",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5668523,
+      "lng": 127.0068754,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/yk_presents/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_flow_n_beat",
+      "venue_name": "플로우앤비트",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.568859,
+      "lng": 127.0017412,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/flow.n.beat/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_doosanartcenter_gallery",
+      "venue_name": "두산갤러리",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5718135,
+      "lng": 127.0010162,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/doosanartcenter_gallery/",
+      "category": "전시공간",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "e5dbf479b082",
+          "title": "《정여름 개인전》",
+          "artists": "",
+          "start_date": "2026-08-26",
+          "end_date": "2026-10-17",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "euljiro_die_huette_gallery",
+      "venue_name": "디휘테 갤러리",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5642599,
+      "lng": 127.0010682,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/die_huette_gallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_ypc_seoul",
+      "venue_name": "YPC스페이스",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5625242,
+      "lng": 127.0004057,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/ypc.seoul/",
+      "category": "전시공간",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_gallerysoso",
+      "venue_name": "더 소소",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5683668,
+      "lng": 126.9968163,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/gallerysoso_/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_p_s_center",
+      "venue_name": "PS센터",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5665,
+      "lng": 126.9918,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/p.s.center/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "euljiro_alternativespaceloop",
@@ -540,6 +840,7 @@
       "lat": 37.5685111,
       "lng": 126.9968182,
       "official_url": "http://altspaceloop.com/",
+      "instagram_url": "https://www.instagram.com/alternativespaceloop/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -553,9 +854,262 @@
           "status": "active",
           "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
           "url": "http://altspaceloop.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "euljiro_ffseoul",
+      "venue_name": "FF서울",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5502453,
+      "lng": 126.9222876,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/ffseoul/",
+      "category": "전시공간",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_pilseungsa_art",
+      "venue_name": "시각미술연구소 필승사",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5692839,
+      "lng": 126.9952397,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/pilseungsa.art/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_pokettales",
+      "venue_name": "포켓테일즈",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5666626,
+      "lng": 126.9955317,
+      "official_url": "https://pokettales.com/",
+      "instagram_url": "https://www.instagram.com/pokettales/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_coso_seoul",
+      "venue_name": "COSO",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.567076,
+      "lng": 126.9961837,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/coso_seoul/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_sahngupgallery",
+      "venue_name": "상업화랑 을지로",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5666093,
+      "lng": 126.9939463,
+      "official_url": "https://sahngupgallery.com/",
+      "instagram_url": "https://www.instagram.com/sahngupgallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_nslasha_kr",
+      "venue_name": "N/A",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5669151,
+      "lng": 126.9964407,
+      "official_url": "https://nslasha.kr/",
+      "instagram_url": "https://www.instagram.com/nslasha.kr/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_space_unit_plus",
+      "venue_name": "스페이스유닛+",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.566659,
+      "lng": 126.9939435,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/space.unit_plus/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_gallerymos_official",
+      "venue_name": "갤러리모스",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5662643,
+      "lng": 126.9931911,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/gallerymos.official/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_gblue_gallery",
+      "venue_name": "그블루갤러리",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.565226,
+      "lng": 126.9925007,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/gblue_gallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_jungganjijeom_l",
+      "venue_name": "중간지점 하나",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/jungganjijeom_l/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_cadalogs_space",
+      "venue_name": "스페이스카다로그",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5664846,
+      "lng": 126.9898819,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/cadalogs_space/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_pco_seoul",
+      "venue_name": "PCO",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5686402,
+      "lng": 126.9871596,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/pco.seoul/",
+      "category": "전시공간",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_artspace_hyeong",
+      "venue_name": "공간 형",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5772211,
+      "lng": 127.0051037,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/artspace_hyeong/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_eckeida",
+      "venue_name": "에케이다",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.561935,
+      "lng": 126.9945275,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/eckeida/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_womanopentechlab",
+      "venue_name": "여성을 위한 열린 기술랩",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5636144,
+      "lng": 126.9958333,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/womanopentechlab/",
+      "category": "연구소, 작가스튜디오",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_separate_spaces",
+      "venue_name": "Separate Spaces",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5623277,
+      "lng": 126.9901252,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/separate.spaces/",
+      "category": "예술 서적 전문서점",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_paradise_cultural_foundation",
+      "venue_name": "파라다이스문화재단 아트랩",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5641333,
+      "lng": 127.0046822,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/paradise_cultural_foundation/",
+      "category": "문화재단",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "euljiro_h_art1_euljiro",
+      "venue_name": "하나은행 하트원",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5667998,
+      "lng": 126.9966184,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/h.art1_euljiro/",
+      "category": "복합문화공간",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "seoul_craft_museum",
@@ -565,9 +1119,10 @@
       "lat": 37.5766474,
       "lng": 126.983379,
       "official_url": "https://craftmuseum.seoul.go.kr/main",
+      "instagram_url": "",
       "category": "박물관",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "a903037f0746",
@@ -578,7 +1133,61 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://craftmuseum.seoul.go.kr/main",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "36f84ca4ce30",
+          "title": "《제2회 서울시 유리지공예상 기념전》",
+          "artists": "",
+          "start_date": "2026-08-31",
+          "end_date": "2026-08-31",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://craftmuseum.seoul.go.kr/main",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "seoul_museum_seokpajeong",
+      "venue_name": "서울미술관",
+      "region": "seoul",
+      "address": "서울 종로구 창의문로 11길 4-1",
+      "lat": 37.5949535,
+      "lng": 126.9632741,
+      "official_url": "https://www.seoulmuseum.org/EXHIBITION",
+      "instagram_url": "",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "apma_amorepacific",
+      "venue_name": "아모레퍼시픽미술관",
+      "region": "seoul",
+      "address": "서울 용산구 한강대로 100",
+      "lat": 37.5288531,
+      "lng": 126.9686231,
+      "official_url": "https://apma.amorepacific.com/contents/exhibition/index.do",
+      "instagram_url": "",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "283d437eba18",
+          "title": "《조나스 우드(Jonas Wood) 개인전》",
+          "artists": "",
+          "start_date": "2026-09-01",
+          "end_date": "2027-02-28",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://apma.amorepacific.com/contents/exhibition/index.do",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -590,9 +1199,10 @@
       "lat": 37.569836,
       "lng": 126.9776958,
       "official_url": "https://ilmin.org/",
+      "instagram_url": "",
       "category": "미술관",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "be91eca50ea9",
@@ -603,7 +1213,20 @@
           "status": "active",
           "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
           "url": "https://ilmin.org/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "731e06acfa30",
+          "title": "《동시대 이미지 주제전》",
+          "artists": "",
+          "start_date": "2026-07-10",
+          "end_date": "2026-09-13",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://ilmin.org/",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -615,9 +1238,10 @@
       "lat": 37.579341,
       "lng": 126.9816647,
       "official_url": "https://artsonje.org/exhibition-program/exhibition/",
+      "instagram_url": "",
       "category": "미술관",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "d8805a747782",
@@ -628,9 +1252,50 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://artsonje.org/exhibition-program/exhibition/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "9f19bf1ebc70",
+          "title": "《함양아 개인전》",
+          "artists": "",
+          "start_date": "2026-07-24",
+          "end_date": "2026-10-11",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://artsonje.org/exhibition-program/exhibition/",
+          "price": "",
+          "source": "art_week"
         }
       ]
+    },
+    {
+      "venue_key": "keumsan_gallery",
+      "venue_name": "금산갤러리",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5593227,
+      "lng": 126.9829341,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/keumsangallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gallery_point",
+      "venue_name": "갤러리포인트",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5669546,
+      "lng": 126.9849157,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/point_by_gallerypoint/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "kukje_gallery",
@@ -640,8 +1305,9 @@
       "lat": 37.5807006,
       "lng": 126.9804771,
       "official_url": "https://www.kukjegallery.com/",
+      "instagram_url": "",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 3,
       "upcoming_count": 1,
       "exhibitions": [
         {
@@ -653,7 +1319,8 @@
           "status": "active",
           "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
           "url": "https://www.kukjegallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         },
         {
           "id": "b5e4cb5e42cc",
@@ -664,7 +1331,32 @@
           "status": "upcoming",
           "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
           "url": "https://www.kukjegallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "7c47035bd4b9",
+          "title": "《박서보 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.kukjegallery.com/",
+          "price": "",
+          "source": "art_week"
+        },
+        {
+          "id": "a059d2bbc6e7",
+          "title": "《김세은 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.kukjegallery.com/",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -676,9 +1368,10 @@
       "lat": 37.6078975,
       "lng": 126.9719266,
       "official_url": "https://sema.seoul.go.kr",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart",
       "category": "미술관",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "6a8643f2e5bf",
@@ -689,7 +1382,20 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://sema.seoul.go.kr",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "c47a3d013b6d",
+          "title": "《오윤 컬렉션》",
+          "artists": "",
+          "start_date": "2026-08-27",
+          "end_date": "2027-02-21",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -701,9 +1407,10 @@
       "lat": 37.5731443,
       "lng": 126.9821074,
       "official_url": "https://www.ocimuseum.org/",
+      "instagram_url": "https://www.instagram.com/ocimuseum",
       "category": "미술관",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "c92e0e022bb4",
@@ -714,7 +1421,102 @@
           "status": "active",
           "thumbnail": "https://www.ocimuseum.org/assets/images/logo_naver.jpg",
           "url": "https://www.ocimuseum.org/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "4250cc7db837",
+          "title": "2026 OCI AGAIN: 귀한 인연 선정작가 전시",
+          "artists": "",
+          "start_date": "2026-08-20",
+          "end_date": "2026-10-08",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.ocimuseum.org/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_hakgojae",
+      "venue_name": "학고재",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 50 (소격동)",
+      "lat": 37.580376,
+      "lng": 126.9802633,
+      "official_url": "http://www.hakgojae.com/",
+      "instagram_url": "https://www.instagram.com/hakgojaegallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_gaelreorisinra_seoul",
+      "venue_name": "갤러리신라 서울",
+      "region": "seoul",
+      "address": "서울 용산구 보광로60길 11",
+      "lat": 37.5341147,
+      "lng": 126.9947958,
+      "official_url": "http://www.galleryshilla.com/",
+      "instagram_url": "https://www.instagram.com/galleryshilla",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreorihyeondae",
+      "venue_name": "갤러리현대",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 14 (사간동)",
+      "lat": 37.5772917,
+      "lng": 126.9798499,
+      "official_url": "https://www.galleryhyundai.com",
+      "instagram_url": "https://www.instagram.com/galleryhyundai/",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "cfb061425017",
+          "title": "《에스 데블린 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.galleryhyundai.com",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_pkm_gaelreori",
+      "venue_name": "PKM 갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로7길 40",
+      "lat": 37.5841179,
+      "lng": 126.9800729,
+      "official_url": "https://www.pkmgallery.com/",
+      "instagram_url": "https://www.instagram.com/pkmgallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "a27227969ee3",
+          "title": "《윤형근 개인전》",
+          "artists": "",
+          "start_date": "2026-08-26",
+          "end_date": "2026-10-03",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.pkmgallery.com/",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -726,6 +1528,7 @@
       "lat": 37.5738697,
       "lng": 126.9842613,
       "official_url": "http://www.kwanhoongallery.com/",
+      "instagram_url": "https://www.instagram.com/kwanhoongallery/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -739,9 +1542,52 @@
           "status": "active",
           "thumbnail": "http://www.kwanhoongallery.com/images/site_img.jpg",
           "url": "http://www.kwanhoongallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_jaedanbeobin_yeol_yeolbukchonga",
+      "venue_name": "재단법인 예올 / 예올북촌가",
+      "region": "seoul",
+      "address": "서울 종로구 북촌로 50-1",
+      "lat": 37.5813083,
+      "lng": 126.9852271,
+      "official_url": "https://www.yeol.org/",
+      "instagram_url": "https://www.instagram.com/yeol_korea",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_lehmann_maupin",
+      "venue_name": "리만머핀 서울",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로 213",
+      "lat": 37.534992,
+      "lng": 126.9976166,
+      "official_url": "https://www.lehmannmaupin.com/",
+      "instagram_url": "https://www.instagram.com/lehmannmaupin/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_barakat",
+      "venue_name": "바라캇 컨템포러리",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 58-4",
+      "lat": 37.5808712,
+      "lng": 126.9806656,
+      "official_url": "https://barakatcontemporary.com/",
+      "instagram_url": "https://www.instagram.com/barakat_contemporary",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_ihwaikgaelreori",
@@ -751,6 +1597,7 @@
       "lat": 37.5785709,
       "lng": 126.98203,
       "official_url": "http://www.leehwaikgallery.com/",
+      "instagram_url": "https://www.instagram.com/leehwaikgallery/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -764,9 +1611,24 @@
           "status": "active",
           "thumbnail": "http://leehwaikgallery.com/img/logo.png",
           "url": "http://www.leehwaikgallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_nohwarang",
+      "venue_name": "노화랑",
+      "region": "seoul",
+      "address": "서울 종로구 인사동길 54",
+      "lat": 37.5748652,
+      "lng": 126.9841047,
+      "official_url": "https://rhogallery.com/ko/",
+      "instagram_url": "https://www.instagram.com/rhogallery54/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_sun_gallery",
@@ -776,6 +1638,7 @@
       "lat": 37.5729718,
       "lng": 126.9856846,
       "official_url": "https://www.sungallery.co.kr/",
+      "instagram_url": "https://www.instagram.com/sungallery_1977/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -789,7 +1652,8 @@
           "status": "active",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2022/usr/images/pages/slideshow_data/1/260509_-_-_edit_6.jpg",
           "url": "https://www.sungallery.co.kr/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -801,6 +1665,7 @@
       "lat": 37.58796,
       "lng": 126.9806172,
       "official_url": "https://museumhanmi.or.kr/",
+      "instagram_url": "https://www.instagram.com/museumhanmi",
       "category": "미술관",
       "active_count": 1,
       "upcoming_count": 0,
@@ -814,7 +1679,8 @@
           "status": "active",
           "thumbnail": "https://museumhanmi.or.kr/wp-content/uploads/2022/12/logo-1.png",
           "url": "https://museumhanmi.or.kr/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -826,9 +1692,10 @@
       "lat": 37.5778727,
       "lng": 126.9885265,
       "official_url": "https://www.arariogallery.com/",
+      "instagram_url": "https://www.instagram.com/arariogallery/",
       "category": "갤러리",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "d710f4ce54ad",
@@ -839,9 +1706,77 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.arariogallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "e61941f7c997",
+          "title": "《김인배 개인전》",
+          "artists": "",
+          "start_date": "2026-09-01",
+          "end_date": "2026-10-24",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.arariogallery.com/",
+          "price": "",
+          "source": "art_week"
         }
       ]
+    },
+    {
+      "venue_key": "gangnam_perrotin_seoul",
+      "venue_name": "페로탕",
+      "region": "seoul",
+      "address": "서울 강남구 도산대로45길 10",
+      "lat": 37.522986,
+      "lng": 127.0357503,
+      "official_url": "http://www.perrotin.com",
+      "instagram_url": "https://www.instagram.com/perrotin",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "2010c9a53b04",
+          "title": "《Mr. 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "http://www.perrotin.com",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_simyoart",
+      "venue_name": "심여화랑",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로1길 40-3",
+      "lat": 37.5776514,
+      "lng": 126.9808897,
+      "official_url": "http://www.simyogallery.com/",
+      "instagram_url": "https://www.instagram.com/simyogallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreorijinseon",
+      "venue_name": "갤러리진선",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 59",
+      "lat": 37.581427,
+      "lng": 126.9804751,
+      "official_url": "https://www.galleryjinsun.com/143",
+      "instagram_url": "https://www.instagram.com/galleryjinsun",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_gaelreoriijeu",
@@ -851,22 +1786,81 @@
       "lat": 37.5747823,
       "lng": 126.9841615,
       "official_url": "http://www.galleryis.com/",
+      "instagram_url": "https://www.instagram.com/gallery__is/",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "736a208edf73",
-          "title": "황인재 개인전",
-          "artists": "황인재",
-          "start_date": "2026-05-20",
-          "end_date": "2026-05-25",
-          "status": "active",
-          "thumbnail": "",
-          "url": "http://www.galleryis.com/",
-          "price": ""
-        }
-      ]
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreoriateuringkeu",
+      "venue_name": "갤러리아트링크",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 22 3층",
+      "lat": 37.5779147,
+      "lng": 126.9798206,
+      "official_url": "http://www.artlink.co.kr/",
+      "instagram_url": "https://www.instagram.com/gallery_artlink/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_imokhwarang",
+      "venue_name": "이목화랑",
+      "region": "seoul",
+      "address": "서울 종로구 북촌로 94",
+      "lat": 37.5852606,
+      "lng": 126.985436,
+      "official_url": "https://www.yeemockgallery.co.kr/",
+      "instagram_url": "https://www.instagram.com/yeemockgallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_tonginhwarang",
+      "venue_name": "통인화랑",
+      "region": "seoul",
+      "address": "서울 종로구 인사동길 32",
+      "lat": 37.5734875,
+      "lng": 126.9858072,
+      "official_url": "http://www.tongingallery.com/",
+      "instagram_url": "https://www.instagram.com/tongingallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreorisimon",
+      "venue_name": "갤러리시몬",
+      "region": "seoul",
+      "address": "서울 종로구 자하문로6길 20",
+      "lat": 37.5780538,
+      "lng": 126.9732514,
+      "official_url": "https://www.gallerysimon.com/",
+      "instagram_url": "https://www.instagram.com/gallery_simon/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_yehwarang",
+      "venue_name": "예화랑",
+      "region": "seoul",
+      "address": "서울 종로구 창덕궁길 100",
+      "lat": 37.5818443,
+      "lng": 126.9894803,
+      "official_url": "https://www.galleryyeh.com/",
+      "instagram_url": "https://www.instagram.com/gallery_yeh/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_gaelreorisejul",
@@ -876,6 +1870,7 @@
       "lat": 37.6134131,
       "lng": 126.9751579,
       "official_url": "https://www.sejul.com/",
+      "instagram_url": "https://www.instagram.com/gallery_sejul/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -889,9 +1884,38 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.sejul.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_gaelreoribaum",
+      "venue_name": "갤러리바움",
+      "region": "seoul",
+      "address": "서울 종로구 삼일대로 461 운현궁SK허브 101동 B107호",
+      "lat": 37.5756316,
+      "lng": 126.9857937,
+      "official_url": "",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreorimijeu",
+      "venue_name": "갤러리미즈",
+      "region": "seoul",
+      "address": "서울 종로구 삼일대로 461 SK HUB빌딩 101동 B105",
+      "lat": 37.5761093,
+      "lng": 126.9852117,
+      "official_url": "https://gallerymiz.com/",
+      "instagram_url": "https://www.instagram.com/gallerymiz/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_topohauseu_ateusenteo",
@@ -901,6 +1925,7 @@
       "lat": 37.574083,
       "lng": 126.984313,
       "official_url": "https://www.topohaus.com",
+      "instagram_url": "https://www.instagram.com/topohaus2004/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -914,9 +1939,52 @@
           "status": "active",
           "thumbnail": "https://static.wixstatic.com/media/b4c224_2a2f67e40e4b4623b22b3cf0ca537cf1%7Emv2.png/v1/fit/w_2500,h_1330,al_c/b4c224_2a2f67e40e4b4623b22b3cf0ca537cf1%7Emv2.png",
           "url": "https://www.topohaus.com",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_dongsanbanghwarang",
+      "venue_name": "동산방화랑",
+      "region": "seoul",
+      "address": "서울 종로구 인사동9길 35",
+      "lat": 37.572942,
+      "lng": 126.98335,
+      "official_url": "https://www.dongsanbanggallery.com/",
+      "instagram_url": "https://www.instagram.com/gallery_dongsanbang",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_jangeunseongaelreori",
+      "venue_name": "장은선갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로6길 13-3",
+      "lat": 37.5766914,
+      "lng": 126.989436,
+      "official_url": "https://www.galleryjang.com/",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_baik_art",
+      "venue_name": "백아트",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로3길 74-13",
+      "lat": 37.5791084,
+      "lng": 126.9829849,
+      "official_url": "https://baikart.com/",
+      "instagram_url": "https://www.instagram.com/baikartgallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_choi_choi",
@@ -926,6 +1994,7 @@
       "lat": 37.5669972,
       "lng": 126.9275406,
       "official_url": "https://www.choiandchoi.com/",
+      "instagram_url": "https://www.instagram.com/choiandchoigallery",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -939,9 +2008,80 @@
           "status": "active",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1442/usr/images/exhibitions/home_page_image/items/58/580d5bdd66c04cc5b569aa78b7b91029/3.-sohyun-ban-2026-acrylic-on-canvas-162-x-130-cm.jpeg",
           "url": "https://www.choiandchoi.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_nook",
+      "venue_name": "누크갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 평창34길 8-3",
+      "lat": 37.6136629,
+      "lng": 126.9764741,
+      "official_url": "https://www.nookgallery.com/",
+      "instagram_url": "https://www.instagram.com/nookgallery1/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_songwonateusenteo",
+      "venue_name": "송원아트센터",
+      "region": "seoul",
+      "address": "서울 종로구 윤보선길 75",
+      "lat": 37.5793191,
+      "lng": 126.9834482,
+      "official_url": "https://songwonart.org/",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gonggeunhyegaelreori",
+      "venue_name": "공근혜갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로7길 38",
+      "lat": 37.5839784,
+      "lng": 126.97967,
+      "official_url": "https://konggallery.com/",
+      "instagram_url": "https://www.instagram.com/kong_gallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_291potogeuraepseu",
+      "venue_name": "291포토그랩스",
+      "region": "seoul",
+      "address": "서울 송파구 올림픽로 300(잠실동) 롯데월드몰 에비뉴엘 5층",
+      "lat": 37.5123952,
+      "lng": 127.1019261,
+      "official_url": "https://www.instagram.com/291photographs_official/",
+      "instagram_url": "https://www.instagram.com/291photographs_official/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreoriramereu",
+      "venue_name": "갤러리라메르",
+      "region": "seoul",
+      "address": "서울 종로구 인사동5길 26",
+      "lat": 37.5725264,
+      "lng": 126.9849468,
+      "official_url": "http://www.gallerylamer.com/",
+      "instagram_url": "https://www.instagram.com/gallerylamer",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_gaelreoridam",
@@ -951,6 +2091,7 @@
       "lat": 37.5790949,
       "lng": 126.9834402,
       "official_url": "https://www.gallerydam.com/",
+      "instagram_url": "https://www.instagram.com/gallerydam_seoul",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -964,7 +2105,35 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.gallerydam.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_arko",
+      "venue_name": "아르코미술관",
+      "region": "seoul",
+      "address": "서울 종로구 동숭길 3 (대학로)",
+      "lat": 37.5805408,
+      "lng": 127.0032406,
+      "official_url": "https://www.arko.or.kr",
+      "instagram_url": "https://www.instagram.com/arko_art_center/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "1a0d0d38e652",
+          "title": "《예술학교》(가제)",
+          "artists": "",
+          "start_date": "2026-08-07",
+          "end_date": "2026-09-27",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -976,6 +2145,7 @@
       "lat": 37.594098,
       "lng": 126.9661217,
       "official_url": "http://whankimuseum.org/",
+      "instagram_url": "https://www.instagram.com/whankimuseum/",
       "category": "미술관",
       "active_count": 1,
       "upcoming_count": 0,
@@ -989,9 +2159,163 @@
           "status": "active",
           "thumbnail": "http://whankimuseum.org/wp-content/uploads/2022/05/og-2.jpg",
           "url": "http://whankimuseum.org/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_totalmisulgwan",
+      "venue_name": "토탈미술관",
+      "region": "seoul",
+      "address": "서울 종로구 평창32길 8 (평창동)",
+      "lat": 37.6121235,
+      "lng": 126.9756892,
+      "official_url": "http://totalmuseum.org/",
+      "instagram_url": "https://www.instagram.com/totalmuseum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_jongromunhwajaedan",
+      "venue_name": "종로문화재단",
+      "region": "seoul",
+      "address": "서울 종로구 새문안로 41",
+      "lat": 37.5690103,
+      "lng": 126.9696709,
+      "official_url": "https://www.jfac.or.kr/",
+      "instagram_url": "https://www.instagram.com/jongnofac/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_jahamisulgwan",
+      "venue_name": "자하미술관",
+      "region": "seoul",
+      "address": "서울 종로구 창의문로5가길 46 (부암동)",
+      "lat": 37.5893759,
+      "lng": 126.9603187,
+      "official_url": "https://www.zahamuseum.org/",
+      "instagram_url": "https://www.instagram.com/zahamuseum",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_arariomyujieom_in_seupeiseu",
+      "venue_name": "아라리오뮤지엄 인 스페이스",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로83 (원서동)",
+      "lat": 37.5776781,
+      "lng": 126.9884945,
+      "official_url": "https://www.arariomuseum.org",
+      "instagram_url": "https://www.instagram.com/arariomuseum",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_hanbyeogwonmisulgwan",
+      "venue_name": "한벽원미술관",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 83",
+      "lat": 37.5831013,
+      "lng": 126.9814301,
+      "official_url": "https://www.instagram.com/hanbyeokwon_museum",
+      "instagram_url": "https://www.instagram.com/hanbyeokwon_museum",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_geumhomisulgwan",
+      "venue_name": "금호미술관",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 18 (사간동)",
+      "lat": 37.5775114,
+      "lng": 126.9798242,
+      "official_url": "http://www.kumhomuseum.com/",
+      "instagram_url": "https://www.instagram.com/kumhomuseumofart/",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "7cb07997a386",
+          "title": "《박혜수 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "http://www.kumhomuseum.com/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_gimjongyeongmisulgwan",
+      "venue_name": "김종영미술관",
+      "region": "seoul",
+      "address": "서울 종로구 평창32길 30 (평창동)",
+      "lat": 37.6130714,
+      "lng": 126.9775115,
+      "official_url": "http://kimchongyung.com/",
+      "instagram_url": "https://www.instagram.com/kcymuseum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_seongbukdong_gansongmisulgwan",
+      "venue_name": "성북동 간송미술관",
+      "region": "seoul",
+      "address": "서울 성북구 성북로 102-11",
+      "lat": 37.5936279,
+      "lng": 126.9969241,
+      "official_url": "https://kansong.org/",
+      "instagram_url": "https://www.instagram.com/kansongart",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_seonggokmisulgwan",
+      "venue_name": "성곡미술관",
+      "region": "seoul",
+      "address": "서울 종로구 경희궁길 42",
+      "lat": 37.573152,
+      "lng": 126.9697944,
+      "official_url": "http://www.sungkokmuseum.org",
+      "instagram_url": "https://www.instagram.com/sungkokartmuseum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_boan1942",
+      "venue_name": "보안1942",
+      "region": "seoul",
+      "address": "서울 종로구 효자로 33",
+      "lat": 37.5791266,
+      "lng": 126.9736564,
+      "official_url": "http://www.boan1942.com/",
+      "instagram_url": "https://www.instagram.com/boan1942/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_jjjungjeonggaelreori",
@@ -1001,6 +2325,7 @@
       "lat": 37.6047153,
       "lng": 126.9681162,
       "official_url": "https://www.joongjunggallery.com/",
+      "instagram_url": "https://www.instagram.com/joongjunggallery/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1014,7 +2339,8 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.joongjunggallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -1026,6 +2352,7 @@
       "lat": 37.5891341,
       "lng": 127.0039086,
       "official_url": "https://www.gallerykiche.com/",
+      "instagram_url": "https://www.instagram.com/gallery_kiche/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1039,7 +2366,8 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.gallerykiche.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -1051,6 +2379,7 @@
       "lat": 37.574182,
       "lng": 126.9861401,
       "official_url": "https://www.grimson.co.kr/",
+      "instagram_url": "https://www.instagram.com/gallerygrimson",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1064,9 +2393,66 @@
           "status": "active",
           "thumbnail": "/images/meta_img.png",
           "url": "https://www.grimson.co.kr/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_doll",
+      "venue_name": "갤러리 도올",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 87",
+      "lat": 37.5832484,
+      "lng": 126.9816974,
+      "official_url": "http://www.gallerydoll.com/",
+      "instagram_url": "https://www.instagram.com/gallery_dohl",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_hakgojae_ateusenteo",
+      "venue_name": "학고재 아트센터",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 48-4",
+      "lat": 37.5802585,
+      "lng": 126.9804601,
+      "official_url": "http://hakgojaeartcenter.com/",
+      "instagram_url": "https://www.instagram.com/hakgojae_artcenter/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_garamhwarang",
+      "venue_name": "가람화랑",
+      "region": "seoul",
+      "address": "서울 종로구 인사동10길 11",
+      "lat": 37.574275,
+      "lng": 126.985575,
+      "official_url": "https://www.instagram.com/garamgallery",
+      "instagram_url": "https://www.instagram.com/garamgallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_ganaateusenteo",
+      "venue_name": "가나아트센터",
+      "region": "seoul",
+      "address": "서울 종로구 평창30길 28",
+      "lat": 37.6122897,
+      "lng": 126.9751697,
+      "official_url": "https://www.ganaart.com/",
+      "instagram_url": "https://www.instagram.com/ganaart__official",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_wolhamisul",
@@ -1076,6 +2462,7 @@
       "lat": 37.5681427,
       "lng": 127.0686373,
       "official_url": "https://www.wolha-art.com/",
+      "instagram_url": "https://www.instagram.com/wolha_art",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1089,9 +2476,52 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.wolha-art.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_a_lounge",
+      "venue_name": "에이라운지 갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 백석동1가길 45",
+      "lat": 37.5937453,
+      "lng": 126.9662476,
+      "official_url": "https://a-lounge.kr/",
+      "instagram_url": "https://www.instagram.com/a_lounge_contemporary",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_gaelreoribarakat_seoul",
+      "venue_name": "갤러리바라캇 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 58-4",
+      "lat": 37.5808899,
+      "lng": 126.980679,
+      "official_url": "http://www.barakat.kr/",
+      "instagram_url": "https://www.instagram.com/barakat_seoul/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_gallery_planet",
+      "venue_name": "갤러리 플래닛",
+      "region": "seoul",
+      "address": "서울 강남구 압구정로71길 14",
+      "lat": 37.5275269,
+      "lng": 127.0459153,
+      "official_url": "http://galleryplanet.co.kr/",
+      "instagram_url": "https://www.instagram.com/galleryplanet/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_page_room_8",
@@ -1101,6 +2531,7 @@
       "lat": 37.5806929,
       "lng": 126.9676475,
       "official_url": "https://www.pageroom8.com/",
+      "instagram_url": "https://www.instagram.com/pageroom8",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1114,9 +2545,24 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.pageroom8.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "jongno_insaateusenteo",
+      "venue_name": "인사아트센터",
+      "region": "seoul",
+      "address": "서울 종로구 인사동길 41-1",
+      "lat": 37.5738866,
+      "lng": 126.9846062,
+      "official_url": "https://www.insaartcenter.com/",
+      "instagram_url": "https://www.instagram.com/insaartcenter",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "gangnam_gallery_now",
@@ -1126,6 +2572,7 @@
       "lat": 37.5228145,
       "lng": 127.0350152,
       "official_url": "https://www.gallery-now.com/",
+      "instagram_url": "https://www.instagram.com/gallerynowseoul/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1139,7 +2586,8 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.gallery-now.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -1151,6 +2599,7 @@
       "lat": 37.5778927,
       "lng": 126.9708457,
       "official_url": "https://www.pyogallery.com/",
+      "instagram_url": "https://www.instagram.com/pyogallery/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1164,9 +2613,136 @@
           "status": "active",
           "thumbnail": "https://static.wixstatic.com/media/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg",
           "url": "https://www.pyogallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "seongdong_atelier_aki",
+      "venue_name": "아뜰리에 아키",
+      "region": "seoul",
+      "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 1F / B1F",
+      "lat": 37.5457261,
+      "lng": 127.0423333,
+      "official_url": "http://www.atelieraki.com/",
+      "instagram_url": "https://www.instagram.com/atelieraki_gallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "junggu_jungganjijeom_hana_dul",
+      "venue_name": "중간지점 하나 / 둘",
+      "region": "seoul",
+      "address": "서울 중구 을지로14길 15 장양빌딩 703호",
+      "lat": 37.5655433,
+      "lng": 126.9923596,
+      "official_url": "https://jungganjijeom.framer.website/",
+      "instagram_url": "https://www.instagram.com/jungganjijeom",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "junggu_iruseupeiseu",
+      "venue_name": "일우스페이스",
+      "region": "seoul",
+      "address": "서울 중구 서소문로 117 (한진빌딩)",
+      "lat": 37.5635216,
+      "lng": 126.9740944,
+      "official_url": "https://www.ilwoo.org/default/",
+      "instagram_url": "https://www.instagram.com/ilwoospace_/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "junggu_deoksugung_seokjojeon_daehanjegugyeoksagwan",
+      "venue_name": "덕수궁 석조전 대한제국역사관",
+      "region": "seoul",
+      "address": "서울 중구 세종대로 99",
+      "lat": 37.5663857,
+      "lng": 126.9742254,
+      "official_url": "",
+      "instagram_url": "",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "junggu_seonggonghoe_jeongdong1928ateusenteo",
+      "venue_name": "성공회 정동1928아트센터",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 130 구세군중앙회관",
+      "lat": 37.5678957,
+      "lng": 126.9738346,
+      "official_url": "https://www.jeongdong1928.com/",
+      "instagram_url": "https://www.instagram.com/jeongdong_1928",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "junggu_ddp",
+      "venue_name": "동대문디자인플라자",
+      "region": "seoul",
+      "address": "서울 중구 을지로 281",
+      "lat": 37.5675465,
+      "lng": 127.0099323,
+      "official_url": "https://ddp.or.kr/?menuno=228",
+      "instagram_url": "https://www.instagram.com/ddp_seoul/",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "junggu_piknic",
+      "venue_name": "피크닉",
+      "region": "seoul",
+      "address": "서울 중구 퇴계로6가길 30",
+      "lat": 37.5570119,
+      "lng": 126.9780778,
+      "official_url": "https://www.piknic.kr/home/",
+      "instagram_url": "https://www.instagram.com/piknic.kr",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_maiateumyujieom",
+      "venue_name": "마이아트뮤지엄",
+      "region": "seoul",
+      "address": "서울 강남구 테헤란로 518 섬유센터빌딩 B1층",
+      "lat": 37.5075923,
+      "lng": 127.0604816,
+      "official_url": "http://www.myartmuseum.kr/",
+      "instagram_url": "https://www.instagram.com/myartmuseum_official",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_yuminateumyujieom",
+      "venue_name": "유민아트뮤지엄",
+      "region": "seoul",
+      "address": "서울 강남구 테헤란로108길 8 B1",
+      "lat": 37.5088752,
+      "lng": 127.0657586,
+      "official_url": "http://www.umeanart.co.kr/",
+      "instagram_url": "",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "seongdong_d_gallery",
@@ -1176,6 +2752,7 @@
       "lat": 37.5455171,
       "lng": 127.0427626,
       "official_url": "https://thepage-gallery.com/",
+      "instagram_url": "https://www.instagram.com/thepage_gallery",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1189,7 +2766,49 @@
           "status": "active",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/exhibitions/home_page_image/items/8f/8f4ad84b8de14a78ab240e4fc7568e8a/web_time-interface_tpg_39.jpg",
           "url": "https://thepage-gallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "gangnam_horimbakmulgwan_sinsabungwan",
+      "venue_name": "호림박물관 신사분관",
+      "region": "seoul",
+      "address": "서울 강남구 도산대로 317",
+      "lat": 37.5226177,
+      "lng": 127.0360351,
+      "official_url": "https://www.horimmuseum.org/ko",
+      "instagram_url": "https://www.instagram.com/horimmuseum",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_songeun",
+      "venue_name": "송은",
+      "region": "seoul",
+      "address": "서울 강남구 도산대로 441",
+      "lat": 37.5241628,
+      "lng": 127.0441206,
+      "official_url": "https://songeun.or.kr/",
+      "instagram_url": "https://www.instagram.com/songeun_official/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "7639e2fdd78b",
+          "title": "《송은x언박싱 프로젝트: 송은미술대상 25주년 기념전》",
+          "artists": "",
+          "start_date": "2026-08-19",
+          "end_date": "2026-10-24",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://songeun.or.kr/",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -1201,6 +2820,7 @@
       "lat": 37.4798436,
       "lng": 127.0127084,
       "official_url": "https://www.sac.or.kr/site/main/home",
+      "instagram_url": "https://www.instagram.com/ilove_sacmuseum/",
       "category": "미술관",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1214,7 +2834,8 @@
           "status": "active",
           "thumbnail": "https://www.sac.or.kr/design/theme/sac/images/logo-200x200.gif",
           "url": "https://www.sac.or.kr/site/main/home",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -1226,6 +2847,7 @@
       "lat": 37.5558806,
       "lng": 127.0051533,
       "official_url": "https://www.johyungallery.com/",
+      "instagram_url": "https://www.instagram.com/johyungallery/",
       "category": "갤러리",
       "active_count": 0,
       "upcoming_count": 1,
@@ -1239,9 +2861,24 @@
           "status": "upcoming",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1227/usr/images/pages/slideshow_data/1/johyun-gallery-jin-meyerson-the-shape-of-re_entry-6-.jpg",
           "url": "https://www.johyungallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "gangnam_joseonhwarang",
+      "venue_name": "조선화랑",
+      "region": "seoul",
+      "address": "서울 강남구 테헤란로87길 58",
+      "lat": 37.5128337,
+      "lng": 127.0584301,
+      "official_url": "https://www.chosunartgallery.com/",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "seocho_yesuruijeondang_hangaramdijainmisulgwan",
@@ -1251,6 +2888,7 @@
       "lat": 37.4798436,
       "lng": 127.0127084,
       "official_url": "https://www.sac.or.kr/site/main/home",
+      "instagram_url": "https://www.instagram.com/ilove_sacmuseum/",
       "category": "미술관",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1264,9 +2902,66 @@
           "status": "active",
           "thumbnail": "https://www.sac.or.kr/design/theme/sac/images/logo-200x200.gif",
           "url": "https://www.sac.or.kr/site/main/home",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "gangnam_gaelreorisein",
+      "venue_name": "갤러리세인",
+      "region": "seoul",
+      "address": "서울 강남구 학동로 503 한성빌딩 2층 204호",
+      "lat": 37.5192127,
+      "lng": 127.0508432,
+      "official_url": "http://www.gallerysein.com/",
+      "instagram_url": "https://www.instagram.com/gallerysein",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_yuateuseupeiseu",
+      "venue_name": "유아트스페이스",
+      "region": "seoul",
+      "address": "서울 강남구 압구정로71길 10 2F",
+      "lat": 37.5273777,
+      "lng": 127.0458637,
+      "official_url": "http://uartspace.com/",
+      "instagram_url": "https://www.instagram.com/uartspace",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_gaelreoripichi",
+      "venue_name": "갤러리피치",
+      "region": "seoul",
+      "address": "서울 강남구 도산대로87길 25",
+      "lat": 37.5263531,
+      "lng": 127.0501583,
+      "official_url": "https://galeriepici.com/",
+      "instagram_url": "https://www.instagram.com/galeriepici/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_gimriagaelreori",
+      "venue_name": "김리아갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 압구정로75길 5",
+      "lat": 37.5263143,
+      "lng": 127.0469052,
+      "official_url": "https://www.kimreeaa.com/ko/",
+      "instagram_url": "https://www.instagram.com/kimreeaagallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_sehwamisulgwan",
@@ -1276,6 +2971,7 @@
       "lat": 37.5697698,
       "lng": 126.9723315,
       "official_url": "https://sehwamuseum.org/",
+      "instagram_url": "https://www.instagram.com/sehwamoa/",
       "category": "미술관",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1289,7 +2985,8 @@
           "status": "active",
           "thumbnail": "https://sehwamuseum.org/wp-content/uploads/2024/11/og.png",
           "url": "https://sehwamuseum.org/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -1301,6 +2998,7 @@
       "lat": 37.5253345,
       "lng": 127.0355021,
       "official_url": "https://www.operagallery.com/",
+      "instagram_url": "https://www.instagram.com/operagallery/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1314,9 +3012,38 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.operagallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "gangnam_oeioeigaelreori",
+      "venue_name": "오에이오에이갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 삼성로63길 32-11",
+      "lat": 37.5000607,
+      "lng": 127.0570691,
+      "official_url": "https://www.oaoagallery.com/",
+      "instagram_url": "https://www.instagram.com/oaoa_gallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seocho_saemteohwarang",
+      "venue_name": "샘터화랑",
+      "region": "seoul",
+      "address": "서울 서초구 고무래로8길 4 2층",
+      "lat": 37.5026663,
+      "lng": 127.0103279,
+      "official_url": "http://www.wellsidegallery.com/",
+      "instagram_url": "https://www.instagram.com/wellsidegallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "gangnam_iyujingaelreori",
@@ -1326,6 +3053,7 @@
       "lat": 37.5263006,
       "lng": 127.0476558,
       "official_url": "https://www.leeeugeangallery.com/",
+      "instagram_url": "https://www.instagram.com/leeeugeangallery/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1339,9 +3067,24 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.leeeugeangallery.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "gangnam_313_art_project",
+      "venue_name": "313 ART PROJECT",
+      "region": "seoul",
+      "address": "서울시 강남구 압구정로60길 11, 5층",
+      "lat": 37.5949918,
+      "lng": 126.9893104,
+      "official_url": "https://313artproject.com/",
+      "instagram_url": "https://www.instagram.com/313artproject",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_horiateuseupeiseu",
@@ -1351,6 +3094,7 @@
       "lat": 37.5837595,
       "lng": 126.9811597,
       "official_url": "https://horiartspace.com/",
+      "instagram_url": "https://www.instagram.com/horiartspace/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1364,9 +3108,24 @@
           "status": "active",
           "thumbnail": "https://storage.googleapis.com/cr-resource/image/af2cfcb18504cd1a4882cdd4ad14d71a/horiartspacee/650/1e35e06bb2007011a180a374ca5ba8ce.png?_1779693108",
           "url": "https://horiartspace.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
+    },
+    {
+      "venue_key": "gangnam_beuraungaelreori",
+      "venue_name": "브라운갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 테헤란로87길 46 호텔오크우드프리미어 코엑스센터 B2 18호",
+      "lat": 37.5109522,
+      "lng": 127.0581852,
+      "official_url": "https://www.brown-gallery.com/",
+      "instagram_url": "https://www.instagram.com/so.browngallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "yongsan_bhak",
@@ -1376,6 +3135,7 @@
       "lat": 37.5429661,
       "lng": 127.0032171,
       "official_url": "https://galeriebhak.com/",
+      "instagram_url": "https://www.instagram.com/galeriebhak",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1389,7 +3149,118 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://galeriebhak.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_olmiateuseupeiseu",
+      "venue_name": "올미아트스페이스",
+      "region": "seoul",
+      "address": "서울 종로구 우정국로 51",
+      "lat": 37.5736647,
+      "lng": 126.9827565,
+      "official_url": "http://www.allmeartspace.com/",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_poseukomisulgwan",
+      "venue_name": "포스코미술관",
+      "region": "seoul",
+      "address": "서울 강남구 테헤란로 440 (포스코센터)",
+      "lat": 37.505783,
+      "lng": 127.0558659,
+      "official_url": "http://www.poscoartmuseum.org",
+      "instagram_url": "https://www.instagram.com/posco_artmuseum",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_ggaelreori",
+      "venue_name": "G갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 삼성로 748 제이에스하우스 B1",
+      "lat": 37.5219609,
+      "lng": 127.0489054,
+      "official_url": "https://www.ggallery.kr/",
+      "instagram_url": "https://www.instagram.com/ggallery.kr/",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "d5d0205a7e9b",
+          "title": "《최윤희 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.ggallery.kr/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "gangnam_igirigugaelreori",
+      "venue_name": "이길이구갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 강남대로158길 35",
+      "lat": 37.5197393,
+      "lng": 127.0215026,
+      "official_url": "https://www.2gil29gallery.com/",
+      "instagram_url": "https://www.instagram.com/2gil29gallery_official",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_lina_gallery",
+      "venue_name": "리나갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 논현로142길 43",
+      "lat": 37.518039,
+      "lng": 127.0328542,
+      "official_url": "https://www.linagallery.com/",
+      "instagram_url": "https://www.instagram.com/lina_gallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seocho_space_isu",
+      "venue_name": "스페이스이수",
+      "region": "seoul",
+      "address": "서울 서초구 사평대로 84 1층",
+      "lat": 37.4980154,
+      "lng": 126.9938342,
+      "official_url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
+      "instagram_url": "https://www.instagram.com/spaceisu?utm_medium=copy_link",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "8ed4ee11d6c9",
+          "title": "《리킷(Lee Kit) 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -1401,6 +3272,7 @@
       "lat": 37.5261544,
       "lng": 127.0470224,
       "official_url": "https://www.tangcontemporary.com/",
+      "instagram_url": "https://www.instagram.com/tangcontemporaryartseoul/",
       "category": "갤러리",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1414,7 +3286,8 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.tangcontemporary.com/",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -1426,9 +3299,10 @@
       "lat": 37.5613906,
       "lng": 126.831149,
       "official_url": "https://www.spacek.co.kr/index.do",
+      "instagram_url": "https://www.instagram.com/spacek_korea",
       "category": "갤러리",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "11b27f21f3ff",
@@ -1439,7 +3313,1154 @@
           "status": "active",
           "thumbnail": "",
           "url": "https://www.spacek.co.kr/index.do",
-          "price": ""
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "2659ada6c655",
+          "title": "KAWS 개인전",
+          "artists": "",
+          "start_date": "2026-07-23",
+          "end_date": "2026-12-27",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.spacek.co.kr/index.do",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "yongsan_gaelreorierd",
+      "venue_name": "갤러리ERD",
+      "region": "seoul",
+      "address": "서울 용산구 회나무로13가길 25",
+      "lat": 37.5215179,
+      "lng": 127.0485289,
+      "official_url": "http://galerieerd.com/",
+      "instagram_url": "https://www.instagram.com/galerie_erd/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "gangnam_hideunemgaelreori",
+      "venue_name": "히든엠갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 논현로86길 16 제포빌딩 L층",
+      "lat": 37.4998385,
+      "lng": 127.0389433,
+      "official_url": "http://hiddenmgallery.com/",
+      "instagram_url": "https://www.instagram.com/hiddenmgallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_d929530652",
+      "venue_name": "상업화랑 용산",
+      "region": "seoul",
+      "address": "서울 용산구 원효로97길 26",
+      "lat": 37.5420507,
+      "lng": 126.9690789,
+      "official_url": "https://sahngupgallery.com/",
+      "instagram_url": "https://www.instagram.com/sahngupgallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_a1078304d2",
+      "venue_name": "갤러리바톤",
+      "region": "seoul",
+      "address": "서울 용산구 독서당로 116",
+      "lat": 37.5364251,
+      "lng": 127.0121759,
+      "official_url": "https://gallerybaton.com/",
+      "instagram_url": "https://www.instagram.com/gallerybaton",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_725fbd745b",
+      "venue_name": "리움미술관",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로55길 60-16",
+      "lat": 37.5380141,
+      "lng": 126.9994097,
+      "official_url": "https://www.leeumhoam.org/",
+      "instagram_url": "https://www.instagram.com/leeummuseumofart",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "85615f533dd7",
+          "title": "《환경, 예술이 되다 - 여성 작가들의 공감각적 실험 1956-1976》",
+          "artists": "",
+          "start_date": "2026-05-05",
+          "end_date": "2026-11-29",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.leeumhoam.org/",
+          "price": "",
+          "source": "art_week"
+        },
+        {
+          "id": "52ea3c4fc5ed",
+          "title": "《구정아 개인전》",
+          "artists": "",
+          "start_date": "2026-09-05",
+          "end_date": "2026-12-27",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.leeumhoam.org/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "yongsan_v_f799103f1c",
+      "venue_name": "박여숙화랑",
+      "region": "seoul",
+      "address": "서울 용산구 소월로38길 30-34",
+      "lat": 37.5441105,
+      "lng": 126.9902292,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/parkryusook",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_40618ac755",
+      "venue_name": "페이스갤러리 서울",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로 262",
+      "lat": 37.5384432,
+      "lng": 127.0013336,
+      "official_url": "https://www.pacegallery.com/",
+      "instagram_url": "https://www.instagram.com/pacegallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_8100d2824a",
+      "venue_name": "갤러리조은",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로55가길 3 골든너겟 빌딩 1층",
+      "lat": 37.5380522,
+      "lng": 127.0006632,
+      "official_url": "https://galleryjoeun.com/kor/main/",
+      "instagram_url": "https://www.instagram.com/galleryjoeun",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_fae4283bf3",
+      "venue_name": "라흰갤러리",
+      "region": "seoul",
+      "address": "서울 용산구 한강대로50길 38-7",
+      "lat": 37.5307928,
+      "lng": 126.9725424,
+      "official_url": "https://www.laheengallery.com/",
+      "instagram_url": "https://www.instagram.com/laheen_gallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_06eb86d6f8",
+      "venue_name": "갤러리에스피",
+      "region": "seoul",
+      "address": "서울 용산구 회나무로44가길 30",
+      "lat": 37.5383092,
+      "lng": 126.9942969,
+      "official_url": "https://www.gallerysp.com/",
+      "instagram_url": "https://www.instagram.com/gallery__sp/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_d2d167936c",
+      "venue_name": "타데우스로팍 서울",
+      "region": "seoul",
+      "address": "서울 용산구 독서당로 122-1",
+      "lat": 37.536852,
+      "lng": 127.0128664,
+      "official_url": "https://ropac.net/ko/",
+      "instagram_url": "https://www.instagram.com/ThaddaeusRopac/",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "87645c379e81",
+          "title": "《게오르그 바셀리츠 (Georg Basellitz) 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://ropac.net/ko/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "yongsan_v_d530e9f450",
+      "venue_name": "모노하 한남",
+      "region": "seoul",
+      "address": "서울 용산구 독서당로 36",
+      "lat": 37.5316595,
+      "lng": 127.0077538,
+      "official_url": "https://monoha.com/",
+      "instagram_url": "https://www.instagram.com/monoha_craft/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_80cf71354a",
+      "venue_name": "가나아트 남산",
+      "region": "seoul",
+      "address": "서울 용산구 소월로 322 L층",
+      "lat": 37.5396013,
+      "lng": 126.997452,
+      "official_url": "https://www.ganaart.com/",
+      "instagram_url": "https://www.instagram.com/ganaart__official/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_fc1149a23f",
+      "venue_name": "필갤러리",
+      "region": "seoul",
+      "address": "서울 용산구 유엔빌리지길 24",
+      "lat": 36.6295063,
+      "lng": 127.4896703,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/fillgallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_e9960bfb05",
+      "venue_name": "화이트스톤갤러리 서울",
+      "region": "seoul",
+      "address": "서울 용산구 소월로 70",
+      "lat": 37.5541682,
+      "lng": 126.9782202,
+      "official_url": "https://www.whitestone-gallery.com/",
+      "instagram_url": "https://www.instagram.com/whitestonegallery.official/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_lvs_craft",
+      "venue_name": "LVS CRAFT",
+      "region": "seoul",
+      "address": "서울 용산구 한강대로 100 2층",
+      "lat": 37.5287912,
+      "lng": 126.9686735,
+      "official_url": "https://lvscraft.co.kr/",
+      "instagram_url": "https://www.instagram.com/lvscraft/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_e2b0a35513",
+      "venue_name": "휘슬",
+      "region": "seoul",
+      "address": "서울 용산구 회나무로13길 12 1층",
+      "lat": 37.5398647,
+      "lng": 126.989661,
+      "official_url": "https://whistlewhistle.kr/",
+      "instagram_url": "https://www.instagram.com/whistle_seoul",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_p21",
+      "venue_name": "P21",
+      "region": "seoul",
+      "address": "서울 용산구 회나무로 66",
+      "lat": 37.5401122,
+      "lng": 126.9938585,
+      "official_url": "https://p21.kr/",
+      "instagram_url": "https://www.instagram.com/p21.kr",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_7b9337098a",
+      "venue_name": "뉴스프링프로젝트",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로45길 22",
+      "lat": 37.5364754,
+      "lng": 126.9984339,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/newspringproject",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_342d23fef8",
+      "venue_name": "디멘션갤러리",
+      "region": "seoul",
+      "address": "서울 용산구 한강대로14길 35-32 1층",
+      "lat": 37.5245821,
+      "lng": 126.9666249,
+      "official_url": "http://dimensiongallery.co.kr/",
+      "instagram_url": "https://www.instagram.com/art.dimension.seoul",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_e4315d5de2",
+      "venue_name": "눈컨템포러리",
+      "region": "seoul",
+      "address": "서울 용산구 소월로 72",
+      "lat": 37.5540407,
+      "lng": 126.9784555,
+      "official_url": "https://www.nooncontemporary.com/",
+      "instagram_url": "https://www.instagram.com/nooncontemporary",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_e94dc905f1",
+      "venue_name": "아마도예술공간",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로54길 8",
+      "lat": 37.5377662,
+      "lng": 127.0017855,
+      "official_url": "https://amadoart.org/",
+      "instagram_url": "https://www.instagram.com/amadoartspace/",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_5b44565266",
+      "venue_name": "어반아트",
+      "region": "seoul",
+      "address": "서울 용산구 소월로44길 7",
+      "lat": 37.5424256,
+      "lng": 126.9927463,
+      "official_url": "https://www.urbanart4u.com/",
+      "instagram_url": "https://www.instagram.com/urbanart_seoul",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_c0ce0399d0",
+      "venue_name": "캡션서울",
+      "region": "seoul",
+      "address": "서울 용산구 원효로81길 5 2층",
+      "lat": 37.5393653,
+      "lng": 126.9671902,
+      "official_url": "https://www.captionseoul.com/",
+      "instagram_url": "https://www.instagram.com/caption.seoul/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_6d6dc09dd4",
+      "venue_name": "토마스 파크 클럼지 플레이스",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로 199 4층",
+      "lat": 37.5348308,
+      "lng": 126.9962052,
+      "official_url": "https://thomaspark.site/",
+      "instagram_url": "https://www.instagram.com/thomasparkgallery/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_998c88e1fb",
+      "venue_name": "히피한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로27가길 26-20",
+      "lat": 37.5382464,
+      "lng": 127.0028449,
+      "official_url": "https://hippiehannam.com/",
+      "instagram_url": "https://www.instagram.com/hippie_hannam",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_3218026cac",
+      "venue_name": "국립중앙박물관",
+      "region": "seoul",
+      "address": "서울 용산구 서빙고로 137",
+      "lat": 37.5226783,
+      "lng": 126.9779352,
+      "official_url": "https://www.museum.go.kr/MUSEUM/main/index.do",
+      "instagram_url": "https://www.instagram.com/nationalmuseumofkorea/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_1afb74bc02",
+      "venue_name": "매스갤러리 한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로 91 나인원 한남 고메이 494 G층",
+      "lat": 37.5371049,
+      "lng": 127.0044368,
+      "official_url": "https://www.massgallery.info/",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_82f34a42ae",
+      "venue_name": "디스위켄드룸",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로42길 30",
+      "lat": 37.5434754,
+      "lng": 127.0030782,
+      "official_url": "http://thisweekendroom.com/",
+      "instagram_url": "https://www.instagram.com/thisweekendroom_official",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_komplex",
+      "venue_name": "Komplex",
+      "region": "seoul",
+      "address": "서울 용산구 후암로 59 2층",
+      "lat": 37.5510836,
+      "lng": 126.9768376,
+      "official_url": "https://www.komplex.kr/",
+      "instagram_url": "https://www.instagram.com/gallery_komplex",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yongsan_v_65b5f85b8b",
+      "venue_name": "그라운드시소 한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
+      "lat": 37.5362657,
+      "lng": 127.0049872,
+      "official_url": "https://groundseesaw.co.kr/",
+      "instagram_url": "https://www.instagram.com/groundseesaw/",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_48d3ac28a9",
+      "venue_name": "박서보미술관",
+      "region": "seoul",
+      "address": "서울 서대문구 연희로24길 9-2",
+      "lat": 37.5715312,
+      "lng": 126.935569,
+      "official_url": "https://psbf.kr/",
+      "instagram_url": "https://www.instagram.com/parkseobo.foundation",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_c8ed0c7725",
+      "venue_name": "챕터투",
+      "region": "seoul",
+      "address": "서울 마포구 동교로27길 54",
+      "lat": 37.5602136,
+      "lng": 126.9212316,
+      "official_url": "https://chapterii.org/",
+      "instagram_url": "https://www.instagram.com/chapterii_",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_0af6086a",
+      "venue_name": "갤러리 인HQ",
+      "region": "seoul",
+      "address": "서울 서대문구 홍연길 97",
+      "lat": 37.577145,
+      "lng": 126.9318146,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/_innsinn_/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_b7973129d3",
+      "venue_name": "스페이스애프터",
+      "region": "seoul",
+      "address": "서울 서대문구 연희로15길 64 B1",
+      "lat": 37.5701011,
+      "lng": 126.9295136,
+      "official_url": "https://www.spaceaefter.com/",
+      "instagram_url": "https://www.instagram.com/space_aefter",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_549ffba9d0",
+      "venue_name": "온에어갤러리",
+      "region": "seoul",
+      "address": "서울 서대문구 연희로14길 62-57",
+      "lat": 37.5663107,
+      "lng": 126.9344661,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/onairgallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_c8ce1004ff",
+      "venue_name": "씨알콜렉티브",
+      "region": "seoul",
+      "address": "서울 마포구 성미산로 120 일심빌딩 2층",
+      "lat": 37.5624931,
+      "lng": 126.9202856,
+      "official_url": "http://cr-collective.co.kr/",
+      "instagram_url": "https://www.instagram.com/cr_collective_",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_5a38aa2053",
+      "venue_name": "레드로드예술실험센터",
+      "region": "seoul",
+      "address": "서울 마포구 잔다리로6길 33",
+      "lat": 37.552479,
+      "lng": 126.9209321,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/artspace_redroad",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_c1316d9d7e",
+      "venue_name": "온수공간",
+      "region": "seoul",
+      "address": "서울 마포구 월드컵북로1길 74",
+      "lat": 37.5534479,
+      "lng": 126.9177704,
+      "official_url": "https://www.onsu-gonggan.com/",
+      "instagram_url": "https://www.instagram.com/os_gonggan",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_www_space",
+      "venue_name": "WWW SPACE",
+      "region": "seoul",
+      "address": "서울 마포구 망원로6길 37 지하1층",
+      "lat": 37.5552506,
+      "lng": 126.9037499,
+      "official_url": "https://www.wwwspace.kr/",
+      "instagram_url": "https://www.instagram.com/www__space",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_00d8331098",
+      "venue_name": "팩션",
+      "region": "seoul",
+      "address": "서울 서대문구 홍제천로6길 26 지하1층",
+      "lat": 37.5742868,
+      "lng": 126.9259985,
+      "official_url": "https://factionseoul.com/",
+      "instagram_url": "https://www.instagram.com/faction.seoul/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "mapo_v_04911c65d7",
+      "venue_name": "래빗앤타이거",
+      "region": "seoul",
+      "address": "서울 서대문구 세검정로1길 46",
+      "lat": 37.5931181,
+      "lng": 126.9440319,
+      "official_url": "https://www.rabbitandtigergallery.com/",
+      "instagram_url": "https://www.instagram.com/rabbitandtigergallery",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongbuk_v_4d7461f17f",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6409659,
+      "lng": 127.0667885,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "420733ab9f09",
+          "title": "타이틀매치 《오인환vs장서영: 인간-하기》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "dobong_v_dd23d120a3",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.655482,
+      "lng": 127.0487773,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "84cf27aca8a2",
+          "title": "《마틴 파 개인전》",
+          "artists": "",
+          "start_date": "2026-07-16",
+          "end_date": "2026-10-18",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "seongbuk_v_ae499090eb",
+      "venue_name": "성북구립미술관",
+      "region": "seoul",
+      "address": "서울 성북구 성북로 134",
+      "lat": 37.594829,
+      "lng": 126.9948995,
+      "official_url": "https://sma.sbculture.or.kr/sma/index.do",
+      "instagram_url": "https://www.instagram.com/seongbukmuseumofart/",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "42c6c1f81417",
+          "title": "[성북구립미술관]",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sma.sbculture.or.kr/sma/index.do",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "seongbuk_v_5c6a41c318",
+      "venue_name": "성북구립 최만린미술관",
+      "region": "seoul",
+      "address": "서울 성북구 솔샘로7길 23",
+      "lat": 37.6106627,
+      "lng": 127.0042834,
+      "official_url": "https://sma.sbculture.or.kr/cml/index.do",
+      "instagram_url": "https://www.instagram.com/seongbukmuseumofart/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "eunpyeong_v_104cc78134",
+      "venue_name": "삼각산금암미술관",
+      "region": "seoul",
+      "address": "서울 은평구 진관길 21-2",
+      "lat": 37.6416329,
+      "lng": 126.9412376,
+      "official_url": "https://museum.ep.go.kr/",
+      "instagram_url": "https://www.instagram.com/eunpyeong_museum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "nowon_v_682ba5c8bc",
+      "venue_name": "노원아트뮤지엄",
+      "region": "seoul",
+      "address": "서울 노원구 중계로 181 4층",
+      "lat": 37.6502349,
+      "lng": 127.0802907,
+      "official_url": "https://www.nowonarts.kr/",
+      "instagram_url": "https://www.instagram.com/nowonfac/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongbuk_v_aceb96d6f4",
+      "venue_name": "성북예술창작터",
+      "region": "seoul",
+      "address": "서울 성북구 성북로 23",
+      "lat": 37.5900625,
+      "lng": 127.004135,
+      "official_url": "https://sma.sbculture.or.kr/youngartspace/index.do",
+      "instagram_url": "https://www.instagram.com/sma.youngartspace/",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jungnang_v_c5dad07638",
+      "venue_name": "중랑아트센터",
+      "region": "seoul",
+      "address": "서울 중랑구 망우로 353 이노시티 C동 B2F",
+      "lat": 37.5985,
+      "lng": 127.0912806,
+      "official_url": "https://www.jnfac.or.kr/art/index",
+      "instagram_url": "https://www.instagram.com/jungnangartcenter",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongbuk_v_caf1ee64fb",
+      "venue_name": "간송미술관",
+      "region": "seoul",
+      "address": "서울 성북구 성북로 102-11",
+      "lat": 37.5936279,
+      "lng": 126.9969241,
+      "official_url": "https://kansong.org/",
+      "instagram_url": "https://www.instagram.com/kansongart",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongbuk_bb_m",
+      "venue_name": "BB&M",
+      "region": "seoul",
+      "address": "서울 성북구 성북로23길 10",
+      "lat": 37.5933838,
+      "lng": 126.9954009,
+      "official_url": "https://www.gallerybbm.com/ko/",
+      "instagram_url": "https://www.instagram.com/gallerybbm/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "dobong_mess_mass",
+      "venue_name": "MESS MASS",
+      "region": "seoul",
+      "address": "서울 도봉구 도봉로169나길 32 401호",
+      "lat": 37.6783397,
+      "lng": 127.0435281,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/messmass2025",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongbuk_tinc",
+      "venue_name": "TINC",
+      "region": "seoul",
+      "address": "서울 성북구 동소문로10길 34-16",
+      "lat": 37.5888345,
+      "lng": 127.0108654,
+      "official_url": "https://t-i-n-c.com/",
+      "instagram_url": "https://www.instagram.com/this_is_not_a_church/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "songpa_v_3328327af1",
+      "venue_name": "롯데뮤지엄",
+      "region": "seoul",
+      "address": "서울 송파구 올림픽로 300 롯데월드타워 7층",
+      "lat": 37.512492,
+      "lng": 127.102829,
+      "official_url": "https://www.lottemuseum.com/",
+      "instagram_url": "https://www.instagram.com/lottemuseum",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "songpa_v_53ecff4b65",
+      "venue_name": "소마미술관",
+      "region": "seoul",
+      "address": "서울 송파구 올림픽로 424",
+      "lat": 37.5169172,
+      "lng": 127.1179749,
+      "official_url": "https://soma.kspo.or.kr/main",
+      "instagram_url": "https://www.instagram.com/soma_museum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "songpa_v_d4a87dd36a",
+      "venue_name": "한성백제박물관 분관",
+      "region": "seoul",
+      "address": "서울 송파구 위례성대로 71",
+      "lat": null,
+      "lng": null,
+      "official_url": "https://baekjemuseum.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulbaekjemuseum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "geumcheon_v_75b99b9f74",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로79길 65",
+      "lat": 37.4577976,
+      "lng": 126.8954095,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "6084da7d42c9",
+          "title": "《김희천: 두더지들》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "gwanak_v_4903d075a2",
+      "venue_name": "서울시립 남서울미술관",
+      "region": "seoul",
+      "address": "서울 관악구 남부순환로 2076",
+      "lat": 37.4760645,
+      "lng": 126.9795205,
+      "official_url": "https://sema.seoul.go.kr/",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "geumcheon_v_559fa666af",
+      "venue_name": "금천예술공장",
+      "region": "seoul",
+      "address": "서울 금천구 범안로15길 57",
+      "lat": 37.4688299,
+      "lng": 126.8919585,
+      "official_url": "https://www.sfac.or.kr/artspace/artspace/geumcheon_main.do",
+      "instagram_url": "https://www.instagram.com/art.space.geumcheon",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yeongdeungpo_v_81b75e69",
+      "venue_name": "스페이스 xx",
+      "region": "seoul",
+      "address": "서울 영등포구 도림로128가길 1 B1",
+      "lat": 37.514432,
+      "lng": 126.8957891,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/space_xx_/",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "yeongdeungpo_alt1",
+      "venue_name": "ALT.1 더현대서울",
+      "region": "seoul",
+      "address": "서울 영등포구 여의대로 108",
+      "lat": 37.5260667,
+      "lng": 126.9289154,
+      "official_url": "https://www.ehyundai.com/newPortal/index.do",
+      "instagram_url": "https://www.instagram.com/thehyundai_seoul/",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongdong_v_8df71e5086",
+      "venue_name": "디뮤지엄",
+      "region": "seoul",
+      "address": "서울 성동구 왕십리로 83-21",
+      "lat": 37.543826,
+      "lng": 127.0442175,
+      "official_url": "https://www.daelimmuseum.org/",
+      "instagram_url": "https://www.instagram.com/daelimmuseum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongdong_v_4bfa5335a6",
+      "venue_name": "오시선",
+      "region": "seoul",
+      "address": "서울 성동구 성덕정길 112",
+      "lat": 37.5369936,
+      "lng": 127.0557679,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/osisun.ch",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "seongdong_v_5cbca32c8f",
+      "venue_name": "헬로우뮤지엄",
+      "region": "seoul",
+      "address": "서울 성동구 성수일로12길 20",
+      "lat": 37.5481744,
+      "lng": 127.0532505,
+      "official_url": "https://www.hellomuseum.com/",
+      "instagram_url": "https://www.instagram.com/hellomuseum/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_futura_seoul",
+      "venue_name": "푸투라 서울",
+      "region": "seoul",
+      "address": "서울 종로구 북촌로 61",
+      "lat": 37.5822738,
+      "lng": 126.9848149,
+      "official_url": "https://futuraseoul.org/",
+      "instagram_url": "https://www.instagram.com/futuraseoul",
+      "category": "갤러리",
+      "active_count": 2,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "aa60a541418d",
+          "title": "《김보희 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://futuraseoul.org/",
+          "price": "",
+          "source": "art_week"
+        },
+        {
+          "id": "bd554a6b43e3",
+          "title": "《김 크리스틴 선 개인전》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://futuraseoul.org/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_arko_art_center",
+      "venue_name": "아르코미술관",
+      "region": "seoul",
+      "address": "서울 종로구 동숭길 3",
+      "lat": 37.5805408,
+      "lng": 127.0032406,
+      "official_url": "https://www.arko.or.kr",
+      "instagram_url": "https://www.instagram.com/arko_art_center/",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
+    },
+    {
+      "venue_key": "jongno_artside_gallery",
+      "venue_name": "아트사이드 갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 자하문로6길 15",
+      "lat": 37.5782436,
+      "lng": 126.9729903,
+      "official_url": "https://www.artside.org/",
+      "instagram_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "072a2c23daa1",
+          "title": "《김호득 개인전》",
+          "artists": "",
+          "start_date": "2026-08-21",
+          "end_date": "2026-09-19",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.artside.org/",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "junggu_french_embassy",
+      "venue_name": "주한프랑스대사관저",
+      "region": "seoul",
+      "address": "서울 중구 합정로 30",
+      "lat": 37.5612818,
+      "lng": 126.965031,
+      "official_url": "",
+      "instagram_url": "",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "d461c80af4a3",
+          "title": "한불수교 140주년 기념 갤러리 페로탕 협력전 《이배 / 장-미셸 오토니엘》",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
+        }
+      ]
+    },
+    {
+      "venue_key": "yeouido_hanwha_pompidou",
+      "venue_name": "한화 퐁피두센터",
+      "region": "seoul",
+      "address": "서울 영등포구 여의대로 (63빌딩 인근)",
+      "lat": 37.5199203,
+      "lng": 126.9401102,
+      "official_url": "",
+      "instagram_url": "",
+      "category": "미술관",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "a79165f880f7",
+          "title": "큐비즘 소장품 개관전",
+          "artists": "",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "",
+          "url": "",
+          "price": "",
+          "source": "art_week"
         }
       ]
     },
@@ -1451,6 +4472,7 @@
       "lat": null,
       "lng": null,
       "official_url": "",
+      "instagram_url": "",
       "category": "기타",
       "active_count": 1,
       "upcoming_count": 0,
@@ -1464,7 +4486,8 @@
           "status": "active",
           "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F",
           "url": "https://www.instagram.com/p/DX8J51phDTL/",
-          "price": ""
+          "price": "",
+          "source": "submission"
         }
       ]
     },
@@ -1476,6 +4499,7 @@
       "lat": null,
       "lng": null,
       "official_url": "",
+      "instagram_url": "",
       "category": "기타",
       "active_count": 0,
       "upcoming_count": 1,
@@ -1489,7 +4513,8 @@
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051802304277614945.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202605140002074&exhFlag=2",
-          "price": "무료"
+          "price": "무료",
+          "source": "mmca"
         }
       ]
     }
