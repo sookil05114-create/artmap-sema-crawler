@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-26T13:33:39Z",
+  "generated_at": "2026-05-26T13:33:46Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -99,7 +99,7 @@
         "description_summary": "미국 추상표현주의 거장 엔리코 엠브롤리의 작품을 선보이는 전시. 기하학적 미니멀리즘과 추상 표현주의가 결합된 스타일로, 회화, 조각, 판화 등 다양한 매체를 활용한 작품들을 전시한다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_yuminateumyujieom",
       "venue_name": "유민아트뮤지엄",
       "title": "Enrico Embroli 초대전",
@@ -111,7 +111,8 @@
       "lng": 127.0657586,
       "address": "서울 강남구 테헤란로108길 8 B1",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-26T13:33:40.466Z"
     },
     {
       "id": "4c27a184ac82",
@@ -136,7 +137,7 @@
         "description_summary": "갤러리 그림손 기획초대전으로 김석호 개인전입니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_geurimson",
       "venue_name": "갤러리 그림손",
       "title": "Objetscape : 이후에 남는 것",
@@ -148,7 +149,8 @@
       "lng": 126.9861401,
       "address": "서울 종로구 인사동10길 22",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-26T13:33:39.640Z"
     },
     {
       "id": "92f823f6b7bf",
@@ -325,7 +327,7 @@
         "description_summary": "유영국의 작품을 소개하는 전시",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_seoulsirip_misurakaibeu",
       "venue_name": "서울시립 미술아카이브",
       "title": "유영국: 산은 내 안에 있다",
@@ -337,7 +339,8 @@
       "lng": 126.9719266,
       "address": "서울시 종로구 평창문화로 101",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-26T13:33:45.349Z"
     },
     {
       "id": "5f5684aefaa0",
