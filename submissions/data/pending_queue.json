@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-26T13:33:56Z",
+  "generated_at": "2026-05-26T13:34:02Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -25,7 +25,7 @@
         "description_summary": "Space K에서 개최되는 테레사를 추모하는 전시. 창의적인 미술 작품을 선보이며 지역 커뮤니티를 위한 혁신적이고 뛰어난 콘텐츠를 제시한다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_seupeiseuk_seoul",
       "venue_name": "스페이스K 서울",
       "title": "For Theresa",
@@ -37,7 +37,8 @@
       "lng": 126.831149,
       "address": "서울 강서구 마곡중앙8로 32 (코오롱원앤온리타워)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-26T13:34:00.370Z"
     },
     {
       "id": "2933faecae61",
