@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-25T11:58:26Z",
+  "generated_at": "2026-05-26T13:33:28Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -210,7 +210,7 @@
         "description_summary": "배형경의 청동 조각 개인전. 경복궁에서 만난 위로의 조각상을 선보이는 전시로, 50년 작업의 경력을 담은 작품들을 전시한다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreorisimon",
       "venue_name": "갤러리시몬",
       "title": "Bae Hyung Kyung",
@@ -222,7 +222,8 @@
       "lng": 126.9732514,
       "address": "서울 종로구 자하문로6길 20",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-26T13:33:28.482Z"
     },
     {
       "id": "c3aa6931b3eb",
