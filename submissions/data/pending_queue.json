@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-26T13:33:52Z",
+  "generated_at": "2026-05-26T13:33:56Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -403,7 +403,7 @@
         "description_summary": "N/A 갤러리의 현재 전시로 진행 중인 작품 전시입니다.",
         "confidence": 0.7
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "euljiro_nslasha_kr",
       "venue_name": "N/A",
       "title": "The Death of Solomon Grundy: Sunday, and Part of Ghost/Trace, and Some Grave Ornaments",
@@ -415,7 +415,8 @@
       "lng": 126.9964407,
       "address": "",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-26T13:33:55.753Z"
     },
     {
       "id": "11b27f21f3ff",
