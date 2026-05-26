@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-26T13:33:33Z",
+  "generated_at": "2026-05-26T13:33:39Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -173,7 +173,7 @@
         "description_summary": "김상표 개인전",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_jahamisulgwan",
       "venue_name": "자하미술관",
       "title": "I AM ANARCHISM",
@@ -185,7 +185,8 @@
       "lng": 126.9603187,
       "address": "서울 종로구 창의문로5가길 46 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-05-26T13:33:38.870Z"
     },
     {
       "id": "7c634f2ddb69",
@@ -248,7 +249,7 @@
         "description_summary": "작가 안윤모는 호랑이라는 상징을 통해 현대인의 삶의 단면을 드러낸다. 위트와 해학 속에 재해석된 호랑이는 인간사회의 미묘한 긴장을 드러내며, 점차 인간을 닮아가는 호랑이 연작은 현대인의 복합적인 삶을 비춘다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_tonginhwarang",
       "venue_name": "통인화랑",
       "title": "호(虎) 호(虎) 호랑이",
@@ -260,7 +261,8 @@
       "lng": 126.9858072,
       "address": "서울 종로구 인사동길 32",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-26T13:33:37.886Z"
     },
     {
       "id": "a0e6f0e771c5",
