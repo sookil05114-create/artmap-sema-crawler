@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T13:31:01Z",
+  "generated_at": "2026-05-26T23:50:10Z",
   "sources": [
     "sema",
     "mmca",
@@ -939,9 +939,22 @@
       "official_url": "https://nslasha.kr/",
       "instagram_url": "https://www.instagram.com/nslasha.kr/",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "8456ddcc34ec",
+          "title": "The Death of Solomon Grundy: Sunday, and Part of Ghost/Trace, and Some Grave Ornaments",
+          "artists": "Juwon Kim",
+          "start_date": "2026-05-20",
+          "end_date": "2026-06-28",
+          "status": "active",
+          "thumbnail": "http://nslasha.kr/na/n_a_preview.jpg",
+          "url": "https://nslasha.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "euljiro_space_unit_plus",
@@ -1802,9 +1815,22 @@
       "official_url": "http://www.artlink.co.kr/",
       "instagram_url": "https://www.instagram.com/gallery_artlink/",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "a0e6f0e771c5",
+          "title": "글쓰기의 무게 (The Weight of Writing)",
+          "artists": "길원옥, 김선희, 신서영, 이현미, 한기선",
+          "start_date": "2026-05-26",
+          "end_date": "2026-05-31",
+          "status": "active",
+          "thumbnail": "/img/home_img.png",
+          "url": "http://www.artlink.co.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_imokhwarang",
@@ -1844,9 +1870,22 @@
       "official_url": "https://www.gallerysimon.com/",
       "instagram_url": "https://www.instagram.com/gallery_simon/",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "7c634f2ddb69",
+          "title": "Bae Hyung Kyung",
+          "artists": "Bae Hyung Kyung",
+          "start_date": "2026-03-05",
+          "end_date": "2026-06-05",
+          "status": "active",
+          "thumbnail": "https://static.wixstatic.com/media/d08069_9969ce73bf6b476a957d794583f9cbc8%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d08069_9969ce73bf6b476a957d794583f9cbc8%7Emv2.jpg",
+          "url": "https://www.gallerysimon.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_yehwarang",
@@ -2202,9 +2241,22 @@
       "official_url": "https://www.zahamuseum.org/",
       "instagram_url": "https://www.instagram.com/zahamuseum",
       "category": "미술관",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "92f823f6b7bf",
+          "title": "I AM ANARCHISM",
+          "artists": "김상표",
+          "start_date": "2026-05-19",
+          "end_date": "2026-06-13",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.zahamuseum.org/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_arariomyujieom_in_seupeiseu",
@@ -2381,9 +2433,21 @@
       "official_url": "https://www.grimson.co.kr/",
       "instagram_url": "https://www.instagram.com/gallerygrimson",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "4c27a184ac82",
+          "title": "Objetscape : 이후에 남는 것",
+          "artists": "김석호",
+          "start_date": "2026-05-13",
+          "end_date": "2026-06-02",
+          "status": "active",
+          "thumbnail": "/images/meta_img.png",
+          "url": "https://www.grimson.co.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "49f4902e8c5e",
           "title": "김석호 개인전 Objetscape : 이후에 남는 것",
@@ -2740,9 +2804,22 @@
       "official_url": "http://www.umeanart.co.kr/",
       "instagram_url": "",
       "category": "미술관",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "62f94c390e5a",
+          "title": "Enrico Embroli 초대전",
+          "artists": "Enrico Embroli",
+          "start_date": "",
+          "end_date": "",
+          "status": "active",
+          "thumbnail": "http://www.umeanart.co.kr/builder/img/config/1763951164_61f2877f561fbbd518b1.png",
+          "url": "http://www.umeanart.co.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "seongdong_d_gallery",
@@ -3275,7 +3352,7 @@
       "instagram_url": "https://www.instagram.com/tangcontemporaryartseoul/",
       "category": "갤러리",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "819751fd437a",
@@ -3284,6 +3361,18 @@
           "start_date": "2026-05-16",
           "end_date": "2026-06-27",
           "status": "active",
+          "thumbnail": "",
+          "url": "https://www.tangcontemporary.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "2933faecae61",
+          "title": "Living Living Artist: Kila Cheung Solo Exhibition",
+          "artists": "Kila Cheung",
+          "start_date": "2026-05-30",
+          "end_date": "2026-07-12",
+          "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.tangcontemporary.com/",
           "price": "",
@@ -3301,9 +3390,21 @@
       "official_url": "https://www.spacek.co.kr/index.do",
       "instagram_url": "https://www.instagram.com/spacek_korea",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "7092cf84b3b9",
+          "title": "For Theresa",
+          "artists": "Kyungsub Shin",
+          "start_date": "2026-03-19",
+          "end_date": "2026-06-21",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.spacek.co.kr/index.do",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "11b27f21f3ff",
           "title": "테레사, 이후 (For Theresa)",
