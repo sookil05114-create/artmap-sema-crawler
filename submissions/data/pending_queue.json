@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-05-26T13:33:28Z",
+  "generated_at": "2026-05-26T13:33:33Z",
   "items": [
     {
       "id": "7092cf84b3b9",
@@ -285,7 +285,7 @@
         "description_summary": "로헝리 44에서 개최되는 기획전시로 5명의 작가가 참여하는 전시입니다.",
         "confidence": 0.9
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreoriateuringkeu",
       "venue_name": "갤러리아트링크",
       "title": "글쓰기의 무게 (The Weight of Writing)",
@@ -297,7 +297,8 @@
       "lng": 126.9798206,
       "address": "서울 종로구 삼청로 22 3층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-05-26T13:33:32.209Z"
     },
     {
       "id": "09c5b14b6416",
