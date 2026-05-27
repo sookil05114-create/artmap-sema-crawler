@@ -1,5 +1,10 @@
 """
-SeMA + MMCA + 승인된 제보 + 아트위크 통합 merger (v7 — 전시 없는 venue도 표시)
+SeMA + MMCA + 승인된 제보 + 아트위크 통합 merger (v8 — image_url 전파)
+
+v8 변경점:
+  - venue 메타에 image_url(og:image) 전파
+  - image_cache.json 폴백 지원 (gallery_crawler/image_cache.json)
+  - venue.image_url이 없으면 image_cache에서 조회, 둘 다 없으면 빈 문자열
 
 v7 변경점:
   - build_venues_grouped: lst가 비어 있어도 venue를 결과에 포함 (전시 정보만 빈 배열)
@@ -173,8 +178,19 @@ def art_week_to_exhibition(it: dict, gv_by_key: dict, coords_cache: dict) -> dic
     }
 
 
-def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache: dict) -> list:
+def resolve_image_url(vk: str, venue_meta: dict, image_cache: dict) -> str:
+    """venues.json의 image_url 우선, 없으면 image_cache, 없으면 빈 문자열."""
+    if venue_meta:
+        img = venue_meta.get("image_url")
+        if img:
+            return img
+    cached = image_cache.get(vk, {})
+    return cached.get("image_url", "") or ""
+
+
+def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache: dict, image_cache: dict) -> list:
     """전시 평면 리스트를 분관별로 그룹화.
+    v8: image_url 필드 추가.
     v7: 전시 없는 venue도 결과에 포함 (마커는 찍히고 전시 정보만 빈 배열).
     """
     by_v: dict[str, list] = {}
@@ -216,6 +232,7 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache:
             "lng": lng,
             "official_url": v.get("official_url", v.get("instagram_url", "")),
             "instagram_url": v.get("instagram_url", ""),
+            "image_url": resolve_image_url(vk, v, image_cache),
             "category": v.get("category", ""),
             "active_count": sum(1 for e in lst if e.get("status") == "active"),
             "upcoming_count": sum(1 for e in lst if e.get("status") == "upcoming"),
@@ -246,6 +263,7 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache:
             "lng": sample.get("lng") if sample.get("lng") is not None else cached.get("lng"),
             "official_url": "",
             "instagram_url": "",
+            "image_url": resolve_image_url(vk, {}, image_cache),
             "category": "기타",
             "active_count": sum(1 for e in lst if e.get("status") == "active"),
             "upcoming_count": sum(1 for e in lst if e.get("status") == "upcoming"),
@@ -270,7 +288,15 @@ def main() -> int:
     sema_venues_doc = load_json(ROOT / "sema_crawler" / "venues.json")
     mmca_venues_doc = load_json(ROOT / "mmca_crawler" / "venues.json")
     coords_cache_doc = load_json(ROOT / "gallery_crawler" / "coords_cache.json")
-    coords_cache = (coords_cache_doc or {}).get("venues", {})
+    # coords_cache는 두 가지 형식 모두 지원: {"venues": {...}} 또는 {key: {...}} 직접
+    if coords_cache_doc and "venues" in coords_cache_doc:
+        coords_cache = coords_cache_doc["venues"]
+    else:
+        coords_cache = coords_cache_doc or {}
+
+    # 신규 v8: image_cache (og:image 캐시)
+    image_cache_doc = load_json(ROOT / "gallery_crawler" / "image_cache.json")
+    image_cache = image_cache_doc or {}
 
     # 신규 v7: art_week 데이터 (선택)
     art_week_doc = load_json(ROOT / "art_week" / "exhibitions.json")
@@ -330,8 +356,8 @@ def main() -> int:
                     seen.add(vk)
                     all_venues_meta.append(v)
 
-    # 3) 분관별 그룹화 (v7: 전시 없는 venue도 포함)
-    venues_grouped = build_venues_grouped(all_exs, all_venues_meta, coords_cache)
+    # 3) 분관별 그룹화 (v8: image_url 포함, v7: 전시 없는 venue도 포함)
+    venues_grouped = build_venues_grouped(all_exs, all_venues_meta, coords_cache, image_cache)
 
     # 4) 출력
     payload_exs = {
@@ -380,14 +406,17 @@ def main() -> int:
     seoul_marker_with_xy = sum(1 for v in seoul_venues if v.get("lat") and v.get("lng"))
     seoul_marker_no_xy = len(seoul_venues) - seoul_marker_with_xy
     seoul_with_exh = sum(1 for v in seoul_venues if v["active_count"] + v["upcoming_count"] > 0)
-    print(f"\n[Merger v7] 통합 완료", file=sys.stderr)
+    seoul_with_img = sum(1 for v in seoul_venues if v.get("image_url"))
+    print(f"\n[Merger v8] 통합 완료", file=sys.stderr)
     print(f"  전시 평면 총 {len(all_exs)}건 (서울 {len(seoul_exs)}건)", file=sys.stderr)
     print(f"  분관 마커 {len(venues_grouped)}곳 (서울 {len(seoul_venues)}곳)", file=sys.stderr)
     print(f"    └ 좌표 있음 {seoul_marker_with_xy} / 좌표 없음 {seoul_marker_no_xy}", file=sys.stderr)
     print(f"    └ 전시 있음 {seoul_with_exh} / 전시 없음 {len(seoul_venues) - seoul_with_exh}", file=sys.stderr)
+    print(f"    └ image_url 보유 {seoul_with_img} / 누락 {len(seoul_venues) - seoul_with_img}", file=sys.stderr)
     print(f"  승인된 제보 통합: {approved_count}건", file=sys.stderr)
     print(f"  아트위크 전시 통합: {art_week_count}건", file=sys.stderr)
     print(f"  좌표 캐시 적용: {len(coords_cache)}곳", file=sys.stderr)
+    print(f"  이미지 캐시 적용: {len(image_cache)}곳", file=sys.stderr)
     print(f"  교육: {len(all_progs)}건", file=sys.stderr)
     return 0
 
