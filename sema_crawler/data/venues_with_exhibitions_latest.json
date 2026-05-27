@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-26T23:49:26Z",
+  "generated_at": "2026-05-27T04:16:52Z",
   "source": "sema",
-  "venue_count": 5,
+  "venue_count": 6,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -97,19 +97,9 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
-      "active_count": 4,
+      "active_count": 3,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "06934f057ce3",
-          "title": "SeMA 프로젝트V_얄루",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "dd23cadf6549",
           "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
@@ -150,9 +140,20 @@
       "lat": 37.4793,
       "lng": 126.9577,
       "official_url": "https://sema.seoul.go.kr/kr/visit/namseoul",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "9a6ce05bab0c",
+          "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
+          "start_date": "2026-05-20",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "photosema",
