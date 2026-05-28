@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T23:48:36Z",
+  "generated_at": "2026-05-28T23:58:42Z",
   "sources": [
     "sema",
     "mmca",
@@ -485,7 +485,7 @@
           "start_date": "2026-07-31",
           "end_date": "2026-11-29",
           "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012004105783217595.png",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052803134072218751.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
           "price": "-",
           "source": "mmca"
@@ -1644,22 +1644,9 @@
       "instagram_url": "https://www.instagram.com/leehwaikgallery/",
       "image_url": "http://leehwaikgallery.com/img/logo.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "158f5a97ba43",
-          "title": "파랑의 공간 들",
-          "artists": "",
-          "start_date": "2026-05-07",
-          "end_date": "2026-05-27",
-          "status": "active",
-          "thumbnail": "http://leehwaikgallery.com/img/logo.png",
-          "url": "http://www.leehwaikgallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_nohwarang",
@@ -4836,7 +4823,7 @@
           "end_date": "2026-06-07",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051802304277614945.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202605140002074&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202605140002074&exhFlag=1",
           "price": "무료",
           "source": "mmca"
         }
