@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T23:58:42Z",
+  "generated_at": "2026-05-29T23:59:02Z",
   "sources": [
     "sema",
     "mmca",
@@ -4812,8 +4812,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "fccbcce2c9e9",
@@ -4821,7 +4821,7 @@
           "artists": "무진형제, 이선민, 장종완, 사라 세진 장(사라 반 데어 헤이드), 콘스탄스 텐빅, 사룻 수파수티웻 (총 6명/팀)",
           "start_date": "2026-05-29",
           "end_date": "2026-06-07",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051802304277614945.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202605140002074&exhFlag=1",
           "price": "무료",
