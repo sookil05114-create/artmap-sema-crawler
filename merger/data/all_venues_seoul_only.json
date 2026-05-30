@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T23:59:02Z",
+  "generated_at": "2026-05-30T23:38:37Z",
   "sources": [
     "sema",
     "mmca",
@@ -3320,8 +3320,8 @@
       "instagram_url": "https://www.instagram.com/tangcontemporaryartseoul/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/327302326_862517258162891_5507887909660675501_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjIuQzMifQ%3D%3D&_nc_ohc=xG0KcQmbqkgQ7kNvwFB2lgu&_nc_oc=AdpyyqzX49oxaxr542HtorlIw4niZrKFhgrKBGEtU0WSB34RgocQrywxx30MBFZin3A&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af44eRSNMIsvIntFMB2D_6Mw0PTClwKN1BkUvqI_qSzsxg&oe=6A1C1F97",
       "category": "갤러리",
-      "active_count": 1,
-      "upcoming_count": 1,
+      "active_count": 2,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "819751fd437a",
@@ -3341,7 +3341,7 @@
           "artists": "Kila Cheung",
           "start_date": "2026-05-30",
           "end_date": "2026-07-12",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.tangcontemporary.com/",
           "price": "",
