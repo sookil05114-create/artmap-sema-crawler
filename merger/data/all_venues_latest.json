@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T23:38:37Z",
+  "generated_at": "2026-05-31T23:44:12Z",
   "sources": [
     "sema",
     "mmca",
@@ -367,21 +367,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 5,
+      "active_count": 4,
       "upcoming_count": 8,
       "exhibitions": [
-        {
-          "id": "6c442c37d7a8",
-          "title": "MMCA 서울 상설전 «한국현대미술 하이라이트»",
-          "artists": "김수자, 김환기, 박서보, 박현기, 서도호, 신학철, 양혜규, 이불, 이우환, 문경원+전준호 등 80여 명",
-          "start_date": "2025-05-01",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/04/2025041405075562519096.jpg",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001886&exhFlag=1",
-          "price": "2,000원",
-          "source": "mmca"
-        },
         {
           "id": "4b0293f16d8e",
           "title": "데이미언 허스트",
@@ -1445,21 +1433,9 @@
       "instagram_url": "https://www.instagram.com/ocimuseum",
       "image_url": "https://www.ocimuseum.org/assets/images/logo_naver.jpg",
       "category": "미술관",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "c92e0e022bb4",
-          "title": "영원한 경이",
-          "artists": "조유정",
-          "start_date": "2026-04-17",
-          "end_date": "2026-05-30",
-          "status": "active",
-          "thumbnail": "https://www.ocimuseum.org/assets/images/logo_naver.jpg",
-          "url": "https://www.ocimuseum.org/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "4250cc7db837",
           "title": "2026 OCI AGAIN: 귀한 인연 선정작가 전시",
@@ -2438,22 +2414,9 @@
       "instagram_url": "https://www.instagram.com/joongjunggallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/72534570_592056374665542_3611371049809084416_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=O0v7T_fJ9UgQ7kNvwEfC_Oo&_nc_oc=AdoiA6Z6VTq7tGess5XprNZCrY9zxG6ONR5Xd-snfxQA1ekh1catVcd92oDBPm5IuZA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5QDuTR5nr8YiXMQP26rXfCXogYR8xG0VShhR_m97dsew&oe=6A1C2A34",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "bbdbc34f7c72",
-          "title": "Adrift | 유영",
-          "artists": "Wonje Kang",
-          "start_date": "2026-05-02",
-          "end_date": "2026-05-30",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.joongjunggallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_gaelreori_kiche",
@@ -2710,22 +2673,9 @@
       "instagram_url": "https://www.instagram.com/gallerynowseoul/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/121407771_2755392491408639_6621916360080418849_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTIuQzMifQ%3D%3D&_nc_ohc=pF226jEBkvMQ7kNvwEnwKWa&_nc_oc=AdrBwYAFUupaa59XX1AGfILifu9Z65NM18c7GOnay4v00UJPQELSeIYNoJ122lsWIw8&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4XFkWHsvJNkkmeihhYcyi0wgKFmsVF4sUTN0eRc289EA&oe=6A1C2D8A",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "614105985711",
-          "title": "SOME",
-          "artists": "변웅필",
-          "start_date": "2026-05-06",
-          "end_date": "2026-05-30",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.gallery-now.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_pyogaelreori",
@@ -2914,22 +2864,9 @@
       "instagram_url": "https://www.instagram.com/thepage_gallery",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/exhibitions/home_page_image/items/8f/8f4ad84b8de14a78ab240e4fc7568e8a/web_time-interface_tpg_39.jpg",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "748def81efd2",
-          "title": "Time Interface",
-          "artists": "Vio Choe",
-          "start_date": "2026-04-15",
-          "end_date": "2026-05-30",
-          "status": "active",
-          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/exhibitions/home_page_image/items/8f/8f4ad84b8de14a78ab240e4fc7568e8a/web_time-interface_tpg_39.jpg",
-          "url": "https://thepage-gallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "gangnam_horimbakmulgwan_sinsabungwan",
@@ -3316,22 +3253,9 @@
       "instagram_url": "https://www.instagram.com/galeriebhak",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/103752904_294735581710516_7605946901102829055_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=R2dkgLQjMHQQ7kNvwH7alc2&_nc_oc=AdpKBXafrj-5JbwmYlqXEepQbY_HEvPraqVWXyqvFaLxmhuP7AQN-5K9R9Aodc3pS1M&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6wtGbl4i6HwCSA3vXwleO-DdvNRAdh6X7sq7BeblHQyQ&oe=6A1C4266",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "59e29969f1b0",
-          "title": "위장된 고백 : Camouflaged Confession",
-          "artists": "Suhee Kang",
-          "start_date": "2026-04-16",
-          "end_date": "2026-05-30",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://galeriebhak.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_olmiateuseupeiseu",

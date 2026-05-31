@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T23:38:29Z",
+  "generated_at": "2026-05-31T23:44:03Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -11,20 +11,9 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "active_count": 5,
+      "active_count": 4,
       "upcoming_count": 5,
       "exhibitions": [
-        {
-          "id": "6c442c37d7a8",
-          "title": "MMCA 서울 상설전 «한국현대미술 하이라이트»",
-          "artists": "김수자, 김환기, 박서보, 박현기, 서도호, 신학철, 양혜규, 이불, 이우환, 문경원+전준호 등 80여 명",
-          "start_date": "2025-05-01",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/04/2025041405075562519096.jpg",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001886&exhFlag=1",
-          "price": "2,000원"
-        },
         {
           "id": "4b0293f16d8e",
           "title": "데이미언 허스트",
