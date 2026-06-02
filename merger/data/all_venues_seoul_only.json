@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:44:12Z",
+  "generated_at": "2026-06-02T11:54:06Z",
   "sources": [
     "sema",
     "mmca",
@@ -117,7 +117,7 @@
           "start_date": "2026-06-11",
           "end_date": "2027-05-16",
           "status": "upcoming",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1009792",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
           "url": "",
           "price": "무료",
           "source": "sema"
@@ -1119,21 +1119,9 @@
       "instagram_url": "",
       "image_url": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
       "category": "미술관",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "be91eca50ea9",
-          "title": "기.기.기(奇.己.氣): 동시대와 시행착오",
-          "artists": "",
-          "start_date": "2026-04-01",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
-          "url": "https://ilmin.org/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "731e06acfa30",
           "title": "《동시대 이미지 주제전》",
@@ -1679,22 +1667,9 @@
       "instagram_url": "https://www.instagram.com/gallery_artlink/",
       "image_url": "http://www.artlink.co.kr/img/home_img.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "a0e6f0e771c5",
-          "title": "글쓰기의 무게 (The Weight of Writing)",
-          "artists": "길원옥, 김선희, 신서영, 이현미, 한기선",
-          "start_date": "2026-05-26",
-          "end_date": "2026-05-31",
-          "status": "active",
-          "thumbnail": "/img/home_img.png",
-          "url": "http://www.artlink.co.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_imokhwarang",
