@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:54:06Z",
+  "generated_at": "2026-06-03T12:58:23Z",
   "sources": [
     "sema",
     "mmca",
@@ -166,7 +166,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "6ba058729ef0",
@@ -186,7 +186,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "7092cf84b3b9",
@@ -246,7 +246,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:14Z"
     },
     {
       "id": "d8805a747782",
@@ -286,7 +286,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "3647f29eb66c",
@@ -366,7 +366,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002025&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026033009492612313790.png",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:53Z"
+      "collected_at": "2026-06-03T12:58:10Z"
     },
     {
       "id": "e29350c595df",
@@ -386,7 +386,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:14Z"
     },
     {
       "id": "be91eca50ea9",
@@ -426,7 +426,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "166324b1a1be",
@@ -486,7 +486,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "0fdbf656ba0c",
@@ -566,7 +566,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "59e29969f1b0",
@@ -606,7 +606,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:53Z"
+      "collected_at": "2026-06-03T12:58:10Z"
     },
     {
       "id": "c92e0e022bb4",
@@ -646,7 +646,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "7376865e5230",
@@ -726,7 +726,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "d340ac7a2efe",
@@ -746,7 +746,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "1fe18767dc6b",
@@ -766,7 +766,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:53Z"
+      "collected_at": "2026-06-03T12:58:10Z"
     },
     {
       "id": "c3aa6931b3eb",
@@ -866,7 +866,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "614105985711",
@@ -1065,7 +1065,7 @@
       "price": "",
       "url": "https://www.grimson.co.kr/",
       "thumbnail": "/images/meta_img.png",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T11:50:45Z"
     },
     {
@@ -1085,7 +1085,7 @@
       "price": "",
       "url": "https://www.grimson.co.kr/",
       "thumbnail": "/images/meta_img.png",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T07:06:27Z"
     },
     {
@@ -1106,7 +1106,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "f38a5f08d72f",
@@ -1146,7 +1146,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "819751fd437a",
@@ -1206,7 +1206,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "92f823f6b7bf",
@@ -1286,7 +1286,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
       "status": "active",
-      "collected_at": "2026-06-02T11:53:32Z"
+      "collected_at": "2026-06-03T12:57:49Z"
     },
     {
       "id": "8456ddcc34ec",
@@ -1546,7 +1546,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:37Z"
+      "collected_at": "2026-06-03T12:57:54Z"
     },
     {
       "id": "a6ec77ae545e",
@@ -1566,7 +1566,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "52b0ef2a39df",
@@ -1586,7 +1586,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "731e06acfa30",
@@ -1606,7 +1606,7 @@
       "url": "https://ilmin.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "84cf27aca8a2",
@@ -1626,7 +1626,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "2659ada6c655",
@@ -1646,7 +1646,7 @@
       "url": "https://www.spacek.co.kr/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "51659f018a70",
@@ -1666,7 +1666,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "fd6e830fa660",
@@ -1686,7 +1686,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "9f19bf1ebc70",
@@ -1706,7 +1706,7 @@
       "url": "https://artsonje.org/exhibition-program/exhibition/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "9ae886c0d6c9",
@@ -1726,7 +1726,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "580fded5c044",
@@ -1746,7 +1746,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052803134072218751.gif",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "576a1c954144",
@@ -1766,7 +1766,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "cd405fc79942",
@@ -1786,7 +1786,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "1a0d0d38e652",
@@ -1806,7 +1806,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "7639e2fdd78b",
@@ -1826,7 +1826,7 @@
       "url": "https://songeun.or.kr/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "4250cc7db837",
@@ -1846,7 +1846,7 @@
       "url": "https://www.ocimuseum.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "072a2c23daa1",
@@ -1866,7 +1866,7 @@
       "url": "https://www.artside.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "e5dbf479b082",
@@ -1886,7 +1886,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "a27227969ee3",
@@ -1906,7 +1906,7 @@
       "url": "https://www.pkmgallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "e6f107b3043a",
@@ -1926,7 +1926,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "c47a3d013b6d",
@@ -1946,7 +1946,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "2413571b8918",
@@ -1966,7 +1966,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "36f84ca4ce30",
@@ -1986,7 +1986,7 @@
       "url": "https://craftmuseum.seoul.go.kr/main",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "283d437eba18",
@@ -2006,7 +2006,7 @@
       "url": "https://apma.amorepacific.com/contents/exhibition/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "e61941f7c997",
@@ -2026,7 +2026,7 @@
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "52ea3c4fc5ed",
@@ -2046,7 +2046,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "a1a64de63d62",
@@ -2066,7 +2066,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "37c00224b438",
@@ -2086,7 +2086,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-02T11:53:58Z"
+      "collected_at": "2026-06-03T12:58:15Z"
     },
     {
       "id": "62f94c390e5a",
@@ -2126,7 +2126,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "6084da7d42c9",
@@ -2146,7 +2146,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "42c6c1f81417",
@@ -2166,7 +2166,7 @@
       "url": "https://sma.sbculture.or.kr/sma/index.do",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "7cb07997a386",
@@ -2186,7 +2186,7 @@
       "url": "http://www.kumhomuseum.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "d461c80af4a3",
@@ -2206,7 +2206,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "a79165f880f7",
@@ -2226,7 +2226,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "7c47035bd4b9",
@@ -2246,7 +2246,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "a059d2bbc6e7",
@@ -2266,7 +2266,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "cfb061425017",
@@ -2286,7 +2286,7 @@
       "url": "https://www.galleryhyundai.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "aa60a541418d",
@@ -2306,7 +2306,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "bd554a6b43e3",
@@ -2326,7 +2326,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "2010c9a53b04",
@@ -2346,7 +2346,7 @@
       "url": "http://www.perrotin.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "d5d0205a7e9b",
@@ -2366,7 +2366,7 @@
       "url": "https://www.ggallery.kr/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "87645c379e81",
@@ -2386,7 +2386,7 @@
       "url": "https://ropac.net/ko/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     },
     {
       "id": "8ed4ee11d6c9",
@@ -2406,7 +2406,7 @@
       "url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-02T11:54:06Z"
+      "collected_at": "2026-06-03T12:58:23Z"
     }
   ],
   "filter": "region=seoul"

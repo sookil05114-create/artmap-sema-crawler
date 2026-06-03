@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:54:06Z",
+  "generated_at": "2026-06-03T12:58:23Z",
   "sources": [
     "sema",
     "mmca",
@@ -2432,34 +2432,9 @@
       "instagram_url": "https://www.instagram.com/gallerygrimson",
       "image_url": "https://www.grimson.co.kr/images/meta_img.png",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "4c27a184ac82",
-          "title": "Objetscape : 이후에 남는 것",
-          "artists": "김석호",
-          "start_date": "2026-05-13",
-          "end_date": "2026-06-02",
-          "status": "active",
-          "thumbnail": "/images/meta_img.png",
-          "url": "https://www.grimson.co.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "49f4902e8c5e",
-          "title": "김석호 개인전 Objetscape : 이후에 남는 것",
-          "artists": "김석호",
-          "start_date": "2026-05-13",
-          "end_date": "2026-06-02",
-          "status": "active",
-          "thumbnail": "/images/meta_img.png",
-          "url": "https://www.grimson.co.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_doll",
