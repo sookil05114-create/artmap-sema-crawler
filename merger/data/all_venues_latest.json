@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T12:58:23Z",
+  "generated_at": "2026-06-04T10:29:20Z",
   "sources": [
     "sema",
     "mmca",
@@ -2129,22 +2129,9 @@
       "instagram_url": "https://www.instagram.com/gallerydam_seoul",
       "image_url": "https://cdn.imweb.me/upload/S20241230b417723a8c630/c3f37cf6f6efd.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "528c3448d97c",
-          "title": "Takeshi Machiya : Take Took",
-          "artists": "Takeshi Machiya",
-          "start_date": "2026-05-22",
-          "end_date": "2026-06-03",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.gallerydam.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_arko",
@@ -2900,8 +2887,8 @@
       "instagram_url": "https://www.instagram.com/johyungallery/",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1227/usr/images/pages/slideshow_data/1/johyun-gallery-jin-meyerson-the-shape-of-re_entry-6-.jpg",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "d9bda09685b3",
@@ -2909,7 +2896,7 @@
           "artists": "Choi Byung Hoon",
           "start_date": "2026-06-04",
           "end_date": "2026-08-02",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1227/usr/images/pages/slideshow_data/1/johyun-gallery-jin-meyerson-the-shape-of-re_entry-6-.jpg",
           "url": "https://www.johyungallery.com/",
           "price": "",
