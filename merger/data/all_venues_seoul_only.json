@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-04T23:56:39Z",
+  "generated_at": "2026-06-05T23:52:53Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 220,
+  "venue_count": 221,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -4519,6 +4519,34 @@
           "url": "https://www.instagram.com/p/DX8J51phDTL/",
           "price": "",
           "source": "submission"
+        }
+      ]
+    },
+    {
+      "venue_key": "unknown",
+      "venue_name": "주워싱턴한국문화원",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "fd82255f40a1",
+          "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
+          "artists": "",
+          "start_date": "2026-06-17",
+          "end_date": "2026-08-11",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011584",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
         }
       ]
     }

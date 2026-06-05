@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T23:56:15Z",
+  "generated_at": "2026-06-05T23:52:14Z",
   "source": "sema",
-  "venue_count": 6,
+  "venue_count": 7,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -258,6 +258,30 @@
       "active_count": 0,
       "upcoming_count": 0,
       "exhibitions": []
+    },
+    {
+      "venue_key": "unknown",
+      "venue_name": "기타·외부 협력",
+      "region": "unknown",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "fd82255f40a1",
+          "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
+          "venue_raw": "주워싱턴한국문화원",
+          "start_date": "2026-06-17",
+          "end_date": "2026-08-11",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011584",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     }
   ]
 }
