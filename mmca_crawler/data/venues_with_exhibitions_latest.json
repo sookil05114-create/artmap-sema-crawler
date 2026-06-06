@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:52:45Z",
+  "generated_at": "2026-06-06T23:40:21Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -11,7 +11,7 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "active_count": 4,
+      "active_count": 3,
       "upcoming_count": 5,
       "exhibitions": [
         {
@@ -24,17 +24,6 @@
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
           "price": "8,000원"
-        },
-        {
-          "id": "1839cc2fef5a",
-          "title": "데이미언 허스트와 YBA",
-          "artists": "크리스 킹, 샘 홉킨스, 제랄드 폭스, 질리언 웨어링",
-          "start_date": "2026-04-01",
-          "end_date": "2026-06-06",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026033009492612313790.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002025&exhFlag=1",
-          "price": "무료"
         },
         {
           "id": "e29350c595df",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:52:53Z",
+  "generated_at": "2026-06-06T23:40:29Z",
   "sources": [
     "sema",
     "mmca",
@@ -367,7 +367,7 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 4,
+      "active_count": 3,
       "upcoming_count": 8,
       "exhibitions": [
         {
@@ -380,18 +380,6 @@
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
           "price": "8,000원",
-          "source": "mmca"
-        },
-        {
-          "id": "1839cc2fef5a",
-          "title": "데이미언 허스트와 YBA",
-          "artists": "크리스 킹, 샘 홉킨스, 제랄드 폭스, 질리언 웨어링",
-          "start_date": "2026-04-01",
-          "end_date": "2026-06-06",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026033009492612313790.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002025&exhFlag=1",
-          "price": "무료",
           "source": "mmca"
         },
         {
@@ -1852,22 +1840,9 @@
       "instagram_url": "https://www.instagram.com/gallery_simon/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/42553044_388425355028246_531114113930100736_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=I-2v3YtAKYQQ7kNvwEuH_DW&_nc_oc=AdpnAZACt9LFxe9ZOXrp1dWJ0dVkNlcnSpCcTd3Zb4a46ll0V-AK8tTUPWKdaxB0xI8&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af686ao8HMhHaq9qspfnkFo209NiNjVcH2EjJwdV7vTV5g&oe=6A1C128D",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "7c634f2ddb69",
-          "title": "Bae Hyung Kyung",
-          "artists": "Bae Hyung Kyung",
-          "start_date": "2026-03-05",
-          "end_date": "2026-06-05",
-          "status": "active",
-          "thumbnail": "https://static.wixstatic.com/media/d08069_9969ce73bf6b476a957d794583f9cbc8%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d08069_9969ce73bf6b476a957d794583f9cbc8%7Emv2.jpg",
-          "url": "https://www.gallerysimon.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_yehwarang",
