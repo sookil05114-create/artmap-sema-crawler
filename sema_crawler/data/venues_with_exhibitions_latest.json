@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T23:40:07Z",
+  "generated_at": "2026-06-07T23:42:26Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -101,22 +101,22 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
+          "id": "06934f057ce3",
+          "title": "SeMA 프로젝트V_얄루",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+          "url": "",
+          "price": "무료"
+        },
+        {
           "id": "dd23cadf6549",
           "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
           "start_date": "2026-03-12",
           "end_date": "2026-07-12",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
-          "url": "",
-          "price": "무료"
-        },
-        {
-          "id": "ca1723230151",
-          "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
-          "start_date": "2026-04-28",
-          "end_date": "2026-07-12",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
           "url": "",
           "price": "무료"
         },

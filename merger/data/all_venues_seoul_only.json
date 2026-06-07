@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-06T23:40:29Z",
+  "generated_at": "2026-06-07T23:42:50Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 221,
+  "venue_count": 220,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -139,6 +139,18 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
+          "id": "06934f057ce3",
+          "title": "SeMA 프로젝트V_얄루",
+          "artists": "",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
+        },
+        {
           "id": "dd23cadf6549",
           "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
           "artists": "",
@@ -146,18 +158,6 @@
           "end_date": "2026-07-12",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
-        {
-          "id": "ca1723230151",
-          "title": "《우리의 시간은 여기서부터》 - <태각(胎刻)>",
-          "artists": "",
-          "start_date": "2026-04-28",
-          "end_date": "2026-07-12",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008497",
           "url": "",
           "price": "무료",
           "source": "sema"
@@ -2402,22 +2402,9 @@
       "instagram_url": "https://www.instagram.com/pageroom8",
       "image_url": "https://cdn.imweb.me/upload/S202009142dea1a088d897/4954257d4044d.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "90adcc2fe3bd",
-          "title": "표석 HEAD STONE",
-          "artists": "정직성",
-          "start_date": "2026-05-06",
-          "end_date": "2026-06-06",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.pageroom8.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_insaateusenteo",
@@ -4466,34 +4453,6 @@
           "url": "https://sema.seoul.go.kr",
           "price": "",
           "source": "gallery_crawler"
-        }
-      ]
-    },
-    {
-      "venue_key": "unknown_submission",
-      "venue_name": "PS CENTER",
-      "region": "seoul",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "official_url": "",
-      "instagram_url": "",
-      "image_url": "",
-      "category": "기타",
-      "active_count": 1,
-      "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "587b5d3c97f2",
-          "title": "My Own Rules (내가 만든 규칙)",
-          "artists": "Sukho Kang, Dahoon Nam, Changbeom Heo",
-          "start_date": "2026-05-16",
-          "end_date": "2026-06-06",
-          "status": "active",
-          "thumbnail": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/688064833_18095146415325164_6548743623466759481_n.jpg?stp=c327.0.983.982a_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=b0zF1EMaoq4Q7kNvwGWSpEQ&_nc_oc=AdpQvFVsCbxx6v_kHEgIvlCbbXvSONEgv2kJUKOVYJJJywAN9t8_8IED1GXq371otys&_nc_zt=23&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_gid=ML1JC30mkxiV2fxz65_8Bw&_nc_ss=7b60f&oh=00_Af6t9wBVMewuVQZvs1j-0JuHE39w_hxdqVG2VZ4KrzNhaQ&oe=6A0A1B9F",
-          "url": "https://www.instagram.com/p/DX8J51phDTL/",
-          "price": "",
-          "source": "submission"
         }
       ]
     },
