@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:42:50Z",
+  "generated_at": "2026-06-10T09:06:46Z",
   "sources": [
     "sema",
     "mmca",
@@ -84,7 +84,7 @@
       "image_url": "",
       "category": "",
       "active_count": 2,
-      "upcoming_count": 1,
+      "upcoming_count": 2,
       "exhibitions": [
         {
           "id": "bd8a5f6ebb44",
@@ -118,6 +118,18 @@
           "end_date": "2027-05-16",
           "status": "upcoming",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
+        },
+        {
+          "id": "2771712f738e",
+          "title": "유휴공간 전시 《보편타당한 당신 - 심이다은》",
+          "artists": "",
+          "start_date": "2026-06-25",
+          "end_date": "2027-04-11",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
           "url": "",
           "price": "무료",
           "source": "sema"
@@ -268,7 +280,7 @@
       "image_url": "",
       "category": "",
       "active_count": 1,
-      "upcoming_count": 1,
+      "upcoming_count": 2,
       "exhibitions": [
         {
           "id": "d9fcc33b96b0",
@@ -278,6 +290,18 @@
           "end_date": "2026-07-26",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
+        },
+        {
+          "id": "fd0ac7e0e944",
+          "title": "2026 폴리오 스튜디오 결과보고전 《아크 아크 아크》",
+          "artists": "",
+          "start_date": "2026-06-17",
+          "end_date": "2026-06-21",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012116",
           "url": "",
           "price": "무료",
           "source": "sema"
@@ -461,7 +485,7 @@
           "start_date": "2026-07-31",
           "end_date": "2026-11-29",
           "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052803134072218751.gif",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061002041170016962.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
           "price": "-",
           "source": "mmca"
@@ -1345,8 +1369,8 @@
       "instagram_url": "",
       "image_url": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
       "category": "갤러리",
-      "active_count": 3,
-      "upcoming_count": 1,
+      "active_count": 4,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "cd8efb980e27",
@@ -1366,7 +1390,7 @@
           "artists": "",
           "start_date": "2026-06-09",
           "end_date": "2026-07-19",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
           "url": "https://www.kukjegallery.com/",
           "price": "",
@@ -1928,22 +1952,9 @@
       "instagram_url": "https://www.instagram.com/topohaus2004/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/314113254_187927330473076_5060671679229638542_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zNui2RO0WjoQ7kNvwGCUjQf&_nc_oc=AdqqYLnkZVoeOOdIIjG8O3BqyLzCdLTsFazyhfuvqm6JZNh6__35_670d6OsNyF9nVk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af66hyoTMR8VXn33v-ZiWp4vH-N_v7Yw4J8r-3ddH0vWAg&oe=6A1C11C2",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "2e89b0d35046",
-          "title": "푸른 골목의 안쪽",
-          "artists": "김정아",
-          "start_date": "2026-05-20",
-          "end_date": "2026-06-08",
-          "status": "active",
-          "thumbnail": "https://static.wixstatic.com/media/b4c224_2a2f67e40e4b4623b22b3cf0ca537cf1%7Emv2.png/v1/fit/w_2500,h_1330,al_c/b4c224_2a2f67e40e4b4623b22b3cf0ca537cf1%7Emv2.png",
-          "url": "https://www.topohaus.com",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_dongsanbanghwarang",
@@ -2147,22 +2158,9 @@
       "instagram_url": "https://www.instagram.com/whankimuseum/",
       "image_url": "http://whankimuseum.org/wp-content/uploads/2022/05/og-2.jpg",
       "category": "미술관",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "b26c41d81988",
-          "title": "환기미술관 하이라이트",
-          "artists": "",
-          "start_date": "2026-04-08",
-          "end_date": "2026-06-07",
-          "status": "active",
-          "thumbnail": "http://whankimuseum.org/wp-content/uploads/2022/05/og-2.jpg",
-          "url": "http://whankimuseum.org/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_totalmisulgwan",
@@ -4598,7 +4596,7 @@
     },
     {
       "venue_key": "unknown",
-      "venue_name": "주워싱턴한국문화원",
+      "venue_name": "2026/06/15~2026/06/28",
       "region": "seoul",
       "address": "",
       "lat": null,
@@ -4608,8 +4606,20 @@
       "image_url": "",
       "category": "기타",
       "active_count": 0,
-      "upcoming_count": 1,
+      "upcoming_count": 2,
       "exhibitions": [
+        {
+          "id": "ed3c6f8a8bec",
+          "title": "[2026 신진미술인 지원 프로그램] 신재은 개인전 《GAIA-피식의 서》",
+          "artists": "",
+          "start_date": "2026-06-15",
+          "end_date": "2026-06-28",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
+        },
         {
           "id": "fd82255f40a1",
           "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
