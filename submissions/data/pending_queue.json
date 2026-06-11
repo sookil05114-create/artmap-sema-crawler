@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T07:00:08Z",
+  "generated_at": "2026-06-11T07:00:17Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1983,11 +1983,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "dobong_v_dd23d120a3",
       "venue_name": "서울시립 사진미술관",
       "title": "2026 서울사진축제 《컴백홈》",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-09",
       "end_date": "2026-06-14",
       "thumbnail": "",
@@ -1995,7 +1995,8 @@
       "lng": 127.0487773,
       "address": "서울 도봉구 마들로13길 68",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:10.676Z"
     },
     {
       "id": "c27c84efc3d5",
@@ -2024,11 +2025,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongbuk_v_4d7461f17f",
       "venue_name": "서울시립 북서울미술관",
       "title": "글짓, 쓰는 예술",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-23",
       "end_date": "2026-07-12",
       "thumbnail": "",
@@ -2036,7 +2037,8 @@
       "lng": 127.0667885,
       "address": "서울 노원구 동일로 1238",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:12.572Z"
     },
     {
       "id": "db297f25e953",
@@ -2147,7 +2149,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_komplex",
       "venue_name": "Komplex",
       "title": "Collective Witchcraft",
@@ -2159,7 +2161,8 @@
       "lng": 126.9768376,
       "address": "서울 용산구 후암로 59 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:17.455Z"
     },
     {
       "id": "0c7a6507f265",
@@ -2188,7 +2191,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_82f34a42ae",
       "venue_name": "디스위켄드룸",
       "title": "기울어진 증거들 Where Light Leans",
@@ -2200,7 +2203,8 @@
       "lng": 127.0030782,
       "address": "서울 용산구 한남대로42길 30",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:15.768Z"
     },
     {
       "id": "f054cc222fce",
