@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T07:00:43Z",
+  "generated_at": "2026-06-11T07:00:51Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -2613,7 +2613,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_tang_contemporary_art",
       "venue_name": "탕 컨템포러리 아트",
       "title": "Living",
@@ -2625,7 +2625,8 @@
       "lng": 127.0470224,
       "address": "서울 강남구 압구정로75길 6 지하2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:44.780Z"
     },
     {
       "id": "b2cce667e325",
@@ -2654,7 +2655,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_313_art_project",
       "venue_name": "313 ART PROJECT",
       "title": "Between Silence and Matter",
@@ -2666,7 +2667,8 @@
       "lng": 126.9893104,
       "address": "서울시 강남구 압구정로60길 11, 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:48.519Z"
     },
     {
       "id": "3333941cb4b2",
@@ -2695,7 +2697,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_hakgojae_ateusenteo",
       "venue_name": "학고재 아트센터",
       "title": "사라지는것에 대하여",
@@ -2707,7 +2709,8 @@
       "lng": 126.9804601,
       "address": "서울 종로구 삼청로 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:50.809Z"
     },
     {
       "id": "7bb162b4840e",
