@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:57:47Z",
+  "generated_at": "2026-06-11T06:57:59Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -155,7 +155,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_komplex",
       "venue_name": "Komplex",
       "title": "Too Sunny",
@@ -167,7 +167,8 @@
       "lng": 126.9768376,
       "address": "서울 용산구 후암로 59 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:57:48.080Z"
     },
     {
       "id": "1118187650fe",
@@ -196,7 +197,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_c0ce0399d0",
       "venue_name": "캡션서울",
       "title": "Yongjae Lee Solo Exhibition",
@@ -208,7 +209,8 @@
       "lng": 126.9671902,
       "address": "서울 용산구 원효로81길 5 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:57:49.110Z"
     },
     {
       "id": "1f040e9fc35f",
@@ -237,7 +239,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_d2d167936c",
       "venue_name": "타데우스로팍 서울",
       "title": "Liza Lou FAQ",
@@ -249,7 +251,8 @@
       "lng": 127.0128664,
       "address": "서울 용산구 독서당로 122-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:57:55.579Z"
     },
     {
       "id": "5338a7d92c72",
@@ -278,7 +281,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_ggaelreori",
       "venue_name": "G갤러리",
       "title": "Faisandage",
@@ -290,7 +293,8 @@
       "lng": 127.0489054,
       "address": "서울 강남구 삼성로 748 제이에스하우스 B1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:57:54.643Z"
     },
     {
       "id": "5c385dfbc618",
@@ -319,7 +323,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_johyeonhwarang_seoul",
       "venue_name": "조현화랑 서울",
       "title": "머무는 침묵 (Lingering Silence)",
@@ -331,7 +335,8 @@
       "lng": 127.0051533,
       "address": "서울 중구 동호로 249 서울 신라호텔 B1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:57:53.013Z"
     },
     {
       "id": "bfef17e6bc7a",
@@ -360,7 +365,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_songeun",
       "venue_name": "송은",
       "title": "전혜주: 엔도스코페이아",
@@ -372,7 +377,8 @@
       "lng": 127.0441206,
       "address": "서울 강남구 도산대로 441",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:57:51.980Z"
     },
     {
       "id": "07d534ce384f",
