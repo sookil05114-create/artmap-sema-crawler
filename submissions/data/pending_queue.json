@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:57:59Z",
+  "generated_at": "2026-06-11T06:58:09Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -113,7 +113,7 @@
           "homepage"
         ]
       },
-      "status": "approved",
+      "status": "rejected",
       "venue_key": "yongsan_v_65b5f85b8b",
       "venue_name": "그라운드시소 한남",
       "title": "얼리버드 조은 원화전: 오늘의 정원",
@@ -126,7 +126,7 @@
       "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
       "region": "seoul",
       "category": "기타",
-      "reviewed_at": "2026-06-11T06:57:44.233Z"
+      "reviewed_at": "2026-06-11T06:58:02.500Z"
     },
     {
       "id": "ccf2b2eaca5b",
@@ -567,11 +567,11 @@
         "description_summary": "갤러리장에서 개최하는 원로작가 7인의 초대전시",
         "confidence": 0.5
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_jangeunseongaelreori",
       "venue_name": "장은선갤러리",
       "title": "원로작가 7인 초대展",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -579,7 +579,8 @@
       "lng": 126.989436,
       "address": "서울 종로구 율곡로6길 13-3",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:06.414Z"
     },
     {
       "id": "96ef5e72d6be",
