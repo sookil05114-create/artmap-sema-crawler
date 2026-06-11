@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:59:11Z",
+  "generated_at": "2026-06-11T06:59:48Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1605,7 +1605,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "euljiro_alternativespaceloop",
       "venue_name": "대안공간루프",
       "title": "the orange revile",
@@ -1617,7 +1617,8 @@
       "lng": 126.9968182,
       "address": "",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:14.071Z"
     },
     {
       "id": "a72ca800bf9a",
@@ -1646,11 +1647,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yeongdeungpo_alt1",
       "venue_name": "ALT.1 더현대서울",
       "title": "세상의 눈 L´œil du monde",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-03-25",
       "end_date": "2026-07-05",
       "thumbnail": "http://www.ehyundai.com/images/webhome/k_logo.png",
@@ -1658,7 +1659,8 @@
       "lng": 126.9289154,
       "address": "서울 영등포구 여의대로 108",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-06-11T06:59:46.552Z"
     },
     {
       "id": "95d121c9cba9",
