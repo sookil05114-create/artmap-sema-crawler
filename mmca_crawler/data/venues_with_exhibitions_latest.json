@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:06:38Z",
+  "generated_at": "2026-06-11T21:53:18Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -12,7 +12,7 @@
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
       "active_count": 3,
-      "upcoming_count": 5,
+      "upcoming_count": 6,
       "exhibitions": [
         {
           "id": "4b0293f16d8e",
@@ -45,6 +45,17 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
+          "price": "무료"
+        },
+        {
+          "id": "36902d52e51e",
+          "title": "캐시 메모리: MMCA 뉴미디어 컬렉션 다시 읽기",
+          "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
+          "start_date": "2026-06-16",
+          "end_date": "2026-07-17",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=2",
           "price": "무료"
         },
         {

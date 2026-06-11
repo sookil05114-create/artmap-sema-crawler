@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-10T09:06:46Z",
+  "generated_at": "2026-06-11T21:53:27Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "count": 132,
+  "count": 181,
   "exhibitions": [
     {
       "id": "f2c03a40ade7",
@@ -46,7 +46,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202012030001338&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2021/07/2021072711383216619535.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:37Z"
+      "collected_at": "2026-06-11T21:53:13Z"
+    },
+    {
+      "id": "294c761bc277",
+      "source": "gallery_crawler",
+      "title": "UNSENTIMENTAL EDUCATION",
+      "artists": "김희천, 성시경, 우정수, 탁영준",
+      "venue_raw": "BB&M",
+      "venue_key": "seongbuk_bb_m",
+      "venue_name": "BB&M",
+      "region": "seoul",
+      "address": "서울 성북구 성북로23길 10",
+      "lat": 37.5933838,
+      "lng": 126.9954009,
+      "start_date": "2024-01-30",
+      "end_date": "2024-03-09",
+      "price": "",
+      "url": "https://www.gallerybbm.com/ko/",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0581/usr/images/exhibitions/home_page_image/items/96/962bee7ff3524b49922dcc95a2254273/_bcj2888-.jpg",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:18:36Z"
     },
     {
       "id": "e633f4901366",
@@ -109,6 +129,26 @@
       "collected_at": "2026-05-25T07:10:53Z"
     },
     {
+      "id": "0745c85493b4",
+      "source": "gallery_crawler",
+      "title": "Supernatural",
+      "artists": "김시종",
+      "venue_raw": "LVS CRAFT",
+      "venue_key": "yongsan_lvs_craft",
+      "venue_name": "LVS CRAFT",
+      "region": "seoul",
+      "address": "서울 용산구 한강대로 100 2층",
+      "lat": 37.5287912,
+      "lng": 126.9686735,
+      "start_date": "2025-05-14",
+      "end_date": "2025-06-05",
+      "price": "",
+      "url": "https://lvscraft.co.kr/",
+      "thumbnail": "",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:12:22Z"
+    },
+    {
       "id": "19b9c1a228ce",
       "source": "gallery_crawler",
       "title": "Round and Round",
@@ -146,7 +186,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202507100001975&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/07/2025071003423383917280.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:37Z"
+      "collected_at": "2026-06-11T21:53:13Z"
     },
     {
       "id": "12193394329a",
@@ -186,7 +226,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508060001987&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/08/2025080610534430517778.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:37Z"
+      "collected_at": "2026-06-11T21:53:13Z"
     },
     {
       "id": "3b1d3f599806",
@@ -206,7 +246,87 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508210001995&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/09/2025090801003815116883.gif",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:37Z"
+      "collected_at": "2026-06-11T21:53:13Z"
+    },
+    {
+      "id": "f054cc222fce",
+      "source": "gallery_crawler",
+      "title": "보존과학, 새로운 시작 함께하는 미래",
+      "artists": "",
+      "venue_raw": "국립중앙박물관",
+      "venue_key": "yongsan_v_3218026cac",
+      "venue_name": "국립중앙박물관",
+      "region": "seoul",
+      "address": "서울 용산구 서빙고로 137",
+      "lat": 37.5226783,
+      "lng": 126.9779352,
+      "start_date": "2025-10-28",
+      "end_date": "2026-06-30",
+      "price": "",
+      "url": "https://www.museum.go.kr/MUSEUM/main/index.do",
+      "thumbnail": "https://www.museum.go.kr/design/common/images/nmk_sns_logo.png",
+      "status": "active",
+      "collected_at": "2026-06-08T13:13:54Z"
+    },
+    {
+      "id": "a761a08def92",
+      "source": "gallery_crawler",
+      "title": "나는 너를 그릴 수 없다 | I Can't Portray You",
+      "artists": "유현경",
+      "venue_raw": "박서보미술관",
+      "venue_key": "mapo_v_48d3ac28a9",
+      "venue_name": "박서보미술관",
+      "region": "seoul",
+      "address": "서울 서대문구 연희로24길 9-2",
+      "lat": 37.5715312,
+      "lng": 126.935569,
+      "start_date": "2025-11-06",
+      "end_date": "2025-12-31",
+      "price": "",
+      "url": "https://psbf.kr/",
+      "thumbnail": "",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:14:35Z"
+    },
+    {
+      "id": "a57b9507ef05",
+      "source": "gallery_crawler",
+      "title": "ppp to fff",
+      "artists": "서예원",
+      "venue_raw": "히피한남",
+      "venue_key": "yongsan_v_998c88e1fb",
+      "venue_name": "히피한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로27가길 26-20",
+      "lat": 37.5382464,
+      "lng": 127.0028449,
+      "start_date": "2026-02-21",
+      "end_date": "2026-03-14",
+      "price": "",
+      "url": "https://hippiehannam.com/",
+      "thumbnail": "",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:13:37Z"
+    },
+    {
+      "id": "58a110474564",
+      "source": "gallery_crawler",
+      "title": "如, this is it",
+      "artists": "",
+      "venue_raw": "더페이지갤러리",
+      "venue_key": "seongdong_d_gallery",
+      "venue_name": "더페이지갤러리",
+      "region": "seoul",
+      "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 G205",
+      "lat": 37.5455171,
+      "lng": 127.0427626,
+      "start_date": "2026-02-26",
+      "end_date": "2026-04-26",
+      "price": "",
+      "url": "https://thepage-gallery.com/",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/pages/slideshow_backup/items/43/4341840b22e2412d83c74ae3a08fff7d/_bcj8630-.jpg",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:06:02Z"
     },
     {
       "id": "7c634f2ddb69",
@@ -229,26 +349,6 @@
       "collected_at": "2026-05-25T11:46:36Z"
     },
     {
-      "id": "06934f057ce3",
-      "source": "sema",
-      "title": "SeMA 프로젝트V_얄루",
-      "artists": "",
-      "venue_raw": "서울시립 서서울미술관",
-      "venue_key": "seoseoul",
-      "venue_name": "서울시립 서서울미술관",
-      "region": "seoul",
-      "address": "서울 금천구 시흥대로73길 70",
-      "lat": 37.4581,
-      "lng": 126.8959,
-      "start_date": "2026-03-12",
-      "end_date": "2026-07-26",
-      "price": "무료",
-      "url": "",
-      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
-      "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
-    },
-    {
       "id": "dd23cadf6549",
       "source": "sema",
       "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
@@ -266,7 +366,27 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
+    },
+    {
+      "id": "79722354fe7b",
+      "source": "gallery_crawler",
+      "title": "SeMA 프로젝트V_얄루",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "geumcheon_v_75b99b9f74",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로79길 65",
+      "lat": 37.4577976,
+      "lng": 126.8954095,
+      "start_date": "2026-03-12",
+      "end_date": "2026-07-26",
+      "price": "",
+      "url": "https://sema.seoul.go.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-01T19:32:08Z"
     },
     {
       "id": "6ba058729ef0",
@@ -286,7 +406,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
     },
     {
       "id": "7092cf84b3b9",
@@ -346,7 +466,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
     },
     {
       "id": "d8805a747782",
@@ -386,7 +506,47 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
+    },
+    {
+      "id": "234c5c8c4a24",
+      "source": "gallery_crawler",
+      "title": "알렉사에게",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "geumcheon_v_75b99b9f74",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로79길 65",
+      "lat": 37.4577976,
+      "lng": 126.8954095,
+      "start_date": "2026-03-26",
+      "end_date": "2026-07-26",
+      "price": "",
+      "url": "https://sema.seoul.go.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:19:23Z"
+    },
+    {
+      "id": "6274e37580e0",
+      "source": "gallery_crawler",
+      "title": "투명한 손, 움직이는 색 (Invisible Hands, Startling Colors)",
+      "artists": "",
+      "venue_raw": "세화미술관",
+      "venue_key": "jongno_sehwamisulgwan",
+      "venue_name": "세화미술관",
+      "region": "seoul",
+      "address": "서울 종로구 새문안로 68 2층",
+      "lat": 37.5697698,
+      "lng": 126.9723315,
+      "start_date": "2026-03-26",
+      "end_date": "2026-06-28",
+      "price": "",
+      "url": "https://sehwamuseum.org/",
+      "thumbnail": "https://sehwamuseum.org/wp-content/uploads/2024/11/og.png",
+      "status": "active",
+      "collected_at": "2026-06-01T19:21:06Z"
     },
     {
       "id": "3647f29eb66c",
@@ -466,7 +626,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
     },
     {
       "id": "be91eca50ea9",
@@ -506,7 +666,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
     },
     {
       "id": "166324b1a1be",
@@ -566,7 +726,67 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
+    },
+    {
+      "id": "4fb4854e47e3",
+      "source": "gallery_crawler",
+      "title": "2026 서울사진축제 《컴백홈》",
+      "artists": "",
+      "venue_raw": "서울시립 사진미술관",
+      "venue_key": "dobong_v_dd23d120a3",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.655482,
+      "lng": 127.0487773,
+      "start_date": "2026-04-09",
+      "end_date": "2026-06-14",
+      "price": "",
+      "url": "https://sema.seoul.go.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:16:05Z"
+    },
+    {
+      "id": "1f040e9fc35f",
+      "source": "gallery_crawler",
+      "title": "Liza Lou FAQ",
+      "artists": "Liza Lou",
+      "venue_raw": "타데우스로팍 서울",
+      "venue_key": "yongsan_v_d2d167936c",
+      "venue_name": "타데우스로팍 서울",
+      "region": "seoul",
+      "address": "서울 용산구 독서당로 122-1",
+      "lat": 37.536852,
+      "lng": 127.0128664,
+      "start_date": "2026-04-10",
+      "end_date": "2026-05-23",
+      "price": "",
+      "url": "https://ropac.net/ko/",
+      "thumbnail": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:11:46Z"
+    },
+    {
+      "id": "41925f945ecd",
+      "source": "gallery_crawler",
+      "title": "이승택: 조각의 바깥에서",
+      "artists": "이승택",
+      "venue_raw": "소마미술관",
+      "venue_key": "songpa_v_53ecff4b65",
+      "venue_name": "소마미술관",
+      "region": "seoul",
+      "address": "서울 송파구 올림픽로 424",
+      "lat": 37.5169172,
+      "lng": 127.1179749,
+      "start_date": "2026-04-10",
+      "end_date": "2026-07-26",
+      "price": "",
+      "url": "https://soma.kspo.or.kr/main",
+      "thumbnail": "https://soma.kspo.or.kr/resources/soma_sns.jpg",
+      "status": "active",
+      "collected_at": "2026-06-08T13:19:07Z"
     },
     {
       "id": "0fdbf656ba0c",
@@ -609,6 +829,26 @@
       "collected_at": "2026-05-25T07:11:22Z"
     },
     {
+      "id": "74eac64efb24",
+      "source": "gallery_crawler",
+      "title": "제 46회 장애인의 날 기념전 <그림 봄 길전>",
+      "artists": "",
+      "venue_raw": "노원아트뮤지엄",
+      "venue_key": "nowon_v_682ba5c8bc",
+      "venue_name": "노원아트뮤지엄",
+      "region": "seoul",
+      "address": "서울 노원구 중계로 181 4층",
+      "lat": 37.6502349,
+      "lng": 127.0802907,
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-29",
+      "price": "",
+      "url": "https://www.nowonarts.kr/",
+      "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
+      "status": "ended",
+      "collected_at": "2026-06-01T19:29:57Z"
+    },
+    {
       "id": "748def81efd2",
       "source": "gallery_crawler",
       "title": "Time Interface",
@@ -646,7 +886,27 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
+    },
+    {
+      "id": "c863e0f33477",
+      "source": "gallery_crawler",
+      "title": "Particulates of Color",
+      "artists": "Peter Alexander",
+      "venue_raw": "페이스갤러리 서울",
+      "venue_key": "yongsan_v_40618ac755",
+      "venue_name": "페이스갤러리 서울",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로 262",
+      "lat": 37.5384432,
+      "lng": 127.0013336,
+      "start_date": "2026-04-16",
+      "end_date": "2026-06-05",
+      "price": "",
+      "url": "https://www.pacegallery.com/",
+      "thumbnail": "",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:11:17Z"
     },
     {
       "id": "59e29969f1b0",
@@ -686,7 +946,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
     },
     {
       "id": "c92e0e022bb4",
@@ -709,6 +969,26 @@
       "collected_at": "2026-05-25T07:00:07Z"
     },
     {
+      "id": "b92cbddc775c",
+      "source": "gallery_crawler",
+      "title": "A Swimming Soul",
+      "artists": "",
+      "venue_raw": "화이트스톤갤러리 서울",
+      "venue_key": "yongsan_v_e9960bfb05",
+      "venue_name": "화이트스톤갤러리 서울",
+      "region": "seoul",
+      "address": "서울 용산구 소월로 70",
+      "lat": 37.5541682,
+      "lng": 126.9782202,
+      "start_date": "2026-04-18",
+      "end_date": "2026-05-24",
+      "price": "",
+      "url": "https://www.whitestone-gallery.com/",
+      "thumbnail": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
+      "status": "ended",
+      "collected_at": "2026-05-27T04:34:31Z"
+    },
+    {
       "id": "3bbfebcbd371",
       "source": "mmca",
       "title": "MMCA 과천 상설전 «한국근현대미술 II»",
@@ -726,7 +1006,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001885&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042010563457812371.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
     },
     {
       "id": "a580710ab31c",
@@ -746,7 +1026,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001884&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/202604201055291871388.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
     },
     {
       "id": "c657aa61a28e",
@@ -766,7 +1046,27 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
+    },
+    {
+      "id": "c27c84efc3d5",
+      "source": "gallery_crawler",
+      "title": "글짓, 쓰는 예술",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "seongbuk_v_4d7461f17f",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6409659,
+      "lng": 127.0667885,
+      "start_date": "2026-04-23",
+      "end_date": "2026-07-12",
+      "price": "",
+      "url": "https://sema.seoul.go.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:15:53Z"
     },
     {
       "id": "dd94e31ec15e",
@@ -786,7 +1086,47 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002022&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026031704552119711784.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
+    },
+    {
+      "id": "c10eb3a36d9d",
+      "source": "gallery_crawler",
+      "title": "On the Move",
+      "artists": "Hong Seung-Hye",
+      "venue_raw": "국제갤러리",
+      "venue_key": "kukje_gallery",
+      "venue_name": "국제갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 54",
+      "lat": 37.5807006,
+      "lng": 126.9804771,
+      "start_date": "2026-04-24",
+      "end_date": "2026-06-28",
+      "price": "",
+      "url": "https://www.kukjegallery.com/",
+      "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+      "status": "active",
+      "collected_at": "2026-06-08T12:55:11Z"
+    },
+    {
+      "id": "0d9985700149",
+      "source": "gallery_crawler",
+      "title": "VERDY I Believe in Me",
+      "artists": "VERDY",
+      "venue_raw": "롯데뮤지엄",
+      "venue_key": "songpa_v_3328327af1",
+      "venue_name": "롯데뮤지엄",
+      "region": "seoul",
+      "address": "서울 송파구 올림픽로 300 롯데월드타워 7층",
+      "lat": 37.512492,
+      "lng": 127.102829,
+      "start_date": "2026-04-24",
+      "end_date": "2026-07-19",
+      "price": "",
+      "url": "https://www.lottemuseum.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:18:59Z"
     },
     {
       "id": "7376865e5230",
@@ -866,7 +1206,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
     },
     {
       "id": "1fe18767dc6b",
@@ -886,7 +1226,67 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
+    },
+    {
+      "id": "fd6985c92de5",
+      "source": "gallery_crawler",
+      "title": "Sound of Nature",
+      "artists": "이성옥",
+      "venue_raw": "매스갤러리 한남",
+      "venue_key": "yongsan_v_1afb74bc02",
+      "venue_name": "매스갤러리 한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로 91 나인원 한남 고메이 494 G층",
+      "lat": 37.5371049,
+      "lng": 127.0044368,
+      "start_date": "2026-05-01",
+      "end_date": "2026-06-22",
+      "price": "",
+      "url": "https://www.massgallery.info/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:14:01Z"
+    },
+    {
+      "id": "445a928c4841",
+      "source": "gallery_crawler",
+      "title": "오프 더 화이트: 주름과 망루",
+      "artists": "",
+      "venue_raw": "일민미술관",
+      "venue_key": "ilmin_museum",
+      "venue_name": "일민미술관",
+      "region": "seoul",
+      "address": "서울 종로구 세종대로 152",
+      "lat": 37.569836,
+      "lng": 126.9776958,
+      "start_date": "2026-05-01",
+      "end_date": "2026-07-12",
+      "price": "",
+      "url": "https://ilmin.org/",
+      "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
+      "status": "active",
+      "collected_at": "2026-06-08T12:54:46Z"
+    },
+    {
+      "id": "df9bff2d4077",
+      "source": "gallery_crawler",
+      "title": "Discarded Host",
+      "artists": "KANG Cheolgyu",
+      "venue_raw": "아라리오갤러리 서울",
+      "venue_key": "jongno_arariogaelreori_seoul",
+      "venue_name": "아라리오갤러리 서울",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로 85",
+      "lat": 37.5778727,
+      "lng": 126.9885265,
+      "start_date": "2026-05-01",
+      "end_date": "2026-06-20",
+      "price": "",
+      "url": "https://www.arariogallery.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-05-27T01:36:08Z"
     },
     {
       "id": "c3aa6931b3eb",
@@ -986,7 +1386,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "614105985711",
@@ -1067,6 +1467,26 @@
       "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
       "status": "ended",
       "collected_at": "2026-05-17T16:02:48Z"
+    },
+    {
+      "id": "3c2197547119",
+      "source": "gallery_crawler",
+      "title": "Collective Witchcraft",
+      "artists": "Jinseok Choi",
+      "venue_raw": "Komplex",
+      "venue_key": "yongsan_komplex",
+      "venue_name": "Komplex",
+      "region": "seoul",
+      "address": "서울 용산구 후암로 59 2층",
+      "lat": 37.5510836,
+      "lng": 126.9768376,
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-30",
+      "price": "",
+      "url": "https://www.komplex.kr/",
+      "thumbnail": "",
+      "status": "ended",
+      "collected_at": "2026-06-01T19:26:44Z"
     },
     {
       "id": "fd73a33095f8",
@@ -1226,7 +1646,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
     },
     {
       "id": "8dbbbdd0486d",
@@ -1246,7 +1666,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=1",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:33Z"
+      "collected_at": "2026-06-11T21:53:09Z"
     },
     {
       "id": "f38a5f08d72f",
@@ -1286,7 +1706,107 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
+    },
+    {
+      "id": "3df4e8862b99",
+      "source": "gallery_crawler",
+      "title": "기울어진 증거들 / Where Light Leans",
+      "artists": "GuNa, Vytautas Kumža",
+      "venue_raw": "디스위켄드룸",
+      "venue_key": "yongsan_v_82f34a42ae",
+      "venue_name": "디스위켄드룸",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로42길 30",
+      "lat": 37.5434754,
+      "lng": 127.0030782,
+      "start_date": "2026-05-15",
+      "end_date": "2026-06-20",
+      "price": "",
+      "url": "http://thisweekendroom.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-05-27T04:36:14Z"
+    },
+    {
+      "id": "0242461a6335",
+      "source": "gallery_crawler",
+      "title": "Arik Levy & Zoé Ouvrier: Come Closer",
+      "artists": "Arik Levy, Zoé Ouvrier",
+      "venue_raw": "탕 컨템포러리 아트",
+      "venue_key": "gangnam_tang_contemporary_art",
+      "venue_name": "탕 컨템포러리 아트",
+      "region": "seoul",
+      "address": "서울 강남구 압구정로75길 6 지하2층",
+      "lat": 37.5261544,
+      "lng": 127.0470224,
+      "start_date": "2026-05-15",
+      "end_date": "2026-07-05",
+      "price": "",
+      "url": "https://www.tangcontemporary.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-01T19:23:01Z"
+    },
+    {
+      "id": "0c7a6507f265",
+      "source": "gallery_crawler",
+      "title": "기울어진 증거들 Where Light Leans",
+      "artists": "GuNa, Vytautas Kumža",
+      "venue_raw": "디스위켄드룸",
+      "venue_key": "yongsan_v_82f34a42ae",
+      "venue_name": "디스위켄드룸",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로42길 30",
+      "lat": 37.5434754,
+      "lng": 127.0030782,
+      "start_date": "2026-05-15",
+      "end_date": "2026-06-20",
+      "price": "",
+      "url": "http://thisweekendroom.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:14:09Z"
+    },
+    {
+      "id": "1118187650fe",
+      "source": "gallery_crawler",
+      "title": "Yongjae Lee Solo Exhibition",
+      "artists": "Yongjae Lee",
+      "venue_raw": "캡션서울",
+      "venue_key": "yongsan_v_c0ce0399d0",
+      "venue_name": "캡션서울",
+      "region": "seoul",
+      "address": "서울 용산구 원효로81길 5 2층",
+      "lat": 37.5393653,
+      "lng": 126.9671902,
+      "start_date": "2026-05-16",
+      "end_date": "2026-06-14",
+      "price": "",
+      "url": "https://www.captionseoul.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:13:22Z"
+    },
+    {
+      "id": "0921c79d8d72",
+      "source": "gallery_crawler",
+      "title": "Lee Yongjae Solo Exhibition",
+      "artists": "Lee Yongjae",
+      "venue_raw": "캡션서울",
+      "venue_key": "yongsan_v_c0ce0399d0",
+      "venue_name": "캡션서울",
+      "region": "seoul",
+      "address": "서울 용산구 원효로81길 5 2층",
+      "lat": 37.5393653,
+      "lng": 126.9671902,
+      "start_date": "2026-05-16",
+      "end_date": "2026-06-14",
+      "price": "",
+      "url": "https://www.captionseoul.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-01T19:25:59Z"
     },
     {
       "id": "819751fd437a",
@@ -1346,7 +1866,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
     },
     {
       "id": "92f823f6b7bf",
@@ -1405,7 +1925,7 @@
       "price": "",
       "url": "https://www.choiandchoi.com/",
       "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1442/usr/images/exhibitions/home_page_image/items/58/580d5bdd66c04cc5b569aa78b7b91029/3.-sohyun-ban-2026-acrylic-on-canvas-162-x-130-cm.jpeg",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T07:03:54Z"
     },
     {
@@ -1426,7 +1946,27 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:12Z"
+      "collected_at": "2026-06-11T21:52:32Z"
+    },
+    {
+      "id": "95d121c9cba9",
+      "source": "gallery_crawler",
+      "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
+      "artists": "",
+      "venue_raw": "서울시립 남서울미술관",
+      "venue_key": "gwanak_v_4903d075a2",
+      "venue_name": "서울시립 남서울미술관",
+      "region": "seoul",
+      "address": "서울 관악구 남부순환로 2076",
+      "lat": 37.4760645,
+      "lng": 126.9795205,
+      "start_date": "2026-05-20",
+      "end_date": "2026-07-05",
+      "price": "",
+      "url": "https://sema.seoul.go.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:19:34Z"
     },
     {
       "id": "8456ddcc34ec",
@@ -1489,6 +2029,26 @@
       "collected_at": "2026-05-25T07:02:20Z"
     },
     {
+      "id": "6a314899ceaa",
+      "source": "gallery_crawler",
+      "title": "Blue Blue Bear and Green, Blue Blue Bear and Sea",
+      "artists": "야스히토 가와사키",
+      "venue_raw": "리나갤러리",
+      "venue_key": "gangnam_lina_gallery",
+      "venue_name": "리나갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 논현로142길 43",
+      "lat": 37.518039,
+      "lng": 127.0328542,
+      "start_date": "2026-05-21",
+      "end_date": "2026-07-09",
+      "price": "",
+      "url": "https://www.linagallery.com/",
+      "thumbnail": "https://storage.googleapis.com/cr-resource/image/6aa63f786b231ea8ad58ca17ab42c84a/linagallery/650/8940086b20d4ebfb7dd3115302e09599.jpg?_1780924197",
+      "status": "active",
+      "collected_at": "2026-06-08T13:10:00Z"
+    },
+    {
       "id": "576827f3cf3d",
       "source": "gallery_crawler",
       "title": "Ball and Water Mold",
@@ -1507,6 +2067,26 @@
       "thumbnail": "",
       "status": "active",
       "collected_at": "2026-05-25T07:06:15Z"
+    },
+    {
+      "id": "32ef773b544c",
+      "source": "gallery_crawler",
+      "title": "the orange revile",
+      "artists": "leesima",
+      "venue_raw": "대안공간루프",
+      "venue_key": "euljiro_alternativespaceloop",
+      "venue_name": "대안공간루프",
+      "region": "seoul",
+      "address": "",
+      "lat": 37.5685111,
+      "lng": 126.9968182,
+      "start_date": "2026-05-22",
+      "end_date": "2026-06-20",
+      "price": "",
+      "url": "http://altspaceloop.com/",
+      "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
+      "status": "active",
+      "collected_at": "2026-06-08T12:52:29Z"
     },
     {
       "id": "4b0d43b843c3",
@@ -1609,6 +2189,86 @@
       "collected_at": "2026-05-25T11:46:15Z"
     },
     {
+      "id": "ccf2b2eaca5b",
+      "source": "gallery_crawler",
+      "title": "Too Sunny",
+      "artists": "Yiji Jeong",
+      "venue_raw": "Komplex",
+      "venue_key": "yongsan_komplex",
+      "venue_name": "Komplex",
+      "region": "seoul",
+      "address": "서울 용산구 후암로 59 2층",
+      "lat": 37.5510836,
+      "lng": 126.9768376,
+      "start_date": "2026-05-29",
+      "end_date": "2026-06-27",
+      "price": "",
+      "url": "https://www.komplex.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:14:17Z"
+    },
+    {
+      "id": "299220cc9c07",
+      "source": "gallery_crawler",
+      "title": "MANE: A Stayed Moment",
+      "artists": "",
+      "venue_raw": "화이트스톤갤러리 서울",
+      "venue_key": "yongsan_v_e9960bfb05",
+      "venue_name": "화이트스톤갤러리 서울",
+      "region": "seoul",
+      "address": "서울 용산구 소월로 70",
+      "lat": 37.5541682,
+      "lng": 126.9782202,
+      "start_date": "2026-05-30",
+      "end_date": "2026-07-19",
+      "price": "",
+      "url": "https://www.whitestone-gallery.com/",
+      "thumbnail": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
+      "status": "active",
+      "collected_at": "2026-06-08T13:12:12Z"
+    },
+    {
+      "id": "db297f25e953",
+      "source": "gallery_crawler",
+      "title": "Ki Seul Ki : Liquid Light",
+      "artists": "Ki Seul Ki",
+      "venue_raw": "챕터투",
+      "venue_key": "mapo_v_c8ed0c7725",
+      "venue_name": "챕터투",
+      "region": "seoul",
+      "address": "서울 마포구 동교로27길 54",
+      "lat": 37.5602136,
+      "lng": 126.9212316,
+      "start_date": "2026-05-30",
+      "end_date": "2026-07-03",
+      "price": "",
+      "url": "https://chapterii.org/",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1647/usr/images/exhibitions/home_page_image/items/26/26e4633de0184390910e1ef2bb58aa82/20260529-_dsc1458.jpg",
+      "status": "active",
+      "collected_at": "2026-06-08T13:14:43Z"
+    },
+    {
+      "id": "baf535c25bae",
+      "source": "gallery_crawler",
+      "title": "Living",
+      "artists": "Kila Cheung",
+      "venue_raw": "탕 컨템포러리 아트",
+      "venue_key": "gangnam_tang_contemporary_art",
+      "venue_name": "탕 컨템포러리 아트",
+      "region": "seoul",
+      "address": "서울 강남구 압구정로75길 6 지하2층",
+      "lat": 37.5261544,
+      "lng": 127.0470224,
+      "start_date": "2026-05-30",
+      "end_date": "2026-07-12",
+      "price": "",
+      "url": "https://www.tangcontemporary.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:10:16Z"
+    },
+    {
       "id": "2933faecae61",
       "source": "gallery_crawler",
       "title": "Living Living Artist: Kila Cheung Solo Exhibition",
@@ -1627,6 +2287,126 @@
       "thumbnail": "",
       "status": "active",
       "collected_at": "2026-05-25T11:58:04Z"
+    },
+    {
+      "id": "af63d9745303",
+      "source": "gallery_crawler",
+      "title": "Flowing Landscapes: From Ink to Code to Fashion",
+      "artists": "박지혜",
+      "venue_raw": "학고재 아트센터",
+      "venue_key": "jongno_hakgojae_ateusenteo",
+      "venue_name": "학고재 아트센터",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 48-4",
+      "lat": 37.5802585,
+      "lng": 126.9804601,
+      "start_date": "2026-06-02",
+      "end_date": "2026-06-08",
+      "price": "",
+      "url": "http://hakgojaeartcenter.com/",
+      "thumbnail": "http://hakgojaeartcenter.com/resources/images/common/site_logo_sns.jpg",
+      "status": "ended",
+      "collected_at": "2026-06-08T13:02:37Z"
+    },
+    {
+      "id": "07d534ce384f",
+      "source": "gallery_crawler",
+      "title": "THE DOTS IV",
+      "artists": "Shin Mee-kyoung, Lee Me-kyeoung, Lee Jin-yong, Jang Seung-taik, Jina Sohn, Hwang Ran",
+      "venue_raw": "갤러리나우",
+      "venue_key": "gangnam_gallery_now",
+      "venue_name": "갤러리나우",
+      "region": "seoul",
+      "address": "서울 강남구 언주로152길 16",
+      "lat": 37.5228145,
+      "lng": 127.0350152,
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-27",
+      "price": "",
+      "url": "https://www.gallery-now.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:03:49Z"
+    },
+    {
+      "id": "22da99f36c7e",
+      "source": "gallery_crawler",
+      "title": "전통의 재해석 6th",
+      "artists": "",
+      "venue_raw": "갤러리 그림손",
+      "venue_key": "jongno_gaelreori_geurimson",
+      "venue_name": "갤러리 그림손",
+      "region": "seoul",
+      "address": "서울 종로구 인사동10길 22",
+      "lat": 37.574182,
+      "lng": 126.9861401,
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-16",
+      "price": "",
+      "url": "https://www.grimson.co.kr/",
+      "thumbnail": "/images/meta_img.png",
+      "status": "active",
+      "collected_at": "2026-06-08T13:02:23Z"
+    },
+    {
+      "id": "96ef5e72d6be",
+      "source": "gallery_crawler",
+      "title": "신광순 개인전",
+      "artists": "신광순",
+      "venue_raw": "갤러리이즈",
+      "venue_key": "jongno_gaelreoriijeu",
+      "venue_name": "갤러리이즈",
+      "region": "seoul",
+      "address": "서울 종로구 인사동길 52-1",
+      "lat": 37.5747823,
+      "lng": 126.9841615,
+      "start_date": "2026-06-03",
+      "end_date": "2026-06-08",
+      "price": "",
+      "url": "http://www.galleryis.com/",
+      "thumbnail": "",
+      "status": "ended",
+      "collected_at": "2026-06-08T12:57:33Z"
+    },
+    {
+      "id": "5c385dfbc618",
+      "source": "gallery_crawler",
+      "title": "머무는 침묵 (Lingering Silence)",
+      "artists": "최병훈",
+      "venue_raw": "조현화랑 서울",
+      "venue_key": "gangnam_johyeonhwarang_seoul",
+      "venue_name": "조현화랑 서울",
+      "region": "seoul",
+      "address": "서울 중구 동호로 249 서울 신라호텔 B1",
+      "lat": 37.5558806,
+      "lng": 127.0051533,
+      "start_date": "2026-06-04",
+      "end_date": "2026-08-02",
+      "price": "",
+      "url": "https://www.johyungallery.com/",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1227/usr/images/pages/slideshow_data/1/13_-johyun-gallery-kim-hong-suk-77-21-1977-162.5-x-130.5-cm.jpg",
+      "status": "active",
+      "collected_at": "2026-06-08T13:06:49Z"
+    },
+    {
+      "id": "3feff0a733c9",
+      "source": "gallery_crawler",
+      "title": "Pieter Obels | Feng Xiao-Min",
+      "artists": "Pieter Obels, Feng Xiao-Min",
+      "venue_raw": "오페라갤러리",
+      "venue_key": "gangnam_operagaelreori",
+      "venue_name": "오페라갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 언주로164길 24 5층",
+      "lat": 37.5253345,
+      "lng": 127.0355021,
+      "start_date": "2026-06-04",
+      "end_date": "2026-07-05",
+      "price": "",
+      "url": "https://www.operagallery.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:08:00Z"
     },
     {
       "id": "d9bda09685b3",
@@ -1649,6 +2429,66 @@
       "collected_at": "2026-05-25T07:10:12Z"
     },
     {
+      "id": "1f43f9c75d0c",
+      "source": "gallery_crawler",
+      "title": "Yang Hwasun : Collected Summers",
+      "artists": "Yang Hwasun",
+      "venue_raw": "갤러리담",
+      "venue_key": "jongno_gaelreoridam",
+      "venue_name": "갤러리담",
+      "region": "seoul",
+      "address": "서울 종로구 윤보선길 72",
+      "lat": 37.5790949,
+      "lng": 126.9834402,
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-17",
+      "price": "",
+      "url": "https://www.gallerydam.com/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-08T13:00:21Z"
+    },
+    {
+      "id": "dba7c68e6d87",
+      "source": "gallery_crawler",
+      "title": "Mandy El-Sayegh Jewel Tones",
+      "artists": "Mandy El-Sayegh",
+      "venue_raw": "타데우스로팍 서울",
+      "venue_key": "yongsan_v_d2d167936c",
+      "venue_name": "타데우스로팍 서울",
+      "region": "seoul",
+      "address": "서울 용산구 독서당로 122-1",
+      "lat": 37.536852,
+      "lng": 127.0128664,
+      "start_date": "2026-06-05",
+      "end_date": "2026-07-31",
+      "price": "",
+      "url": "https://ropac.net/ko/",
+      "thumbnail": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+      "status": "active",
+      "collected_at": "2026-06-01T19:24:32Z"
+    },
+    {
+      "id": "30d3fc6bbc3d",
+      "source": "gallery_crawler",
+      "title": "「2026 노원 생활문화 이야기」 전시",
+      "artists": "",
+      "venue_raw": "노원아트뮤지엄",
+      "venue_key": "nowon_v_682ba5c8bc",
+      "venue_name": "노원아트뮤지엄",
+      "region": "seoul",
+      "address": "서울 노원구 중계로 181 4층",
+      "lat": 37.6502349,
+      "lng": 127.0802907,
+      "start_date": "2026-06-09",
+      "end_date": "2026-07-29",
+      "price": "",
+      "url": "https://www.nowonarts.kr/",
+      "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
+      "status": "active",
+      "collected_at": "2026-06-08T13:17:36Z"
+    },
+    {
       "id": "b5e4cb5e42cc",
       "source": "gallery_crawler",
       "title": "Objects in Oscillation",
@@ -1669,6 +2509,26 @@
       "collected_at": "2026-05-17T14:43:24Z"
     },
     {
+      "id": "b0c73c3b5a74",
+      "source": "gallery_crawler",
+      "title": "아르마딜로",
+      "artists": "",
+      "venue_raw": "이화익갤러리",
+      "venue_key": "jongno_ihwaikgaelreori",
+      "venue_name": "이화익갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 율곡로3길 67 (안국동)",
+      "lat": 37.5785709,
+      "lng": 126.98203,
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-30",
+      "price": "",
+      "url": "http://www.leehwaikgallery.com/",
+      "thumbnail": "http://leehwaikgallery.com/img/logo.png",
+      "status": "active",
+      "collected_at": "2026-06-08T12:56:26Z"
+    },
+    {
       "id": "85636baf089c",
       "source": "sema",
       "title": "《권병준: 내 마음속에 너는》",
@@ -1685,8 +2545,8 @@
       "price": "무료",
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
-      "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:18Z"
+      "status": "active",
+      "collected_at": "2026-06-11T21:52:32Z"
     },
     {
       "id": "ed3c6f8a8bec",
@@ -1706,7 +2566,47 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:18Z"
+      "collected_at": "2026-06-11T21:52:38Z"
+    },
+    {
+      "id": "36902d52e51e",
+      "source": "mmca",
+      "title": "캐시 메모리: MMCA 뉴미디어 컬렉션 다시 읽기",
+      "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-06-16",
+      "end_date": "2026-07-17",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
+      "status": "upcoming",
+      "collected_at": "2026-06-11T21:53:14Z"
+    },
+    {
+      "id": "fd82255f40a1",
+      "source": "sema",
+      "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
+      "artists": "",
+      "venue_raw": "주워싱턴한국문화원",
+      "venue_key": "unknown",
+      "venue_name": "주워싱턴한국문화원",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-06-17",
+      "end_date": "2026-08-11",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
+      "status": "upcoming",
+      "collected_at": "2026-06-11T21:52:38Z"
     },
     {
       "id": "fd0ac7e0e944",
@@ -1726,27 +2626,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012116",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:18Z"
-    },
-    {
-      "id": "fd82255f40a1",
-      "source": "sema",
-      "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
-      "artists": "",
-      "venue_raw": "주워싱턴한국문화원",
-      "venue_key": "unknown",
-      "venue_name": "주워싱턴한국문화원",
-      "region": "seoul",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "start_date": "2026-06-17",
-      "end_date": "2026-08-11",
-      "price": "무료",
-      "url": "",
-      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011584",
-      "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:18Z"
+      "collected_at": "2026-06-11T21:52:38Z"
     },
     {
       "id": "a6ec77ae545e",
@@ -1766,7 +2646,27 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
+    },
+    {
+      "id": "bfef17e6bc7a",
+      "source": "gallery_crawler",
+      "title": "전혜주: 엔도스코페이아",
+      "artists": "전혜주",
+      "venue_raw": "송은",
+      "venue_key": "gangnam_songeun",
+      "venue_name": "송은",
+      "region": "seoul",
+      "address": "서울 강남구 도산대로 441",
+      "lat": 37.5241628,
+      "lng": 127.0441206,
+      "start_date": "2026-06-19",
+      "end_date": "2026-08-01",
+      "price": "",
+      "url": "https://songeun.or.kr/",
+      "thumbnail": "https://dbuuh2wfbpxcx.cloudfront.net/media/thumbnail/1200/1200/jpg/eyJpZCI6ImFlZmIzZmUxY2ZkZGI5MjAxYTVlYTk0MTE2ZDNlOGQ4LnBuZyIsInN0b3JhZ2UiOiJzdG9yZSJ9?type=image%2Fjpeg&signature=764901c2f12787981132fad345d6e52fa3e4e675ada03d56323964399521ed9e",
+      "status": "upcoming",
+      "collected_at": "2026-06-08T13:06:27Z"
     },
     {
       "id": "52b0ef2a39df",
@@ -1786,7 +2686,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "2771712f738e",
@@ -1806,7 +2706,47 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:18Z"
+      "collected_at": "2026-06-11T21:52:38Z"
+    },
+    {
+      "id": "03f0648c4281",
+      "source": "gallery_crawler",
+      "title": "Bae Yoon Hwan",
+      "artists": "Bae Yoon Hwan",
+      "venue_raw": "갤러리바톤",
+      "venue_key": "yongsan_v_a1078304d2",
+      "venue_name": "갤러리바톤",
+      "region": "seoul",
+      "address": "서울 용산구 독서당로 116",
+      "lat": 37.5364251,
+      "lng": 127.0121759,
+      "start_date": "2026-06-27",
+      "end_date": "2026-07-31",
+      "price": "",
+      "url": "https://gallerybaton.com/",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/03/03984784825841f8aae108101514aec0/gb_byh_2022_portrait_2_photo-by-jeon-byung-cheol.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-06-08T13:10:58Z"
+    },
+    {
+      "id": "5338a7d92c72",
+      "source": "gallery_crawler",
+      "title": "Faisandage",
+      "artists": "Woo Hannah, Choi Sujin, Shuyi Cao",
+      "venue_raw": "G갤러리",
+      "venue_key": "gangnam_ggaelreori",
+      "venue_name": "G갤러리",
+      "region": "seoul",
+      "address": "서울 강남구 삼성로 748 제이에스하우스 B1",
+      "lat": 37.5219609,
+      "lng": 127.0489054,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-31",
+      "price": "",
+      "url": "https://www.ggallery.kr/",
+      "thumbnail": "",
+      "status": "upcoming",
+      "collected_at": "2026-06-08T13:09:44Z"
     },
     {
       "id": "513e8e6a1473",
@@ -1826,7 +2766,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002026&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010610504597216426.png",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
     },
     {
       "id": "731e06acfa30",
@@ -1846,7 +2786,7 @@
       "url": "https://ilmin.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "84cf27aca8a2",
@@ -1866,7 +2806,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "2659ada6c655",
@@ -1886,7 +2826,7 @@
       "url": "https://www.spacek.co.kr/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "51659f018a70",
@@ -1906,7 +2846,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
     },
     {
       "id": "fd6e830fa660",
@@ -1926,7 +2866,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "9f19bf1ebc70",
@@ -1946,7 +2886,7 @@
       "url": "https://artsonje.org/exhibition-program/exhibition/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "9ae886c0d6c9",
@@ -1966,7 +2906,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "580fded5c044",
@@ -1986,7 +2926,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061002041170016962.gif",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
     },
     {
       "id": "576a1c954144",
@@ -2006,7 +2946,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
     },
     {
       "id": "cd405fc79942",
@@ -2026,7 +2966,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "1a0d0d38e652",
@@ -2046,7 +2986,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "7639e2fdd78b",
@@ -2066,7 +3006,7 @@
       "url": "https://songeun.or.kr/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "4250cc7db837",
@@ -2086,7 +3026,7 @@
       "url": "https://www.ocimuseum.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "072a2c23daa1",
@@ -2106,7 +3046,7 @@
       "url": "https://www.artside.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "e5dbf479b082",
@@ -2126,7 +3066,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "a27227969ee3",
@@ -2146,7 +3086,7 @@
       "url": "https://www.pkmgallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "e6f107b3043a",
@@ -2166,7 +3106,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
     },
     {
       "id": "c47a3d013b6d",
@@ -2186,7 +3126,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "2413571b8918",
@@ -2206,7 +3146,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "36f84ca4ce30",
@@ -2226,7 +3166,7 @@
       "url": "https://craftmuseum.seoul.go.kr/main",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "283d437eba18",
@@ -2246,7 +3186,7 @@
       "url": "https://apma.amorepacific.com/contents/exhibition/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "e61941f7c997",
@@ -2266,7 +3206,7 @@
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "52ea3c4fc5ed",
@@ -2286,7 +3226,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "a1a64de63d62",
@@ -2306,7 +3246,7 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:14Z"
     },
     {
       "id": "37c00224b438",
@@ -2326,7 +3266,47 @@
       "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
       "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
       "status": "upcoming",
-      "collected_at": "2026-06-10T09:06:38Z"
+      "collected_at": "2026-06-11T21:53:18Z"
+    },
+    {
+      "id": "feba8ad5a36e",
+      "source": "gallery_crawler",
+      "title": "Wunderkammer",
+      "artists": "",
+      "venue_raw": "중간지점 하나 / 둘",
+      "venue_key": "junggu_jungganjijeom_hana_dul",
+      "venue_name": "중간지점 하나 / 둘",
+      "region": "seoul",
+      "address": "서울 중구 을지로14길 15 장양빌딩 703호",
+      "lat": 37.5655433,
+      "lng": 126.9923596,
+      "start_date": "",
+      "end_date": "",
+      "price": "",
+      "url": "https://jungganjijeom.framer.website/",
+      "thumbnail": "https://framerusercontent.com/images/fAX96XfS9B7vqS9xBJeXz5Lpukw.png",
+      "status": "active",
+      "collected_at": "2026-06-08T13:04:48Z"
+    },
+    {
+      "id": "cd94c5782fa5",
+      "source": "gallery_crawler",
+      "title": "은평 공예 공모 선정자전 <머묾>",
+      "artists": "",
+      "venue_raw": "삼각산금암미술관",
+      "venue_key": "eunpyeong_v_104cc78134",
+      "venue_name": "삼각산금암미술관",
+      "region": "seoul",
+      "address": "서울 은평구 진관길 21-2",
+      "lat": 37.6416329,
+      "lng": 126.9412376,
+      "start_date": "",
+      "end_date": "",
+      "price": "",
+      "url": "https://museum.ep.go.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-06-01T19:29:48Z"
     },
     {
       "id": "62f94c390e5a",
@@ -2366,7 +3346,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "6084da7d42c9",
@@ -2386,7 +3366,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "42c6c1f81417",
@@ -2406,7 +3386,7 @@
       "url": "https://sma.sbculture.or.kr/sma/index.do",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "7cb07997a386",
@@ -2426,7 +3406,7 @@
       "url": "http://www.kumhomuseum.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "d461c80af4a3",
@@ -2446,7 +3426,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "a79165f880f7",
@@ -2466,7 +3446,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "7c47035bd4b9",
@@ -2486,7 +3466,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "a059d2bbc6e7",
@@ -2506,7 +3486,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "cfb061425017",
@@ -2526,7 +3506,7 @@
       "url": "https://www.galleryhyundai.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "aa60a541418d",
@@ -2546,7 +3526,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "bd554a6b43e3",
@@ -2566,7 +3546,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "2010c9a53b04",
@@ -2586,7 +3566,7 @@
       "url": "http://www.perrotin.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "d5d0205a7e9b",
@@ -2606,7 +3586,7 @@
       "url": "https://www.ggallery.kr/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "87645c379e81",
@@ -2626,7 +3606,7 @@
       "url": "https://ropac.net/ko/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     },
     {
       "id": "8ed4ee11d6c9",
@@ -2646,7 +3626,7 @@
       "url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-10T09:06:46Z"
+      "collected_at": "2026-06-11T21:53:27Z"
     }
   ]
 }

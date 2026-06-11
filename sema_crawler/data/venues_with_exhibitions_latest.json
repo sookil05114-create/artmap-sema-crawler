@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T09:06:22Z",
+  "generated_at": "2026-06-11T21:52:43Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -54,8 +54,8 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
-      "active_count": 2,
-      "upcoming_count": 2,
+      "active_count": 3,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "bd8a5f6ebb44",
@@ -82,7 +82,7 @@
           "title": "《권병준: 내 마음속에 너는》",
           "start_date": "2026-06-11",
           "end_date": "2027-05-16",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
           "url": "",
           "price": "무료"
@@ -107,19 +107,9 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "06934f057ce3",
-          "title": "SeMA 프로젝트V_얄루",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "dd23cadf6549",
           "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
@@ -308,7 +298,7 @@
           "start_date": "2026-06-17",
           "end_date": "2026-08-11",
           "status": "upcoming",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011584",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
           "url": "",
           "price": "무료"
         }
