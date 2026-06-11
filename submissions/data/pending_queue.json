@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:52Z",
+  "generated_at": "2026-06-11T06:58:57Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -979,11 +979,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_e9960bfb05",
       "venue_name": "화이트스톤갤러리 서울",
       "title": "MANE: A Stayed Moment",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-30",
       "end_date": "2026-07-19",
       "thumbnail": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
@@ -991,7 +991,8 @@
       "lng": 126.9782202,
       "address": "서울 용산구 소월로 70",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:53.798Z"
     },
     {
       "id": "52b1cdc5c8a2",
@@ -1392,7 +1393,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "euljiro_pokettales",
       "venue_name": "포켓테일즈",
       "title": "EP 5 2026",
@@ -1404,7 +1405,8 @@
       "lng": 126.9955317,
       "address": "",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:55.883Z"
     },
     {
       "id": "3df4e8862b99",
