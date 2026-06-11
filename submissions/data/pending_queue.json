@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:57Z",
+  "generated_at": "2026-06-11T06:59:03Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1352,11 +1352,11 @@
         "description_summary": "일민미술관의 현재 전시 《오프 더 화이트: 주름과 망루》는 2026년 5월 1일부터 7월 12일까지 개최됩니다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "ilmin_museum",
       "venue_name": "일민미술관",
       "title": "오프 더 화이트: 주름과 망루",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-01",
       "end_date": "2026-07-12",
       "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
@@ -1364,7 +1364,8 @@
       "lng": 126.9776958,
       "address": "서울 종로구 세종대로 152",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:59:03.847Z"
     },
     {
       "id": "ede589a2d1c3",
@@ -1435,7 +1436,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_82f34a42ae",
       "venue_name": "디스위켄드룸",
       "title": "기울어진 증거들 / Where Light Leans",
@@ -1447,7 +1448,8 @@
       "lng": 127.0030782,
       "address": "서울 용산구 한남대로42길 30",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:02.178Z"
     },
     {
       "id": "0242461a6335",
@@ -1476,7 +1478,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_tang_contemporary_art",
       "venue_name": "탕 컨템포러리 아트",
       "title": "Arik Levy & Zoé Ouvrier: Come Closer",
@@ -1488,7 +1490,8 @@
       "lng": 127.0470224,
       "address": "서울 강남구 압구정로75길 6 지하2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:01.297Z"
     },
     {
       "id": "6a314899ceaa",
