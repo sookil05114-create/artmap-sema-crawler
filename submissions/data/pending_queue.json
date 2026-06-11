@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T07:00:51Z",
+  "generated_at": "2026-06-11T07:00:58Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -2739,11 +2739,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_hwangimisulgwan",
       "venue_name": "환기미술관",
       "title": "시의 시: PART II",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-01",
       "end_date": "2026-05-31",
       "thumbnail": "http://whankimuseum.org/wp-content/uploads/2022/05/og-2.jpg",
@@ -2751,7 +2751,8 @@
       "lng": 126.9661217,
       "address": "서울 종로구 자하문로40길 63 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:51.930Z"
     },
     {
       "id": "d3a5e19bab9d",
@@ -2780,7 +2781,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreoriijeu",
       "venue_name": "갤러리이즈",
       "title": "세 번째 꽃구경",
@@ -2792,7 +2793,8 @@
       "lng": 126.9841615,
       "address": "서울 종로구 인사동길 52-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:53.103Z"
     },
     {
       "id": "df9bff2d4077",
@@ -2821,7 +2823,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_arariogaelreori_seoul",
       "venue_name": "아라리오갤러리 서울",
       "title": "Discarded Host",
@@ -2833,7 +2835,8 @@
       "lng": 126.9885265,
       "address": "서울 종로구 율곡로 85",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:56.104Z"
     },
     {
       "id": "7092cf84b3b9",
