@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:59:53Z",
+  "generated_at": "2026-06-11T06:59:59Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1731,11 +1731,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "geumcheon_v_75b99b9f74",
       "venue_name": "서울시립 서서울미술관",
       "title": "SeMA 프로젝트V_얄루",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-03-12",
       "end_date": "2026-07-26",
       "thumbnail": "",
@@ -1743,7 +1743,8 @@
       "lng": 126.8954095,
       "address": "서울 금천구 시흥대로79길 65",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:59:56.065Z"
     },
     {
       "id": "41925f945ecd",
@@ -1854,7 +1855,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongbuk_bb_m",
       "venue_name": "BB&M",
       "title": "UNSENTIMENTAL EDUCATION",
@@ -1866,7 +1867,8 @@
       "lng": 126.9954009,
       "address": "서울 성북구 성북로23길 10",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:57.925Z"
     },
     {
       "id": "7d34ac8038c8",
