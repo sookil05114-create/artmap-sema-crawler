@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:57:35Z",
+  "generated_at": "2026-06-11T06:57:47Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -71,11 +71,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "nowon_v_682ba5c8bc",
       "venue_name": "노원아트뮤지엄",
       "title": "「2026 노원 생활문화 이야기」 전시",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-09",
       "end_date": "2026-07-29",
       "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
@@ -83,7 +83,8 @@
       "lng": 127.0802907,
       "address": "서울 노원구 중계로 181 4층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:57:38.150Z"
     },
     {
       "id": "a633d4e6d510",
@@ -112,7 +113,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_65b5f85b8b",
       "venue_name": "그라운드시소 한남",
       "title": "얼리버드 조은 원화전: 오늘의 정원",
@@ -124,7 +125,8 @@
       "lng": 127.0049872,
       "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-06-11T06:57:44.233Z"
     },
     {
       "id": "ccf2b2eaca5b",
