@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-08T13:20:48Z",
+  "generated_at": "2026-06-11T06:57:35Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -29,11 +29,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "geumcheon_v_75b99b9f74",
       "venue_name": "서울시립 서서울미술관",
       "title": "알렉사에게",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-03-26",
       "end_date": "2026-07-26",
       "thumbnail": "",
@@ -41,7 +41,8 @@
       "lng": 126.8954095,
       "address": "서울 금천구 시흥대로79길 65",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:57:35.217Z"
     },
     {
       "id": "30d3fc6bbc3d",
