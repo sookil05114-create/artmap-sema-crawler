@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T07:00:17Z",
+  "generated_at": "2026-06-11T07:00:24Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -2067,7 +2067,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "mapo_v_c8ed0c7725",
       "venue_name": "챕터투",
       "title": "Ki Seul Ki : Liquid Light",
@@ -2079,7 +2079,8 @@
       "lng": 126.9212316,
       "address": "서울 마포구 동교로27길 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:21.161Z"
     },
     {
       "id": "82e3120ba553",
@@ -2108,11 +2109,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_65b5f85b8b",
       "venue_name": "그라운드시소 한남",
       "title": "룸 포 원더: 상상의 문을 열다",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -2120,7 +2121,8 @@
       "lng": 127.0049872,
       "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-06-11T07:00:18.453Z"
     },
     {
       "id": "3c2197547119",
