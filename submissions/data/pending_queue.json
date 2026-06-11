@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:09Z",
+  "generated_at": "2026-06-11T06:58:22Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -407,7 +407,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_gallery_now",
       "venue_name": "갤러리나우",
       "title": "THE DOTS IV",
@@ -419,7 +419,8 @@
       "lng": 127.0350152,
       "address": "서울 강남구 언주로152길 16",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:20.023Z"
     },
     {
       "id": "af63d9745303",
@@ -448,7 +449,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_hakgojae_ateusenteo",
       "venue_name": "학고재 아트센터",
       "title": "Flowing Landscapes: From Ink to Code to Fashion",
@@ -460,7 +461,8 @@
       "lng": 126.9804601,
       "address": "서울 종로구 삼청로 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:21.092Z"
     },
     {
       "id": "22da99f36c7e",
@@ -489,11 +491,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_geurimson",
       "venue_name": "갤러리 그림손",
       "title": "전통의 재해석 6th",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-03",
       "end_date": "2026-06-16",
       "thumbnail": "/images/meta_img.png",
@@ -501,7 +503,8 @@
       "lng": 126.9861401,
       "address": "서울 종로구 인사동10길 22",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:21.817Z"
     },
     {
       "id": "1f43f9c75d0c",
@@ -683,11 +686,11 @@
         "description_summary": "이불, 회화, 한국 현대사진, 백남준 영상미술, 조각 등 다양한 장르의 작품을 소개하는 아모레퍼시픽미술관의 기획 전시",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "apma_amorepacific",
       "venue_name": "아모레퍼시픽미술관",
       "title": "APMA, CHAPTER FIVE",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -695,7 +698,8 @@
       "lng": 126.9686231,
       "address": "서울 용산구 한강대로 100",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:58:10.018Z"
     },
     {
       "id": "74eac64efb24",
