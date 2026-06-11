@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:22Z",
+  "generated_at": "2026-06-11T06:58:30Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -533,7 +533,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreoridam",
       "venue_name": "갤러리담",
       "title": "Yang Hwasun : Collected Summers",
@@ -545,7 +545,8 @@
       "lng": 126.9834402,
       "address": "서울 종로구 윤보선길 72",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:24.690Z"
     },
     {
       "id": "0cca8411c0a2",
@@ -612,7 +613,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreoriijeu",
       "venue_name": "갤러리이즈",
       "title": "신광순 개인전",
@@ -624,7 +625,8 @@
       "lng": 126.9841615,
       "address": "서울 종로구 인사동길 52-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:30.380Z"
     },
     {
       "id": "c10eb3a36d9d",
@@ -649,7 +651,7 @@
         "description_summary": "홍승혜 개인전. 쿡제갤러리 부산에서 개최되는 현대미술 전시.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "On the Move",
@@ -661,7 +663,8 @@
       "lng": 126.9804771,
       "address": "서울 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:29.576Z"
     },
     {
       "id": "325c752f7e3e",
@@ -728,11 +731,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "nowon_v_682ba5c8bc",
       "venue_name": "노원아트뮤지엄",
       "title": "제 46회 장애인의 날 기념전 <그림 봄 길전>",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-15",
       "end_date": "2026-04-29",
       "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
@@ -740,7 +743,8 @@
       "lng": 127.0802907,
       "address": "서울 노원구 중계로 181 4층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:58:28.936Z"
     },
     {
       "id": "a761a08def92",
@@ -769,7 +773,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "mapo_v_48d3ac28a9",
       "venue_name": "박서보미술관",
       "title": "나는 너를 그릴 수 없다 | I Can't Portray You",
@@ -781,7 +785,8 @@
       "lng": 126.935569,
       "address": "서울 서대문구 연희로24길 9-2",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:58:25.719Z"
     },
     {
       "id": "fd6985c92de5",
@@ -806,7 +811,7 @@
         "description_summary": "현재 진행 중인 전시로, 이성옥 작가의 작품을 선보인다.",
         "confidence": 0.9
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_1afb74bc02",
       "venue_name": "매스갤러리 한남",
       "title": "Sound of Nature",
@@ -818,7 +823,8 @@
       "lng": 127.0044368,
       "address": "서울 용산구 한남대로 91 나인원 한남 고메이 494 G층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:28.230Z"
     },
     {
       "id": "a57b9507ef05",
