@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:59:03Z",
+  "generated_at": "2026-06-11T06:59:11Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1021,11 +1021,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_d530e9f450",
       "venue_name": "모노하 한남",
       "title": "ACT.18",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -1033,7 +1033,8 @@
       "lng": 127.0077538,
       "address": "서울 용산구 독서당로 36",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:05.256Z"
     },
     {
       "id": "88ec212f6ecf",
@@ -1520,7 +1521,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_lina_gallery",
       "venue_name": "리나갤러리",
       "title": "Blue Blue Bear and Green, Blue Blue Bear and Sea",
@@ -1532,7 +1533,8 @@
       "lng": 127.0328542,
       "address": "서울 강남구 논현로142길 43",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:08.543Z"
     },
     {
       "id": "9f3684c0a738",
@@ -1561,7 +1563,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_johyeonhwarang_seoul",
       "venue_name": "조현화랑 서울",
       "title": "The Shape of Re-Entry",
@@ -1573,7 +1575,8 @@
       "lng": 127.0051533,
       "address": "서울 중구 동호로 249 서울 신라호텔 B1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:59:10.403Z"
     },
     {
       "id": "32ef773b544c",
