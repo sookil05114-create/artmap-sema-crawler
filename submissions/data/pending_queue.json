@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:44Z",
+  "generated_at": "2026-06-11T06:58:52Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -895,7 +895,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_c0ce0399d0",
       "venue_name": "캡션서울",
       "title": "Lee Yongjae Solo Exhibition",
@@ -907,7 +907,8 @@
       "lng": 126.9671902,
       "address": "서울 용산구 원효로81길 5 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:51.562Z"
     },
     {
       "id": "042dc0ab0bd8",
@@ -936,7 +937,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_e4315d5de2",
       "venue_name": "눈컨템포러리",
       "title": "Variables 변수들",
@@ -948,7 +949,8 @@
       "lng": 126.9784555,
       "address": "서울 용산구 소월로 72",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:50.219Z"
     },
     {
       "id": "299220cc9c07",
@@ -1185,11 +1187,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_sehwamisulgwan",
       "venue_name": "세화미술관",
       "title": "투명한 손, 움직이는 색 (Invisible Hands, Startling Colors)",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-03-26",
       "end_date": "2026-06-28",
       "thumbnail": "https://sehwamuseum.org/wp-content/uploads/2024/11/og.png",
@@ -1197,7 +1199,8 @@
       "lng": 126.9723315,
       "address": "서울 종로구 새문안로 68 2층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:58:45.472Z"
     },
     {
       "id": "58a110474564",
