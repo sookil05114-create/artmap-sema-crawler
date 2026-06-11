@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:59:59Z",
+  "generated_at": "2026-06-11T07:00:08Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1773,7 +1773,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "songpa_v_53ecff4b65",
       "venue_name": "소마미술관",
       "title": "이승택: 조각의 바깥에서",
@@ -1785,7 +1785,8 @@
       "lng": 127.1179749,
       "address": "서울 송파구 올림픽로 424",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:00.546Z"
     },
     {
       "id": "0d9985700149",
@@ -1814,7 +1815,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "songpa_v_3328327af1",
       "venue_name": "롯데뮤지엄",
       "title": "VERDY I Believe in Me",
@@ -1826,7 +1827,8 @@
       "lng": 127.102829,
       "address": "서울 송파구 올림픽로 300 롯데월드타워 7층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:59:59.744Z"
     },
     {
       "id": "294c761bc277",
@@ -1897,11 +1899,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "nowon_v_682ba5c8bc",
       "venue_name": "노원아트뮤지엄",
       "title": "인상파, 찬란한 순간들: 모네, 르누아르, 반 고흐 그리고 세잔",
-      "artists": null,
+      "artists": "",
       "start_date": "2025-12-19",
       "end_date": "2026-05-31",
       "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
@@ -1909,7 +1911,8 @@
       "lng": 127.0802907,
       "address": "서울 노원구 중계로 181 4층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:06.820Z"
     },
     {
       "id": "cd94c5782fa5",
@@ -1938,11 +1941,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "eunpyeong_v_104cc78134",
       "venue_name": "삼각산금암미술관",
       "title": "은평 공예 공모 선정자전 <머묾>",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -1950,7 +1953,8 @@
       "lng": 126.9412376,
       "address": "서울 은평구 진관길 21-2",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:05.005Z"
     },
     {
       "id": "4fb4854e47e3",
