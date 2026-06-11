@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:59:48Z",
+  "generated_at": "2026-06-11T06:59:53Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1689,11 +1689,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gwanak_v_4903d075a2",
       "venue_name": "서울시립 남서울미술관",
       "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-20",
       "end_date": "2026-07-05",
       "thumbnail": "",
@@ -1701,7 +1701,8 @@
       "lng": 126.9795205,
       "address": "서울 관악구 남부순환로 2076",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T06:59:52.298Z"
     },
     {
       "id": "79722354fe7b",
