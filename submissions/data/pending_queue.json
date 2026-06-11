@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:37Z",
+  "generated_at": "2026-06-11T06:58:44Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -1143,7 +1143,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_operagaelreori",
       "venue_name": "오페라갤러리",
       "title": "Pieter Obels | Feng Xiao-Min",
@@ -1155,7 +1155,8 @@
       "lng": 127.0355021,
       "address": "서울 강남구 언주로164길 24 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:37.913Z"
     },
     {
       "id": "6274e37580e0",
@@ -1225,11 +1226,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongdong_d_gallery",
       "venue_name": "더페이지갤러리",
       "title": "如, this is it",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-02-26",
       "end_date": "2026-04-26",
       "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/pages/slideshow_backup/items/43/4341840b22e2412d83c74ae3a08fff7d/_bcj8630-.jpg",
@@ -1237,7 +1238,8 @@
       "lng": 127.0427626,
       "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 G205",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:44.459Z"
     },
     {
       "id": "feba8ad5a36e",
@@ -1266,11 +1268,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "junggu_jungganjijeom_hana_dul",
       "venue_name": "중간지점 하나 / 둘",
       "title": "Wunderkammer",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "https://framerusercontent.com/images/fAX96XfS9B7vqS9xBJeXz5Lpukw.png",
@@ -1278,7 +1280,8 @@
       "lng": 126.9923596,
       "address": "서울 중구 을지로14길 15 장양빌딩 703호",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:43.585Z"
     },
     {
       "id": "b0c73c3b5a74",
@@ -1307,11 +1310,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_ihwaikgaelreori",
       "venue_name": "이화익갤러리",
       "title": "아르마딜로",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-10",
       "end_date": "2026-06-30",
       "thumbnail": "http://leehwaikgallery.com/img/logo.png",
@@ -1319,7 +1322,8 @@
       "lng": 126.98203,
       "address": "서울 종로구 율곡로3길 67 (안국동)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:42.593Z"
     },
     {
       "id": "445a928c4841",
