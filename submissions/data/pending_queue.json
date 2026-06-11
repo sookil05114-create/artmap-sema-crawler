@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T07:00:24Z",
+  "generated_at": "2026-06-11T07:00:30Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -2235,11 +2235,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_3218026cac",
       "venue_name": "국립중앙박물관",
       "title": "보존과학, 새로운 시작 함께하는 미래",
-      "artists": null,
+      "artists": "",
       "start_date": "2025-10-28",
       "end_date": "2026-06-30",
       "thumbnail": "https://www.museum.go.kr/design/common/images/nmk_sns_logo.png",
@@ -2247,7 +2247,8 @@
       "lng": 126.9779352,
       "address": "서울 용산구 서빙고로 137",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-06-11T07:00:25.765Z"
     },
     {
       "id": "ec54bbab2e10",
@@ -2276,7 +2277,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_5b44565266",
       "venue_name": "어반아트",
       "title": "2026 화랑미술제",
@@ -2288,7 +2289,8 @@
       "lng": 126.9927463,
       "address": "서울 용산구 소월로44길 7",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:29.282Z"
     },
     {
       "id": "d81299e8d4bd",
@@ -2317,7 +2319,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_e94dc905f1",
       "venue_name": "아마도예술공간",
       "title": "시간이 흐른다고 미래가 되지 않는다",
@@ -2329,7 +2331,8 @@
       "lng": 127.0017855,
       "address": "서울 용산구 이태원로54길 8",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-06-11T07:00:28.570Z"
     },
     {
       "id": "0745c85493b4",
@@ -2399,11 +2402,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_e9960bfb05",
       "venue_name": "화이트스톤갤러리 서울",
       "title": "A Swimming Soul",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-18",
       "end_date": "2026-05-24",
       "thumbnail": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
@@ -2411,7 +2414,8 @@
       "lng": 126.9782202,
       "address": "서울 용산구 소월로 70",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T07:00:30.378Z"
     },
     {
       "id": "dba7c68e6d87",
