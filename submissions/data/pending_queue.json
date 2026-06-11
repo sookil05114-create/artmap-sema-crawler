@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-11T06:58:30Z",
+  "generated_at": "2026-06-11T06:58:37Z",
   "items": [
     {
       "id": "234c5c8c4a24",
@@ -853,7 +853,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_998c88e1fb",
       "venue_name": "히피한남",
       "title": "ppp to fff",
@@ -865,7 +865,8 @@
       "lng": 127.0028449,
       "address": "서울 용산구 한남대로27가길 26-20",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:32.297Z"
     },
     {
       "id": "0921c79d8d72",
@@ -1058,7 +1059,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_fae4283bf3",
       "venue_name": "라흰갤러리",
       "title": "서상익 & 이동재 2인전",
@@ -1070,7 +1071,8 @@
       "lng": 126.9725424,
       "address": "서울 용산구 한강대로50길 38-7",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:36.528Z"
     },
     {
       "id": "03f0648c4281",
@@ -1099,7 +1101,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_a1078304d2",
       "venue_name": "갤러리바톤",
       "title": "Bae Yoon Hwan",
@@ -1111,7 +1113,8 @@
       "lng": 127.0121759,
       "address": "서울 용산구 독서당로 116",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-06-11T06:58:34.414Z"
     },
     {
       "id": "3feff0a733c9",
