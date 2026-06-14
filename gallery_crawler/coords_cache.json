@@ -720,12 +720,13 @@
     "matched_address": "서울특별시 강남구 압구정로77길 17"
   },
   "gangnam_313_art_project": {
-    "lat": 37.5949918,
-    "lng": 126.9893104,
+    "lat": null,
+    "lng": null,
     "query": "313 ART PROJECT 서울시",
-    "confidence": "new",
+    "confidence": "needs_manual",
     "matched_title": "313 ART PROJECT",
-    "matched_address": "서울특별시 성북구 성북로31길 34 313 아트 프로젝트"
+    "matched_address": "서울특별시 성북구 성북로31길 34 313 아트 프로젝트",
+    "note": "Naver에 옛 주소(성북구)만 등록."
   },
   "jongno_horiateuseupeiseu": {
     "lat": 37.5837595,
@@ -974,12 +975,13 @@
     "matched_address": "서울특별시 중구 수표로 58-1 3층"
   },
   "euljiro_pco_seoul": {
-    "lat": 37.5686402,
-    "lng": 126.9871596,
+    "lat": null,
+    "lng": null,
     "query": "PCO",
-    "confidence": "suspect",
+    "confidence": "needs_manual",
     "matched_title": "한국PCO협회",
-    "matched_address": "서울특별시 종로구 청계천로 85 8층"
+    "matched_address": "서울특별시 종로구 청계천로 85 8층",
+    "note": "Naver에 '한국PCO협회'(종로 청계천로)로 잘못 매칭됨. 실제 PCO 갤러리(을지로) 주소가 필요."
   },
   "euljiro_artspace_hyeong": {
     "lat": 37.5772211,
@@ -1182,12 +1184,12 @@
     "matched_address": "서울특별시 용산구 소월로 322 L층"
   },
   "yongsan_v_fc1149a23f": {
-    "lat": 36.6295063,
-    "lng": 127.4896703,
-    "query": "필갤러리",
-    "confidence": "suspect",
-    "matched_title": "필갤러리",
-    "matched_address": "충청북도 청주시 상당구 상당로13번길 26 필겔러리"
+    "lat": 37.533593,
+    "lng": 127.0098292,
+    "query": "필갤러리 한남 유엔빌리지길 24",
+    "matched_title": "필 갤러리",
+    "matched_address": "서울특별시 용산구 유엔빌리지길 24 필 갤러리",
+    "confidence": "ok_fixed"
   },
   "yongsan_v_e9960bfb05": {
     "lat": 37.5541682,
@@ -1622,10 +1624,9 @@
   "junggu_french_embassy": {
     "lat": 37.5612818,
     "lng": 126.965031,
-    "query": "주한프랑스대사관저 서울",
-    "confidence": "new",
     "matched_title": "주한 프랑스 대사관",
-    "matched_address": "서울특별시 서대문구 서소문로 43-12"
+    "matched_address": "서울특별시 서대문구 서소문로 43-12",
+    "confidence": "ok_fixed"
   },
   "yeouido_hanwha_pompidou": {
     "lat": 37.5199203,
@@ -1635,5 +1636,308 @@
     "matched_title": "퐁피두센터 한화",
     "matched_address": "서울특별시 영등포구 63로 50 63빌딩 별관"
   },
-  "generated_at": "2026-06-08T13:20:48Z"
+  "jongno_v_6143ab8fab": {
+    "lat": 37.5831852,
+    "lng": 126.988885,
+    "query": "종로구립 고희동미술관 서울 종로구",
+    "matched_title": "종로구립 고희동미술관",
+    "matched_address": "서울특별시 종로구 창덕궁5길 40 종로구립 고희동미술관",
+    "confidence": "ok_artweek2025"
+  },
+  "junggu_v_c1fd591dc4": {
+    "lat": 37.5729295,
+    "lng": 127.0086173,
+    "query": "서울디자인재단 동대문디자인플라자 /",
+    "matched_title": "서울디자인재단",
+    "matched_address": "서울특별시 종로구 율곡로 283 서울디자인지원센터 7~ 9층",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_abf91912fc": {
+    "lat": 37.5161707,
+    "lng": 127.0342941,
+    "query": "플랫폼엘 컨템포러리 아트센터 언주로133길 11",
+    "matched_title": "플랫폼엘",
+    "matched_address": "서울특별시 강남구 언주로133길 11",
+    "confidence": "ok_artweek2025"
+  },
+  "geumcheon_v_d72845d889": {
+    "lat": 37.4675725,
+    "lng": 126.8900963,
+    "query": "아트센터 예술의 시간 서울 금천구",
+    "matched_title": "아트센터예술의시간",
+    "matched_address": "서울특별시 금천구 범안로9길 23 아트센터예술의시간",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_5c56329d07": {
+    "lat": 37.5871785,
+    "lng": 127.0019035,
+    "query": "JCC아트센터 서울 종로구",
+    "matched_title": "JCC아트센터",
+    "matched_address": "서울특별시 종로구 창경궁로35길 29",
+    "confidence": "ok_artweek2025"
+  },
+  "nowon_v_b35efacb8b": {
+    "lat": 37.6299918,
+    "lng": 127.0555902,
+    "query": "인덕대학교 초안산로12",
+    "matched_title": "블루포트 인덕대학교점",
+    "matched_address": "서울특별시 노원구 초안산로 12 인덕대학교 연지스퀘어 지하1층 카페 블루포트",
+    "confidence": "ok_artweek2025"
+  },
+  "seongdong_v_ff15b465c2": {
+    "lat": 37.5437898,
+    "lng": 127.0544168,
+    "query": "우란문화재단 서울 성동구",
+    "matched_title": "우란문화재단",
+    "matched_address": "서울특별시 성동구 연무장7길 11",
+    "confidence": "ok_artweek2025"
+  },
+  "junggu_v_f768cdec08": {
+    "lat": 37.567845,
+    "lng": 126.9758958,
+    "query": "(조선일보사) 서울",
+    "matched_title": "조선일보",
+    "matched_address": "서울특별시 중구 세종대로21길 30",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_b298e935b8": {
+    "lat": 37.6038803,
+    "lng": 126.9612387,
+    "query": "공간:일리 서울",
+    "matched_title": "공간일리",
+    "matched_address": "서울특별시 종로구 세검정로9길 19 안채 공간일리",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_6c835ad545": {
+    "lat": 37.5812427,
+    "lng": 126.9869932,
+    "query": "뮤지엄헤드 서울 종로구",
+    "matched_title": "뮤지엄헤드",
+    "matched_address": "서울특별시 종로구 계동길 84-3",
+    "confidence": "ok_artweek2025"
+  },
+  "seocho_v_1f26db4921": {
+    "lat": 37.482199,
+    "lng": 127.0128281,
+    "query": "페리지갤러리 반포대로 18",
+    "matched_title": "페리지 홀 &amp; 갤러리",
+    "matched_address": "서울특별시 서초구 반포대로 18 B1 페리지갤러리, B2 페리지홀",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_eb0ebb9f10": {
+    "lat": 37.5822905,
+    "lng": 126.9718063,
+    "query": "더레퍼런스 자하문로24길 44",
+    "matched_title": "더레퍼런스",
+    "matched_address": "서울특별시 종로구 자하문로24길 44",
+    "confidence": "ok_artweek2025"
+  },
+  "yongsan_v_89feaa7787": {
+    "lat": 37.5377026,
+    "lng": 126.9949214,
+    "query": "캔 파운데이션 서울 용산구",
+    "matched_title": "캔파운데이션",
+    "matched_address": "서울특별시 용산구 이태원로27길 101 1층 MO BY CAN",
+    "confidence": "ok_artweek2025"
+  },
+  "seongbuk_v_20fced5d29": {
+    "lat": 37.5939752,
+    "lng": 127.0003509,
+    "query": "유영공간 서울 성북구",
+    "matched_title": "유영공간",
+    "matched_address": "서울특별시 성북구 성북로16가길 1 유영공간",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_964ed2ccaf": {
+    "lat": 37.5263619,
+    "lng": 127.0441036,
+    "query": "갤러리 가이아 서울 강남구",
+    "matched_title": "갤러리가이아",
+    "matched_address": "서울특별시 강남구 선릉로162길 43 1층",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_cc2ed7a680": {
+    "lat": 37.5980224,
+    "lng": 126.9620022,
+    "query": "갤러리 비앤에스 자하문로 273",
+    "matched_title": "갤러리 비앤에스",
+    "matched_address": "서울특별시 종로구 자하문로 273 1층 101호",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_b845d1c2e0": {
+    "lat": 37.579622,
+    "lng": 126.9721219,
+    "query": "갤러리 자인제노 갤러리 자인제노",
+    "matched_title": "갤러리자인제노",
+    "matched_address": "서울특별시 종로구 자하문로10길 9-4 B1층 갤러리자인제노",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_45956ef033": {
+    "lat": 37.5232525,
+    "lng": 127.0291224,
+    "query": "갤러리JJ 압구정로30길 63",
+    "matched_title": "갤러리JJ",
+    "matched_address": "서울특별시 강남구 압구정로30길 63 1층",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_63a04a6f21": {
+    "lat": 37.510647,
+    "lng": 127.0509127,
+    "query": "갤러리 다온 봉은사로68길 23",
+    "matched_title": "갤러리다온",
+    "matched_address": "서울특별시 강남구 봉은사로68길 23",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_8a8a494901": {
+    "lat": 37.5727757,
+    "lng": 126.9859438,
+    "query": "갤러리밈 서울 종로구",
+    "matched_title": "갤러리밈",
+    "matched_address": "서울특별시 종로구 인사동5길 3",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_d3cfec7ce6": {
+    "lat": 37.5799207,
+    "lng": 126.9814996,
+    "query": "갤러리조선 서울 종로구",
+    "matched_title": "갤러리조선",
+    "matched_address": "서울특별시 종로구 북촌로5길 64 지하1층",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_26728556d1": {
+    "lat": 37.5837545,
+    "lng": 126.98043,
+    "query": "아트파크 삼청로7길 25",
+    "matched_title": "아트파크",
+    "matched_address": "서울특별시 종로구 삼청로7길 25",
+    "confidence": "ok_artweek2025"
+  },
+  "songpa_v_867d4e5b31": {
+    "lat": 37.5088598,
+    "lng": 127.105775,
+    "query": "에브리데이몬데이 서울",
+    "matched_title": "에브리데이몬데이 갤러리",
+    "matched_address": "서울특별시 송파구 송파대로48길 14",
+    "confidence": "ok_artweek2025"
+  },
+  "junggu_v_19330d2f7a": {
+    "lat": 37.5659913,
+    "lng": 127.0020047,
+    "query": "에브리아트 동호로 353",
+    "matched_title": "에브리아트",
+    "matched_address": "서울특별시 중구 동호로 353 4~5층",
+    "confidence": "ok_artweek2025"
+  },
+  "yongsan_v_32ec7830fb": {
+    "lat": 37.5354607,
+    "lng": 126.9985407,
+    "query": "파운드리 서울 이태원로 223",
+    "matched_title": "파운드리 서울",
+    "matched_address": "서울특별시 용산구 이태원로 223 지하 1, 2층",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_5cdbfb0748": {
+    "lat": 37.5778184,
+    "lng": 126.9703285,
+    "query": "TYA갤러리 자하문로5길 28",
+    "matched_title": "TYA갤러리",
+    "matched_address": "서울특별시 종로구 자하문로5길 28 TYA갤러리",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_a04d16371b": {
+    "lat": 37.5734136,
+    "lng": 126.9850588,
+    "query": "가온갤러리 서울 종로구",
+    "matched_title": "가온갤러리",
+    "matched_address": "서울특별시 종로구 인사동길 35-6 인사마루 1층 가온갤러리",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_6f0829ac57": {
+    "lat": 37.5079829,
+    "lng": 127.0368066,
+    "query": "갤러리엘르 봉은사로 224",
+    "matched_title": "갤러리엘르",
+    "matched_address": "서울특별시 강남구 봉은사로 224 혜전빌딩 지하1층",
+    "confidence": "ok_artweek2025"
+  },
+  "junggu_v_1c4156f907": {
+    "lat": 37.5683668,
+    "lng": 126.9968163,
+    "query": "갤러리 소소 청계천로 172-1",
+    "matched_title": "더 소소",
+    "matched_address": "서울특별시 중구 청계천로 172-1 4-5층",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_38003b16e2": {
+    "lat": 37.509106,
+    "lng": 127.0528785,
+    "query": "띠오 봉은사로68길 55-3",
+    "matched_title": "띠오",
+    "matched_address": "서울특별시 강남구 봉은사로68길 55-3 B1F",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_b9fa220065": {
+    "lat": 37.527402,
+    "lng": 127.0346103,
+    "query": "로이갤러리 로이갤러리 압구정",
+    "matched_title": "로이갤러리 압구정",
+    "matched_address": "서울특별시 강남구 압구정로42길 24-6 1층, 7층",
+    "confidence": "ok_artweek2025"
+  },
+  "unknown_v_90b8f5e5c7": {
+    "lat": 37.4810722,
+    "lng": 127.0133279,
+    "query": "서리풀청년아트갤러리 서울",
+    "matched_title": "서리풀청년아트갤러리",
+    "matched_address": "서울특별시 서초구 남부순환로323길 1 앞 지하보도",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_71d7c243e0": {
+    "lat": 37.4851747,
+    "lng": 127.0440594,
+    "query": "서정아트 서울 강남구",
+    "matched_title": "바이서정",
+    "matched_address": "서울특별시 강남구 논현로36길 27 1층",
+    "confidence": "ok_artweek2025"
+  },
+  "songpa_v_a15de59ab5": {
+    "lat": 37.4869032,
+    "lng": 127.1205913,
+    "query": "아르티펙스 갤러리 법원로 128",
+    "matched_title": "아르티펙스메이전시",
+    "matched_address": "서울특별시 송파구 법원로 128 문정역SKV1 B동 715호",
+    "confidence": "ok_artweek2025"
+  },
+  "gangnam_v_d6b70a146a": {
+    "lat": 37.5568371,
+    "lng": 126.9313204,
+    "query": "아줄레주 갤러리 서울",
+    "matched_title": "아줄레주갤러리",
+    "matched_address": "서울특별시 마포구 신촌로 48",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_2b4f62eff1": {
+    "lat": 37.5783837,
+    "lng": 126.9733411,
+    "query": "아트스페이스3 효자로7길 23",
+    "matched_title": "아트스페이스3",
+    "matched_address": "서울특별시 종로구 효자로7길 23 지하 1층",
+    "confidence": "ok_artweek2025"
+  },
+  "songpa_v_46b026066f": {
+    "lat": 37.4827602,
+    "lng": 127.1219166,
+    "query": "옥상팩토리 서울",
+    "matched_title": "옥상팩토리",
+    "matched_address": "서울특별시 송파구 법원로4길 5 지하1층 B112호",
+    "confidence": "ok_artweek2025"
+  },
+  "jongno_v_3bd1bd3dd3": {
+    "lat": 37.5821634,
+    "lng": 126.9712813,
+    "query": "정종미갤러리 자하문로 68-19",
+    "matched_title": "정종미 갤러리",
+    "matched_address": "서울특별시 종로구 자하문로 68-19 정종미갤러리",
+    "confidence": "ok_artweek2025"
+  }
 }
