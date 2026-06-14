@@ -1646,5 +1646,309 @@
     "source_url": "https://www.instagram.com/seoulmuseumofart",
     "status_code": 200,
     "fetched_at": "2026-05-27T02:47:23Z"
+  },
+  "songpa_v_a15de59ab5": {
+    "venue_key": "songpa_v_a15de59ab5",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_71d7c243e0": {
+    "venue_key": "gangnam_v_71d7c243e0",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "songpa_v_867d4e5b31": {
+    "venue_key": "songpa_v_867d4e5b31",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_26728556d1": {
+    "venue_key": "jongno_v_26728556d1",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "unknown_v_90b8f5e5c7": {
+    "venue_key": "unknown_v_90b8f5e5c7",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "geumcheon_v_d72845d889": {
+    "venue_key": "geumcheon_v_d72845d889",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_abf91912fc": {
+    "venue_key": "gangnam_v_abf91912fc",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_d3cfec7ce6": {
+    "venue_key": "jongno_v_d3cfec7ce6",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "junggu_v_19330d2f7a": {
+    "venue_key": "junggu_v_19330d2f7a",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_eb0ebb9f10": {
+    "venue_key": "jongno_v_eb0ebb9f10",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_b298e935b8": {
+    "venue_key": "jongno_v_b298e935b8",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "seocho_v_1f26db4921": {
+    "venue_key": "seocho_v_1f26db4921",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_8a8a494901": {
+    "venue_key": "jongno_v_8a8a494901",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_63a04a6f21": {
+    "venue_key": "gangnam_v_63a04a6f21",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_6c835ad545": {
+    "venue_key": "jongno_v_6c835ad545",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "yongsan_v_89feaa7787": {
+    "venue_key": "yongsan_v_89feaa7787",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "junggu_v_1c4156f907": {
+    "venue_key": "junggu_v_1c4156f907",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_6f0829ac57": {
+    "venue_key": "gangnam_v_6f0829ac57",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "junggu_v_c1fd591dc4": {
+    "venue_key": "junggu_v_c1fd591dc4",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_8015d307e3": {
+    "venue_key": "jongno_v_8015d307e3",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_6143ab8fab": {
+    "venue_key": "jongno_v_6143ab8fab",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_38003b16e2": {
+    "venue_key": "gangnam_v_38003b16e2",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_a04d16371b": {
+    "venue_key": "jongno_v_a04d16371b",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_b845d1c2e0": {
+    "venue_key": "jongno_v_b845d1c2e0",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_cc2ed7a680": {
+    "venue_key": "jongno_v_cc2ed7a680",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "seongdong_v_ff15b465c2": {
+    "venue_key": "seongdong_v_ff15b465c2",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_5cdbfb0748": {
+    "venue_key": "jongno_v_5cdbfb0748",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_2b4f62eff1": {
+    "venue_key": "jongno_v_2b4f62eff1",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_b9fa220065": {
+    "venue_key": "gangnam_v_b9fa220065",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "nowon_v_b35efacb8b": {
+    "venue_key": "nowon_v_b35efacb8b",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "yongsan_v_32ec7830fb": {
+    "venue_key": "yongsan_v_32ec7830fb",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_964ed2ccaf": {
+    "venue_key": "gangnam_v_964ed2ccaf",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_45956ef033": {
+    "venue_key": "gangnam_v_45956ef033",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "gangnam_v_d6b70a146a": {
+    "venue_key": "gangnam_v_d6b70a146a",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_5c56329d07": {
+    "venue_key": "jongno_v_5c56329d07",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "seongbuk_v_20fced5d29": {
+    "venue_key": "seongbuk_v_20fced5d29",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "songpa_v_46b026066f": {
+    "venue_key": "songpa_v_46b026066f",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "jongno_v_3bd1bd3dd3": {
+    "venue_key": "jongno_v_3bd1bd3dd3",
+    "image_url": "",
+    "source": "none",
+    "source_url": "",
+    "status_code": 0,
+    "fetched_at": "2026-06-14T13:41:05Z"
   }
 }
