@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T21:52:43Z",
+  "generated_at": "2026-06-14T14:10:43Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -11,9 +11,19 @@
       "lat": 37.5641,
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
-      "active_count": 3,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "c876e2a60711",
+          "title": "SeMA 공용공간 프로젝트 《영원히 교차하는 춤》",
+          "start_date": "2025-08-13",
+          "end_date": "2026-12-31",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=975877",
+          "url": "",
+          "price": "무료"
+        },
         {
           "id": "aebb8561f013",
           "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
@@ -107,14 +117,24 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
-      "active_count": 2,
+      "active_count": 3,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "06934f057ce3",
+          "title": "SeMA 프로젝트V_얄루",
+          "start_date": "2026-03-12",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+          "url": "",
+          "price": "무료"
+        },
         {
           "id": "dd23cadf6549",
           "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
           "start_date": "2026-03-12",
-          "end_date": "2026-07-12",
+          "end_date": "2026-07-26",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
           "url": "",
@@ -163,26 +183,16 @@
       "lat": 37.6612,
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
-      "active_count": 2,
-      "upcoming_count": 0,
+      "active_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
-          "id": "6ba058729ef0",
-          "title": "포토 디스커버리 프로젝트 《사진집》",
-          "start_date": "2026-03-18",
-          "end_date": "2026-06-14",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003198",
-          "url": "",
-          "price": "무료"
-        },
-        {
-          "id": "a2ce75e6ada3",
-          "title": "2026 서울사진축제 《컴백홈》",
-          "start_date": "2026-04-09",
-          "end_date": "2026-06-14",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1006054",
+          "id": "26458500b9ef",
+          "title": "사진공유 프로젝트 《집-들이!》",
+          "start_date": "2026-06-19",
+          "end_date": "2026-07-05",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
           "url": "",
           "price": "무료"
         }
@@ -278,7 +288,7 @@
       "lng": null,
       "official_url": "",
       "active_count": 0,
-      "upcoming_count": 2,
+      "upcoming_count": 3,
       "exhibitions": [
         {
           "id": "ed3c6f8a8bec",
@@ -299,6 +309,17 @@
           "end_date": "2026-08-11",
           "status": "upcoming",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "80a75729d548",
+          "title": "[2026 신진미술인 지원 프로그램] 반재하 개인전 《모퉁이를 돌면 거짓 친구》",
+          "venue_raw": "2026/06/19~2026/07/12",
+          "start_date": "2026-06-19",
+          "end_date": "2026-07-12",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
           "url": "",
           "price": "무료"
         }
