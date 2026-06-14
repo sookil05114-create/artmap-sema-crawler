@@ -46,7 +46,7 @@
       "category": "전시공간",
       "region": "seoul",
       "subregion": "euljiro",
-      "address": "",
+      "address": "03129 서울특별시 종로구 종로33길 15",
       "lat": 37.5718135,
       "lng": 127.0010162,
       "instagram_url": "https://www.instagram.com/doosanartcenter_gallery/",
@@ -57,7 +57,10 @@
       "aliases": [
         "두산갤러리"
       ],
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/435236469_959135145595493_2188299685761892664_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zgYgQagyq5cQ7kNvwGwus7G&_nc_oc=AdpR-MR0DuW6UAppkOYh-ow_iqy94cmgmGiOZ-aap8jvxpHBvDaVacAKlCqwNzj7aNg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7bi2u_arjjOlKnHyw_dkH1MKxTmloyegKJvhpWD79qAg&oe=6A1C2F60"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/435236469_959135145595493_2188299685761892664_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zgYgQagyq5cQ7kNvwGwus7G&_nc_oc=AdpR-MR0DuW6UAppkOYh-ow_iqy94cmgmGiOZ-aap8jvxpHBvDaVacAKlCqwNzj7aNg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7bi2u_arjjOlKnHyw_dkH1MKxTmloyegKJvhpWD79qAg&oe=6A1C2F60",
+      "art_week_2025": true,
+      "hours": "평일 : 11:00am~19:00pm, 주말 : 11:00am~19:00pm",
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "euljiro_die_huette_gallery",
@@ -141,7 +144,7 @@
       "category": "갤러리",
       "region": "seoul",
       "subregion": "euljiro",
-      "address": "",
+      "address": "미정 (이사 예정)",
       "lat": 37.5685111,
       "lng": 126.9968182,
       "instagram_url": "https://www.instagram.com/alternativespaceloop/",
@@ -153,7 +156,10 @@
         "대안공간루프",
         "대안공간 루프"
       ],
-      "image_url": "http://altspaceloop.com/assets/images/og-image.png"
+      "image_url": "http://altspaceloop.com/assets/images/og-image.png",
+      "art_week_2025": true,
+      "hours": "평일 : 10:00am~19:00pm, 주말 : 10:00am~19:00pm",
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "euljiro_ffseoul",
@@ -239,7 +245,7 @@
       "category": "갤러리",
       "region": "seoul",
       "subregion": "euljiro",
-      "address": "",
+      "address": "서울특별시 중구 을지로 143, 4층",
       "lat": 37.5666093,
       "lng": 126.9939463,
       "instagram_url": "https://www.instagram.com/sahngupgallery/",
@@ -251,7 +257,10 @@
         "상업화랑 을지로",
         "상업화랑"
       ],
-      "image_url": "https://cdn.imweb.me/upload/S202010087b7ce41563a72/f17c9455097a8.png"
+      "image_url": "https://cdn.imweb.me/upload/S202010087b7ce41563a72/f17c9455097a8.png",
+      "art_week_2025": true,
+      "hours": "평일 : 13:00am~19:00pm, 주말 : 13:00am~18:00pm",
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "euljiro_nslasha_kr",
@@ -259,7 +268,7 @@
       "category": "갤러리",
       "region": "seoul",
       "subregion": "euljiro",
-      "address": "",
+      "address": "경기 과천시 사기막길 71-7 호반아트리움",
       "lat": 37.5669151,
       "lng": 126.9964407,
       "instagram_url": "https://www.instagram.com/nslasha.kr/",
@@ -270,7 +279,10 @@
       "aliases": [
         "N/A"
       ],
-      "image_url": "http://nslasha.kr/na/n_a_preview.jpg"
+      "image_url": "http://nslasha.kr/na/n_a_preview.jpg",
+      "art_week_2025": true,
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm",
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "euljiro_space_unit_plus",
@@ -375,8 +387,8 @@
       "region": "seoul",
       "subregion": "euljiro",
       "address": "",
-      "lat": 37.5686402,
-      "lng": 126.9871596,
+      "lat": null,
+      "lng": null,
       "instagram_url": "https://www.instagram.com/pco.seoul/",
       "instagram_handle": "pco.seoul",
       "naver_map_url": "https://naver.me/5CW0a6ju",
@@ -385,7 +397,8 @@
       "aliases": [
         "PCO"
       ],
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/474934447_969836881714077_5257376304506575994_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pKvDLdA1sacQ7kNvwEmNV63&_nc_oc=AdrEF_CkSs57rcfept-wQ22LcSDZShFY_a2YaPpiP-r6sN6W6ESrx6KtZWQFfrpkXAM&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4RssSncbEqTpdq493JbarIXs6hg_9vnct_WWashDQIsg&oe=6A1C2B8D"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/474934447_969836881714077_5257376304506575994_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=pKvDLdA1sacQ7kNvwEmNV63&_nc_oc=AdrEF_CkSs57rcfept-wQ22LcSDZShFY_a2YaPpiP-r6sN6W6ESrx6KtZWQFfrpkXAM&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4RssSncbEqTpdq493JbarIXs6hg_9vnct_WWashDQIsg&oe=6A1C2B8D",
+      "_verify_note": "Naver에 '한국PCO협회'(종로 청계천로)로 잘못 매칭됨. 실제 PCO 갤러리(을지로) 주소가 필요."
     },
     {
       "venue_key": "euljiro_artspace_hyeong",
@@ -539,7 +552,10 @@
         "서울미술관",
         "석파정 서울미술관"
       ],
-      "image_url": "https://storage.googleapis.com/cr-resource/image/a0a3f07e1389badc59c69638020e91b8/1031050/1031050-screen-thumb.png?_1779850030"
+      "image_url": "https://storage.googleapis.com/cr-resource/image/a0a3f07e1389badc59c69638020e91b8/1031050/1031050-screen-thumb.png?_1779850030",
+      "art_week_2025": true,
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm",
+      "closed": "월,화요일 휴관"
     },
     {
       "venue_key": "apma_amorepacific",
@@ -578,7 +594,10 @@
       "aliases": [
         "일민미술관"
       ],
-      "image_url": "https://ilmin.org/wp-content/uploads/2021/04/og.png"
+      "image_url": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
+      "art_week_2025": true,
+      "hours": "평일 : 11:00am~19:00pm, 주말 : 11:00am~19:00pm",
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "artsonje_center",
@@ -693,7 +712,9 @@
       "verification_status": "verified",
       "lat": 37.580376,
       "lng": 126.9802633,
-      "image_url": "http://gallery.hakgojae.com/resources/images/common/site_logo_sns.jpg"
+      "image_url": "http://gallery.hakgojae.com/resources/images/common/site_logo_sns.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "yongsan_gaelreorisinra_seoul",
@@ -830,7 +851,9 @@
       "verification_status": "verified",
       "lat": 37.5808712,
       "lng": 126.9806656,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/170152499_897069934481573_3588551619319701991_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MTkuQzMifQ%3D%3D&_nc_ohc=KIKsAQNs9KYQ7kNvwGhAMdx&_nc_oc=AdotpLGxReXouBrCNtfgbbO0FnyO0bETO9iiSdtkt5vusmn3D4OOgTD4iilNC7Z4jEc&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4swPsgive7rjtdl0ccnVvw_lE2GazXU-onMyNVlQFAZQ&oe=6A1C152B"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/170152499_897069934481573_3588551619319701991_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MTkuQzMifQ%3D%3D&_nc_ohc=KIKsAQNs9KYQ7kNvwGhAMdx&_nc_oc=AdotpLGxReXouBrCNtfgbbO0FnyO0bETO9iiSdtkt5vusmn3D4OOgTD4iilNC7Z4jEc&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4swPsgive7rjtdl0ccnVvw_lE2GazXU-onMyNVlQFAZQ&oe=6A1C152B",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_ihwaikgaelreori",
@@ -848,7 +871,9 @@
       "verification_status": "verified",
       "lat": 37.5785709,
       "lng": 126.98203,
-      "image_url": "http://leehwaikgallery.com/img/logo.png"
+      "image_url": "http://leehwaikgallery.com/img/logo.png",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "jongno_nohwarang",
@@ -866,7 +891,9 @@
       "verification_status": "verified",
       "lat": 37.5748652,
       "lng": 126.9841047,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.75761-19/500106239_17900614266195651_3978430337073580268_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oaFbWjq-7BEQ7kNvwHvK3oo&_nc_oc=AdoWsNcKwSjg7SgsZBAzRI7myyjqutPFQZ7Lbm0C8YuOs4VTfN9AhmTzGzqqmeOf_fo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=u2tGNHvHSkgohP3PcVyHcw&_nc_ss=7f60f&oh=00_Af78LHz_GUNGzgjRV3G1Qh3cEWKXYvovpvBrtsjY_KD6aw&oe=6A1C2543"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.75761-19/500106239_17900614266195651_3978430337073580268_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oaFbWjq-7BEQ7kNvwHvK3oo&_nc_oc=AdoWsNcKwSjg7SgsZBAzRI7myyjqutPFQZ7Lbm0C8YuOs4VTfN9AhmTzGzqqmeOf_fo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=u2tGNHvHSkgohP3PcVyHcw&_nc_ss=7f60f&oh=00_Af78LHz_GUNGzgjRV3G1Qh3cEWKXYvovpvBrtsjY_KD6aw&oe=6A1C2543",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_sun_gallery",
@@ -906,7 +933,9 @@
       "verification_status": "verified",
       "lat": 37.58796,
       "lng": 126.9806172,
-      "image_url": "https://museumhanmi.or.kr/wp-content/uploads/2022/12/logo-1.png"
+      "image_url": "https://museumhanmi.or.kr/wp-content/uploads/2022/12/logo-1.png",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_arariogaelreori_seoul",
@@ -924,7 +953,9 @@
       "verification_status": "verified",
       "lat": 37.5778727,
       "lng": 126.9885265,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/28750837_1600436476700045_3019456412469166080_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fkwyLcJrp4EQ7kNvwFyxPXV&_nc_oc=AdoNhh5uEuRm-p0tn2UPi0JL_QC4sCAHB9VEDE5X8cpx2vRUPzeGXeH1wEFiaiE6M_I&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7qhWRvxMRwae5KmqRBIIJFH6jYhap_xa8sQcQp9To54g&oe=6A1C464A"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/28750837_1600436476700045_3019456412469166080_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fkwyLcJrp4EQ7kNvwFyxPXV&_nc_oc=AdoNhh5uEuRm-p0tn2UPi0JL_QC4sCAHB9VEDE5X8cpx2vRUPzeGXeH1wEFiaiE6M_I&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7qhWRvxMRwae5KmqRBIIJFH6jYhap_xa8sQcQp9To54g&oe=6A1C464A",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "gangnam_perrotin_seoul",
@@ -946,7 +977,9 @@
       "verification_status": "verified",
       "lat": 37.522986,
       "lng": 127.0357503,
-      "image_url": "https://www.perrotin.com/images/logo-perrotin.webp"
+      "image_url": "https://www.perrotin.com/images/logo-perrotin.webp",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "jongno_simyoart",
@@ -968,7 +1001,9 @@
       "verification_status": "verified",
       "lat": 37.5776514,
       "lng": 126.9808897,
-      "image_url": "http://www.simyogallery.com/wp-content/uploads/2020/10/www.simyogallery.com-home-534435.jpg"
+      "image_url": "http://www.simyogallery.com/wp-content/uploads/2020/10/www.simyogallery.com-home-534435.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_gaelreorijinseon",
@@ -1097,7 +1132,9 @@
       "verification_status": "verified",
       "lat": 37.5818443,
       "lng": 126.9894803,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/473624066_2038629166616413_6114594139404800822_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MjYuQzMifQ%3D%3D&_nc_ohc=wcyNlHQu1rgQ7kNvwFXPFKQ&_nc_oc=Adre-QB0_qNyUo51OPsygmFXosqXjRwf_xPXLSJwOkOXAGoo6o-RkbaLFt0Z2Ltl-aQ&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7ROdjTEa8_uaCJ_mwV4SYocGpHMwsdQiq1nuQd_aw9FQ&oe=6A1C4421"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/473624066_2038629166616413_6114594139404800822_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MjYuQzMifQ%3D%3D&_nc_ohc=wcyNlHQu1rgQ7kNvwFXPFKQ&_nc_oc=Adre-QB0_qNyUo51OPsygmFXosqXjRwf_xPXLSJwOkOXAGoo6o-RkbaLFt0Z2Ltl-aQ&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7ROdjTEa8_uaCJ_mwV4SYocGpHMwsdQiq1nuQd_aw9FQ&oe=6A1C4421",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_gaelreorisejul",
@@ -1167,7 +1204,9 @@
       "verification_status": "verified",
       "lat": 37.574083,
       "lng": 126.984313,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/314113254_187927330473076_5060671679229638542_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zNui2RO0WjoQ7kNvwGCUjQf&_nc_oc=AdqqYLnkZVoeOOdIIjG8O3BqyLzCdLTsFazyhfuvqm6JZNh6__35_670d6OsNyF9nVk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af66hyoTMR8VXn33v-ZiWp4vH-N_v7Yw4J8r-3ddH0vWAg&oe=6A1C11C2"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/314113254_187927330473076_5060671679229638542_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=zNui2RO0WjoQ7kNvwGCUjQf&_nc_oc=AdqqYLnkZVoeOOdIIjG8O3BqyLzCdLTsFazyhfuvqm6JZNh6__35_670d6OsNyF9nVk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af66hyoTMR8VXn33v-ZiWp4vH-N_v7Yw4J8r-3ddH0vWAg&oe=6A1C11C2",
+      "art_week_2025": true,
+      "closed": "-"
     },
     {
       "venue_key": "jongno_dongsanbanghwarang",
@@ -1268,7 +1307,9 @@
       "verification_status": "verified",
       "lat": 37.6136629,
       "lng": 126.9764741,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/277635317_679848886773102_2211197376861868073_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ij0n9-fzdQMQ7kNvwE3H54d&_nc_oc=Adp_IvpjLn6Nz-_cUoCLqtWR1gQBq4an8E4_i5w5QbYb-PNt3-jYvMyKt3C_KFLc3lk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7rhkuLzHrgOi-zSsstoFRWGw-9rJKFo80XL3ubWbJahQ&oe=6A1C1AA8"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/277635317_679848886773102_2211197376861868073_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ij0n9-fzdQMQ7kNvwE3H54d&_nc_oc=Adp_IvpjLn6Nz-_cUoCLqtWR1gQBq4an8E4_i5w5QbYb-PNt3-jYvMyKt3C_KFLc3lk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7rhkuLzHrgOi-zSsstoFRWGw-9rJKFo80XL3ubWbJahQ&oe=6A1C1AA8",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_songwonateusenteo",
@@ -1381,7 +1422,9 @@
       "verification_status": "verified",
       "lat": 37.5805408,
       "lng": 127.0032406,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/357664943_1328487481082162_3952456613748036579_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yMDQuQzMifQ%3D%3D&_nc_ohc=NYLSeh7m410Q7kNvwEvuMx-&_nc_oc=Adoq3RuFiY2POX1_gbE9-4I1TAcUHAswPYbxIfcj0RTB6w9vfw7qwqjvgqtuYsxPC6w&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7RbeLdRh1Gx0z9qEkkrras1Efs44L5o3I6eMo0OA8GfQ&oe=6A1C3E85"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/357664943_1328487481082162_3952456613748036579_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yMDQuQzMifQ%3D%3D&_nc_ohc=NYLSeh7m410Q7kNvwEvuMx-&_nc_oc=Adoq3RuFiY2POX1_gbE9-4I1TAcUHAswPYbxIfcj0RTB6w9vfw7qwqjvgqtuYsxPC6w&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7RbeLdRh1Gx0z9qEkkrras1Efs44L5o3I6eMo0OA8GfQ&oe=6A1C3E85",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_hwangimisulgwan",
@@ -1417,7 +1460,9 @@
       "verification_status": "verified",
       "lat": 37.6121235,
       "lng": 126.9756892,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/345424239_926947498553572_3057014545432440263_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=yDxXaLn8HyIQ7kNvwGUmonf&_nc_oc=Adq2KabUkN0TZgolq2gsFYaqh3X3OCC98-bTDX5fIXcu5LzcJzInPOOjWtDCdizFLBw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6dcQdRdPfasXBWnE0AHNjc3WPT9_kSSfG2IV7aNwfQ5A&oe=6A1C46A0"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/345424239_926947498553572_3057014545432440263_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=yDxXaLn8HyIQ7kNvwGUmonf&_nc_oc=Adq2KabUkN0TZgolq2gsFYaqh3X3OCC98-bTDX5fIXcu5LzcJzInPOOjWtDCdizFLBw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6dcQdRdPfasXBWnE0AHNjc3WPT9_kSSfG2IV7aNwfQ5A&oe=6A1C46A0",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_jongromunhwajaedan",
@@ -1453,7 +1498,9 @@
       "verification_status": "verified",
       "lat": 37.5893759,
       "lng": 126.9603187,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/350430221_1273754963255429_984018258691398869_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTIuQzMifQ%3D%3D&_nc_ohc=GfhCXe0JnEoQ7kNvwFJqbZG&_nc_oc=Adp8ua-07i7aFqcdOBr5hOFvb9F-eyltps6VzTWhK68FQim8xopkPJA7dWJgcRqCo8o&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4aIE8OgmH7fs0dNroxBmQzw6CCIWQ198kaWdUy4jHDeA&oe=6A1C4932"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/350430221_1273754963255429_984018258691398869_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTIuQzMifQ%3D%3D&_nc_ohc=GfhCXe0JnEoQ7kNvwFJqbZG&_nc_oc=Adp8ua-07i7aFqcdOBr5hOFvb9F-eyltps6VzTWhK68FQim8xopkPJA7dWJgcRqCo8o&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4aIE8OgmH7fs0dNroxBmQzw6CCIWQ198kaWdUy4jHDeA&oe=6A1C4932",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_arariomyujieom_in_seupeiseu",
@@ -1608,7 +1655,9 @@
       "verification_status": "verified",
       "lat": 37.6047153,
       "lng": 126.9681162,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/72534570_592056374665542_3611371049809084416_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=O0v7T_fJ9UgQ7kNvwEfC_Oo&_nc_oc=AdoiA6Z6VTq7tGess5XprNZCrY9zxG6ONR5Xd-snfxQA1ekh1catVcd92oDBPm5IuZA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5QDuTR5nr8YiXMQP26rXfCXogYR8xG0VShhR_m97dsew&oe=6A1C2A34"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/72534570_592056374665542_3611371049809084416_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=O0v7T_fJ9UgQ7kNvwEfC_Oo&_nc_oc=AdoiA6Z6VTq7tGess5XprNZCrY9zxG6ONR5Xd-snfxQA1ekh1catVcd92oDBPm5IuZA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5QDuTR5nr8YiXMQP26rXfCXogYR8xG0VShhR_m97dsew&oe=6A1C2A34",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_gaelreori_kiche",
@@ -1629,7 +1678,9 @@
       "verification_status": "verified",
       "lat": 37.5891341,
       "lng": 127.0039086,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/167188359_442639073730879_32504790078026436_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NjguQzMifQ%3D%3D&_nc_ohc=5kWX1bcVZzoQ7kNvwGBTo1n&_nc_oc=AdqNEluwFCWMBqSp77P8U4thPnHjNLJCQgXqdZnil_6We0jkSRnPQPN1rSSJEAyhFdg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6Uhy3TWX5sTNCc8xlpTL5PQOO5ks5zWbJYRkVc88qhDA&oe=6A1C1EF3"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/167188359_442639073730879_32504790078026436_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NjguQzMifQ%3D%3D&_nc_ohc=5kWX1bcVZzoQ7kNvwGBTo1n&_nc_oc=AdqNEluwFCWMBqSp77P8U4thPnHjNLJCQgXqdZnil_6We0jkSRnPQPN1rSSJEAyhFdg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6Uhy3TWX5sTNCc8xlpTL5PQOO5ks5zWbJYRkVc88qhDA&oe=6A1C1EF3",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_gaelreori_geurimson",
@@ -1647,7 +1698,9 @@
       "verification_status": "verified",
       "lat": 37.574182,
       "lng": 126.9861401,
-      "image_url": "https://www.grimson.co.kr/images/meta_img.png"
+      "image_url": "https://www.grimson.co.kr/images/meta_img.png",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "jongno_doll",
@@ -1669,7 +1722,9 @@
       "verification_status": "verified",
       "lat": 37.5832484,
       "lng": 126.9816974,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/699672298_18317374066276885_3937176991637877726_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kLPAmHiDPLkQ7kNvwGHkY11&_nc_oc=AdqbC_sbIeWlqB90bc8gP_lAtpUOKBlk4NBb4BAbi1tv-DiCTXLFStBfKCGEaLsL5ls&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=y0qqW5_iHJu5IlEBrKGo7A&_nc_ss=7f60f&oh=00_Af4j7nODWrVkPZAwwyqmJsETpb9pGyeIy091pESkJUxnhQ&oe=6A1C33C7"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/699672298_18317374066276885_3937176991637877726_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kLPAmHiDPLkQ7kNvwGHkY11&_nc_oc=AdqbC_sbIeWlqB90bc8gP_lAtpUOKBlk4NBb4BAbi1tv-DiCTXLFStBfKCGEaLsL5ls&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=y0qqW5_iHJu5IlEBrKGo7A&_nc_ss=7f60f&oh=00_Af4j7nODWrVkPZAwwyqmJsETpb9pGyeIy091pESkJUxnhQ&oe=6A1C33C7",
+      "art_week_2025": true,
+      "closed": "-"
     },
     {
       "venue_key": "jongno_hakgojae_ateusenteo",
@@ -1687,7 +1742,9 @@
       "verification_status": "verified",
       "lat": 37.5802585,
       "lng": 126.9804601,
-      "image_url": "http://hakgojaeartcenter.com/resources/images/common/site_logo_sns.jpg"
+      "image_url": "http://hakgojaeartcenter.com/resources/images/common/site_logo_sns.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_garamhwarang",
@@ -1725,7 +1782,9 @@
       "verification_status": "verified",
       "lat": 37.6122897,
       "lng": 126.9751697,
-      "image_url": "https://www.ganaart.com/wp-content/themes/ganaart/assets/images/about/ganaartcenter_about.png"
+      "image_url": "https://www.ganaart.com/wp-content/themes/ganaart/assets/images/about/ganaartcenter_about.png",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_wolhamisul",
@@ -1783,7 +1842,9 @@
       "verification_status": "verified",
       "lat": 37.5808899,
       "lng": 126.980679,
-      "image_url": "http://www.barakat.kr/images/5gQ4Ge2.png"
+      "image_url": "http://www.barakat.kr/images/5gQ4Ge2.png",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "gangnam_gallery_planet",
@@ -1805,7 +1866,9 @@
       "verification_status": "verified",
       "lat": 37.5275269,
       "lng": 127.0459153,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/279115877_518774853036597_4639754917386735045_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDguQzMifQ%3D%3D&_nc_ohc=9JSt_wm26AoQ7kNvwE2U0Q_&_nc_oc=AdrkONF9Jdj_cNPu7bAWWndSDgcn-4vq3CSK4lvN3kpL3owSWRTi_cw4yOrzY6kGi5I&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5qchYZoVqdrNuck997JlcNUz5PLSUVb6ucXaIbxaHsuQ&oe=6A1C408F"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/279115877_518774853036597_4639754917386735045_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDguQzMifQ%3D%3D&_nc_ohc=9JSt_wm26AoQ7kNvwE2U0Q_&_nc_oc=AdrkONF9Jdj_cNPu7bAWWndSDgcn-4vq3CSK4lvN3kpL3owSWRTi_cw4yOrzY6kGi5I&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5qchYZoVqdrNuck997JlcNUz5PLSUVb6ucXaIbxaHsuQ&oe=6A1C408F",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_page_room_8",
@@ -1870,7 +1933,9 @@
       "verification_status": "verified",
       "lat": 37.5228145,
       "lng": 127.0350152,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/121407771_2755392491408639_6621916360080418849_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTIuQzMifQ%3D%3D&_nc_ohc=pF226jEBkvMQ7kNvwEnwKWa&_nc_oc=AdrBwYAFUupaa59XX1AGfILifu9Z65NM18c7GOnay4v00UJPQELSeIYNoJ122lsWIw8&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4XFkWHsvJNkkmeihhYcyi0wgKFmsVF4sUTN0eRc289EA&oe=6A1C2D8A"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/121407771_2755392491408639_6621916360080418849_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTIuQzMifQ%3D%3D&_nc_ohc=pF226jEBkvMQ7kNvwEnwKWa&_nc_oc=AdrBwYAFUupaa59XX1AGfILifu9Z65NM18c7GOnay4v00UJPQELSeIYNoJ122lsWIw8&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4XFkWHsvJNkkmeihhYcyi0wgKFmsVF4sUTN0eRc289EA&oe=6A1C2D8A",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_pyogaelreori",
@@ -1888,7 +1953,9 @@
       "verification_status": "verified",
       "lat": 37.5778927,
       "lng": 126.9708457,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/311434144_1773224589707059_8194258020542288462_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41OTEuQzMifQ%3D%3D&_nc_ohc=h-dU49FwyQ4Q7kNvwGnlFxy&_nc_oc=Ado_xNxxj-4t70LBgH6aX8DeDjpWDHQOhz4G9hCloR81HoVDfKLvd4QMEjzyxjFOe8s&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4uGv2COGg-rqVFswaNyz0X_8HKph-zo3DHZnwxK8Qbww&oe=6A1C4815"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/311434144_1773224589707059_8194258020542288462_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41OTEuQzMifQ%3D%3D&_nc_ohc=h-dU49FwyQ4Q7kNvwGnlFxy&_nc_oc=Ado_xNxxj-4t70LBgH6aX8DeDjpWDHQOhz4G9hCloR81HoVDfKLvd4QMEjzyxjFOe8s&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4uGv2COGg-rqVFswaNyz0X_8HKph-zo3DHZnwxK8Qbww&oe=6A1C4815",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "seongdong_atelier_aki",
@@ -1910,7 +1977,9 @@
       "verification_status": "verified",
       "lat": 37.5457261,
       "lng": 127.0423333,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/311952856_638437621095322_5458832840448852524_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Iwj_Sg3jpzUQ7kNvwHQX6eG&_nc_oc=AdrWvj8COc18_AUhXwgIC_u_9O2xo-Q04e9HeB3ew1_6gZwIpxrUitLR0s4t4BIiYWo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6FRv7wZlHp2MyfvuVn87xe4rty88V84jtd15cBth3qpg&oe=6A1C4117"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/311952856_638437621095322_5458832840448852524_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Iwj_Sg3jpzUQ7kNvwHQX6eG&_nc_oc=AdrWvj8COc18_AUhXwgIC_u_9O2xo-Q04e9HeB3ew1_6gZwIpxrUitLR0s4t4BIiYWo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6FRv7wZlHp2MyfvuVn87xe4rty88V84jtd15cBth3qpg&oe=6A1C4117",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "junggu_jungganjijeom_hana_dul",
@@ -2269,7 +2338,9 @@
       "verification_status": "verified",
       "lat": 37.5263143,
       "lng": 127.0469052,
-      "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1506/usr/images/pages/slideshow_data/1/12-3-.jpg"
+      "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1506/usr/images/pages/slideshow_data/1/12-3-.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "jongno_sehwamisulgwan",
@@ -2365,7 +2436,9 @@
       "verification_status": "verified",
       "lat": 37.5263006,
       "lng": 127.0476558,
-      "image_url": "https://cdn.imweb.me/upload/S20221031f319a4eb9f92d/688262080b6ef.png"
+      "image_url": "https://cdn.imweb.me/upload/S20221031f319a4eb9f92d/688262080b6ef.png",
+      "art_week_2025": true,
+      "closed": "확인 필요"
     },
     {
       "venue_key": "gangnam_313_art_project",
@@ -2381,9 +2454,10 @@
       "hours": "11:00~17:00(화-토)",
       "exhibit_channel": "인스타",
       "verification_status": "verified",
-      "lat": 37.5949918,
-      "lng": 126.9893104,
-      "image_url": "http://specialog.co.kr/og/313artproject.jpg"
+      "lat": null,
+      "lng": null,
+      "image_url": "http://specialog.co.kr/og/313artproject.jpg",
+      "_verify_note": "Naver에 옛 주소(성북구)만 등록."
     },
     {
       "venue_key": "jongno_horiateuseupeiseu",
@@ -2440,7 +2514,9 @@
       "verification_status": "verified",
       "lat": 37.5429661,
       "lng": 127.0032171,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/103752904_294735581710516_7605946901102829055_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=R2dkgLQjMHQQ7kNvwH7alc2&_nc_oc=AdpKBXafrj-5JbwmYlqXEepQbY_HEvPraqVWXyqvFaLxmhuP7AQN-5K9R9Aodc3pS1M&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6wtGbl4i6HwCSA3vXwleO-DdvNRAdh6X7sq7BeblHQyQ&oe=6A1C4266"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/103752904_294735581710516_7605946901102829055_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=R2dkgLQjMHQQ7kNvwH7alc2&_nc_oc=AdpKBXafrj-5JbwmYlqXEepQbY_HEvPraqVWXyqvFaLxmhuP7AQN-5K9R9Aodc3pS1M&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6wtGbl4i6HwCSA3vXwleO-DdvNRAdh6X7sq7BeblHQyQ&oe=6A1C4266",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "jongno_olmiateuseupeiseu",
@@ -2457,7 +2533,9 @@
       "verification_status": "verified",
       "lat": 37.5736647,
       "lng": 126.9827565,
-      "image_url": "http://www.allmeartspace.com/theme/cloud/assets/img/logo.png"
+      "image_url": "http://www.allmeartspace.com/theme/cloud/assets/img/logo.png",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "gangnam_poseukomisulgwan",
@@ -2533,7 +2611,9 @@
       "verification_status": "verified",
       "lat": 37.518039,
       "lng": 127.0328542,
-      "image_url": "https://storage.googleapis.com/cr-resource/image/6aa63f786b231ea8ad58ca17ab42c84a/linagallery/650/8940086b20d4ebfb7dd3115302e09599.jpg?_1779850039"
+      "image_url": "https://storage.googleapis.com/cr-resource/image/6aa63f786b231ea8ad58ca17ab42c84a/linagallery/650/8940086b20d4ebfb7dd3115302e09599.jpg?_1779850039",
+      "art_week_2025": true,
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "seocho_space_isu",
@@ -2595,7 +2675,9 @@
       "verification_status": "verified",
       "lat": 37.5613906,
       "lng": 126.831149,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/118559441_2809323499296246_7466899583495511003_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=LOkQn1HpSM4Q7kNvwFcnZJ_&_nc_oc=AdpQqZBoZAIyBo76vVE5URWitexoApG-R393kMmuIL-p6dxn-29gwWOe5KyaM_BLNyo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6kGu_5TbdRxBkzxML3MBk13GR72Rb5WS-DvSTa-Y7-OA&oe=6A1C32E4"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/118559441_2809323499296246_7466899583495511003_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=LOkQn1HpSM4Q7kNvwFcnZJ_&_nc_oc=AdpQqZBoZAIyBo76vVE5URWitexoApG-R393kMmuIL-p6dxn-29gwWOe5KyaM_BLNyo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6kGu_5TbdRxBkzxML3MBk13GR72Rb5WS-DvSTa-Y7-OA&oe=6A1C32E4",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "yongsan_gaelreorierd",
@@ -2611,9 +2693,10 @@
       "hours": "10:00~19:00(화-토)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "lat": 37.5215179,
-      "lng": 127.0485289,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/58797008_2082931515333566_6662915532313853952_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=U2bpzL6EmQAQ7kNvwGupfD_&_nc_oc=AdrIYqgJzX3GDZMvP9Scbg423BLXtQaSiNjbNxBxAQReS-7XAkRAh8KjygJr66mExVI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af72jC4127TpfvjIj6JnFE47cJoTK8jY-42ek4iB2QX1Pw&oe=6A1C3745"
+      "lat": null,
+      "lng": null,
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/58797008_2082931515333566_6662915532313853952_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=U2bpzL6EmQAQ7kNvwGupfD_&_nc_oc=AdrIYqgJzX3GDZMvP9Scbg423BLXtQaSiNjbNxBxAQReS-7XAkRAh8KjygJr66mExVI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af72jC4127TpfvjIj6JnFE47cJoTK8jY-42ek4iB2QX1Pw&oe=6A1C3745",
+      "_verify_note": "Naver에 동명이인(강남) 또는 부산점만 등록."
     },
     {
       "venue_key": "gangnam_hideunemgaelreori",
@@ -2631,7 +2714,9 @@
       "verification_status": "verified",
       "lat": 37.4998385,
       "lng": 127.0389433,
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/67892686_456213075109289_6084723891010273280_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sg9kgrqhG2UQ7kNvwFAhDAV&_nc_oc=AdrMoMQkzAxxsXbCBCcbBKvWyAshI-vIuZ8PS6dagUAbv_CVTFznAMRNkglc-fr7V7s&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6v6tPl10QHsKJLbG0_mD86ZMyWkAJiGmEva5royW6mnw&oe=6A1C3655"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/67892686_456213075109289_6084723891010273280_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sg9kgrqhG2UQ7kNvwFAhDAV&_nc_oc=AdrMoMQkzAxxsXbCBCcbBKvWyAshI-vIuZ8PS6dagUAbv_CVTFznAMRNkglc-fr7V7s&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6v6tPl10QHsKJLbG0_mD86ZMyWkAJiGmEva5royW6mnw&oe=6A1C3655",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "yongsan_v_d929530652",
@@ -2653,7 +2738,9 @@
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
       "auto_collected": "갤러리 자동",
-      "image_url": "https://cdn.imweb.me/upload/S202010087b7ce41563a72/f17c9455097a8.png"
+      "image_url": "https://cdn.imweb.me/upload/S202010087b7ce41563a72/f17c9455097a8.png",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "yongsan_v_a1078304d2",
@@ -2674,7 +2761,9 @@
       "hours": "10:00~18:00(화-토)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/f8/f88436e6e74d4f89959f8b141966b8f4/gb_rl_2026_aufenthalt-to-stay-_casein-on-canvas_200-x-250-cm-204-x-254.5-x-6.4-cm-artist-frame.jpg"
+      "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/f8/f88436e6e74d4f89959f8b141966b8f4/gb_rl_2026_aufenthalt-to-stay-_casein-on-canvas_200-x-250-cm-204-x-254.5-x-6.4-cm-artist-frame.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "yongsan_v_725fbd745b",
@@ -2821,7 +2910,9 @@
       "hours": "10:00~18:00(화-토)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "image_url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg"
+      "image_url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "yongsan_v_d530e9f450",
@@ -2872,8 +2963,8 @@
       "region": "seoul",
       "subregion": "yongsan",
       "address": "서울 용산구 유엔빌리지길 24",
-      "lat": 36.6295063,
-      "lng": 127.4896703,
+      "lat": 37.533593,
+      "lng": 127.0098292,
       "official_url": "",
       "instagram_url": "https://www.instagram.com/fillgallery",
       "aliases": [
@@ -3136,7 +3227,9 @@
       "hours": "11:00~19:00(화-토)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "image_url": "https://cdn.imweb.me/upload/S202301191d1a2f8f7bddb/ced9a2ecf44fa.png"
+      "image_url": "https://cdn.imweb.me/upload/S202301191d1a2f8f7bddb/ced9a2ecf44fa.png",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "yongsan_v_3218026cac",
@@ -3325,7 +3418,9 @@
       "hours": "12:00~19:00(수-일)",
       "exhibit_channel": "인스타",
       "verification_status": "verified",
-      "image_url": "https://cdn.imweb.me/upload/S20260210fecd72c7c187f/ac4e12dedc713.png"
+      "image_url": "https://cdn.imweb.me/upload/S20260210fecd72c7c187f/ac4e12dedc713.png",
+      "art_week_2025": true,
+      "closed": "월,화요일 휴관"
     },
     {
       "venue_key": "mapo_v_549ffba9d0",
@@ -3367,7 +3462,9 @@
       "hours": "12:00~18:00(화-토)",
       "exhibit_channel": "인스타",
       "verification_status": "verified",
-      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/422686335_394877583071390_7329123649765951558_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MTAuQzMifQ%3D%3D&_nc_ohc=ZtcFgAcl0UcQ7kNvwFazSWV&_nc_oc=Adq9hfiJ8lrL-s3z8i18f7oVfSsu3BRwHZlay9cWo0uMwUD8Wcdirn0Z0pWMSGlgwcA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7YxYsqYHEqCTRniCSwLh51C0TgQhtQWTtijk0JjxJ6pQ&oe=6A1C2EB0"
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/422686335_394877583071390_7329123649765951558_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MTAuQzMifQ%3D%3D&_nc_ohc=ZtcFgAcl0UcQ7kNvwFazSWV&_nc_oc=Adq9hfiJ8lrL-s3z8i18f7oVfSsu3BRwHZlay9cWo0uMwUD8Wcdirn0Z0pWMSGlgwcA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7YxYsqYHEqCTRniCSwLh51C0TgQhtQWTtijk0JjxJ6pQ&oe=6A1C2EB0",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "mapo_v_5a38aa2053",
@@ -3409,7 +3506,9 @@
       "hours": "전시별로 다름",
       "exhibit_channel": "인스타",
       "verification_status": "verified",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbMHYoz7-cvMeDUWKHnoyBLV99MlPU3BKWAai48h8oQv9mMrwZdA7PgRO_tq1UTo2u_tsd0fSQJGLMRJreslxoG6Re_zN-WP31AQritA6L5_01f8Dt3I1iMZQyEZaei1dRXDqkdRatvdCUv4djaSDJ2nR0ZN0PVsqHqKVq3Yi2LqeyT4mpJx9lu7y/w1200-h630-p-k-no-nu/%EC%B4%AC%EC%98%81_%EA%B6%8C%EC%9D%80%EC%B1%84%20(1).jpg"
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbMHYoz7-cvMeDUWKHnoyBLV99MlPU3BKWAai48h8oQv9mMrwZdA7PgRO_tq1UTo2u_tsd0fSQJGLMRJreslxoG6Re_zN-WP31AQritA6L5_01f8Dt3I1iMZQyEZaei1dRXDqkdRatvdCUv4djaSDJ2nR0ZN0PVsqHqKVq3Yi2LqeyT4mpJx9lu7y/w1200-h630-p-k-no-nu/%EC%B4%AC%EC%98%81_%EA%B6%8C%EC%9D%80%EC%B1%84%20(1).jpg",
+      "art_week_2025": true,
+      "closed": "-"
     },
     {
       "venue_key": "mapo_www_space",
@@ -3537,7 +3636,9 @@
       "hours": "10:00~18:00(화-일)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "image_url": "https://sma.sbculture.or.kr/_res/sma/img/img-sma-logo-mobile.png"
+      "image_url": "https://sma.sbculture.or.kr/_res/sma/img/img-sma-logo-mobile.png",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "seongbuk_v_5c6a41c318",
@@ -3684,7 +3785,9 @@
       "hours": "11:00~18:00(화-토)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0581/usr/images/exhibitions/home_page_image/items/96/962bee7ff3524b49922dcc95a2254273/_bcj2888-.jpg"
+      "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0581/usr/images/exhibitions/home_page_image/items/96/962bee7ff3524b49922dcc95a2254273/_bcj2888-.jpg",
+      "art_week_2025": true,
+      "closed": "월,일요일 휴관"
     },
     {
       "venue_key": "dobong_mess_mass",
@@ -3747,7 +3850,9 @@
       "hours": "10:30~19:00(월-일)",
       "exhibit_channel": "홈페이지",
       "verification_status": "verified",
-      "image_url": "https://www.lottemuseum.com/Content/Mobile/ko/images/common/img_sns02.png?ver=20241123"
+      "image_url": "https://www.lottemuseum.com/Content/Mobile/ko/images/common/img_sns02.png?ver=20241123",
+      "art_week_2025": true,
+      "closed": "월요일 휴관"
     },
     {
       "venue_key": "songpa_v_53ecff4b65",
@@ -4016,15 +4121,18 @@
         "Artside"
       ],
       "verification_status": "verified",
-      "image_url": ""
+      "image_url": "",
+      "art_week_2025": true,
+      "hours": "평일 : 10:30am~18:00pm, 주말 : 10:30am~18:00pm",
+      "closed": "일요일 휴관"
     },
     {
       "venue_key": "junggu_french_embassy",
       "venue_name": "주한프랑스대사관저",
       "category": "기타",
       "region": "seoul",
-      "subregion": "junggu",
-      "address": "서울 중구 합정로 30",
+      "subregion": "seodaemun",
+      "address": "서울특별시 서대문구 서소문로 43-12",
       "lat": 37.5612818,
       "lng": 126.965031,
       "official_url": "",
@@ -4033,7 +4141,8 @@
         "French Embassy"
       ],
       "verification_status": "verified",
-      "image_url": ""
+      "image_url": "",
+      "_verify_note": "입력 주소가 잘못됐었음. 실제 위치는 서대문구."
     },
     {
       "venue_key": "yeouido_hanwha_pompidou",
@@ -4052,6 +4161,796 @@
       ],
       "verification_status": "upcoming",
       "image_url": ""
+    },
+    {
+      "venue_key": "jongno_v_6143ab8fab",
+      "venue_name": "종로구립 고희동미술관",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울특별시 종로구 창덕궁5길 40",
+      "lat": 37.5831852,
+      "lng": 126.988885,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "종로구립 고희동미술관",
+        "Jongno Ko huidong Art Museum"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm, (17:30 입장 마감)",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "junggu_v_c1fd591dc4",
+      "venue_name": "서울디자인재단",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "junggu",
+      "address": "동대문디자인플라자(DDP)(서울특별시 중구 을지로 281) / Dondaemun Design Plaza(DDP)(281, Eulji-ro, Jung-gu, Seoul)",
+      "lat": 37.5729295,
+      "lng": 127.0086173,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "서울디자인재단",
+        "Seoul Design Foundation"
+      ],
+      "hours": "평일 : 20:00pm~22:00pm, 주말 : 20:00pm~22:00pm",
+      "closed": "-",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_abf91912fc",
+      "venue_name": "플랫폼엘 컨템포러리 아트센터",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울시 강남구 언주로133길 11",
+      "lat": 37.5161707,
+      "lng": 127.0342941,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "플랫폼엘 컨템포러리 아트센터",
+        "Platform-L Contemporary Art Center"
+      ],
+      "hours": "평일 : 11:00am~18:00pm, 주말 : 11:00am~18:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "geumcheon_v_d72845d889",
+      "venue_name": "아트센터 예술의 시간",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "geumcheon",
+      "address": "서울시 금천구 범안로 9길 23, H동",
+      "lat": 37.4675725,
+      "lng": 126.8900963,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "아트센터 예술의 시간",
+        "Art Centre Art Moment"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 12:00am~19:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_5c56329d07",
+      "venue_name": "JCC아트센터",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 창경궁로 35길 29, JCC아트센터",
+      "lat": 37.5871785,
+      "lng": 127.0019035,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "JCC아트센터"
+      ],
+      "hours": "평일 : 10:00am~17:00pm, 주말 : 10:00am~17:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "nowon_v_b35efacb8b",
+      "venue_name": "인덕대학교",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "nowon",
+      "address": "서울시 노원구 초안산로12, 인덕대학교 은봉관 1F 아정갤러리",
+      "lat": 37.6299918,
+      "lng": 127.0555902,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "인덕대학교",
+        "Induk University"
+      ],
+      "hours": "평일 : 9:00am~18:00pm, 주말 : 9:00am~18:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "seongdong_v_ff15b465c2",
+      "venue_name": "우란문화재단",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "seongdong",
+      "address": "서울특별시 성동구 연무장7길 11, 1층",
+      "lat": 37.5437898,
+      "lng": 127.0544168,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "우란문화재단",
+        "Wooran Foundation"
+      ],
+      "hours": "평일 : 11:00am~19:00pm, 주말 : 11:00am~19:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_b298e935b8",
+      "venue_name": "공간:일리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "공간:일리 (서울시 종로구 세검정로9길 19)",
+      "lat": 37.6038803,
+      "lng": 126.9612387,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "공간:일리",
+        "(space illi)"
+      ],
+      "hours": "평일 : 12:00am~19:00pm, 주말 : 12:00am~19:00pm",
+      "closed": "월,화요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_6c835ad545",
+      "venue_name": "뮤지엄헤드",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 계동길 84-3, 1층",
+      "lat": 37.5812427,
+      "lng": 126.9869932,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "뮤지엄헤드",
+        "Museumhead"
+      ],
+      "hours": "평일 : 12:00am~19:00pm, 주말 : 12:00am~19:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "seocho_v_1f26db4921",
+      "venue_name": "페리지갤러리",
+      "category": "미술관",
+      "region": "seoul",
+      "subregion": "seocho",
+      "address": "서울 서초구 반포대로 18 지하1층 페리지갤러리",
+      "lat": 37.482199,
+      "lng": 127.0128281,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "페리지갤러리",
+        "Perigee Gallery"
+      ],
+      "hours": "평일 : 10:30am~18:00pm, 주말 : 10:30am~18:00pm, (Break Time 12:00am~13:00pm)",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_eb0ebb9f10",
+      "venue_name": "더레퍼런스",
+      "category": "기타",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 자하문로24길 44 B1/1F",
+      "lat": 37.5822905,
+      "lng": 126.9718063,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "더레퍼런스",
+        "The Reference"
+      ],
+      "hours": "평일 : 11:00am~18:00pm, 주말 : 11:00am~18:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "yongsan_v_89feaa7787",
+      "venue_name": "캔 파운데이션",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울시 용산구 한남동 733-70 (이태원로 27길 101) 1층",
+      "lat": 37.5377026,
+      "lng": 126.9949214,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "캔 파운데이션",
+        "MO BY CAN"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "seongbuk_v_20fced5d29",
+      "venue_name": "유영공간",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "seongbuk",
+      "address": "서울특별시 성북구 성북로16가길 1, 유영공간",
+      "lat": 37.5939752,
+      "lng": 127.0003509,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "유영공간",
+        "Space Uooyoung"
+      ],
+      "hours": "평일 : 13:00am~19:00pm, 주말 : 13:00am~19:00pm",
+      "closed": "월,화요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_964ed2ccaf",
+      "venue_name": "갤러리 가이아",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울특별시 강남구 청담동 80-5",
+      "lat": 37.5263619,
+      "lng": 127.0441036,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리 가이아",
+        "Galerie GAIA"
+      ],
+      "hours": "평일 : 11:00am~17:00pm, 주말 : 11:00am~17:00pm",
+      "closed": "-",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_cc2ed7a680",
+      "venue_name": "갤러리 비앤에스",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "갤러리 비앤에스 /서울시 종로구 자하문로 273, 1층",
+      "lat": 37.5980224,
+      "lng": 126.9620022,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리 비앤에스",
+        "GALLERY B&S"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_b845d1c2e0",
+      "venue_name": "갤러리 자인제노",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "갤러리 자인제노 (서울 종로구 자하문로10길 9-4)",
+      "lat": 37.579622,
+      "lng": 126.9721219,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리 자인제노"
+      ],
+      "hours": "평일 : 11:00am~18:00pm, 주말 : 11:00am~18:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_45956ef033",
+      "venue_name": "갤러리JJ",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울 강남구 압구정로30길 63",
+      "lat": 37.5232525,
+      "lng": 127.0291224,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리JJ",
+        "GalleryJJ"
+      ],
+      "hours": "평일 : 11:00am~19:00pm, 주말 : 11:00am~19:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_63a04a6f21",
+      "venue_name": "갤러리 다온",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울특별시 강남구 봉은사로68길 23",
+      "lat": 37.510647,
+      "lng": 127.0509127,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리 다온"
+      ],
+      "hours": "평일 : 15:00am~20:00pm, 주말 : 12:00am~17:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_8a8a494901",
+      "venue_name": "갤러리밈",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울특별시 종로구 인사동 5길 3 갤러리밈",
+      "lat": 37.5727757,
+      "lng": 126.9859438,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리밈"
+      ],
+      "hours": "평일 : 10:30pm~18:00pm, 주말 : 10:30pm~18:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_d3cfec7ce6",
+      "venue_name": "갤러리조선",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 북촌로 5길 64 갤러리조선",
+      "lat": 37.5799207,
+      "lng": 126.9814996,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리조선",
+        "gallerychosun"
+      ],
+      "hours": "평일 : 10:30pm~18:30pm, 주말 : 10:30pm~18:30pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_26728556d1",
+      "venue_name": "아트파크",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 삼청로7길 25",
+      "lat": 37.5837545,
+      "lng": 126.98043,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "아트파크",
+        "ARTPARK"
+      ],
+      "hours": "평일 : 11:00am~18:00pm, 주말 : 11:00am~18:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "songpa_v_867d4e5b31",
+      "venue_name": "에브리데이몬데이",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "songpa",
+      "address": "에브리데이몬데이 (서울시 송파구 송파대로48길 14)",
+      "lat": 37.5088598,
+      "lng": 127.105775,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "에브리데이몬데이",
+        "Everyday Moooonday"
+      ],
+      "hours": "평일 : 11:00am~19:00pm, 주말 : 11:00pm~19:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "junggu_v_19330d2f7a",
+      "venue_name": "에브리아트",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "junggu",
+      "address": "서울시 중구 동호로 353 4,5F",
+      "lat": 37.5659913,
+      "lng": 127.0020047,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "에브리아트"
+      ],
+      "hours": "평일 : 12:00pm~17:00pm, 주말 : 12:00pm~17:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "yongsan_v_32ec7830fb",
+      "venue_name": "파운드리 서울",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "yongsan",
+      "address": "서울특별시 용산구 이태원로 223",
+      "lat": 37.5354607,
+      "lng": 126.9985407,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "파운드리 서울",
+        "FOUNDRY SEOUL"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_5cdbfb0748",
+      "venue_name": "TYA갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 자하문로5길 28",
+      "lat": 37.5778184,
+      "lng": 126.9703285,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "TYA갤러리",
+        "TYA GALLERY"
+      ],
+      "hours": "평일 : 12:00am~18:00pm, 주말 : 12:00am~18:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_a04d16371b",
+      "venue_name": "가온갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울 종로구 인사동길35-6, 인사동마루1층 가온갤러리",
+      "lat": 37.5734136,
+      "lng": 126.9850588,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "가온갤러리"
+      ],
+      "hours": "평일 : 10:30am~17:00pm, 주말 : 10:30am~17:00pm",
+      "closed": "-",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_8015d307e3",
+      "venue_name": "갤러리 도스",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울특별시 종로구 삼청로7길 37",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리 도스",
+        "Gallery DOS"
+      ],
+      "hours": "평일 : 11:00am~18:00pm, 주말 : 11:00am~18:00pm",
+      "closed": "-",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_6f0829ac57",
+      "venue_name": "갤러리엘르",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울 강남구 봉은사로 224 혜전빌딩 지하1층",
+      "lat": 37.5079829,
+      "lng": 127.0368066,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리엘르",
+        "Gallery Aile"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~16:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "junggu_v_1c4156f907",
+      "venue_name": "갤러리 소소",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "junggu",
+      "address": "서울시 중구 청계천로 172-1 더 소소 4층",
+      "lat": 37.5683668,
+      "lng": 126.9968163,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "갤러리 소소",
+        "Gallery SoSo"
+      ],
+      "hours": "평일 : 13:00am~18:00pm, 주말 : 13:00am~16:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_38003b16e2",
+      "venue_name": "띠오",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울 강남구 봉은사로68길 55-3 B1F",
+      "lat": 37.509106,
+      "lng": 127.0528785,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "띠오",
+        "THEO"
+      ],
+      "hours": "확인 필요",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_b9fa220065",
+      "venue_name": "로이갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "로이갤러리 압구정 (서울특별시 강남구 압구정로42길 24-6, 1층, 7층)",
+      "lat": 37.527402,
+      "lng": 127.0346103,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "로이갤러리",
+        "ROY GALLERY"
+      ],
+      "hours": "평일 : 13:00am~19:00pm, 주말 : 13:00am~19:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "unknown_v_90b8f5e5c7",
+      "venue_name": "서리풀청년아트갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "unknown",
+      "address": "구글맵 : https://maps.app.goo.gl/NAoTVfWEQx8rMj6u5",
+      "lat": 37.4810722,
+      "lng": 127.0133279,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "서리풀청년아트갤러리",
+        "SEORIPUL GALLERY"
+      ],
+      "hours": "평일 : 10:00am~19:00pm, 주말 : 10:00am~19:00pm",
+      "closed": "월요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_71d7c243e0",
+      "venue_name": "서정아트",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "서울특별시 강남구 봉은사로 47길 12",
+      "lat": 37.4851747,
+      "lng": 127.0440594,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "서정아트",
+        "SEOJUNG ART"
+      ],
+      "hours": "평일 : 10:00am~18:00pm, 주말 : 10:00am~18:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "songpa_v_a15de59ab5",
+      "venue_name": "아르티펙스 갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "songpa",
+      "address": "서울시 송파구 법원로 128 문정SKV1 B동 715호",
+      "lat": 37.4869032,
+      "lng": 127.1205913,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "아르티펙스 갤러리",
+        "Artofex Gallery"
+      ],
+      "hours": "평일 : 11:00am~18:00pm, 주말 : 11:00am~17:00pm",
+      "closed": "일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "gangnam_v_d6b70a146a",
+      "venue_name": "아줄레주 갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "gangnam",
+      "address": "코엑스 (서울 강남구 영동대로 513)",
+      "lat": 37.5568371,
+      "lng": 126.9313204,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "아줄레주 갤러리"
+      ],
+      "hours": "평일 : 11:00am~19:30pm, 주말 : 11:00am~19:30pm, (단, 첫날은 13:00오픈,, 마지막 날은 17:00 폐장)",
+      "closed": "-",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_2b4f62eff1",
+      "venue_name": "아트스페이스3",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "서울시 종로구 효자로7길 23, 지하 1층",
+      "lat": 37.5783837,
+      "lng": 126.9733411,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "아트스페이스3",
+        "Art Space 3"
+      ],
+      "hours": "평일 : 10:30am~18:00pm, 주말 : 10:30am~18:00pm",
+      "closed": "월,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "songpa_v_46b026066f",
+      "venue_name": "옥상팩토리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "songpa",
+      "address": "송파구 법원로 4길 5 송파법조타운푸르지오시티 지하1층 B113호",
+      "lat": 37.4827602,
+      "lng": 127.1219166,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "옥상팩토리",
+        "OKSANGFACTORY"
+      ],
+      "hours": "평일 : 13:00am~21:00pm, 주말 : 13:00am~19:00pm, (마감 1시간 전 입장 마감)",
+      "closed": "월,화,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
+    },
+    {
+      "venue_key": "jongno_v_3bd1bd3dd3",
+      "venue_name": "정종미갤러리",
+      "category": "갤러리",
+      "region": "seoul",
+      "subregion": "jongno",
+      "address": "종로구 자하문로 68-19",
+      "lat": 37.5821634,
+      "lng": 126.9712813,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "",
+      "aliases": [
+        "정종미갤러리"
+      ],
+      "hours": "평일 : 13:00am~18:00pm, 주말 : 13:00am~18:00pm",
+      "closed": "월,화,일요일 휴관",
+      "art_week_2025": true,
+      "verification_status": "from_artweek_2025"
     }
   ]
 }
