@@ -1,5 +1,11 @@
 """
-SeMA + MMCA + 승인된 제보 + 아트위크 통합 merger (v8 — image_url 전파)
+SeMA + MMCA + 승인된 제보 + 아트위크 통합 merger (v9 — 전시 dedup)
+
+v9 변경점:
+  - 같은 venue 내 중복 전시 dedup (gallery_crawler 듀얼 fetch 결과 보정)
+  - 기준: 같은 artists + 기간 거의 일치 (start_date ±3일, end_date ±7일)
+  - 또는 제목 normalize 후 한쪽이 다른쪽 포함 + 같은 기간
+  - 정보 많은 쪽 유지 (artists 더 풍부, thumbnail 있음, url 있음)
 
 v8 변경점:
   - venue 메타에 image_url(og:image) 전파
@@ -188,8 +194,157 @@ def resolve_image_url(vk: str, venue_meta: dict, image_cache: dict) -> str:
     return cached.get("image_url", "") or ""
 
 
+# ──────────────────────────────────────────────────────────────────
+# v9: 전시 dedup
+# ──────────────────────────────────────────────────────────────────
+def _norm_artists(s: str) -> str:
+    """작가명 정규화 — 구두점/공백 제거, 소문자, 정렬"""
+    import re
+    if not s:
+        return ""
+    # 쉼표/슬래시/&로 분리
+    parts = re.split(r"[,/&]|및|and|with", s)
+    norm_parts = []
+    for p in parts:
+        p = re.sub(r"[\s\-·().\"']", "", p).lower()
+        if p:
+            norm_parts.append(p)
+    return "|".join(sorted(norm_parts))
+
+
+def _norm_title(s: str) -> str:
+    """제목 정규화"""
+    import re
+    if not s:
+        return ""
+    s = re.sub(r"[《》<>\"'\[\]【】（）()\s\-·:,.]+", "", s).lower()
+    return s
+
+
+def _days_between(d1: str, d2: str) -> int:
+    """ISO 날짜 두 개 차이 (절댓값). 파싱 실패 시 9999."""
+    a, b = parse_iso(d1), parse_iso(d2)
+    if not a or not b:
+        return 9999
+    return abs((a - b).days)
+
+
+def _exhibition_score(e: dict) -> int:
+    """정보량 점수 — dedup 시 더 풍부한 쪽 우선"""
+    s = 0
+    if e.get("artists"):
+        s += min(len(e["artists"]), 100)
+    if e.get("thumbnail"):
+        s += 50
+    if e.get("url"):
+        s += 30
+    if e.get("price"):
+        s += 5
+    # 제목이 더 풍부한 쪽
+    s += min(len(e.get("title", "")), 50)
+    return s
+
+
+def dedup_exhibitions_in_venue(exhibitions: list) -> tuple[list, int]:
+    """같은 venue 내 중복 전시 합치기.
+    조건:
+      A) 같은 artists 정규화 + 시작일 ±3일 + 종료일 ±7일 → 같은 전시
+      B) 같은 artists + 같은 기간 + 제목 정규화 시 한쪽이 다른쪽 포함 → 같은 전시
+    """
+    n = len(exhibitions)
+    if n <= 1:
+        return exhibitions, 0
+
+    # 사전 계산
+    items = []
+    for e in exhibitions:
+        items.append({
+            "raw": e,
+            "norm_artists": _norm_artists(e.get("artists", "")),
+            "norm_title": _norm_title(e.get("title", "")),
+            "start": e.get("start_date", ""),
+            "end": e.get("end_date", ""),
+            "score": _exhibition_score(e),
+        })
+
+    # Union-Find로 그룹화
+    parent = list(range(n))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(a, b):
+        ra, rb = find(a), find(b)
+        if ra != rb:
+            parent[ra] = rb
+
+    for i in range(n):
+        for j in range(i + 1, n):
+            a, b = items[i], items[j]
+            same_artists = a["norm_artists"] and a["norm_artists"] == b["norm_artists"]
+            ds = _days_between(a["start"], b["start"])
+            de = _days_between(a["end"], b["end"])
+            same_period_loose = ds <= 3 and de <= 7
+            # 같은 작가일 때만 적용할 더 느슨한 기준 (전시 일정 변경/수정 흡수)
+            same_period_artist_loose = ds <= 5 and de <= 14
+            same_period_strict = ds == 0 and de == 0
+
+            t_a, t_b = a["norm_title"], b["norm_title"]
+            title_overlap = bool(t_a and t_b and (t_a in t_b or t_b in t_a))
+
+            # 조건 A: 같은 작가 + 기간 유사 (보수)
+            cond_A = same_artists and same_period_loose
+            # 조건 A': 같은 작가 + 기간 비슷 (느슨, 동일 venue + 동일 작가는 거의 같은 전시)
+            cond_A_artist = same_artists and same_period_artist_loose
+            # 조건 B: 같은 작가 + 같은 기간 + 제목 포함 관계
+            cond_B = same_artists and same_period_strict and title_overlap
+            # 조건 C: 같은 기간 + 제목 포함 관계 (작가 정보 없을 때)
+            no_artists = not a["norm_artists"] and not b["norm_artists"]
+            cond_C = no_artists and same_period_strict and title_overlap
+
+            if cond_A or cond_A_artist or cond_B or cond_C:
+                union(i, j)
+
+    # 그룹별 대표 선택 (score 최댓값)
+    groups = {}
+    for i in range(n):
+        r = find(i)
+        groups.setdefault(r, []).append(i)
+
+    survivors = []
+    duplicates = 0
+    for root, idxs in groups.items():
+        if len(idxs) == 1:
+            survivors.append(items[idxs[0]]["raw"])
+        else:
+            # 최고 score 선택
+            best_idx = max(idxs, key=lambda x: items[x]["score"])
+            best = dict(items[best_idx]["raw"])
+            # 보조 정보 보강: artists/title 더 긴 쪽 머지
+            for x in idxs:
+                if x == best_idx:
+                    continue
+                other = items[x]["raw"]
+                if not best.get("artists") and other.get("artists"):
+                    best["artists"] = other["artists"]
+                if not best.get("thumbnail") and other.get("thumbnail"):
+                    best["thumbnail"] = other["thumbnail"]
+                if not best.get("url") and other.get("url"):
+                    best["url"] = other["url"]
+            survivors.append(best)
+            duplicates += len(idxs) - 1
+
+    # 시작일 순 재정렬
+    survivors.sort(key=lambda e: e.get("start_date") or "9999")
+    return survivors, duplicates
+
+
 def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache: dict, image_cache: dict) -> list:
     """전시 평면 리스트를 분관별로 그룹화.
+    v9: 같은 venue 내 전시 dedup.
     v8: image_url 필드 추가.
     v7: 전시 없는 venue도 결과에 포함 (마커는 찍히고 전시 정보만 빈 배열).
     """
@@ -198,6 +353,15 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache:
         if e.get("status") not in ("active", "upcoming"):
             continue
         by_v.setdefault(e.get("venue_key", "unknown"), []).append(e)
+
+    # v9: 같은 venue 내 중복 dedup
+    total_dups = 0
+    for vk in list(by_v.keys()):
+        deduped, n_dups = dedup_exhibitions_in_venue(by_v[vk])
+        by_v[vk] = deduped
+        total_dups += n_dups
+    if total_dups:
+        print(f"  [dedup] 중복 전시 {total_dups}건 제거 (venue 내 같은 작가·기간)", file=sys.stderr)
 
     venues_out = []
     seen_keys = set()
@@ -407,7 +571,7 @@ def main() -> int:
     seoul_marker_no_xy = len(seoul_venues) - seoul_marker_with_xy
     seoul_with_exh = sum(1 for v in seoul_venues if v["active_count"] + v["upcoming_count"] > 0)
     seoul_with_img = sum(1 for v in seoul_venues if v.get("image_url"))
-    print(f"\n[Merger v8] 통합 완료", file=sys.stderr)
+    print(f"\n[Merger v9] 통합 완료", file=sys.stderr)
     print(f"  전시 평면 총 {len(all_exs)}건 (서울 {len(seoul_exs)}건)", file=sys.stderr)
     print(f"  분관 마커 {len(venues_grouped)}곳 (서울 {len(seoul_venues)}곳)", file=sys.stderr)
     print(f"    └ 좌표 있음 {seoul_marker_with_xy} / 좌표 없음 {seoul_marker_no_xy}", file=sys.stderr)
