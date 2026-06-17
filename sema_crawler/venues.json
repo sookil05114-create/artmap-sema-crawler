@@ -9,7 +9,5 @@
     {"venue_key":"art_archive","venue_name":"서울시립 미술아카이브","region":"seoul","address":"서울 종로구 평창문화로 101","lat":37.6097,"lng":126.9742,"official_url":"https://sema.seoul.go.kr/kr/visit/art_archive","aliases":["미술아카이브","SeMA AA"]},
     {"venue_key":"nanji","venue_name":"서울시립 난지미술창작스튜디오","region":"seoul","address":"서울 마포구 하늘공원로 108-1","lat":37.5704,"lng":126.8757,"official_url":"https://sema.seoul.go.kr/kr/visit/nanji_residency","aliases":["난지미술창작스튜디오","난지 스튜디오"]},
     {"venue_key":"paik_house","venue_name":"서울시립 백남준을 기억하는 집","region":"seoul","address":"서울 종로구 창신길 197","lat":37.5778,"lng":127.0117,"official_url":"https://sema.seoul.go.kr/kr/visit/nam_june_paik_house","aliases":["백남준을 기억하는 집","백남준기념관"]},
-    {"venue_key":"bunker","venue_name":"SeMA 벙커","region":"seoul","address":"서울 영등포구 여의대로 76","lat":37.5253,"lng":126.9215,"official_url":"https://sema.seoul.go.kr/","aliases":["SeMA 벙커","여의도 벙커"]},
-    {"venue_key":"warehouse","venue_name":"SeMA 창고","region":"seoul","address":"서울 은평구 통일로 684","lat":37.6196,"lng":126.9192,"official_url":"https://sema.seoul.go.kr/","aliases":["SeMA 창고"]}
-  ]
+    ]
 }
