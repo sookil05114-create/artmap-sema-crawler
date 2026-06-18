@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:10:56Z",
+  "generated_at": "2026-06-18T05:34:56Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -11,8 +11,8 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "active_count": 3,
-      "upcoming_count": 6,
+      "active_count": 4,
+      "upcoming_count": 5,
       "exhibitions": [
         {
           "id": "4b0293f16d8e",
@@ -53,21 +53,21 @@
           "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
           "start_date": "2026-06-16",
           "end_date": "2026-07-17",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=1",
           "price": "무료"
         },
         {
           "id": "a6ec77ae545e",
           "title": "이것은 개념미술이 (아니)다",
-          "artists": "곽덕준, 김범, 김순기, 김용익, 김차섭, 김홍석, 박이소, 안규철, 오인환, 정서영 등 20여 명",
+          "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
-          "price": "-"
+          "price": "2,000원"
         },
         {
           "id": "51659f018a70",

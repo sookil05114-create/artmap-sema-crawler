@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-14T14:11:06Z",
+  "generated_at": "2026-06-18T05:35:05Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 258,
+  "venue_count": 256,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -19,21 +19,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 5,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "c876e2a60711",
-          "title": "SeMA 공용공간 프로젝트 《영원히 교차하는 춤》",
-          "artists": "",
-          "start_date": "2025-08-13",
-          "end_date": "2026-12-31",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=975877",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
         {
           "id": "aebb8561f013",
           "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
@@ -159,33 +147,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 3,
+      "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "06934f057ce3",
-          "title": "SeMA 프로젝트V_얄루",
-          "artists": "",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
-        {
-          "id": "dd23cadf6549",
-          "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
-          "artists": "",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
         {
           "id": "a9a7e67786af",
           "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
@@ -279,8 +243,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 1,
-      "upcoming_count": 2,
+      "active_count": 2,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "d9fcc33b96b0",
@@ -300,7 +264,7 @@
           "artists": "",
           "start_date": "2026-06-17",
           "end_date": "2026-06-21",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012116",
           "url": "",
           "price": "무료",
@@ -351,36 +315,6 @@
       "exhibitions": []
     },
     {
-      "venue_key": "bunker",
-      "venue_name": "SeMA 벙커",
-      "region": "seoul",
-      "address": "서울 영등포구 여의대로 76",
-      "lat": 37.5253,
-      "lng": 126.9215,
-      "official_url": "https://sema.seoul.go.kr/",
-      "instagram_url": "",
-      "image_url": "",
-      "category": "",
-      "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
-    },
-    {
-      "venue_key": "warehouse",
-      "venue_name": "SeMA 창고",
-      "region": "seoul",
-      "address": "서울 은평구 통일로 684",
-      "lat": 37.6196,
-      "lng": 126.9192,
-      "official_url": "https://sema.seoul.go.kr/",
-      "instagram_url": "",
-      "image_url": "",
-      "category": "",
-      "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
-    },
-    {
       "venue_key": "mmca_seoul",
       "venue_name": "국립현대미술관 서울",
       "region": "seoul",
@@ -391,8 +325,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 3,
-      "upcoming_count": 9,
+      "active_count": 4,
+      "upcoming_count": 8,
       "exhibitions": [
         {
           "id": "4b0293f16d8e",
@@ -436,22 +370,22 @@
           "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
           "start_date": "2026-06-16",
           "end_date": "2026-07-17",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=1",
           "price": "무료",
           "source": "mmca"
         },
         {
           "id": "a6ec77ae545e",
           "title": "이것은 개념미술이 (아니)다",
-          "artists": "곽덕준, 김범, 김순기, 김용익, 김차섭, 김홍석, 박이소, 안규철, 오인환, 정서영 등 20여 명",
+          "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
-          "price": "-",
+          "price": "2,000원",
           "source": "mmca"
         },
         {
@@ -749,21 +683,9 @@
       "instagram_url": "https://www.instagram.com/alternativespaceloop/",
       "image_url": "http://altspaceloop.com/assets/images/og-image.png",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "32ef773b544c",
-          "title": "the orange revile",
-          "artists": "leesima",
-          "start_date": "2026-05-22",
-          "end_date": "2026-06-20",
-          "status": "active",
-          "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
-          "url": "http://altspaceloop.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "41e2e916647d",
           "title": "leesima Solo Exhibition: the orange revile",
@@ -1265,7 +1187,7 @@
       "instagram_url": "",
       "image_url": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
       "category": "갤러리",
-      "active_count": 5,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -1274,18 +1196,6 @@
           "artists": "Hong Seung-Hye",
           "start_date": "2026-04-24",
           "end_date": "2026-06-28",
-          "status": "active",
-          "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
-          "url": "https://www.kukjegallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "cd8efb980e27",
-          "title": "Hong Seung-Hye On the Move",
-          "artists": "Hong Seung-Hye",
-          "start_date": "2026-04-24",
-          "end_date": "2026-06-14",
           "status": "active",
           "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
           "url": "https://www.kukjegallery.com/",
@@ -1614,21 +1524,9 @@
       "instagram_url": "https://www.instagram.com/arariogallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/28750837_1600436476700045_3019456412469166080_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fkwyLcJrp4EQ7kNvwFyxPXV&_nc_oc=AdoNhh5uEuRm-p0tn2UPi0JL_QC4sCAHB9VEDE5X8cpx2vRUPzeGXeH1wEFiaiE6M_I&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7qhWRvxMRwae5KmqRBIIJFH6jYhap_xa8sQcQp9To54g&oe=6A1C464A",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "df9bff2d4077",
-          "title": "Discarded Host",
-          "artists": "KANG Cheolgyu",
-          "start_date": "2026-05-01",
-          "end_date": "2026-06-20",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.arariogallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "d710f4ce54ad",
           "title": "KANG Cheolgyu: Discarded Host",
@@ -2022,22 +1920,9 @@
       "instagram_url": "https://www.instagram.com/gallerydam_seoul",
       "image_url": "https://cdn.imweb.me/upload/S20241230b417723a8c630/c3f37cf6f6efd.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "1f43f9c75d0c",
-          "title": "Yang Hwasun : Collected Summers",
-          "artists": "Yang Hwasun",
-          "start_date": "2026-06-05",
-          "end_date": "2026-06-17",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.gallerydam.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_arko",
@@ -2299,22 +2184,9 @@
       "instagram_url": "https://www.instagram.com/gallerygrimson",
       "image_url": "https://www.grimson.co.kr/images/meta_img.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "22da99f36c7e",
-          "title": "전통의 재해석 6th",
-          "artists": "",
-          "start_date": "2026-06-03",
-          "end_date": "2026-06-16",
-          "status": "active",
-          "thumbnail": "/images/meta_img.png",
-          "url": "https://www.grimson.co.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_doll",
@@ -2948,24 +2820,12 @@
       "instagram_url": "https://www.instagram.com/sehwamoa/",
       "image_url": "https://sehwamuseum.org/wp-content/uploads/2024/11/og.png",
       "category": "미술관",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "6274e37580e0",
           "title": "투명한 손, 움직이는 색 (Invisible Hands, Startling Colors)",
-          "artists": "",
-          "start_date": "2026-03-26",
-          "end_date": "2026-06-28",
-          "status": "active",
-          "thumbnail": "https://sehwamuseum.org/wp-content/uploads/2024/11/og.png",
-          "url": "https://sehwamuseum.org/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "3647f29eb66c",
-          "title": "투명한 손, 움직이는 색",
           "artists": "",
           "start_date": "2026-03-26",
           "end_date": "2026-06-28",
@@ -2988,21 +2848,9 @@
       "instagram_url": "https://www.instagram.com/operagallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/279458240_1011030982861650_2480122311166139900_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NzUuQzMifQ%3D%3D&_nc_ohc=dzAaupW7_loQ7kNvwGxOjEj&_nc_oc=Adomn0zs8f-LhLueaWDhdSK_HSzCtvukPkCeKKIi8Chdz3tbyKMsS1YV7zEEpVXyZV4&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7RLKRKunqqOT1w7lJwF55TnxYGoGi9iMpnT7fQQW50zw&oe=6A1C18F0",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "4b0d43b843c3",
-          "title": "Regards sur l'art espagnol, 1945-2025",
-          "artists": "",
-          "start_date": "2026-05-22",
-          "end_date": "2026-06-17",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.operagallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "3feff0a733c9",
           "title": "Pieter Obels | Feng Xiao-Min",
@@ -3274,7 +3122,7 @@
       "instagram_url": "https://www.instagram.com/tangcontemporaryartseoul/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/327302326_862517258162891_5507887909660675501_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MjIuQzMifQ%3D%3D&_nc_ohc=xG0KcQmbqkgQ7kNvwFB2lgu&_nc_oc=AdpyyqzX49oxaxr542HtorlIw4niZrKFhgrKBGEtU0WSB34RgocQrywxx30MBFZin3A&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af44eRSNMIsvIntFMB2D_6Mw0PTClwKN1BkUvqI_qSzsxg&oe=6A1C1F97",
       "category": "갤러리",
-      "active_count": 4,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -3283,30 +3131,6 @@
           "artists": "Arik Levy, Zoé Ouvrier",
           "start_date": "2026-05-15",
           "end_date": "2026-07-05",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.tangcontemporary.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "819751fd437a",
-          "title": "Seeing, Again",
-          "artists": "Arik Levy, Zoé Ouvrier",
-          "start_date": "2026-05-16",
-          "end_date": "2026-06-27",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.tangcontemporary.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "baf535c25bae",
-          "title": "Living",
-          "artists": "Kila Cheung",
-          "start_date": "2026-05-30",
-          "end_date": "2026-07-12",
           "status": "active",
           "thumbnail": "",
           "url": "https://www.tangcontemporary.com/",
@@ -3811,34 +3635,9 @@
       "instagram_url": "https://www.instagram.com/caption.seoul/",
       "image_url": "https://cdn.imweb.me/upload/S20230616019113f702162/049087c8dab56.png",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "1118187650fe",
-          "title": "Yongjae Lee Solo Exhibition",
-          "artists": "Yongjae Lee",
-          "start_date": "2026-05-16",
-          "end_date": "2026-06-14",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.captionseoul.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "0921c79d8d72",
-          "title": "Lee Yongjae Solo Exhibition",
-          "artists": "Lee Yongjae",
-          "start_date": "2026-05-16",
-          "end_date": "2026-06-14",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.captionseoul.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "yongsan_v_6d6dc09dd4",
@@ -3937,24 +3736,12 @@
       "instagram_url": "https://www.instagram.com/thisweekendroom_official",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/174754823_1872820999562335_549438935362228733_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=n9oB714KM0kQ7kNvwHQ1-oW&_nc_oc=Adogmre9tzyP6EGbWYV-qnpmbcfMpYTV2iP7wrMQXMuRJXfsEzL8bDBuyebXeOfDfrE&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5L4zPe81JiWQ3E954xHKko_nNmwImIsW-MTwWeZ08_ug&oe=6A1C3B21",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "3df4e8862b99",
           "title": "기울어진 증거들 / Where Light Leans",
-          "artists": "GuNa, Vytautas Kumža",
-          "start_date": "2026-05-15",
-          "end_date": "2026-06-20",
-          "status": "active",
-          "thumbnail": "",
-          "url": "http://thisweekendroom.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "0c7a6507f265",
-          "title": "기울어진 증거들 Where Light Leans",
           "artists": "GuNa, Vytautas Kumža",
           "start_date": "2026-05-15",
           "end_date": "2026-06-20",
@@ -4238,21 +4025,9 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/272649020_146753087724856_3611605368936965787_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQzLkMzIn0%3D&_nc_ohc=G8LoayxOWbkQ7kNvwHy_PFd&_nc_oc=AdpGhpeWuJJqaRV-d2LZMWRJb8QT4852vvCqkHa3SZmuLFFKZ0whPDF3PgEbvku2oMI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5_7abhs5nHpMS67tfp1oBPRSFLOPYv4B6A3n7zw3ny0w&oe=6A1C3129",
       "category": "미술관",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "4fb4854e47e3",
-          "title": "2026 서울사진축제 《컴백홈》",
-          "artists": "",
-          "start_date": "2026-04-09",
-          "end_date": "2026-06-14",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://sema.seoul.go.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "84cf27aca8a2",
           "title": "《마틴 파 개인전》",
@@ -5445,8 +5220,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 3,
+      "active_count": 2,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "ed3c6f8a8bec",
@@ -5454,7 +5229,7 @@
           "artists": "",
           "start_date": "2026-06-15",
           "end_date": "2026-06-28",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
           "url": "",
           "price": "무료",
@@ -5466,7 +5241,7 @@
           "artists": "",
           "start_date": "2026-06-17",
           "end_date": "2026-08-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
           "url": "",
           "price": "무료",

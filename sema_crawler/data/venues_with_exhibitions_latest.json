@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:10:43Z",
+  "generated_at": "2026-06-18T05:34:46Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -11,19 +11,9 @@
       "lat": 37.5641,
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
-      "active_count": 4,
+      "active_count": 3,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "c876e2a60711",
-          "title": "SeMA 공용공간 프로젝트 《영원히 교차하는 춤》",
-          "start_date": "2025-08-13",
-          "end_date": "2026-12-31",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=975877",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "aebb8561f013",
           "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
@@ -117,29 +107,9 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
-      "active_count": 3,
+      "active_count": 1,
       "upcoming_count": 0,
       "exhibitions": [
-        {
-          "id": "06934f057ce3",
-          "title": "SeMA 프로젝트V_얄루",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
-          "url": "",
-          "price": "무료"
-        },
-        {
-          "id": "dd23cadf6549",
-          "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "a9a7e67786af",
           "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
@@ -206,8 +176,8 @@
       "lat": 37.6097,
       "lng": 126.9742,
       "official_url": "https://sema.seoul.go.kr/kr/visit/art_archive",
-      "active_count": 1,
-      "upcoming_count": 1,
+      "active_count": 2,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "d9fcc33b96b0",
@@ -224,7 +194,7 @@
           "title": "2026 폴리오 스튜디오 결과보고전 《아크 아크 아크》",
           "start_date": "2026-06-17",
           "end_date": "2026-06-21",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012116",
           "url": "",
           "price": "무료"
@@ -256,30 +226,6 @@
       "exhibitions": []
     },
     {
-      "venue_key": "bunker",
-      "venue_name": "SeMA 벙커",
-      "region": "seoul",
-      "address": "서울 영등포구 여의대로 76",
-      "lat": 37.5253,
-      "lng": 126.9215,
-      "official_url": "https://sema.seoul.go.kr/",
-      "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
-    },
-    {
-      "venue_key": "warehouse",
-      "venue_name": "SeMA 창고",
-      "region": "seoul",
-      "address": "서울 은평구 통일로 684",
-      "lat": 37.6196,
-      "lng": 126.9192,
-      "official_url": "https://sema.seoul.go.kr/",
-      "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
-    },
-    {
       "venue_key": "unknown",
       "venue_name": "기타·외부 협력",
       "region": "unknown",
@@ -287,8 +233,8 @@
       "lat": null,
       "lng": null,
       "official_url": "",
-      "active_count": 0,
-      "upcoming_count": 3,
+      "active_count": 2,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "ed3c6f8a8bec",
@@ -296,7 +242,7 @@
           "venue_raw": "2026/06/15~2026/06/28",
           "start_date": "2026-06-15",
           "end_date": "2026-06-28",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
           "url": "",
           "price": "무료"
@@ -307,7 +253,7 @@
           "venue_raw": "주워싱턴한국문화원",
           "start_date": "2026-06-17",
           "end_date": "2026-08-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
           "url": "",
           "price": "무료"

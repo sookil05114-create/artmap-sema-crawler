@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-14T14:11:06Z",
+  "generated_at": "2026-06-18T05:35:05Z",
   "sources": [
     "mmca"
   ],
-  "count": 13,
+  "count": 15,
   "programs": [
     {
       "id": "960d2c66c898",
@@ -28,7 +28,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202510020000869",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2025/10/2025102801093962817555.PNG",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:06Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "b546879e8fb4",
@@ -53,7 +53,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202504140000684",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/02/2026022501104986011422.gif",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:06Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "e2888729446e",
@@ -78,7 +78,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202602130000930",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/02/2026021305032566316672_thumb.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:06Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "f9db6347918e",
@@ -103,7 +103,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202602230000937",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/02/2026022501125609319479.gif",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:06Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "b1997a78722c",
@@ -128,7 +128,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202603130000943",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/03/2026031304273517819511.gif",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:06Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "e61a3dd20c56",
@@ -153,7 +153,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202603200000946",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/03/2026032105415218315036_thumb.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "f482efa7893c",
@@ -178,7 +178,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202603240000949",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/03/2026033002095904212765.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:05Z"
     },
     {
       "id": "fec3744f799b",
@@ -203,7 +203,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202604220000973",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/04/2026042209532814815388.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:01Z"
     },
     {
       "id": "863155e5d963",
@@ -228,7 +228,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605120000986",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/05/2026051205330636212197.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:01Z"
     },
     {
       "id": "f9181d8c490b",
@@ -253,7 +253,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605140000989",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/05/2026051405154973711363.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:01Z"
     },
     {
       "id": "6704618ad327",
@@ -278,7 +278,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202604290000982",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/04/2026042903254803211310_thumb.png",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:01Z"
     },
     {
       "id": "b88241f12af2",
@@ -303,7 +303,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605280000997",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/05/202605280312529971746_thumb.png",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:01Z"
     },
     {
       "id": "a1278e807394",
@@ -328,7 +328,57 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605270000994",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/05/2026052910141783619029.jpg",
       "status": "active",
-      "collected_at": "2026-06-14T14:11:01Z"
+      "collected_at": "2026-06-18T05:35:01Z"
+    },
+    {
+      "id": "c45b840aacad",
+      "source": "mmca",
+      "title": "[청주] 도슨트 특화교육 2026",
+      "venue_raw": "청주",
+      "venue_key": "mmca_cheongju",
+      "venue_name": "국립현대미술관 청주",
+      "venue_detail": "배움터 및 대외 문화공간",
+      "region": "cheongju",
+      "address": "충북 청주시 청원구 상당로 314",
+      "lat": 36.6394,
+      "lng": 127.4944,
+      "start_date": "2026-06-15",
+      "end_date": "2026-07-22",
+      "time_range": "",
+      "target_audience": "국립현대미술관 청주 도슨트",
+      "target_category": "성인",
+      "price": "무료",
+      "capacity": "-",
+      "application_status": "info_only",
+      "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605290000999",
+      "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/2026061711305913614220.jpg",
+      "status": "active",
+      "collected_at": "2026-06-18T05:35:01Z"
+    },
+    {
+      "id": "6789daa27e67",
+      "source": "mmca",
+      "title": "«로드 무비: 1945년 이후 한·일 미술»  - 큐레이터 토크",
+      "venue_raw": "과천",
+      "venue_key": "mmca_gwacheon",
+      "venue_name": "국립현대미술관 과천",
+      "venue_detail": "국립현대미술관 과천",
+      "region": "gwacheon",
+      "address": "경기 과천시 광명로 313",
+      "lat": 37.431,
+      "lng": 127.0186,
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "time_range": "14:00 ~ 15:30",
+      "target_audience": "문화 예술에 관심 있는 성인 누구나",
+      "target_category": "성인",
+      "price": "3,000",
+      "capacity": "50명",
+      "application_status": "open",
+      "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606170001004",
+      "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/2026061705432443412777_thumb.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-06-18T05:35:01Z"
     }
   ]
 }
