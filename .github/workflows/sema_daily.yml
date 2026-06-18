@@ -27,11 +27,15 @@ jobs:
           pip install -r sema_crawler/requirements.txt
           pip install -r mmca_crawler/requirements.txt
 
+      # 외부 사이트 다운/타임아웃 시에도 워크플로우 전체는 계속 진행
+      # (실패한 crawler는 이전 캐시 데이터를 그대로 사용)
       - name: Run SeMA crawler
         run: python sema_crawler/crawler.py
+        continue-on-error: true
 
       - name: Run MMCA crawler (exhibitions + education)
         run: python mmca_crawler/crawler.py
+        continue-on-error: true
 
       - name: Merge all sources
         run: python merger/merge.py
