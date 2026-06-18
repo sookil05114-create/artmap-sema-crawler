@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T05:35:05Z",
+  "generated_at": "2026-06-18T21:54:23Z",
   "sources": [
     "sema",
     "mmca",
@@ -83,21 +83,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "bd8a5f6ebb44",
-          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
-          "artists": "",
-          "start_date": "2026-04-02",
-          "end_date": "2027-05-30",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
         {
           "id": "c657aa61a28e",
           "title": "《글짓, 쓰는 예술》",
@@ -243,21 +231,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "d9fcc33b96b0",
-          "title": "알렉사에게",
-          "artists": "",
-          "start_date": "2026-03-26",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
         {
           "id": "fd0ac7e0e944",
           "title": "2026 폴리오 스튜디오 결과보고전 《아크 아크 아크》",
@@ -384,7 +360,7 @@
           "end_date": "2026-10-11",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=1",
           "price": "2,000원",
           "source": "mmca"
         },
