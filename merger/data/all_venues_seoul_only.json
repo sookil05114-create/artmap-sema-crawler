@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T21:54:23Z",
+  "generated_at": "2026-06-19T20:58:41Z",
   "sources": [
     "sema",
     "mmca",
@@ -111,8 +111,8 @@
           "source": "sema"
         },
         {
-          "id": "2771712f738e",
-          "title": "유휴공간 전시 《보편타당한 당신 - 심이다은》",
+          "id": "e08a367f93a2",
+          "title": "유휴공간 전시 《보편타당한 당신 ― 심이다은》",
           "artists": "",
           "start_date": "2026-06-25",
           "end_date": "2027-04-11",
@@ -203,8 +203,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "26458500b9ef",
@@ -212,7 +212,7 @@
           "artists": "",
           "start_date": "2026-06-19",
           "end_date": "2026-07-05",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
           "url": "",
           "price": "무료",
@@ -301,8 +301,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 4,
-      "upcoming_count": 8,
+      "active_count": 6,
+      "upcoming_count": 6,
       "exhibitions": [
         {
           "id": "4b0293f16d8e",
@@ -358,7 +358,7 @@
           "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=1",
           "price": "2,000원",
@@ -370,7 +370,7 @@
           "artists": "",
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "",
           "price": "",
@@ -2585,8 +2585,8 @@
       "instagram_url": "https://www.instagram.com/songeun_official/",
       "image_url": "https://dbuuh2wfbpxcx.cloudfront.net/media/thumbnail/1200/1200/jpg/eyJpZCI6IjQ4NTVhZWVkZThkNThkOTM5OWU4NzU0ODM1NDg1M2Y0LmpwZyIsInN0b3JhZ2UiOiJzdG9yZSJ9?type=image%2Fjpeg&signature=ed158e05373c6213497a096020daaf4ce7536a357f14470a6d411248cd228f4e",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 2,
+      "active_count": 1,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "bfef17e6bc7a",
@@ -2594,7 +2594,7 @@
           "artists": "전혜주",
           "start_date": "2026-06-19",
           "end_date": "2026-08-01",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://dbuuh2wfbpxcx.cloudfront.net/media/thumbnail/1200/1200/jpg/eyJpZCI6ImFlZmIzZmUxY2ZkZGI5MjAxYTVlYTk0MTE2ZDNlOGQ4LnBuZyIsInN0b3JhZ2UiOiJzdG9yZSJ9?type=image%2Fjpeg&signature=764901c2f12787981132fad345d6e52fa3e4e675ada03d56323964399521ed9e",
           "url": "https://songeun.or.kr/",
           "price": "",
@@ -5196,8 +5196,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "기타",
-      "active_count": 2,
-      "upcoming_count": 1,
+      "active_count": 3,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "ed3c6f8a8bec",
@@ -5229,7 +5229,7 @@
           "artists": "",
           "start_date": "2026-06-19",
           "end_date": "2026-07-12",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
           "url": "",
           "price": "무료",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T21:54:06Z",
+  "generated_at": "2026-06-19T20:58:24Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -78,8 +78,8 @@
           "price": "무료"
         },
         {
-          "id": "2771712f738e",
-          "title": "유휴공간 전시 《보편타당한 당신 - 심이다은》",
+          "id": "e08a367f93a2",
+          "title": "유휴공간 전시 《보편타당한 당신 ― 심이다은》",
           "start_date": "2026-06-25",
           "end_date": "2027-04-11",
           "status": "upcoming",
@@ -143,15 +143,15 @@
       "lat": 37.6612,
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "26458500b9ef",
           "title": "사진공유 프로젝트 《집-들이!》",
           "start_date": "2026-06-19",
           "end_date": "2026-07-05",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
           "url": "",
           "price": "무료"
@@ -213,8 +213,8 @@
       "lat": null,
       "lng": null,
       "official_url": "",
-      "active_count": 2,
-      "upcoming_count": 1,
+      "active_count": 3,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "ed3c6f8a8bec",
@@ -244,7 +244,7 @@
           "venue_raw": "2026/06/19~2026/07/12",
           "start_date": "2026-06-19",
           "end_date": "2026-07-12",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
           "url": "",
           "price": "무료"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T21:54:15Z",
+  "generated_at": "2026-06-19T20:58:33Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -11,8 +11,8 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "active_count": 4,
-      "upcoming_count": 5,
+      "active_count": 5,
+      "upcoming_count": 4,
       "exhibitions": [
         {
           "id": "4b0293f16d8e",
@@ -64,7 +64,7 @@
           "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=1",
           "price": "2,000원"
