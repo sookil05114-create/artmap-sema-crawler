@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-20T21:18:57Z",
+  "generated_at": "2026-06-21T21:00:59Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "count": 144,
+  "count": 178,
   "exhibitions": [
     {
       "id": "f2c03a40ade7",
@@ -27,6 +27,26 @@
       "thumbnail": "",
       "status": "ended",
       "collected_at": "2026-05-25T07:04:08Z"
+    },
+    {
+      "id": "b829843ff1be",
+      "source": "mmca",
+      "title": "개방 수장고 개편",
+      "artists": "",
+      "venue_raw": "청주",
+      "venue_key": "mmca_cheongju",
+      "venue_name": "국립현대미술관 청주",
+      "region": "cheongju",
+      "address": "충북 청주시 청원구 상당로 314",
+      "lat": 36.6394,
+      "lng": 127.4944,
+      "start_date": "2020-12-03",
+      "end_date": "2026-12-31",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202012030001338&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2021/07/2021072711383216619535.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:51Z"
     },
     {
       "id": "294c761bc277",
@@ -149,6 +169,26 @@
       "collected_at": "2026-05-25T07:02:54Z"
     },
     {
+      "id": "dd247df805d8",
+      "source": "mmca",
+      "title": "특별수장고: 국립현대미술관 드로잉·일본 현대 판화 소장품",
+      "artists": "곽덕준, 권진규, 김환기, 박수근, 박현기, 유영국, 이중섭, 구사마 야요이, 기무라 고스케, 모토나가 사다마사 등",
+      "venue_raw": "청주",
+      "venue_key": "mmca_cheongju",
+      "venue_name": "국립현대미술관 청주",
+      "region": "cheongju",
+      "address": "충북 청주시 청원구 상당로 314",
+      "lat": 36.6394,
+      "lng": 127.4944,
+      "start_date": "2025-07-22",
+      "end_date": "2026-12-31",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202507100001975&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/07/2025071003423383917280.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
       "id": "12193394329a",
       "source": "gallery_crawler",
       "title": "포레페스타 ForeFesta",
@@ -167,6 +207,46 @@
       "thumbnail": "",
       "status": "ended",
       "collected_at": "2026-05-25T07:05:14Z"
+    },
+    {
+      "id": "e748ba205719",
+      "source": "mmca",
+      "title": "미술은행 20주년 특별전 «돌아온 미래: 형태와 생각의 발현»",
+      "artists": "곽훈, 구정아, 권오상(b.1971), 권오상(b.1974), 김기린, 김명주, 김수자, 김지아나, 김지평, 김춘환, 김혁정, 김현희, 꼴라쥬플러스(장승효&김용민), 듀킴, 문범, 민성홍, 박계훈, 박남철, 박진현, 빠키, 샌정, 설원기, 성낙희, 성능경, 손영락, 송수남, 신미경, 심승욱, 윤형근, 이강소, 이건용, 이동엽, 이배, 이수경, 이순애, 이이남, 임흥순, 전광영, 정상화, 정정엽, 정종미, 정직성, 조덕현, 조상근, 주도양, 채성필, 최병소, 최선, 최수앙, 추미림, 하태범, 홍푸르메, 황란희, 황주리",
+      "venue_raw": "청주",
+      "venue_key": "mmca_cheongju",
+      "venue_name": "국립현대미술관 청주",
+      "region": "cheongju",
+      "address": "충북 청주시 청원구 상당로 314",
+      "lat": 36.6394,
+      "lng": 127.4944,
+      "start_date": "2025-08-08",
+      "end_date": "2026-07-31",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508060001987&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/08/2025080610534430517778.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
+      "id": "3b1d3f599806",
+      "source": "mmca",
+      "title": "MMCA 해외 명작: 수련과 샹들리에",
+      "artists": "클로드 모네, 아이 웨이웨이, 바바라 크루거, 쩡판즈, 피에르 오귀스트 르누아르, 살바도르 달리, 신디 셔먼, 파블로 피카소 등 국외작가 33명",
+      "venue_raw": "과천",
+      "venue_key": "mmca_gwacheon",
+      "venue_name": "국립현대미술관 과천",
+      "region": "gwacheon",
+      "address": "경기 과천시 광명로 313",
+      "lat": 37.431,
+      "lng": 127.0186,
+      "start_date": "2025-10-02",
+      "end_date": "2027-01-03",
+      "price": "과천 전시관람권 3,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508210001995&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/09/2025090801003815116883.gif",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:51Z"
     },
     {
       "id": "f054cc222fce",
@@ -329,6 +409,26 @@
       "collected_at": "2026-05-25T07:13:10Z"
     },
     {
+      "id": "4b0293f16d8e",
+      "source": "mmca",
+      "title": "데이미언 허스트",
+      "artists": "데이미언 허스트",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-03-20",
+      "end_date": "2026-06-28",
+      "price": "8,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
       "id": "d8805a747782",
       "source": "gallery_crawler",
       "title": "스펙트로신테시스",
@@ -449,6 +549,26 @@
       "collected_at": "2026-05-25T07:01:35Z"
     },
     {
+      "id": "e29350c595df",
+      "source": "mmca",
+      "title": "MMCA 다원예술 2026: 탐정의 시간",
+      "artists": "료지 이케다/앙상블 모데른, 마말리안 다이빙 리플렉스, 엘 콘데 데 토레필, 마테오 마랑고니/디터 반도렌, 신서, 위성희, 리타 후프와이크, 살로메 무이, 샘 소이어만, 박민희, 크리스토퍼 놀란, 정여름",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-04-01",
+      "end_date": "2026-12-06",
+      "price": "개별 프로그램 별 상이",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
       "id": "be91eca50ea9",
       "source": "gallery_crawler",
       "title": "기.기.기(奇.己.氣): 동시대와 시행착오",
@@ -467,6 +587,26 @@
       "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
       "status": "ended",
       "collected_at": "2026-05-17T14:42:59Z"
+    },
+    {
+      "id": "bd8a5f6ebb44",
+      "source": "sema",
+      "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-04-02",
+      "end_date": "2027-05-30",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
     },
     {
       "id": "166324b1a1be",
@@ -649,6 +789,26 @@
       "collected_at": "2026-05-25T07:09:36Z"
     },
     {
+      "id": "aebb8561f013",
+      "source": "sema",
+      "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+      "artists": "",
+      "venue_raw": "서울시립미술관 서소문본관",
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "start_date": "2026-04-16",
+      "end_date": "2026-11-22",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
       "id": "c863e0f33477",
       "source": "gallery_crawler",
       "title": "Particulates of Color",
@@ -687,6 +847,26 @@
       "thumbnail": "",
       "status": "ended",
       "collected_at": "2026-05-25T07:12:08Z"
+    },
+    {
+      "id": "bf130acf18c8",
+      "source": "mmca",
+      "title": "그래도 해보던 날들",
+      "artists": "양정욱",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-04-17",
+      "end_date": "2026-08-30",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
     },
     {
       "id": "c92e0e022bb4",
@@ -729,6 +909,66 @@
       "collected_at": "2026-05-27T04:34:31Z"
     },
     {
+      "id": "3bbfebcbd371",
+      "source": "mmca",
+      "title": "MMCA 과천 상설전 «한국근현대미술 II»",
+      "artists": "김환기, 박생광, 박서보, 서세옥, 서승원, 유영국, 윤형근, 이성자, 이숙자, 최욱경 등 78여 명",
+      "venue_raw": "과천",
+      "venue_key": "mmca_gwacheon",
+      "venue_name": "국립현대미술관 과천",
+      "region": "gwacheon",
+      "address": "경기 과천시 광명로 313",
+      "lat": 37.431,
+      "lng": 127.0186,
+      "start_date": "2026-04-22",
+      "end_date": "2027-06-27",
+      "price": "과천 전시관람권 3,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001885&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042010563457812371.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
+    },
+    {
+      "id": "a580710ab31c",
+      "source": "mmca",
+      "title": "MMCA 과천 상설전 «한국근현대미술 I»",
+      "artists": "정찬영, 김규진, 안중식, 장우성, 김기창, 박래현, 박수근, 이중섭, 장욱진, 오지호 등 73명",
+      "venue_raw": "과천",
+      "venue_key": "mmca_gwacheon",
+      "venue_name": "국립현대미술관 과천",
+      "region": "gwacheon",
+      "address": "경기 과천시 광명로 313",
+      "lat": 37.431,
+      "lng": 127.0186,
+      "start_date": "2026-04-22",
+      "end_date": "2027-06-27",
+      "price": "과천 전시관람권 3,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001884&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/202604201055291871388.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
+    },
+    {
+      "id": "c657aa61a28e",
+      "source": "sema",
+      "title": "《글짓, 쓰는 예술》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-04-23",
+      "end_date": "2026-07-12",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
       "id": "c27c84efc3d5",
       "source": "gallery_crawler",
       "title": "글짓, 쓰는 예술",
@@ -747,6 +987,26 @@
       "thumbnail": "",
       "status": "active",
       "collected_at": "2026-06-08T13:15:53Z"
+    },
+    {
+      "id": "dd94e31ec15e",
+      "source": "mmca",
+      "title": "방혜자 - 천지에 마음의 빛 뿌리며 간다",
+      "artists": "방혜자",
+      "venue_raw": "청주",
+      "venue_key": "mmca_cheongju",
+      "venue_name": "국립현대미술관 청주",
+      "region": "cheongju",
+      "address": "충북 청주시 청원구 상당로 314",
+      "lat": 36.6394,
+      "lng": 127.4944,
+      "start_date": "2026-04-24",
+      "end_date": "2026-09-27",
+      "price": "2,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002022&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026031704552119711784.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
     },
     {
       "id": "c10eb3a36d9d",
@@ -849,6 +1109,46 @@
       "collected_at": "2026-05-17T16:06:02Z"
     },
     {
+      "id": "d340ac7a2efe",
+      "source": "sema",
+      "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+      "artists": "",
+      "venue_raw": "서울시립미술관 서소문본관",
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "start_date": "2026-04-30",
+      "end_date": "2026-09-06",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "1fe18767dc6b",
+      "source": "mmca",
+      "title": "오~감각미술관",
+      "artists": "깪, 엄정순, 함진",
+      "venue_raw": "어린이미술관",
+      "venue_key": "mmca_children",
+      "venue_name": "국립현대미술관 어린이미술관",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-04-30",
+      "end_date": "2027-02-21",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
+    },
+    {
       "id": "fd6985c92de5",
       "source": "gallery_crawler",
       "title": "Sound of Nature",
@@ -905,7 +1205,7 @@
       "price": "",
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-27T01:36:08Z"
     },
     {
@@ -965,7 +1265,7 @@
       "price": "",
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T07:01:43Z"
     },
     {
@@ -1006,7 +1306,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "614105985711",
@@ -1185,7 +1485,7 @@
       "price": "",
       "url": "http://www.kwanhoongallery.com/",
       "thumbnail": "http://www.kwanhoongallery.com/images/site_img.jpg",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T07:00:46Z"
     },
     {
@@ -1249,6 +1549,46 @@
       "collected_at": "2026-05-25T07:06:27Z"
     },
     {
+      "id": "a9a7e67786af",
+      "source": "sema",
+      "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+      "artists": "",
+      "venue_raw": "서울시립 서서울미술관",
+      "venue_key": "seoseoul",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울 금천구 시흥대로73길 70",
+      "lat": 37.4581,
+      "lng": 126.8959,
+      "start_date": "2026-05-14",
+      "end_date": "2026-07-26",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "8dbbbdd0486d",
+      "source": "mmca",
+      "title": "로드 무비: 1945년 이후 한·일 미술",
+      "artists": "곽인식, 남화연, 다나카 고키, 나카무라 마사토, 무라카미 다카시, 박서보, 서승원, 이불, 이우환, 정연두, 조양규 등 40여 명",
+      "venue_raw": "과천",
+      "venue_key": "mmca_gwacheon",
+      "venue_name": "국립현대미술관 과천",
+      "region": "gwacheon",
+      "address": "경기 과천시 광명로 313",
+      "lat": 37.431,
+      "lng": 127.0186,
+      "start_date": "2026-05-14",
+      "end_date": "2026-09-27",
+      "price": "과천 전시관람권 3,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
+    },
+    {
       "id": "f38a5f08d72f",
       "source": "gallery_crawler",
       "title": "Painting II Comparatively Figurative",
@@ -1286,7 +1626,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "3df4e8862b99",
@@ -1305,7 +1645,7 @@
       "price": "",
       "url": "http://thisweekendroom.com/",
       "thumbnail": "",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-27T04:36:14Z"
     },
     {
@@ -1345,7 +1685,7 @@
       "price": "",
       "url": "http://thisweekendroom.com/",
       "thumbnail": "",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-06-08T13:14:09Z"
     },
     {
@@ -1429,6 +1769,26 @@
       "collected_at": "2026-05-13T09:27:28Z"
     },
     {
+      "id": "5fdda35e076a",
+      "source": "sema",
+      "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+      "artists": "",
+      "venue_raw": "서울시립미술관 서소문본관",
+      "venue_key": "seosomun",
+      "venue_name": "서울시립미술관 서소문본관",
+      "region": "seoul",
+      "address": "서울 중구 덕수궁길 61",
+      "lat": 37.5641,
+      "lng": 126.9737,
+      "start_date": "2026-05-19",
+      "end_date": "2026-10-25",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
       "id": "92f823f6b7bf",
       "source": "gallery_crawler",
       "title": "I AM ANARCHISM",
@@ -1487,6 +1847,26 @@
       "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1442/usr/images/exhibitions/home_page_image/items/58/580d5bdd66c04cc5b569aa78b7b91029/3.-sohyun-ban-2026-acrylic-on-canvas-162-x-130-cm.jpeg",
       "status": "ended",
       "collected_at": "2026-05-25T07:03:54Z"
+    },
+    {
+      "id": "9a6ce05bab0c",
+      "source": "sema",
+      "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
+      "artists": "",
+      "venue_raw": "서울시립 남서울미술관",
+      "venue_key": "namseoul",
+      "venue_name": "서울시립 남서울미술관",
+      "region": "seoul",
+      "address": "서울 관악구 남부순환로 2076",
+      "lat": 37.4793,
+      "lng": 126.9577,
+      "start_date": "2026-05-20",
+      "end_date": "2026-07-05",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
     },
     {
       "id": "95d121c9cba9",
@@ -1605,7 +1985,7 @@
       "price": "",
       "url": "https://www.gallerykiche.com/",
       "thumbnail": "",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T07:06:15Z"
     },
     {
@@ -1625,7 +2005,7 @@
       "price": "",
       "url": "http://altspaceloop.com/",
       "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-06-08T12:52:29Z"
     },
     {
@@ -1665,7 +2045,7 @@
       "price": "",
       "url": "https://www.pyogallery.com/",
       "thumbnail": "https://static.wixstatic.com/media/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T07:07:54Z"
     },
     {
@@ -1705,7 +2085,7 @@
       "price": "",
       "url": "http://altspaceloop.com/",
       "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-05-25T05:56:09Z"
     },
     {
@@ -2069,6 +2449,146 @@
       "collected_at": "2026-06-08T12:56:26Z"
     },
     {
+      "id": "85636baf089c",
+      "source": "sema",
+      "title": "《권병준: 내 마음속에 너는》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-06-11",
+      "end_date": "2027-05-16",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "ed3c6f8a8bec",
+      "source": "sema",
+      "title": "[2026 신진미술인 지원 프로그램] 신재은 개인전 《GAIA-피식의 서》",
+      "artists": "",
+      "venue_raw": "2026/06/15~2026/06/28",
+      "venue_key": "unknown",
+      "venue_name": "2026/06/15~2026/06/28",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-28",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "36902d52e51e",
+      "source": "mmca",
+      "title": "캐시 메모리: MMCA 뉴미디어 컬렉션 다시 읽기",
+      "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-06-16",
+      "end_date": "2026-07-17",
+      "price": "무료",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
+    },
+    {
+      "id": "fd82255f40a1",
+      "source": "sema",
+      "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
+      "artists": "",
+      "venue_raw": "주워싱턴한국문화원",
+      "venue_key": "unknown",
+      "venue_name": "주워싱턴한국문화원",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-06-17",
+      "end_date": "2026-08-11",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "26458500b9ef",
+      "source": "sema",
+      "title": "사진공유 프로젝트 《집-들이!》",
+      "artists": "",
+      "venue_raw": "서울시립 사진미술관",
+      "venue_key": "photosema",
+      "venue_name": "서울시립 사진미술관",
+      "region": "seoul",
+      "address": "서울 도봉구 마들로13길 68",
+      "lat": 37.6612,
+      "lng": 127.0432,
+      "start_date": "2026-06-19",
+      "end_date": "2026-07-05",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "80a75729d548",
+      "source": "sema",
+      "title": "[2026 신진미술인 지원 프로그램] 반재하 개인전 《모퉁이를 돌면 거짓 친구》",
+      "artists": "",
+      "venue_raw": "2026/06/19~2026/07/12",
+      "venue_key": "unknown",
+      "venue_name": "2026/06/19~2026/07/12",
+      "region": "seoul",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "start_date": "2026-06-19",
+      "end_date": "2026-07-12",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:32Z"
+    },
+    {
+      "id": "a6ec77ae545e",
+      "source": "mmca",
+      "title": "이것은 개념미술이 (아니)다",
+      "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-06-19",
+      "end_date": "2026-10-11",
+      "price": "2,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=1",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
+      "status": "active",
+      "collected_at": "2026-06-21T21:00:46Z"
+    },
+    {
       "id": "bfef17e6bc7a",
       "source": "gallery_crawler",
       "title": "전혜주: 엔도스코페이아",
@@ -2106,7 +2626,27 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
+    },
+    {
+      "id": "e08a367f93a2",
+      "source": "sema",
+      "title": "유휴공간 전시 《보편타당한 당신 ― 심이다은》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-06-25",
+      "end_date": "2027-04-11",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:37Z"
     },
     {
       "id": "03f0648c4281",
@@ -2149,6 +2689,26 @@
       "collected_at": "2026-06-08T13:09:44Z"
     },
     {
+      "id": "513e8e6a1473",
+      "source": "mmca",
+      "title": "과천관 40주년 프로젝트: 빛의 상상들",
+      "artists": "-",
+      "venue_raw": "과천",
+      "venue_key": "mmca_gwacheon",
+      "venue_name": "국립현대미술관 과천",
+      "region": "gwacheon",
+      "address": "경기 과천시 광명로 313",
+      "lat": 37.431,
+      "lng": 127.0186,
+      "start_date": "2026-07-10",
+      "end_date": "2027-10-31",
+      "price": "-",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002026&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010610504597216426.png",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
       "id": "731e06acfa30",
       "source": "art_week",
       "title": "《동시대 이미지 주제전》",
@@ -2166,7 +2726,7 @@
       "url": "https://ilmin.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "84cf27aca8a2",
@@ -2186,7 +2746,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "2659ada6c655",
@@ -2206,7 +2766,27 @@
       "url": "https://www.spacek.co.kr/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
+    },
+    {
+      "id": "51659f018a70",
+      "source": "mmca",
+      "title": "올해의 작가상 2026",
+      "artists": "이해민선, 홍진훤, 이정우, 전현선",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-07-24",
+      "end_date": "2026-12-06",
+      "price": "2,000원",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
     },
     {
       "id": "fd6e830fa660",
@@ -2226,7 +2806,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "9f19bf1ebc70",
@@ -2246,7 +2826,7 @@
       "url": "https://artsonje.org/exhibition-program/exhibition/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "9ae886c0d6c9",
@@ -2266,7 +2846,47 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
+    },
+    {
+      "id": "580fded5c044",
+      "source": "mmca",
+      "title": "MMCA×LG OLED 시리즈 2026",
+      "artists": "-",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-07-31",
+      "end_date": "2026-11-29",
+      "price": "-",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061002041170016962.gif",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
+      "id": "576a1c954144",
+      "source": "mmca",
+      "title": "이대원",
+      "artists": "이대원",
+      "venue_raw": "덕수궁",
+      "venue_key": "mmca_deoksugung",
+      "venue_name": "국립현대미술관 덕수궁",
+      "region": "seoul",
+      "address": "서울 중구 세종대로 99",
+      "lat": 37.5658,
+      "lng": 126.9744,
+      "start_date": "2026-08-06",
+      "end_date": "2026-11-08",
+      "price": "-",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
     },
     {
       "id": "cd405fc79942",
@@ -2286,7 +2906,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "1a0d0d38e652",
@@ -2306,7 +2926,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "7639e2fdd78b",
@@ -2326,7 +2946,7 @@
       "url": "https://songeun.or.kr/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "4250cc7db837",
@@ -2346,7 +2966,7 @@
       "url": "https://www.ocimuseum.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "072a2c23daa1",
@@ -2366,7 +2986,7 @@
       "url": "https://www.artside.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "e5dbf479b082",
@@ -2386,7 +3006,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "a27227969ee3",
@@ -2406,7 +3026,27 @@
       "url": "https://www.pkmgallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
+    },
+    {
+      "id": "e6f107b3043a",
+      "source": "mmca",
+      "title": "서도호",
+      "artists": "서도호",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-08-27",
+      "end_date": "2027-02-09",
+      "price": "-",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
     },
     {
       "id": "c47a3d013b6d",
@@ -2426,7 +3066,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "2413571b8918",
@@ -2446,7 +3086,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "36f84ca4ce30",
@@ -2466,7 +3106,7 @@
       "url": "https://craftmuseum.seoul.go.kr/main",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "283d437eba18",
@@ -2486,7 +3126,7 @@
       "url": "https://apma.amorepacific.com/contents/exhibition/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "e61941f7c997",
@@ -2506,7 +3146,7 @@
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "52ea3c4fc5ed",
@@ -2526,7 +3166,47 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
+    },
+    {
+      "id": "a1a64de63d62",
+      "source": "mmca",
+      "title": "읽기의 기술: 종이에서 픽셀로",
+      "artists": "-",
+      "venue_raw": "서울",
+      "venue_key": "mmca_seoul",
+      "venue_name": "국립현대미술관 서울",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 30",
+      "lat": 37.5793,
+      "lng": 126.9806,
+      "start_date": "2026-11-20",
+      "end_date": "2027-04-04",
+      "price": "-",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
+    },
+    {
+      "id": "37c00224b438",
+      "source": "mmca",
+      "title": "파리의 이방인",
+      "artists": "권옥연, 김기린, 김순기, 김창열, 김흥수, 남관, 문신, 방혜자, 이성자, 이세득, 이응노, 이우환, 이항성, 임세택, 한묵 등 50여 명",
+      "venue_raw": "덕수궁",
+      "venue_key": "mmca_deoksugung",
+      "venue_name": "국립현대미술관 덕수궁",
+      "region": "seoul",
+      "address": "서울 중구 세종대로 99",
+      "lat": 37.5658,
+      "lng": 126.9744,
+      "start_date": "2026-12-17",
+      "end_date": "2027-05-09",
+      "price": "-",
+      "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
+      "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-06-21T21:00:51Z"
     },
     {
       "id": "feba8ad5a36e",
@@ -2606,7 +3286,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "6084da7d42c9",
@@ -2626,7 +3306,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "42c6c1f81417",
@@ -2646,7 +3326,7 @@
       "url": "https://sma.sbculture.or.kr/sma/index.do",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "7cb07997a386",
@@ -2666,7 +3346,7 @@
       "url": "http://www.kumhomuseum.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "d461c80af4a3",
@@ -2686,7 +3366,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "a79165f880f7",
@@ -2706,7 +3386,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "7c47035bd4b9",
@@ -2726,7 +3406,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "a059d2bbc6e7",
@@ -2746,7 +3426,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "cfb061425017",
@@ -2766,7 +3446,7 @@
       "url": "https://www.galleryhyundai.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "aa60a541418d",
@@ -2786,7 +3466,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "bd554a6b43e3",
@@ -2806,7 +3486,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "2010c9a53b04",
@@ -2826,7 +3506,7 @@
       "url": "http://www.perrotin.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "d5d0205a7e9b",
@@ -2846,7 +3526,7 @@
       "url": "https://www.ggallery.kr/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "87645c379e81",
@@ -2866,7 +3546,7 @@
       "url": "https://ropac.net/ko/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     },
     {
       "id": "8ed4ee11d6c9",
@@ -2886,7 +3566,7 @@
       "url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-06-20T21:18:57Z"
+      "collected_at": "2026-06-21T21:00:59Z"
     }
   ]
 }
