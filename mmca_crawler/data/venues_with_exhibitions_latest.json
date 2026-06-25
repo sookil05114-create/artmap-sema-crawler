@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T09:07:41Z",
+  "generated_at": "2026-06-25T21:31:01Z",
   "source": "mmca",
-  "venue_count": 5,
+  "venue_count": 0,
   "venues": [
     {
       "venue_key": "mmca_seoul",
@@ -11,109 +11,9 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "active_count": 5,
-      "upcoming_count": 4,
-      "exhibitions": [
-        {
-          "id": "4b0293f16d8e",
-          "title": "데이미언 허스트",
-          "artists": "데이미언 허스트",
-          "start_date": "2026-03-20",
-          "end_date": "2026-06-28",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026021901321101013826.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002023&exhFlag=1",
-          "price": "8,000원"
-        },
-        {
-          "id": "e29350c595df",
-          "title": "MMCA 다원예술 2026: 탐정의 시간",
-          "artists": "료지 이케다/앙상블 모데른, 마말리안 다이빙 리플렉스, 엘 콘데 데 토레필, 마테오 마랑고니/디터 반도렌, 신서, 위성희, 리타 후프와이크, 살로메 무이, 샘 소이어만, 박민희, 크리스토퍼 놀란, 정여름",
-          "start_date": "2026-04-01",
-          "end_date": "2026-12-06",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
-          "price": "개별 프로그램 별 상이"
-        },
-        {
-          "id": "bf130acf18c8",
-          "title": "그래도 해보던 날들",
-          "artists": "양정욱",
-          "start_date": "2026-04-17",
-          "end_date": "2026-08-30",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
-          "price": "무료"
-        },
-        {
-          "id": "36902d52e51e",
-          "title": "캐시 메모리: MMCA 뉴미디어 컬렉션 다시 읽기",
-          "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
-          "start_date": "2026-06-16",
-          "end_date": "2026-07-17",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=1",
-          "price": "무료"
-        },
-        {
-          "id": "a6ec77ae545e",
-          "title": "이것은 개념미술이 (아니)다",
-          "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
-          "start_date": "2026-06-19",
-          "end_date": "2026-10-11",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=1",
-          "price": "2,000원"
-        },
-        {
-          "id": "51659f018a70",
-          "title": "올해의 작가상 2026",
-          "artists": "이해민선, 홍진훤, 이정우, 전현선",
-          "start_date": "2026-07-24",
-          "end_date": "2026-12-06",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
-          "price": "2,000원"
-        },
-        {
-          "id": "580fded5c044",
-          "title": "MMCA×LG OLED 시리즈 2026",
-          "artists": "-",
-          "start_date": "2026-07-31",
-          "end_date": "2026-11-29",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061002041170016962.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
-          "price": "-"
-        },
-        {
-          "id": "e6f107b3043a",
-          "title": "서도호",
-          "artists": "서도호",
-          "start_date": "2026-08-27",
-          "end_date": "2027-02-09",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
-          "price": "-"
-        },
-        {
-          "id": "a1a64de63d62",
-          "title": "읽기의 기술: 종이에서 픽셀로",
-          "artists": "-",
-          "start_date": "2026-11-20",
-          "end_date": "2027-04-04",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
-          "price": "-"
-        }
-      ]
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "mmca_deoksugung",
@@ -124,31 +24,8 @@
       "lng": 126.9744,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001029",
       "active_count": 0,
-      "upcoming_count": 2,
-      "exhibitions": [
-        {
-          "id": "576a1c954144",
-          "title": "이대원",
-          "artists": "이대원",
-          "start_date": "2026-08-06",
-          "end_date": "2026-11-08",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
-          "price": "-"
-        },
-        {
-          "id": "37c00224b438",
-          "title": "파리의 이방인",
-          "artists": "권옥연, 김기린, 김순기, 김창열, 김흥수, 남관, 문신, 방혜자, 이성자, 이세득, 이응노, 이우환, 이항성, 임세택, 한묵 등 50여 명",
-          "start_date": "2026-12-17",
-          "end_date": "2027-05-09",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
-          "price": "-"
-        }
-      ]
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "mmca_children",
@@ -158,21 +35,9 @@
       "lat": 37.5793,
       "lng": 126.9806,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "1fe18767dc6b",
-          "title": "오~감각미술관",
-          "artists": "깪, 엄정순, 함진",
-          "start_date": "2026-04-30",
-          "end_date": "2027-02-21",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
-          "price": "무료"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "mmca_gwacheon",
@@ -182,65 +47,9 @@
       "lat": 37.431,
       "lng": 127.0186,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001030",
-      "active_count": 4,
-      "upcoming_count": 1,
-      "exhibitions": [
-        {
-          "id": "3b1d3f599806",
-          "title": "MMCA 해외 명작: 수련과 샹들리에",
-          "artists": "클로드 모네, 아이 웨이웨이, 바바라 크루거, 쩡판즈, 피에르 오귀스트 르누아르, 살바도르 달리, 신디 셔먼, 파블로 피카소 등 국외작가 33명",
-          "start_date": "2025-10-02",
-          "end_date": "2027-01-03",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/09/2025090801003815116883.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508210001995&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
-        },
-        {
-          "id": "3bbfebcbd371",
-          "title": "MMCA 과천 상설전 «한국근현대미술 II»",
-          "artists": "김환기, 박생광, 박서보, 서세옥, 서승원, 유영국, 윤형근, 이성자, 이숙자, 최욱경 등 78여 명",
-          "start_date": "2026-04-22",
-          "end_date": "2027-06-27",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042010563457812371.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001885&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
-        },
-        {
-          "id": "a580710ab31c",
-          "title": "MMCA 과천 상설전 «한국근현대미술 I»",
-          "artists": "정찬영, 김규진, 안중식, 장우성, 김기창, 박래현, 박수근, 이중섭, 장욱진, 오지호 등 73명",
-          "start_date": "2026-04-22",
-          "end_date": "2027-06-27",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/202604201055291871388.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202501060001884&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
-        },
-        {
-          "id": "8dbbbdd0486d",
-          "title": "로드 무비: 1945년 이후 한·일 미술",
-          "artists": "곽인식, 남화연, 다나카 고키, 나카무라 마사토, 무라카미 다카시, 박서보, 서승원, 이불, 이우환, 정연두, 조양규 등 40여 명",
-          "start_date": "2026-05-14",
-          "end_date": "2026-09-27",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026042908555524716419.gif",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202408210001821&exhFlag=1",
-          "price": "과천 전시관람권 3,000원"
-        },
-        {
-          "id": "513e8e6a1473",
-          "title": "과천관 40주년 프로젝트: 빛의 상상들",
-          "artists": "-",
-          "start_date": "2026-07-10",
-          "end_date": "2027-10-31",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026010610504597216426.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002026&exhFlag=2",
-          "price": "-"
-        }
-      ]
+      "active_count": 0,
+      "upcoming_count": 0,
+      "exhibitions": []
     },
     {
       "venue_key": "mmca_cheongju",
@@ -250,54 +59,9 @@
       "lat": 36.6394,
       "lng": 127.4944,
       "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001031",
-      "active_count": 4,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "b829843ff1be",
-          "title": "개방 수장고 개편",
-          "artists": "",
-          "start_date": "2020-12-03",
-          "end_date": "2026-12-31",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2021/07/2021072711383216619535.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202012030001338&exhFlag=1",
-          "price": "무료"
-        },
-        {
-          "id": "dd247df805d8",
-          "title": "특별수장고: 국립현대미술관 드로잉·일본 현대 판화 소장품",
-          "artists": "곽덕준, 권진규, 김환기, 박수근, 박현기, 유영국, 이중섭, 구사마 야요이, 기무라 고스케, 모토나가 사다마사 등",
-          "start_date": "2025-07-22",
-          "end_date": "2026-12-31",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/07/2025071003423383917280.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202507100001975&exhFlag=1",
-          "price": "무료"
-        },
-        {
-          "id": "e748ba205719",
-          "title": "미술은행 20주년 특별전 «돌아온 미래: 형태와 생각의 발현»",
-          "artists": "곽훈, 구정아, 권오상(b.1971), 권오상(b.1974), 김기린, 김명주, 김수자, 김지아나, 김지평, 김춘환, 김혁정, 김현희, 꼴라쥬플러스(장승효&김용민), 듀킴, 문범, 민성홍, 박계훈, 박남철, 박진현, 빠키, 샌정, 설원기, 성낙희, 성능경, 손영락, 송수남, 신미경, 심승욱, 윤형근, 이강소, 이건용, 이동엽, 이배, 이수경, 이순애, 이이남, 임흥순, 전광영, 정상화, 정정엽, 정종미, 정직성, 조덕현, 조상근, 주도양, 채성필, 최병소, 최선, 최수앙, 추미림, 하태범, 홍푸르메, 황란희, 황주리",
-          "start_date": "2025-08-08",
-          "end_date": "2026-07-31",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2025/08/2025080610534430517778.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202508060001987&exhFlag=1",
-          "price": "무료"
-        },
-        {
-          "id": "dd94e31ec15e",
-          "title": "방혜자 - 천지에 마음의 빛 뿌리며 간다",
-          "artists": "방혜자",
-          "start_date": "2026-04-24",
-          "end_date": "2026-09-27",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/2026031704552119711784.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002022&exhFlag=1",
-          "price": "2,000원"
-        }
-      ]
+      "exhibitions": []
     }
   ]
 }
