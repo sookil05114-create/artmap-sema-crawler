@@ -1,5 +1,15 @@
 """
-SeMA + MMCA + 승인된 제보 + 아트위크 통합 merger (v9 — 전시 dedup)
+SeMA + MMCA + 승인된 제보 + 아트위크 통합 merger (v11 — venue 별칭 통합)
+
+v11 변경점:
+  - VENUE_KEY_ALIAS — 별도 공간을 상위 venue로 통합 (예: mmca_children → mmca_seoul)
+  - 어린이미술관 전시는 국립현대미술관 서울본관 안에 통합 표시
+  - 별칭 매핑된 venue 메타는 venues_out에서 제외
+
+v10 변경점:
+  - venue_name이 날짜 패턴/숫자만이면 "(미분류 - 이동전시)"로 정상화
+  - 폐관 venue 자동 필터 (DEAD_VENUE_KEYS 리스트)
+  - 너무 짧거나 의미 없는 venue_name 정리
 
 v9 변경점:
   - 같은 venue 내 중복 전시 dedup (gallery_crawler 듀얼 fetch 결과 보정)
@@ -195,6 +205,64 @@ def resolve_image_url(vk: str, venue_meta: dict, image_cache: dict) -> str:
 
 
 # ──────────────────────────────────────────────────────────────────
+# v10: 폐관 venue 필터 + venue_name 정상화
+# ──────────────────────────────────────────────────────────────────
+# 폐관/이전 등 더 이상 운영하지 않는 venue_key 리스트
+DEAD_VENUE_KEYS = {
+    "bunker",      # SeMA 벙커 (영등포 여의대로 76) — 폐관
+    "warehouse",   # SeMA 창고 (은평 통일로 684) — 폐관
+}
+
+# ──────────────────────────────────────────────────────────────────
+# v11: venue_key 별칭 — 별도 공간을 상위 venue에 통합
+# ──────────────────────────────────────────────────────────────────
+# {별칭_key: 정본_key} — 별칭 venue의 전시는 정본 venue에 통합되고,
+# 별칭 venue 자체는 venues_out에서 제외됨.
+VENUE_KEY_ALIAS = {
+    "mmca_children": "mmca_seoul",  # 어린이미술관 → 국립현대미술관 서울본관
+    "mmca_140": "mmca_seoul",       # mmca_crawler fallback 키도 같이 처리
+}
+
+
+def resolve_venue_key(vk: str) -> str:
+    """별칭이 있으면 정본 key 반환, 없으면 원본 그대로."""
+    return VENUE_KEY_ALIAS.get(vk, vk)
+
+# venue_name이 날짜 패턴인지 검사
+import re as _re
+_DATE_PATTERNS = [
+    _re.compile(r"^\s*\d{4}[/.\-]\d{1,2}[/.\-]\d{1,2}\s*[~\-–—]\s*\d{4}[/.\-]\d{1,2}[/.\-]\d{1,2}\s*$"),  # 2026/06/15~2026/06/28
+    _re.compile(r"^\s*\d{4}[/.\-]\d{1,2}[/.\-]\d{1,2}\s*$"),  # 2026/06/15
+    _re.compile(r"^\s*\d{1,2}[/.\-]\d{1,2}[~\-–—]\d{1,2}[/.\-]\d{1,2}\s*$"),  # 6/15~6/28
+    _re.compile(r"^[\d\s./\-:~,]+$"),  # 숫자/구두점만
+]
+
+
+def is_date_pattern(s: str) -> bool:
+    """venue_name이 날짜/숫자 패턴인지"""
+    if not s:
+        return True
+    s = s.strip()
+    if not s:
+        return True
+    for pat in _DATE_PATTERNS:
+        if pat.match(s):
+            return True
+    return False
+
+
+def normalize_venue_name(name: str, fallback: str = "(미분류 - 이동전시)") -> str:
+    """venue_name 정상화 — 날짜 패턴/빈값이면 fallback"""
+    if not name or is_date_pattern(name):
+        return fallback
+    # 너무 길거나 줄바꿈 있으면 첫 줄만
+    name = name.split("\n")[0].strip()
+    if len(name) > 80:
+        name = name[:80] + "…"
+    return name
+
+
+# ──────────────────────────────────────────────────────────────────
 # v9: 전시 dedup
 # ──────────────────────────────────────────────────────────────────
 def _norm_artists(s: str) -> str:
@@ -349,10 +417,18 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache:
     v7: 전시 없는 venue도 결과에 포함 (마커는 찍히고 전시 정보만 빈 배열).
     """
     by_v: dict[str, list] = {}
+    aliased_count = 0
     for e in exhibitions:
         if e.get("status") not in ("active", "upcoming"):
             continue
-        by_v.setdefault(e.get("venue_key", "unknown"), []).append(e)
+        # v11: venue_key 별칭 적용 (mmca_children → mmca_seoul 등)
+        raw_vk = e.get("venue_key", "unknown")
+        vk = resolve_venue_key(raw_vk)
+        if vk != raw_vk:
+            aliased_count += 1
+        by_v.setdefault(vk, []).append(e)
+    if aliased_count:
+        print(f"  [alias] 전시 {aliased_count}건 별칭 venue_key 통합", file=sys.stderr)
 
     # v9: 같은 venue 내 중복 dedup
     total_dups = 0
@@ -365,11 +441,21 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache:
 
     venues_out = []
     seen_keys = set()
+    dead_filtered = 0
+    alias_filtered = 0
     for v in all_venues_meta:
         vk = v["venue_key"]
         if vk in seen_keys:
             continue
         seen_keys.add(vk)
+        # v10: 폐관 venue 필터
+        if vk in DEAD_VENUE_KEYS:
+            dead_filtered += 1
+            continue
+        # v11: 별칭 venue는 정본에 통합되므로 자체 venue로 출력하지 않음
+        if vk in VENUE_KEY_ALIAS:
+            alias_filtered += 1
+            continue
         lst = by_v.get(vk, [])
         lst_sorted = sorted(lst, key=lambda e: e.get("start_date") or "9999")
         sample = lst_sorted[0] if lst_sorted else {}
@@ -415,12 +501,23 @@ def build_venues_grouped(exhibitions: list, all_venues_meta: list, coords_cache:
         if vk in seen_keys:
             continue
         seen_keys.add(vk)
+        # v10: 폐관 venue 필터
+        if vk in DEAD_VENUE_KEYS:
+            dead_filtered += 1
+            continue
+        # v11: 별칭 venue는 정본에 통합되므로 자체 venue로 출력하지 않음 (이미 위에서 처리됐을 것)
+        if vk in VENUE_KEY_ALIAS:
+            alias_filtered += 1
+            continue
         lst_sorted = sorted(lst, key=lambda e: e.get("start_date") or "9999")
         sample = lst[0]
         cached = coords_cache.get(vk, {})
+        # v10: venue_name 정상화 (날짜 패턴 등 잘못된 이름 → "(미분류 - 이동전시)")
+        raw_name = sample.get("venue_name") or sample.get("venue_raw") or ""
+        normalized_name = normalize_venue_name(raw_name, fallback="(미분류 - 이동전시)")
         venues_out.append({
             "venue_key": vk,
-            "venue_name": sample.get("venue_name", "(미분류)"),
+            "venue_name": normalized_name,
             "region": sample.get("region", "unknown"),
             "address": sample.get("address") or cached.get("address", ""),
             "lat": sample.get("lat") if sample.get("lat") is not None else cached.get("lat"),
@@ -571,7 +668,7 @@ def main() -> int:
     seoul_marker_no_xy = len(seoul_venues) - seoul_marker_with_xy
     seoul_with_exh = sum(1 for v in seoul_venues if v["active_count"] + v["upcoming_count"] > 0)
     seoul_with_img = sum(1 for v in seoul_venues if v.get("image_url"))
-    print(f"\n[Merger v9] 통합 완료", file=sys.stderr)
+    print(f"\n[Merger v11] 통합 완료", file=sys.stderr)
     print(f"  전시 평면 총 {len(all_exs)}건 (서울 {len(seoul_exs)}건)", file=sys.stderr)
     print(f"  분관 마커 {len(venues_grouped)}곳 (서울 {len(seoul_venues)}곳)", file=sys.stderr)
     print(f"    └ 좌표 있음 {seoul_marker_with_xy} / 좌표 없음 {seoul_marker_no_xy}", file=sys.stderr)
