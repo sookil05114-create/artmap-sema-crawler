@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T21:14:40Z",
+  "generated_at": "2026-06-25T09:07:32Z",
   "source": "sema",
   "venue_count": 6,
   "venues": [
@@ -54,8 +54,8 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
-      "active_count": 2,
-      "upcoming_count": 1,
+      "active_count": 3,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "c657aa61a28e",
@@ -82,7 +82,7 @@
           "title": "유휴공간 전시 《보편타당한 당신 ― 심이다은》",
           "start_date": "2026-06-25",
           "end_date": "2027-04-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
           "url": "",
           "price": "무료"

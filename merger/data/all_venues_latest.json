@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-24T21:15:02Z",
+  "generated_at": "2026-06-25T09:07:53Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 258,
+  "venue_count": 257,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -83,8 +83,8 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 2,
-      "upcoming_count": 1,
+      "active_count": 3,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "c657aa61a28e",
@@ -116,7 +116,7 @@
           "artists": "",
           "start_date": "2026-06-25",
           "end_date": "2027-04-11",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
           "url": "",
           "price": "무료",
@@ -289,7 +289,7 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 6,
+      "active_count": 7,
       "upcoming_count": 6,
       "exhibitions": [
         {
@@ -325,6 +325,18 @@
           "status": "active",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
+          "price": "무료",
+          "source": "mmca"
+        },
+        {
+          "id": "1fe18767dc6b",
+          "title": "오~감각미술관",
+          "artists": "깪, 엄정순, 함진",
+          "start_date": "2026-04-30",
+          "end_date": "2027-02-21",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
           "price": "무료",
           "source": "mmca"
         },
@@ -486,34 +498,6 @@
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
           "price": "-",
-          "source": "mmca"
-        }
-      ]
-    },
-    {
-      "venue_key": "mmca_children",
-      "venue_name": "국립현대미술관 어린이미술관",
-      "region": "seoul",
-      "address": "서울 종로구 삼청로 30",
-      "lat": 37.5793,
-      "lng": 126.9806,
-      "official_url": "https://www.mmca.go.kr/contents.do?menuId=4500001028",
-      "instagram_url": "",
-      "image_url": "",
-      "category": "",
-      "active_count": 1,
-      "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "1fe18767dc6b",
-          "title": "오~감각미술관",
-          "artists": "깪, 엄정순, 함진",
-          "start_date": "2026-04-30",
-          "end_date": "2027-02-21",
-          "status": "active",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
-          "price": "무료",
           "source": "mmca"
         }
       ]
@@ -5188,7 +5172,7 @@
     },
     {
       "venue_key": "unknown",
-      "venue_name": "2026/06/15~2026/06/28",
+      "venue_name": "(미분류 - 이동전시)",
       "region": "seoul",
       "address": "",
       "lat": null,
