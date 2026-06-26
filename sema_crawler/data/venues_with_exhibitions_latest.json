@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T21:19:27Z",
+  "generated_at": "2026-06-26T21:10:37Z",
   "source": "sema",
   "venue_count": 6,
   "venues": [
@@ -144,7 +144,7 @@
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "26458500b9ef",
@@ -153,6 +153,16 @@
           "end_date": "2026-07-05",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "226ef85090c8",
+          "title": "《마틴 파 : We Are Martin Parr》",
+          "start_date": "2026-07-16",
+          "end_date": "2026-10-18",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012543",
           "url": "",
           "price": "무료"
         }
@@ -203,7 +213,7 @@
       "lng": null,
       "official_url": "",
       "active_count": 3,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "ed3c6f8a8bec",
@@ -235,6 +245,17 @@
           "end_date": "2026-07-12",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "530ed74c9894",
+          "title": "[2026 신진미술인 지원 프로그램] 허수인 개인전 《사적인 프로토콜》",
+          "venue_raw": "2026/07/01~2026/07/18",
+          "start_date": "2026-07-01",
+          "end_date": "2026-07-18",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1013117",
           "url": "",
           "price": "무료"
         }
