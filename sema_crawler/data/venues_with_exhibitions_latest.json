@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T21:10:37Z",
+  "generated_at": "2026-06-27T20:45:50Z",
   "source": "sema",
   "venue_count": 6,
   "venues": [
@@ -54,9 +54,19 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
-      "active_count": 3,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "bd8a5f6ebb44",
+          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "start_date": "2026-04-02",
+          "end_date": "2027-05-30",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+          "url": "",
+          "price": "무료"
+        },
         {
           "id": "c657aa61a28e",
           "title": "《글짓, 쓰는 예술》",
@@ -212,20 +222,9 @@
       "lat": null,
       "lng": null,
       "official_url": "",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "ed3c6f8a8bec",
-          "title": "[2026 신진미술인 지원 프로그램] 신재은 개인전 《GAIA-피식의 서》",
-          "venue_raw": "2026/06/15~2026/06/28",
-          "start_date": "2026-06-15",
-          "end_date": "2026-06-28",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "fd82255f40a1",
           "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",

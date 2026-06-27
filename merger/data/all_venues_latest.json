@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T21:10:59Z",
+  "generated_at": "2026-06-27T20:46:13Z",
   "sources": [
     "sema",
     "mmca",
@@ -83,9 +83,21 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 3,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "bd8a5f6ebb44",
+          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "artists": "",
+          "start_date": "2026-04-02",
+          "end_date": "2027-05-30",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
+        },
         {
           "id": "c657aa61a28e",
           "title": "《글짓, 쓰는 예술》",
@@ -3258,8 +3270,8 @@
       "instagram_url": "https://www.instagram.com/gallerybaton",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/f8/f88436e6e74d4f89959f8b141966b8f4/gb_rl_2026_aufenthalt-to-stay-_casein-on-canvas_200-x-250-cm-204-x-254.5-x-6.4-cm-artist-frame.jpg",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "03f0648c4281",
@@ -3267,7 +3279,7 @@
           "artists": "Bae Yoon Hwan",
           "start_date": "2026-06-27",
           "end_date": "2026-07-31",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/03/03984784825841f8aae108101514aec0/gb_byh_2022_portrait_2_photo-by-jeon-byung-cheol.jpg",
           "url": "https://gallerybaton.com/",
           "price": "",
@@ -5184,7 +5196,7 @@
     },
     {
       "venue_key": "unknown",
-      "venue_name": "(미분류 - 이동전시)",
+      "venue_name": "주워싱턴한국문화원",
       "region": "seoul",
       "address": "",
       "lat": null,
@@ -5193,21 +5205,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "기타",
-      "active_count": 3,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "ed3c6f8a8bec",
-          "title": "[2026 신진미술인 지원 프로그램] 신재은 개인전 《GAIA-피식의 서》",
-          "artists": "",
-          "start_date": "2026-06-15",
-          "end_date": "2026-06-28",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011332",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
         {
           "id": "fd82255f40a1",
           "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
