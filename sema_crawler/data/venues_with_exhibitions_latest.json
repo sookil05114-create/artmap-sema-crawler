@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T20:59:20Z",
+  "generated_at": "2026-06-29T08:12:21Z",
   "source": "sema",
-  "venue_count": 0,
+  "venue_count": 6,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -11,9 +11,50 @@
       "lat": 37.5641,
       "lng": 126.9737,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seosomun",
-      "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
+      "active_count": 3,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "aebb8561f013",
+          "title": "가나아트컬렉션 《기술의 저변: 경계에 선 장면들》",
+          "start_date": "2026-04-16",
+          "end_date": "2026-11-22",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "d340ac7a2efe",
+          "title": "난지미술창작스튜디오 20주년 기념전 《사랑의 기원》",
+          "start_date": "2026-04-30",
+          "end_date": "2026-09-06",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "5fdda35e076a",
+          "title": "2026년 한국 근대 거장전 《유영국: 산은 내 안에 있다》",
+          "start_date": "2026-05-19",
+          "end_date": "2026-10-25",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "1fc6325d75ce",
+          "title": "《린 허쉬만 리슨 개인전》 (가제)",
+          "start_date": "2026-10-21",
+          "end_date": "2027-02-21",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014132",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "bukseoul",
@@ -23,9 +64,50 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
-      "active_count": 0,
+      "active_count": 4,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "bd8a5f6ebb44",
+          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "start_date": "2026-04-02",
+          "end_date": "2027-05-30",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "c657aa61a28e",
+          "title": "《글짓, 쓰는 예술》",
+          "start_date": "2026-04-23",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "85636baf089c",
+          "title": "《권병준: 내 마음속에 너는》",
+          "start_date": "2026-06-11",
+          "end_date": "2027-05-16",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "e08a367f93a2",
+          "title": "유휴공간 전시 《보편타당한 당신 ― 심이다은》",
+          "start_date": "2026-06-25",
+          "end_date": "2027-04-11",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "seoseoul",
@@ -35,9 +117,20 @@
       "lat": 37.4581,
       "lng": 126.8959,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "a9a7e67786af",
+          "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+          "start_date": "2026-05-14",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "namseoul",
@@ -47,9 +140,20 @@
       "lat": 37.4793,
       "lng": 126.9577,
       "official_url": "https://sema.seoul.go.kr/kr/visit/namseoul",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "9a6ce05bab0c",
+          "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
+          "start_date": "2026-05-20",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "photosema",
@@ -59,9 +163,30 @@
       "lat": 37.6612,
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
-      "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
+      "active_count": 1,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "26458500b9ef",
+          "title": "사진공유 프로젝트 《집-들이!》",
+          "start_date": "2026-06-19",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "226ef85090c8",
+          "title": "《마틴 파 : We Are Martin Parr》",
+          "start_date": "2026-07-16",
+          "end_date": "2026-10-18",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012543",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "art_archive",
@@ -98,6 +223,52 @@
       "active_count": 0,
       "upcoming_count": 0,
       "exhibitions": []
+    },
+    {
+      "venue_key": "unknown",
+      "venue_name": "기타·외부 협력",
+      "region": "unknown",
+      "address": "",
+      "lat": null,
+      "lng": null,
+      "official_url": "",
+      "active_count": 2,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "fd82255f40a1",
+          "title": "2026 투어링 케이-아츠 《아마도, 모두 우리》",
+          "venue_raw": "주워싱턴한국문화원",
+          "start_date": "2026-06-17",
+          "end_date": "2026-08-11",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "80a75729d548",
+          "title": "[2026 신진미술인 지원 프로그램] 반재하 개인전 《모퉁이를 돌면 거짓 친구》",
+          "venue_raw": "2026/06/19~2026/07/12",
+          "start_date": "2026-06-19",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "530ed74c9894",
+          "title": "[2026 신진미술인 지원 프로그램] 허수인 개인전 《사적인 프로토콜》",
+          "venue_raw": "2026/07/01~2026/07/18",
+          "start_date": "2026-07-01",
+          "end_date": "2026-07-18",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1013117",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     }
   ]
 }
