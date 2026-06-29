@@ -1,7 +1,2217 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-28T22:26:42Z",
+  "generated_at": "2026-06-29T08:41:58Z",
   "items": [
+    {
+      "id": "31be22bbb97b",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:41:39Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "http://www.goutergallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/goutergallery/",
+        "http://www.goutergallery.com/"
+      ],
+      "og_title": "구띠갤러리",
+      "og_image": "http://www.goutergallery.com/theme/gouter/img/logo.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "JUNE FESTA 4",
+        "artists": "김영관 외 14인",
+        "venue_name": "구띠갤러리",
+        "start_date": "2026-06-17",
+        "end_date": "2026-07-05",
+        "thumbnail": null,
+        "description_summary": "구띠갤러리에서 개최하는 JUNE FESTA 4 전시",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seocho_v_801e44b887",
+      "venue_name": "구띠갤러리",
+      "title": "JUNE FESTA 4",
+      "artists": "김영관 외 14인",
+      "start_date": "2026-06-17",
+      "end_date": "2026-07-05",
+      "thumbnail": "http://www.goutergallery.com/theme/gouter/img/logo.png",
+      "lat": 37.4907046,
+      "lng": 127.0070324,
+      "address": "서울 서초구 서초대로38길 15 구띠갤러리",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "55623948e507",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:41:31Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.artspacey.com/",
+      "source_urls": [
+        "https://www.instagram.com/artspacey_gallery",
+        "https://www.artspacey.com/"
+      ],
+      "og_title": "아트스페이스와이, art space y, 아트갤러리, art gallery | 현대미술",
+      "og_image": "https://static.wixstatic.com/media/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "PLAY : NANCY LANG",
+        "artists": "NANCY LANG",
+        "venue_name": "아트스페이스와이",
+        "start_date": "2026-06-10",
+        "end_date": "2026-07-12",
+        "thumbnail": "https://static.wixstatic.com/media/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png",
+        "description_summary": "낸시 랑의 개인전",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "gangnam_v_c0eee613ca",
+      "venue_name": "아트스페이스와이",
+      "title": "PLAY : NANCY LANG",
+      "artists": "NANCY LANG",
+      "start_date": "2026-06-10",
+      "end_date": "2026-07-12",
+      "thumbnail": "https://static.wixstatic.com/media/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png",
+      "lat": 37.5018379,
+      "lng": 127.028352,
+      "address": "서울 강남구 강남대로100길 28 B1, B2",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "72d250ebc8c1",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:41:14Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://hhart.co.kr/",
+      "source_urls": [
+        "https://www.instagram.com/hhart_13/",
+        "https://hhart.co.kr/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "그럼에도 불구하고, 결국 그림",
+        "artists": null,
+        "venue_name": "혜화아트센터 제1전시장",
+        "start_date": "2026-06-26",
+        "end_date": "2026-07-01",
+        "thumbnail": null,
+        "description_summary": "혜화아트센터 제1전시장의 현재 전시 단체展입니다.",
+        "confidence": 0.9,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_089da64969",
+      "venue_name": "혜화아트센터",
+      "title": "그럼에도 불구하고, 결국 그림",
+      "artists": null,
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-01",
+      "thumbnail": "",
+      "lat": 37.5853091,
+      "lng": 127.001811,
+      "address": "서울 종로구 대학로 156 1층",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "daf82d1d41d5",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:41:00Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://galleryharang.com/",
+      "source_urls": [
+        "https://www.instagram.com/galleryharang",
+        "https://galleryharang.com/"
+      ],
+      "og_title": "하랑갤러리",
+      "og_image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "옻칠, 빛으로 피어나다",
+        "artists": "김정은, 박승비, 손수경, 신란숙, 윤현섭, 정회윤",
+        "venue_name": "하랑갤러리",
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-12",
+        "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+        "description_summary": "옻칠이라는 재료를 통해 시간, 자연, 인간의 내면이 만들어내는 빛을 조명하는 전시. 여섯 명의 작가가 동시대 감각으로 전통 옻칠의 가능성을 확장한다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_2804aa3a69",
+      "venue_name": "하랑갤러리",
+      "title": "옻칠, 빛으로 피어나다",
+      "artists": "김정은, 박승비, 손수경, 신란숙, 윤현섭, 정회윤",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-12",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+      "lat": 37.5941635,
+      "lng": 126.9656704,
+      "address": "서울 종로구 자하문로38길 45",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "fd4264ca1022",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:40:45Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.lazymike.art/",
+      "source_urls": [
+        "https://www.instagram.com/lazymike.art/",
+        "https://www.lazymike.art/"
+      ],
+      "og_title": "Lazy Mike",
+      "og_image": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "The Unflattening Mandate",
+        "artists": null,
+        "venue_name": "Lazy Mike",
+        "start_date": "2026-06-13",
+        "end_date": "2026-07-11",
+        "thumbnail": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
+        "description_summary": "The Unflattening Mandate 전시 - 2026년 6월 13일부터 7월 11일까지 개최.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "gangnam_v_038a4cccd9",
+      "venue_name": "레이지 마이크",
+      "title": "The Unflattening Mandate",
+      "artists": null,
+      "start_date": "2026-06-13",
+      "end_date": "2026-07-11",
+      "thumbnail": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
+      "lat": 37.5274819,
+      "lng": 127.0493608,
+      "address": "서울 강남구 도산대로83길 48-4",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "df935c1ed570",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:40:29Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://moowoosoogallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/mws_gallery_",
+        "https://moowoosoogallery.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "르 스펙트르 드 레트르",
+        "artists": null,
+        "venue_name": "무우수갤러리",
+        "start_date": "2025-03-05",
+        "end_date": "2025-04-07",
+        "thumbnail": null,
+        "description_summary": "무우수갤러리에서 진행 중인 전시",
+        "confidence": 0.9,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_ff63e492bc",
+      "venue_name": "무우수갤러리",
+      "title": "르 스펙트르 드 레트르",
+      "artists": null,
+      "start_date": "2025-03-05",
+      "end_date": "2025-04-07",
+      "thumbnail": "",
+      "lat": 37.5726658,
+      "lng": 126.9863344,
+      "address": "서울 종로구 인사동길 19-2 와담빌딩 3,4층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "2c614d1918b4",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:40:20Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (homepage; 좌표=venues.json)",
+      "source_url": "http://www.baegak.co.kr/",
+      "source_urls": [
+        "http://www.baegak.co.kr/"
+      ],
+      "og_title": "[¹é¾Ç¹Ì¼ú°ü]",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "한묵전",
+        "artists": null,
+        "venue_name": "백악미술관",
+        "start_date": "2026-06-25",
+        "end_date": "2026-07-01",
+        "thumbnail": null,
+        "description_summary": "백악미술관에서 개최되는 한묵전 전시",
+        "confidence": 0.6
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_a5111dc307",
+      "venue_name": "백악미술관",
+      "title": "한묵전",
+      "artists": null,
+      "start_date": "2026-06-25",
+      "end_date": "2026-07-01",
+      "thumbnail": "",
+      "lat": 37.5735679,
+      "lng": 126.9841283,
+      "address": "서울 종로구 인사동9길 16",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "ef7c7076700c",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:40:07Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.galleryinsaart.com/",
+      "source_urls": [
+        "https://www.instagram.com/galleryinsaart/",
+        "https://www.galleryinsaart.com/"
+      ],
+      "og_title": "갤러리 인사아트",
+      "og_image": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "제 25회 아트메트로 2026",
+        "artists": null,
+        "venue_name": "갤러리 인사아트",
+        "start_date": "2026-06-24",
+        "end_date": "2026-06-29",
+        "thumbnail": null,
+        "description_summary": "갤러리 인사아트의 본전시장, 특별전시장, 2전시장에서 개최되는 제 25회 아트메트로 2026 전시.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_65b75297bf",
+      "venue_name": "갤러리인사아트",
+      "title": "제 25회 아트메트로 2026",
+      "artists": null,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-29",
+      "thumbnail": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
+      "lat": 37.574983,
+      "lng": 126.9839129,
+      "address": "서울 종로구 인사동길 56",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "c17bad99a57f",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:39:14Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.insa1010.com/",
+      "source_urls": [
+        "https://www.instagram.com/insa__1010/",
+        "https://www.insa1010.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "제12회 이화기독미술인회 정기전 < PROCESSING_동행 >",
+        "artists": null,
+        "venue_name": "인사1010 1관, B관",
+        "start_date": "2026-06-24",
+        "end_date": "2026-06-29",
+        "thumbnail": null,
+        "description_summary": "이화기독미술인회의 제12회 정기전으로 회화 작품을 전시합니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_e641b9b426",
+      "venue_name": "인사1010",
+      "title": "제12회 이화기독미술인회 정기전 < PROCESSING_동행 >",
+      "artists": null,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-29",
+      "thumbnail": "",
+      "lat": 37.5739924,
+      "lng": 126.9857089,
+      "address": "서울 종로구 인사동10길 10 B1-4F",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "148a0deb481a",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:39:05Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://maruartcenter.co.kr/default/",
+      "source_urls": [
+        "https://www.instagram.com/maru_artcenter",
+        "https://maruartcenter.co.kr/default/"
+      ],
+      "og_title": "¸¶·ç¾ÆÆ®¼¾ÅÍ",
+      "og_image": "/default/img/common/og-img.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "2026 AI Art & Business Festival",
+        "artists": null,
+        "venue_name": "마루아트센터",
+        "start_date": "2026-06-24",
+        "end_date": "2026-06-29",
+        "thumbnail": null,
+        "description_summary": "AI 아트와 비즈니스를 주제로 한 페스티벌로, 극동대학교 만화·애니메이션학과 과제전, 제15회 평화미협여성작가회전, 제3회 그로브아트스튜디오 전시 등 여러 전시가 동시 개최됩니다.",
+        "confidence": 0.7,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_7621337f8e",
+      "venue_name": "마루아트센터",
+      "title": "2026 AI Art & Business Festival",
+      "artists": null,
+      "start_date": "2026-06-24",
+      "end_date": "2026-06-29",
+      "thumbnail": "/default/img/common/og-img.png",
+      "lat": 37.5734136,
+      "lng": 126.9850588,
+      "address": "서울 종로구 인사동길 35-6 B1F, 1F, 3F",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "630de06b7760",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:38:45Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://gallerycrane.com/",
+      "source_urls": [
+        "https://www.instagram.com/gallery_crane/",
+        "https://gallerycrane.com/"
+      ],
+      "og_title": "갤러리 크레인",
+      "og_image": "https://gallerycrane.com/img/headerLogo.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "UPCOMING EXHIBITION",
+        "artists": null,
+        "venue_name": "갤러리 크레인",
+        "start_date": "2025-07-04",
+        "end_date": "2025-08-01",
+        "thumbnail": null,
+        "description_summary": "갤러리 크레인의 예정된 전시",
+        "confidence": 0.5,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_94056b8409",
+      "venue_name": "갤러리크레인",
+      "title": "UPCOMING EXHIBITION",
+      "artists": null,
+      "start_date": "2025-07-04",
+      "end_date": "2025-08-01",
+      "thumbnail": "https://gallerycrane.com/img/headerLogo.jpg",
+      "lat": 37.611443,
+      "lng": 126.9747808,
+      "address": "서울 종로구 평창30길 17",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "be7273cf45fb",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:38:35Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "http://www.woonggallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/gallerywoong",
+        "http://www.woonggallery.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "형상이 된 반복",
+        "artists": "황준호",
+        "venue_name": "웅갤러리",
+        "start_date": "2026-06-04",
+        "end_date": "2026-07-10",
+        "thumbnail": null,
+        "description_summary": "황준호 작가의 개인전 '형상이 된 반복'",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_87b0cfe0f3",
+      "venue_name": "웅갤러리",
+      "title": "형상이 된 반복",
+      "artists": "황준호",
+      "start_date": "2026-06-04",
+      "end_date": "2026-07-10",
+      "thumbnail": "",
+      "lat": 37.5990954,
+      "lng": 126.9596434,
+      "address": "서울 종로구 자하문로 299",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "df1c930ee931",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:38:29Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.woosongallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/woosongallery",
+        "https://www.woosongallery.com/"
+      ],
+      "og_title": "WOOSON GALLERY",
+      "og_image": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "After the Hull",
+        "artists": "Ahnnlee Lee",
+        "venue_name": "WOOSON GALLERY",
+        "start_date": "2026-05-28",
+        "end_date": "2026-07-25",
+        "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
+        "description_summary": "우손갤러리에서 개최되는 현대미술 전시",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seongbuk_v_82a3224227",
+      "venue_name": "우손갤러리 서울",
+      "title": "After the Hull",
+      "artists": "Ahnnlee Lee",
+      "start_date": "2026-05-28",
+      "end_date": "2026-07-25",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
+      "lat": 37.5963577,
+      "lng": 127.00017,
+      "address": "서울 성북구 선잠로2나길 9",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "52a48790e020",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:38:22Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.jasonhaam.com/",
+      "source_urls": [
+        "https://www.instagram.com/jasonhaam",
+        "https://www.jasonhaam.com/"
+      ],
+      "og_title": "Jason Haam",
+      "og_image": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0434/usr/images/exhibitions/home_page_image/items/b9/b9ae0f0989824ef1b84ba2b77edbdc54/036a3590c.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Amanda Baldwin: Sun Rose / Marie Cloquet: Superbloom",
+        "artists": "Amanda Baldwin, Marie Cloquet",
+        "venue_name": "Jason Haam",
+        "start_date": "2026-05-09",
+        "end_date": "2026-06-30",
+        "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0434/usr/images/exhibitions/home_page_image/items/b9/b9ae0f0989824ef1b84ba2b77edbdc54/036a3590c.jpg",
+        "description_summary": "Amanda Baldwin과 Marie Cloquet의 개인전이 동시에 개최되는 전시로, 두 작가 모두 2026년 5월 9일부터 6월 30일까지 전시된다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seongbuk_v_171b2e1705",
+      "venue_name": "제이슨함",
+      "title": "Amanda Baldwin: Sun Rose / Marie Cloquet: Superbloom",
+      "artists": "Amanda Baldwin, Marie Cloquet",
+      "start_date": "2026-05-09",
+      "end_date": "2026-06-30",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0434/usr/images/exhibitions/home_page_image/items/b9/b9ae0f0989824ef1b84ba2b77edbdc54/036a3590c.jpg",
+      "lat": 37.5945022,
+      "lng": 126.9884306,
+      "address": "서울 성북구 성북로31길 73",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "c9222e3af244",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:37:41Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.seoulartnow.com/",
+      "source_urls": [
+        "https://www.instagram.com/seoulartnow",
+        "https://www.seoulartnow.com/"
+      ],
+      "og_title": "K-Art & Korea Contemporary Fine Artworks | Korean Artist | Seoul  Art Now",
+      "og_image": "https://static.wixstatic.com/media/c781ca_4f683de86eb34d25b0bf6da4f5b4c24c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/c781ca_4f683de86eb34d25b0bf6da4f5b4c24c%7Emv2.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "눈부신 서가",
+        "artists": "김성호",
+        "venue_name": "서울아트나우",
+        "start_date": "2024-06-09",
+        "end_date": "2024-07-31",
+        "thumbnail": "https://static.wixstatic.com/media/c781ca_4f683de86eb34d25b0bf6da4f5b4c24c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/c781ca_4f683de86eb34d25b0bf6da4f5b4c24c%7Emv2.jpg",
+        "description_summary": "김성호의 개인전 '눈부신 서가'",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seocho_v_174afdea29",
+      "venue_name": "서울아트나우",
+      "title": "눈부신 서가",
+      "artists": "김성호",
+      "start_date": "2024-06-09",
+      "end_date": "2024-07-31",
+      "thumbnail": "https://static.wixstatic.com/media/c781ca_4f683de86eb34d25b0bf6da4f5b4c24c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/c781ca_4f683de86eb34d25b0bf6da4f5b4c24c%7Emv2.jpg",
+      "lat": 37.4898194,
+      "lng": 127.0117414,
+      "address": "서울 서초구 반포대로24길 41-14 102호",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "524c818198ba",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:37:13Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.diamondg.co.kr/",
+      "source_urls": [
+        "https://www.instagram.com/diamond_g___",
+        "https://www.diamondg.co.kr/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "The Layers of Perception, Artist R.",
+        "artists": "권나연, 김정아, 배주은, 신혜진, 이승훈",
+        "venue_name": "다이아몬드지",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "현재 진행 중인 전시로 5명의 작가가 참여한 그룹 전시.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_42091b6e38",
+      "venue_name": "다이아몬드지",
+      "title": "The Layers of Perception, Artist R.",
+      "artists": "권나연, 김정아, 배주은, 신혜진, 이승훈",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "",
+      "lat": 37.5472576,
+      "lng": 126.9838504,
+      "address": "서울 용산구 신흥로20길 37-3 제1호",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "c1e46828e689",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:36:57Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.seoul284.org/main",
+      "source_urls": [
+        "https://www.instagram.com/culturestationseoul284/",
+        "https://www.seoul284.org/main"
+      ],
+      "og_title": "문화역서울284",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "서울역 2026: 다시 뛰는 심장",
+        "artists": null,
+        "venue_name": "문화역서울 284",
+        "start_date": "2026-06-11",
+        "end_date": "2026-08-17",
+        "thumbnail": null,
+        "description_summary": "2026 철도문화전으로 서울역의 역사와 문화를 재조명하는 전시. 화~일 10:00~18:00 운영 (수요일 19:00까지 연장).",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "junggu_v_5bed25a7a8",
+      "venue_name": "문화역서울 284",
+      "title": "서울역 2026: 다시 뛰는 심장",
+      "artists": null,
+      "start_date": "2026-06-11",
+      "end_date": "2026-08-17",
+      "thumbnail": "",
+      "lat": 37.5558207,
+      "lng": 126.9715927,
+      "address": "서울 중구 통일로 1 문화역서울284",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "bd718734eb91",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:36:31Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://wess.kr/",
+      "source_urls": [
+        "https://www.instagram.com/wess.seoul",
+        "https://wess.kr/"
+      ],
+      "og_title": "WESS | 기획자 공동 운영 플랫폼",
+      "og_image": "https://wess.kr/wp-content/uploads/2020/05/og.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "WESS 전시후도록 2025",
+        "artists": null,
+        "venue_name": "WESS",
+        "start_date": "2025-12-11",
+        "end_date": "2025-12-14",
+        "thumbnail": "https://wess.kr/wp-content/uploads/2020/05/og.png",
+        "description_summary": "WESS 2025 전시 출판물 공개 행사",
+        "confidence": 0.6,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seongbuk_wess",
+      "venue_name": "WESS",
+      "title": "WESS 전시후도록 2025",
+      "artists": null,
+      "start_date": "2025-12-11",
+      "end_date": "2025-12-14",
+      "thumbnail": "https://wess.kr/wp-content/uploads/2020/05/og.png",
+      "lat": 37.5878588,
+      "lng": 127.0051239,
+      "address": "서울 성북구 창경궁로 320",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "dc58547dcea1",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:35:28Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.mihakgwan.com/",
+      "source_urls": [
+        "https://www.instagram.com/mi_hak_gwan/",
+        "https://www.mihakgwan.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Drawing-Growing",
+        "artists": "김영현, 김형주, 나형민, 노채연, 노한솔, 문민, 문주혜, 박소현, 박예림, 박준우, 박진주, 박형진, 손동현, 손승범, 안경수, 안진영, 원소윤, 이은실, 이은지, 이향아, 장한이, 전지홍, 정덕현, 정유미, 정재인, 조민아, 진지현, 최가영, 최수경, 황규민",
+        "venue_name": "미학관",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "미학관의 주요 진행 중인 프로젝트 전시로, 다수의 신진작가들이 참여하는 드로잉-그로잉 전시 시리즈",
+        "confidence": 0.65,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seodaemun_v_3df2209137",
+      "venue_name": "미학관",
+      "title": "Drawing-Growing",
+      "artists": "김영현, 김형주, 나형민, 노채연, 노한솔, 문민, 문주혜, 박소현, 박예림, 박준우, 박진주, 박형진, 손동현, 손승범, 안경수, 안진영, 원소윤, 이은실, 이은지, 이향아, 장한이, 전지홍, 정덕현, 정유미, 정재인, 조민아, 진지현, 최가영, 최수경, 황규민",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "",
+      "lat": 37.5848476,
+      "lng": 126.9364328,
+      "address": "서울 서대문구 홍제내2나길 2 2층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "1c4b4bb1fecc",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:34:46Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://outhouse.kr/",
+      "source_urls": [
+        "https://www.instagram.com/outhouse.seoul",
+        "https://outhouse.kr/"
+      ],
+      "og_title": "별관 OUTHOUSE",
+      "og_image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3615535%2Fattach%2Faf255727f6c546d9a271e0f925ee6128",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "SSFW",
+        "artists": "김연홍, 정다정",
+        "venue_name": "별관",
+        "start_date": "2026-03-07",
+        "end_date": "2026-03-29",
+        "thumbnail": null,
+        "description_summary": "별관에서 개최되는 SSFW 전시. 전시 기간 중 휴관 없음.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "mapo_v_b859c19fc7",
+      "venue_name": "별관",
+      "title": "SSFW",
+      "artists": "김연홍, 정다정",
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-29",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3615535%2Fattach%2Faf255727f6c546d9a271e0f925ee6128",
+      "lat": 37.5379197,
+      "lng": 126.9452347,
+      "address": "서울 마포구 망원로 74 2층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "9c06e0c53fa2",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:34:28Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "http://ujeongguk.com/",
+      "source_urls": [
+        "https://www.instagram.com/ujeongguk/",
+        "http://ujeongguk.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "멀티 디멘셔널 컨버터 : 데이터의 유물 (Multi-Dimensional Converter : Artifacts of Data)",
+        "artists": "박윤형",
+        "venue_name": "탈영역우정국",
+        "start_date": "2025-12-06",
+        "end_date": "2025-12-13",
+        "thumbnail": null,
+        "description_summary": "생성형 AI와 데이터를 주제로 한 박윤형의 개인전. 오프닝 리셉션은 2025년 12월 6일 17:00.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "mapo_v_749eb3d164",
+      "venue_name": "탈영역우정국",
+      "title": "멀티 디멘셔널 컨버터 : 데이터의 유물 (Multi-Dimensional Converter : Artifacts of Data)",
+      "artists": "박윤형",
+      "start_date": "2025-12-06",
+      "end_date": "2025-12-13",
+      "thumbnail": "",
+      "lat": 37.546978,
+      "lng": 126.9276602,
+      "address": "서울 마포구 독막로20길 42",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "e60fb5033bf9",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:34:20Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://spacepado.kr/",
+      "source_urls": [
+        "https://www.instagram.com/pado_spacewave",
+        "https://spacepado.kr/"
+      ],
+      "og_title": "공간 파도",
+      "og_image": "https://storage.googleapis.com/cr-resource/image/84bdfdee2fd6d8c57b6b02ca177801b1/spacepado/650/ca78985c63a4bfca6f37dc7779984369.jpg?_1782722057",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "백야",
+        "artists": "김유자, 박정연, 김예림, 문하영",
+        "venue_name": "공간 파도",
+        "start_date": "2026-06-13",
+        "end_date": "2026-06-24",
+        "thumbnail": "https://storage.googleapis.com/cr-resource/image/84bdfdee2fd6d8c57b6b02ca177801b1/spacepado/650/ca78985c63a4bfca6f37dc7779984369.jpg?_1782722057",
+        "description_summary": "파도 실험 071의 일환으로 ORB(김유자, 박정연)와 시야(김예림, 문하영)가 참여하는 전시",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "mapo_v_d2d2dd5276",
+      "venue_name": "공간 파도",
+      "title": "백야",
+      "artists": "김유자, 박정연, 김예림, 문하영",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-24",
+      "thumbnail": "https://storage.googleapis.com/cr-resource/image/84bdfdee2fd6d8c57b6b02ca177801b1/spacepado/650/ca78985c63a4bfca6f37dc7779984369.jpg?_1782722057",
+      "lat": 37.5555309,
+      "lng": 126.9405987,
+      "address": "서울 마포구 고산7길 23",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "0f048e1a5bb3",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:33:13Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.drawingroom.kr/",
+      "source_urls": [
+        "https://www.instagram.com/drawingroomseoul",
+        "https://www.drawingroom.kr/"
+      ],
+      "og_title": "Exhibition",
+      "og_image": "https://lh3.googleusercontent.com/sitesv/AA5AbUBBBppdJj9HxxnUNRAY54kP7MBGD_fI7owrMT_khwKvUI9akzNhFX0_yufqGEJ8kx-frgirT0HOBLC3kteOUjJ9qRz-uQ_QSJOQxXdHY16E7OtEaSLsv_bPlj6tpGtGmlMqzra14VQ5hAT_4x5ygU0Iv3QhKEjSgpCibcNNK04abBzV9Qju12fPxkBTzfA=w16383",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "풀. 숲",
+        "artists": "표영실",
+        "venue_name": "드로잉룸",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": "https://lh3.googleusercontent.com/sitesv/AA5AbUBBBppdJj9HxxnUNRAY54kP7MBGD_fI7owrMT_khwKvUI9akzNhFX0_yufqGEJ8kx-frgirT0HOBLC3kteOUjJ9qRz-uQ_QSJOQxXdHY16E7OtEaSLsv_bPlj6tpGtGmlMqzra14VQ5hAT_4x5ygU0Iv3QhKEjSgpCibcNNK04abBzV9Qju12fPxkBTzfA=w16383",
+        "description_summary": "표영실 작가의 개인전으로, 산책에서 마주한 풍경을 소재로 숲과 자연의 경계를 탐구하는 전시. 불안정함과 변화를 받아들이는 과정을 유화로 표현한다.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_f19462d789",
+      "venue_name": "드로잉룸",
+      "title": "풀. 숲",
+      "artists": "표영실",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "https://lh3.googleusercontent.com/sitesv/AA5AbUBBBppdJj9HxxnUNRAY54kP7MBGD_fI7owrMT_khwKvUI9akzNhFX0_yufqGEJ8kx-frgirT0HOBLC3kteOUjJ9qRz-uQ_QSJOQxXdHY16E7OtEaSLsv_bPlj6tpGtGmlMqzra14VQ5hAT_4x5ygU0Iv3QhKEjSgpCibcNNK04abBzV9Qju12fPxkBTzfA=w16383",
+      "lat": 37.5803348,
+      "lng": 126.9692875,
+      "address": "서울 종로구 자하문로7길 68-4 2층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "2b690c13fb5d",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:33:01Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://spaceso.kr/",
+      "source_urls": [
+        "https://www.instagram.com/space__so",
+        "https://spaceso.kr/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "분신술 / The Art of Shadow Cloning",
+        "artists": null,
+        "venue_name": "스페이스소",
+        "start_date": "2026-06-18",
+        "end_date": "2026-07-18",
+        "thumbnail": null,
+        "description_summary": "분신술(The Art of Shadow Cloning) 전시가 2026년 6월 18일부터 7월 18일까지 스페이스소에서 개최됩니다.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_142b1ecf35",
+      "venue_name": "스페이스소",
+      "title": "분신술 / The Art of Shadow Cloning",
+      "artists": null,
+      "start_date": "2026-06-18",
+      "end_date": "2026-07-18",
+      "thumbnail": "",
+      "lat": 37.5957499,
+      "lng": 126.964113,
+      "address": "서울 종로구 자하문로 242 5층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "4372d0073267",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:32:54Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.cylinderseoul.com/",
+      "source_urls": [
+        "https://www.instagram.com/cylinder_________",
+        "https://www.cylinderseoul.com/"
+      ],
+      "og_title": "C Y L I N D E R ",
+      "og_image": "http://static1.squarespace.com/static/5fcd03190db0542b88469f69/t/60f54229668793736d482bde/1626685993276/%EC%8B%A4%EB%A6%B0%EB%8D%94%ED%94%BC%EC%97%94%EC%A5%90.png?format=1500w",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Vessel",
+        "artists": "Jennifer Tee, Chanel Khoury, Eunsil Lee, Rim Park",
+        "venue_name": "CYLINDER",
+        "start_date": "2026-05-16",
+        "end_date": "2026-06-14",
+        "thumbnail": "http://static1.squarespace.com/static/5fcd03190db0542b88469f69/t/60f54229668793736d482bde/1626685993276/%EC%8B%A4%EB%A6%B0%EB%8D%94%ED%94%BC%EC%97%94%EC%A5%90.png?format=1500w",
+        "description_summary": "Jennifer Tee, Chanel Khoury, Eunsil Lee, Rim Park의 협업 전시",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "gwanak_v_fb4b686677",
+      "venue_name": "실린더",
+      "title": "Vessel",
+      "artists": "Jennifer Tee, Chanel Khoury, Eunsil Lee, Rim Park",
+      "start_date": "2026-05-16",
+      "end_date": "2026-06-14",
+      "thumbnail": "http://static1.squarespace.com/static/5fcd03190db0542b88469f69/t/60f54229668793736d482bde/1626685993276/%EC%8B%A4%EB%A6%B0%EB%8D%94%ED%94%BC%EC%97%94%EC%A5%90.png?format=1500w",
+      "lat": 37.4838105,
+      "lng": 126.9438008,
+      "address": "서울 관악구 양녕로1길 48",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "bfd550794c67",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:32:47Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://pipegallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/pipe_gallery",
+        "https://pipegallery.com/"
+      ],
+      "og_title": "PIPE GALLERY - 컨템포러리 아트 갤러리",
+      "og_image": "https://pipegallery.com/OpenGraphImage.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Transient",
+        "artists": "양소정, 김명찬",
+        "venue_name": "PIPE GALLERY",
+        "start_date": "2026-06-02",
+        "end_date": "2026-07-01",
+        "thumbnail": "https://pipegallery.com/OpenGraphImage.jpg",
+        "description_summary": "양소정과 김명찬의 전시 'Transient'",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_4752d608f8",
+      "venue_name": "파이프갤러리",
+      "title": "Transient",
+      "artists": "양소정, 김명찬",
+      "start_date": "2026-06-02",
+      "end_date": "2026-07-01",
+      "thumbnail": "https://pipegallery.com/OpenGraphImage.jpg",
+      "lat": 37.5341819,
+      "lng": 127.0008313,
+      "address": "서울 용산구 대사관로 21 2층, 3층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "5a25dc7b4641",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:32:38Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.showerseoul.com/",
+      "source_urls": [
+        "https://www.instagram.com/shower199sqm",
+        "https://www.showerseoul.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Everyone Else Is Asleep",
+        "artists": "김무영, 이연석",
+        "venue_name": "샤워",
+        "start_date": "2025-02-14",
+        "end_date": "2025-03-09",
+        "thumbnail": null,
+        "description_summary": "김무영과 이연석의 협력 전시로, 2025년 2월 중순부터 3월 초반까지 샤워에서 개최됩니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_b8039ba05c",
+      "venue_name": "샤워",
+      "title": "Everyone Else Is Asleep",
+      "artists": "김무영, 이연석",
+      "start_date": "2025-02-14",
+      "end_date": "2025-03-09",
+      "thumbnail": "",
+      "lat": 37.5461763,
+      "lng": 126.9790905,
+      "address": "서울 용산구 두텁바위로 61 지층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "3907149878d1",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:32:31Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://sangheeut.net/",
+      "source_urls": [
+        "https://www.instagram.com/sangheeut",
+        "https://sangheeut.net/"
+      ],
+      "og_title": "sangheeut",
+      "og_image": "https://freight.cargo.site/i/3b6ba22ccb4d69efd3be785225bce00940c528bb65093b6e61c4d2d9ea308c5e/sangheeut-logo-02.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Fool's Spring",
+        "artists": "Yaerim Ryu",
+        "venue_name": "sangheeut",
+        "start_date": "2026-07-03",
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "Yaerim Ryu의 전시 'Fool's Spring'이 2026년 7월 3일 개최 예정.",
+        "confidence": 0.65,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_9d32d43656",
+      "venue_name": "상히읗",
+      "title": "Fool's Spring",
+      "artists": "Yaerim Ryu",
+      "start_date": "2026-07-03",
+      "end_date": "",
+      "thumbnail": "https://freight.cargo.site/i/3b6ba22ccb4d69efd3be785225bce00940c528bb65093b6e61c4d2d9ea308c5e/sangheeut-logo-02.png",
+      "lat": 37.5410441,
+      "lng": 126.9872544,
+      "address": "서울 용산구 신흥로 30 지하 02호",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "cfe01e552e49",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:32:11Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "http://www.pibigallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/pibigallery_official/",
+        "http://www.pibigallery.com/"
+      ],
+      "og_title": "PIBI Gallery",
+      "og_image": "http://www.pibigallery.com/uploads/meta/65cd67c4beaf2.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Jim Dine: My Words & Pinocchio",
+        "artists": "Jim Dine",
+        "venue_name": "PIBI Gallery",
+        "start_date": "2026-05-28",
+        "end_date": "2026-07-04",
+        "thumbnail": null,
+        "description_summary": "Jim Dine의 작품을 다루는 전시로, 미국의 주요 현대미술가의 작업을 선보이는 프로그램.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_6e58bfae5a",
+      "venue_name": "피비갤러리",
+      "title": "Jim Dine: My Words & Pinocchio",
+      "artists": "Jim Dine",
+      "start_date": "2026-05-28",
+      "end_date": "2026-07-04",
+      "thumbnail": "http://www.pibigallery.com/uploads/meta/65cd67c4beaf2.png",
+      "lat": 37.5869983,
+      "lng": 126.9831766,
+      "address": "서울 종로구 북촌로 125-6",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "3ca96c17a2eb",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:31:49Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://biogallery.co/",
+      "source_urls": [
+        "https://www.instagram.com/biogalleryseoul",
+        "https://biogallery.co/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Mornming",
+        "artists": "Kim Hyunjin",
+        "venue_name": "Bio Gallery",
+        "start_date": "2026-06-12",
+        "end_date": "2026-07-18",
+        "thumbnail": null,
+        "description_summary": "Kim Hyunjin의 개인전 'Mornming'",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "junggu_v_1d6f902696",
+      "venue_name": "바이오갤러리",
+      "title": "Mornming",
+      "artists": "Kim Hyunjin",
+      "start_date": "2026-06-12",
+      "end_date": "2026-07-18",
+      "thumbnail": "",
+      "lat": 37.5589017,
+      "lng": 126.9871621,
+      "address": "서울 중구 소파로 129 구관4층 401호",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "0244bd04d57d",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:31:43Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://nslasha.kr/",
+      "source_urls": [
+        "https://www.instagram.com/nslasha.kr/",
+        "https://nslasha.kr/"
+      ],
+      "og_title": "N/A",
+      "og_image": "http://nslasha.kr/na/n_a_preview.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "The Death of Solomon Grundy: Sunday, and Part of Ghost/Trace, and Some Grave Ornaments",
+        "artists": "Juwon Kim",
+        "venue_name": "N/A",
+        "start_date": "2026-05-20",
+        "end_date": "2026-06-28",
+        "thumbnail": "http://nslasha.kr/na/n_a_preview.jpg",
+        "description_summary": "Juwon Kim의 개인전으로 갤러리 N/A에서 개최되는 현재 진행 중인 전시.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "junggu_v_496c2869c5",
+      "venue_name": "N/A(엔에이)",
+      "title": "The Death of Solomon Grundy: Sunday, and Part of Ghost/Trace, and Some Grave Ornaments",
+      "artists": "Juwon Kim",
+      "start_date": "2026-05-20",
+      "end_date": "2026-06-28",
+      "thumbnail": "http://nslasha.kr/na/n_a_preview.jpg",
+      "lat": 37.5669151,
+      "lng": 126.9964407,
+      "address": "서울 중구 창경궁로5길 27",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "9903ac5b6a33",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:30:54Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://tya.kr/",
+      "source_urls": [
+        "https://www.instagram.com/thereyouare_tya/",
+        "https://tya.kr/"
+      ],
+      "og_title": "thereyouare(tya) — 서촌 신진 작가 갤러리",
+      "og_image": "https://tya.kr/wp-content/uploads/2026/04/2024-tya-로고-960x600-1.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "INDEX vol.02 《발견》",
+        "artists": "김도완, 김주은, 김카이아, 우즌, 유나니, 이규헌",
+        "venue_name": "TYA갤러리",
+        "start_date": "2026-06-25",
+        "end_date": "2026-07-05",
+        "thumbnail": "https://tya.kr/wp-content/uploads/2026/04/2024-tya-로고-960x600-1.png",
+        "description_summary": "갤러리TYA 6월 디렉토리에 새로 모인 여섯 신진 작가의 첫 만남. 회화·혼합매체·장지에 채색·종이에 먹 등 28점이 전시된다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_5cdbfb0748",
+      "venue_name": "TYA갤러리",
+      "title": "INDEX vol.02 《발견》",
+      "artists": "김도완, 김주은, 김카이아, 우즌, 유나니, 이규헌",
+      "start_date": "2026-06-25",
+      "end_date": "2026-07-05",
+      "thumbnail": "https://tya.kr/wp-content/uploads/2026/04/2024-tya-로고-960x600-1.png",
+      "lat": 37.5778184,
+      "lng": 126.9703285,
+      "address": "서울시 종로구 자하문로5길 28",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "5b124e519762",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:30:42Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://foundryseoul.net/",
+      "source_urls": [
+        "https://www.instagram.com/foundryseoul",
+        "https://foundryseoul.net/"
+      ],
+      "og_title": "FOUNDRY SEOUL",
+      "og_image": "https://foundryseoul.net/wp-content/themes/fs-theme/assets/src/thumbnail.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Summer Sparks II: Ignite at Frieze House Seoul",
+        "artists": "Hyunhee Doh, Omyo Cho",
+        "venue_name": "Frieze House Seoul",
+        "start_date": "2026-06-18",
+        "end_date": "2026-07-01",
+        "thumbnail": "https://foundryseoul.net/wp-content/themes/fs-theme/assets/src/thumbnail.jpg",
+        "description_summary": "파운드리 서울이 프리즈 하우스 서울에서 개최하는 전시. 현대미술 작가 현희 도와 옴요 조의 작품을 선보임.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_32ec7830fb",
+      "venue_name": "파운드리 서울",
+      "title": "Summer Sparks II: Ignite at Frieze House Seoul",
+      "artists": "Hyunhee Doh, Omyo Cho",
+      "start_date": "2026-06-18",
+      "end_date": "2026-07-01",
+      "thumbnail": "https://foundryseoul.net/wp-content/themes/fs-theme/assets/src/thumbnail.jpg",
+      "lat": 37.5354607,
+      "lng": 126.9985407,
+      "address": "서울특별시 용산구 이태원로 223",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "4c40fe1d11c1",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:30:25Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.gallerychosun.com/",
+      "source_urls": [
+        "https://www.instagram.com/gallerychosun",
+        "https://www.gallerychosun.com/"
+      ],
+      "og_title": "gallerychosun",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Talpidae",
+        "artists": "Jiyeon LEE, Kyungeun SON",
+        "venue_name": "Gallery Chosun",
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-25",
+        "thumbnail": null,
+        "description_summary": "Gallery Chosun에서 개최되는 Talpidae 전시로, Jiyeon LEE와 Kyungeun SON 두 작가의 작품을 소개합니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_d3cfec7ce6",
+      "venue_name": "갤러리조선",
+      "title": "Talpidae",
+      "artists": "Jiyeon LEE, Kyungeun SON",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-25",
+      "thumbnail": "",
+      "lat": 37.5799207,
+      "lng": 126.9814996,
+      "address": "서울시 종로구 북촌로 5길 64 갤러리조선",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "5801eee0219e",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:30:19Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "http://www.gallerymeme.com/web/main.html",
+      "source_urls": [
+        "https://www.instagram.com/_gallerymeme/",
+        "http://www.gallerymeme.com/web/main.html"
+      ],
+      "og_title": "갤러리밈",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "M'VOID Current",
+        "artists": "Jung Jungyeob",
+        "venue_name": "GalleryMEME",
+        "start_date": "2026-06-17",
+        "end_date": "2026-08-12",
+        "thumbnail": null,
+        "description_summary": "정정엽 작가의 'M'VOID Current' 전시. 갤러리밈 M'VOID 공간에서 개최되는 현대미술 전시.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_8a8a494901",
+      "venue_name": "갤러리밈",
+      "title": "M'VOID Current",
+      "artists": "Jung Jungyeob",
+      "start_date": "2026-06-17",
+      "end_date": "2026-08-12",
+      "thumbnail": "",
+      "lat": 37.5727757,
+      "lng": 126.9859438,
+      "address": "서울특별시 종로구 인사동 5길 3 갤러리밈",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "8bbe7b78ebcc",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:30:02Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://spaceuooyoung.art/",
+      "source_urls": [
+        "https://www.instagram.com/spaceuooyoung",
+        "https://spaceuooyoung.art/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "어떻게 사랑할 것인가",
+        "artists": null,
+        "venue_name": "유영공간",
+        "start_date": "2026-06-17",
+        "end_date": "2026-07-05",
+        "thumbnail": null,
+        "description_summary": "유영공간의 현재 진행 중인 전시.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "seongbuk_v_20fced5d29",
+      "venue_name": "유영공간",
+      "title": "어떻게 사랑할 것인가",
+      "artists": null,
+      "start_date": "2026-06-17",
+      "end_date": "2026-07-05",
+      "thumbnail": "",
+      "lat": 37.5939752,
+      "lng": 127.0003509,
+      "address": "서울특별시 성북구 성북로16가길 1, 유영공간",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "ae645a1f92dc",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:29:53Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://can-foundation.org/",
+      "source_urls": [
+        "https://www.instagram.com/can_foundation",
+        "https://can-foundation.org/"
+      ],
+      "og_title": "",
+      "og_image": "https://can-foundation.org/cp/wp-content/themes/can/assets/share.png?v=2",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "MO BY CAN",
+        "artists": null,
+        "venue_name": "캔 파운데이션",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "캔 파운데이션에서 진행 중인 전시",
+        "confidence": 0.4,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_89feaa7787",
+      "venue_name": "캔 파운데이션",
+      "title": "MO BY CAN",
+      "artists": null,
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "https://can-foundation.org/cp/wp-content/themes/can/assets/share.png?v=2",
+      "lat": 37.5377026,
+      "lng": 126.9949214,
+      "address": "서울시 용산구 한남동 733-70 (이태원로 27길 101) 1층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "1673af76b93b",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:29:46Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.the-ref.kr/",
+      "source_urls": [
+        "https://www.instagram.com/the_reference_seoul/",
+        "https://www.the-ref.kr/"
+      ],
+      "og_title": "THE-REFERENCE",
+      "og_image": "https://the-ref.kr/link-image.png",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Private Protocol",
+        "artists": null,
+        "venue_name": "더레퍼런스",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "사적인 프로토콜(Private Protocol)이 현재 진행 중인 전시입니다.",
+        "confidence": 0.7,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_v_eb0ebb9f10",
+      "venue_name": "더레퍼런스",
+      "title": "Private Protocol",
+      "artists": null,
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "https://the-ref.kr/link-image.png",
+      "lat": 37.5822905,
+      "lng": 126.9718063,
+      "address": "서울시 종로구 자하문로24길 44 B1/1F",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "3657e2136556",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:29:18Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://artmoment.org/",
+      "source_urls": [
+        "https://www.instagram.com/artmoment.doksan",
+        "https://artmoment.org/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "나의 인류",
+        "artists": null,
+        "venue_name": "아트센터 예술의 시간",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "아트센터 예술의 시간에서 현재 진행 중인 전시",
+        "confidence": 0.5,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "geumcheon_v_d72845d889",
+      "venue_name": "아트센터 예술의 시간",
+      "title": "나의 인류",
+      "artists": null,
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "",
+      "lat": 37.4675725,
+      "lng": 126.8900963,
+      "address": "서울시 금천구 범안로 9길 23, H동",
+      "region": "seoul",
+      "category": "기타"
+    },
+    {
+      "id": "1e56b9e0ab81",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:29:02Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.centrepompidou-hanwha.kr/",
+      "source_urls": [
+        "https://www.instagram.com/centrepompidouhanwha/",
+        "https://www.centrepompidou-hanwha.kr/"
+      ],
+      "og_title": "퐁피두센터 한화",
+      "og_image": "https://www.centrepompidou-hanwha.kr/assets/images/og-image.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "큐비스트: 시각의 혁신가들",
+        "artists": null,
+        "venue_name": "한화 퐁피두센터",
+        "start_date": "2026-06-04",
+        "end_date": "2026-10-04",
+        "thumbnail": null,
+        "description_summary": "큐비즘 미술의 시각적 혁신을 다루는 전시로, 2026년 6월부터 10월까지 퐁피두센터 한화에서 개최된다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yeouido_hanwha_pompidou",
+      "venue_name": "한화 퐁피두센터",
+      "title": "큐비스트: 시각의 혁신가들",
+      "artists": null,
+      "start_date": "2026-06-04",
+      "end_date": "2026-10-04",
+      "thumbnail": "https://www.centrepompidou-hanwha.kr/assets/images/og-image.jpg",
+      "lat": 37.5199203,
+      "lng": 126.9401102,
+      "address": "서울 영등포구 여의대로 (63빌딩 인근)",
+      "region": "seoul",
+      "category": "미술관"
+    },
+    {
+      "id": "5aa32bd7f71d",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:28:47Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://futuraseoul.org/",
+      "source_urls": [
+        "https://www.instagram.com/futuraseoul",
+        "https://futuraseoul.org/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "세 번째 시: 에스 데블린, 다시 집으로 (3rd Poem: Es Devlin, Come Home Again)",
+        "artists": "Es Devlin",
+        "venue_name": "푸투라 서울",
+        "start_date": "2026-08-20",
+        "end_date": "2027-01-31",
+        "thumbnail": null,
+        "description_summary": "에스 데블린의 작품을 선보이는 전시로, 푸투라 서울의 '시' 시리즈 프로젝트의 세 번째 전시입니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_futura_seoul",
+      "venue_name": "푸투라 서울",
+      "title": "세 번째 시: 에스 데블린, 다시 집으로 (3rd Poem: Es Devlin, Come Home Again)",
+      "artists": "Es Devlin",
+      "start_date": "2026-08-20",
+      "end_date": "2027-01-31",
+      "thumbnail": "",
+      "lat": 37.5822738,
+      "lng": 126.9848149,
+      "address": "서울 종로구 북촌로 61",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "54e7e0b26892",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:27:07Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://sema.seoul.go.kr/",
+      "source_urls": [
+        "https://www.instagram.com/seoulmuseumofart/",
+        "https://sema.seoul.go.kr/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "사진공유 프로젝트 《집-들이!》",
+        "artists": null,
+        "venue_name": "서울시립 사진미술관",
+        "start_date": "2026-06-19",
+        "end_date": "2026-07-05",
+        "thumbnail": null,
+        "description_summary": "서울시립 사진미술관에서 개최하는 사진공유 프로젝트 전시",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "dobong_v_dd23d120a3",
+      "venue_name": "서울시립 사진미술관",
+      "title": "사진공유 프로젝트 《집-들이!》",
+      "artists": null,
+      "start_date": "2026-06-19",
+      "end_date": "2026-07-05",
+      "thumbnail": "",
+      "lat": 37.655482,
+      "lng": 127.0487773,
+      "address": "서울 도봉구 마들로13길 68",
+      "region": "seoul",
+      "category": "미술관"
+    },
+    {
+      "id": "f23485ed25e8",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:26:38Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://factionseoul.com/",
+      "source_urls": [
+        "https://www.instagram.com/faction.seoul/",
+        "https://factionseoul.com/"
+      ],
+      "og_title": "faction",
+      "og_image": "https://freight.cargo.site/w/1000/i/Z3005080384990258646023548636976/screenshot-2258712889.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "하이퍼 삼계탕",
+        "artists": "차토리 시미즈",
+        "venue_name": "팩션",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": "https://freight.cargo.site/w/1000/i/Z3005080384990258646023548636976/screenshot-2258712889.jpg",
+        "description_summary": "차토리 시미즈의 개인전 〈하이퍼 삼계탕〉",
+        "confidence": 0.65,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "mapo_v_00d8331098",
+      "venue_name": "팩션",
+      "title": "하이퍼 삼계탕",
+      "artists": "차토리 시미즈",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "https://freight.cargo.site/w/1000/i/Z3005080384990258646023548636976/screenshot-2258712889.jpg",
+      "lat": 37.5742868,
+      "lng": 126.9259985,
+      "address": "서울 서대문구 홍제천로6길 26 지하1층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "d9db0b8be500",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:25:27Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.captionseoul.com/",
+      "source_urls": [
+        "https://www.instagram.com/caption.seoul/",
+        "https://www.captionseoul.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "CAPTION × Inquiry",
+        "artists": "Vanilla Miryam Charles, Atarangi Anderson, Seungyeon Yi",
+        "venue_name": "캡션서울",
+        "start_date": null,
+        "end_date": "2024-07-12",
+        "thumbnail": null,
+        "description_summary": "Vanilla Miryam Charles, Atarangi Anderson, Seungyeon Yi 세 작가의 협업 전시로, 7월 12일까지 진행 예정.",
+        "confidence": 0.65,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_c0ce0399d0",
+      "venue_name": "캡션서울",
+      "title": "CAPTION × Inquiry",
+      "artists": "Vanilla Miryam Charles, Atarangi Anderson, Seungyeon Yi",
+      "start_date": "",
+      "end_date": "2024-07-12",
+      "thumbnail": "",
+      "lat": 37.5393653,
+      "lng": 126.9671902,
+      "address": "서울 용산구 원효로81길 5 2층",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "4ae8a0df73a2",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:24:52Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://ropac.net/ko/",
+      "source_urls": [
+        "https://www.instagram.com/ThaddaeusRopac/",
+        "https://ropac.net/ko/"
+      ],
+      "og_title": "Thaddaeus Ropac",
+      "og_image": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "마음의 눈",
+        "artists": null,
+        "venue_name": "타데우스로팍 서울",
+        "start_date": "2026-05-22",
+        "end_date": "2026-08-01",
+        "thumbnail": null,
+        "description_summary": "타데우스로팍 서울에서 진행 중인 전시",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "yongsan_v_d2d167936c",
+      "venue_name": "타데우스로팍 서울",
+      "title": "마음의 눈",
+      "artists": null,
+      "start_date": "2026-05-22",
+      "end_date": "2026-08-01",
+      "thumbnail": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+      "lat": 37.536852,
+      "lng": 127.0128664,
+      "address": "서울 용산구 독서당로 122-1",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "ea7a25f63e31",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:20:23Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.pyogallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/pyogallery/",
+        "https://www.pyogallery.com/"
+      ],
+      "og_title": "PYO Gallery | 화랑 | 대한민국 서울시 종로구 체부동 자하문로5길 18-4",
+      "og_image": "https://static.wixstatic.com/media/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "검은 숲, 찬란한 밑바닥 (Dark Forest, Radiant Depths)",
+        "artists": "김미로",
+        "venue_name": "PYO Gallery",
+        "start_date": "2026-07-03",
+        "end_date": "2026-08-01",
+        "thumbnail": "https://static.wixstatic.com/media/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg",
+        "description_summary": "김미로 작가의 개인전으로, 현재 진행중인 전시입니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_pyogaelreori",
+      "venue_name": "표갤러리",
+      "title": "검은 숲, 찬란한 밑바닥 (Dark Forest, Radiant Depths)",
+      "artists": "김미로",
+      "start_date": "2026-07-03",
+      "end_date": "2026-08-01",
+      "thumbnail": "https://static.wixstatic.com/media/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg",
+      "lat": 37.5778927,
+      "lng": 126.9708457,
+      "address": "서울 종로구 자하문로5길 18-4",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "73ba38d4b29f",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:20:02Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.pageroom8.com/",
+      "source_urls": [
+        "https://www.instagram.com/pageroom8",
+        "https://www.pageroom8.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "더블 스프레드 Double Spread",
+        "artists": "권오상, 함성주",
+        "venue_name": "페이지룸8",
+        "start_date": "2026-06-19",
+        "end_date": "2026-07-18",
+        "thumbnail": null,
+        "description_summary": "조각가의 드로잉 3 프로젝트의 일환으로, 권오상과 함성주의 회화 및 입체 작품을 선보이는 전시. 6월 19일 금요일 오후 3시 아티스트 토크 개최.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_page_room_8",
+      "venue_name": "페이지룸8",
+      "title": "더블 스프레드 Double Spread",
+      "artists": "권오상, 함성주",
+      "start_date": "2026-06-19",
+      "end_date": "2026-07-18",
+      "thumbnail": "",
+      "lat": 37.5806929,
+      "lng": 126.9676475,
+      "address": "서울 종로구 옥인길 18",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "38206e825f89",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:19:11Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.gallerykiche.com/",
+      "source_urls": [
+        "https://www.instagram.com/gallery_kiche/",
+        "https://www.gallerykiche.com/"
+      ],
+      "og_title": "KICHE",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "바람을 안고 UPWIND",
+        "artists": null,
+        "venue_name": "갤러리 KICHE",
+        "start_date": "2026-06-27",
+        "end_date": "2026-08-01",
+        "thumbnail": null,
+        "description_summary": "갤러리 KICHE에서 개최되는 전시로, 동시대 국내외 현대미술 작가들의 작업을 선보이는 전시입니다.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_gaelreori_kiche",
+      "venue_name": "갤러리 KICHE",
+      "title": "바람을 안고 UPWIND",
+      "artists": null,
+      "start_date": "2026-06-27",
+      "end_date": "2026-08-01",
+      "thumbnail": "",
+      "lat": 37.5891341,
+      "lng": 127.0039086,
+      "address": "서울 성북구 창경궁로43길 27",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "1c91551079ec",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:18:19Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "http://totalmuseum.org/",
+      "source_urls": [
+        "https://www.instagram.com/totalmuseum/",
+        "http://totalmuseum.org/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "먼 곳의 크기",
+        "artists": "노순천",
+        "venue_name": "토탈미술관",
+        "start_date": null,
+        "end_date": null,
+        "thumbnail": null,
+        "description_summary": "물리적 거리가 아닌 사물이 우리에게서 얼마나 물러나 있는지, 또 얼마나 깊이 스며드는지에 따라 달라지는 크기를 탐구하는 개인전.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_totalmisulgwan",
+      "venue_name": "토탈미술관",
+      "title": "먼 곳의 크기",
+      "artists": "노순천",
+      "start_date": "",
+      "end_date": "",
+      "thumbnail": "",
+      "lat": 37.6121235,
+      "lng": 126.9756892,
+      "address": "서울 종로구 평창32길 8 (평창동)",
+      "region": "seoul",
+      "category": "미술관"
+    },
+    {
+      "id": "630865672543",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:17:17Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.sejul.com/",
+      "source_urls": [
+        "https://www.instagram.com/gallery_sejul/",
+        "https://www.sejul.com/"
+      ],
+      "og_title": "Gallery Sejul",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "What Holds Us | 우리를 붙드는 것",
+        "artists": null,
+        "venue_name": "Gallery Sejul",
+        "start_date": "2026-02-26",
+        "end_date": "2026-04-04",
+        "thumbnail": null,
+        "description_summary": "갤러리 세줄의 현재 진행중인 전시로, 2026년 2월 26일부터 4월 4일까지 개최됩니다.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_gaelreorisejul",
+      "venue_name": "갤러리세줄",
+      "title": "What Holds Us | 우리를 붙드는 것",
+      "artists": null,
+      "start_date": "2026-02-26",
+      "end_date": "2026-04-04",
+      "thumbnail": "",
+      "lat": 37.6134131,
+      "lng": 126.9751579,
+      "address": "서울 종로구 평창30길 40",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "1b8cd735229f",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:16:55Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.arariogallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/arariogallery/",
+        "https://www.arariogallery.com/"
+      ],
+      "og_title": "Arario Gallery",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "HUANG Hankang: The Sky Remains as the Bird Departs",
+        "artists": "HUANG Hankang",
+        "venue_name": "Arario Gallery Shanghai",
+        "start_date": "2026-05-15",
+        "end_date": "2026-07-04",
+        "thumbnail": null,
+        "description_summary": "황한강의 작품을 선보이는 전시로, 새가 떠나간 후에도 하늘은 그대로 남아있다는 의미의 제목을 가지고 있습니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "jongno_arariogaelreori_seoul",
+      "venue_name": "아라리오갤러리 서울",
+      "title": "HUANG Hankang: The Sky Remains as the Bird Departs",
+      "artists": "HUANG Hankang",
+      "start_date": "2026-05-15",
+      "end_date": "2026-07-04",
+      "thumbnail": "",
+      "lat": 37.5778727,
+      "lng": 126.9885265,
+      "address": "서울 종로구 율곡로 85",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "47cdd8e3959f",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:15:16Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://www.kukjegallery.com/",
+      "source_urls": [
+        "https://www.instagram.com/kukjegallery/",
+        "https://www.kukjegallery.com/"
+      ],
+      "og_title": "KUKJE GALLERY",
+      "og_image": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
+        "artists": "Robert Mapplethorpe",
+        "venue_name": "국제갤러리 Seoul Hanok",
+        "start_date": "2026-06-09",
+        "end_date": "2026-07-19",
+        "thumbnail": null,
+        "description_summary": "로버트 메이플소프의 사진 작품을 통해 형태의 시학을 탐구하는 전시",
+        "confidence": 0.9,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "kukje_gallery",
+      "venue_name": "국제갤러리",
+      "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
+      "artists": "Robert Mapplethorpe",
+      "start_date": "2026-06-09",
+      "end_date": "2026-07-19",
+      "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+      "lat": 37.5807006,
+      "lng": 126.9804771,
+      "address": "서울 종로구 삼청로 54",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "86ec41ae3646",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:13:46Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://gallerymos.com/",
+      "source_urls": [
+        "https://www.instagram.com/gallerymos.official/",
+        "https://gallerymos.com/"
+      ],
+      "og_title": "",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "Cult Baby!",
+        "artists": "신목야",
+        "venue_name": "갤러리모스",
+        "start_date": "2025-06-02",
+        "end_date": "2026-06-14",
+        "thumbnail": null,
+        "description_summary": "신목야 개인전으로 갤러리모스에서 진행되는 전시입니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "euljiro_gallerymos_official",
+      "venue_name": "갤러리모스",
+      "title": "Cult Baby!",
+      "artists": "신목야",
+      "start_date": "2025-06-02",
+      "end_date": "2026-06-14",
+      "thumbnail": "",
+      "lat": 37.5662643,
+      "lng": 126.9931911,
+      "address": "서울 중구 을지로 138",
+      "region": "seoul",
+      "category": "갤러리"
+    },
+    {
+      "id": "6d83d7482be2",
+      "source": "gallery_crawler",
+      "submitted_at": "2026-06-29T08:12:47Z",
+      "submitted_by": "auto",
+      "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
+      "source_url": "https://yellowpenclub.com/",
+      "source_urls": [
+        "https://www.instagram.com/ypc.seoul/",
+        "https://yellowpenclub.com/"
+      ],
+      "og_title": "YPC",
+      "og_image": "",
+      "extracted": {
+        "is_exhibition": true,
+        "title": "새 양윤화 개인전",
+        "artists": "양윤화",
+        "venue_name": "YPC스페이스",
+        "start_date": "2026-05-29",
+        "end_date": "2026-06-26",
+        "thumbnail": null,
+        "description_summary": "기획: 권정현. YPC스페이스에서 개최되는 양윤화 개인전.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
+      },
+      "status": "pending",
+      "venue_key": "euljiro_ypc_seoul",
+      "venue_name": "YPC스페이스",
+      "title": "새 양윤화 개인전",
+      "artists": "양윤화",
+      "start_date": "2026-05-29",
+      "end_date": "2026-06-26",
+      "thumbnail": "",
+      "lat": 37.5625242,
+      "lng": 127.0004057,
+      "address": "서울 중구 퇴계로 258",
+      "region": "seoul",
+      "category": "전시공간"
+    },
     {
       "id": "efa6df15d09c",
       "source": "gallery_crawler",
@@ -486,11 +2696,12 @@
     {
       "id": "af08c0c88683",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:13:18Z",
+      "submitted_at": "2026-06-29T08:22:21Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.operagallery.com/",
       "source_urls": [
+        "https://www.instagram.com/operagallery/",
         "https://www.operagallery.com/"
       ],
       "og_title": "",
@@ -503,8 +2714,11 @@
         "start_date": "2026-06-26",
         "end_date": "2026-07-15",
         "thumbnail": null,
-        "description_summary": "Gustavo Nazareno의 개인전으로 Opera Gallery에서 개최되는 현대미술 전시.",
-        "confidence": 0.95
+        "description_summary": "Gustavo Nazareno의 개인전으로, 현재 진행 중인 전시.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "gangnam_operagaelreori",
@@ -597,11 +2811,12 @@
     {
       "id": "cde2d74cccb2",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:08:40Z",
+      "submitted_at": "2026-06-29T08:18:42Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "http://www.kumhomuseum.com/",
       "source_urls": [
+        "https://www.instagram.com/kumhomuseumofart/",
         "http://www.kumhomuseum.com/"
       ],
       "og_title": "",
@@ -614,8 +2829,11 @@
         "start_date": null,
         "end_date": null,
         "thumbnail": null,
-        "description_summary": "박혜수 개인전",
-        "confidence": 0.6
+        "description_summary": "박혜수 개인전으로, 전시장 지킴이 자원봉사자를 모집 중이며 현재 진행 중인 전시",
+        "confidence": 0.7,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "jongno_geumhomisulgwan",
@@ -856,11 +3074,12 @@
     {
       "id": "3ae6969c2201",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:01:33Z",
+      "submitted_at": "2026-06-29T08:13:08Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "http://altspaceloop.com/",
       "source_urls": [
+        "https://www.instagram.com/alternativespaceloop/",
         "http://altspaceloop.com/"
       ],
       "og_title": "LOOP",
@@ -873,8 +3092,11 @@
         "start_date": "2026-07-03",
         "end_date": "2026-08-01",
         "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
-        "description_summary": "정상운의 개인전으로 대안공간 루프 작가 공모 선정 전시입니다.",
-        "confidence": 0.95
+        "description_summary": "대안공간 루프 작가 공모 선정 전시. 정상운의 개인전으로 2026년 7월 3일부터 8월 1일까지 개최된다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "euljiro_alternativespaceloop",
@@ -893,7 +3115,7 @@
     {
       "id": "f10f3da9a9a7",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-21T22:40:13Z",
+      "submitted_at": "2026-06-29T08:28:17Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://sema.seoul.go.kr/",
@@ -1016,11 +3238,12 @@
     {
       "id": "66b62ac204f5",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:15:24Z",
+      "submitted_at": "2026-06-29T08:24:14Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://gallerybaton.com/",
       "source_urls": [
+        "https://www.instagram.com/gallerybaton",
         "https://gallerybaton.com/"
       ],
       "og_title": "Gallery Baton",
@@ -1033,8 +3256,11 @@
         "start_date": "2026-06-27",
         "end_date": "2026-07-31",
         "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,g_xy_center,x_w_mul_0.5,y_h_mul_0.81,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/e8/e8107261d596491fad382703f7cb54ca/gb_byh_2026_baritone_charcoal-on-canvas_162.2-x-130.3-cm.jpg?focal=50,81",
-        "description_summary": "배윤환의 개인전 'Heavy Breathers'는 6월 27일부터 7월 31일까지 갤러리바톤에서 개최된다.",
-        "confidence": 0.95
+        "description_summary": "배윤환의 개인전 'Heavy Breathers'로, 갤러리바톤에서 6월 27일부터 7월 31일까지 개최된다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "yongsan_v_a1078304d2",
@@ -1053,11 +3279,12 @@
     {
       "id": "a21d458450f2",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:14:59Z",
+      "submitted_at": "2026-06-29T08:23:40Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.spacek.co.kr/index.do",
       "source_urls": [
+        "https://www.instagram.com/spacek_korea",
         "https://www.spacek.co.kr/index.do"
       ],
       "og_title": "",
@@ -1065,19 +3292,22 @@
       "extracted": {
         "is_exhibition": true,
         "title": "Friends and Neighbors",
-        "artists": null,
-        "venue_name": "Space K",
+        "artists": "Kyungsub Shin",
+        "venue_name": "Space K 서울",
         "start_date": "2026-07-23",
         "end_date": "2026-12-27",
         "thumbnail": null,
-        "description_summary": "Space K에서 개최되는 전시로, 창의성과 혁신적이고 뛰어난 콘텐츠를 지역 커뮤니티에 선보이는 전시입니다.",
-        "confidence": 0.6
+        "description_summary": "Space K 서울에서 진행되는 전시로, 창의성과 혁신적인 콘텐츠를 선보이는 기획전입니다.",
+        "confidence": 0.85,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "gangnam_seupeiseuk_seoul",
       "venue_name": "스페이스K 서울",
       "title": "Friends and Neighbors",
-      "artists": null,
+      "artists": "Kyungsub Shin",
       "start_date": "2026-07-23",
       "end_date": "2026-12-27",
       "thumbnail": "",
@@ -1928,7 +4158,7 @@
     {
       "id": "776fc3482ef0",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-21T22:32:01Z",
+      "submitted_at": "2026-06-29T08:24:28Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.pacegallery.com/",
@@ -1946,7 +4176,7 @@
         "start_date": "2026-06-19",
         "end_date": "2026-08-14",
         "thumbnail": null,
-        "description_summary": "Park Young Sook의 형태와 제스처의 만남을 주제로 한 전시.",
+        "description_summary": "Park Young Sook의 작품을 선보이는 전시로, 형식과 제스처가 만나는 지점을 탐색합니다.",
         "confidence": 0.95,
         "sources_used": [
           "homepage"
@@ -2006,11 +4236,12 @@
     {
       "id": "a2eb6bd7e5ff",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:14:30Z",
+      "submitted_at": "2026-06-29T08:23:08Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.2gil29gallery.com/",
       "source_urls": [
+        "https://www.instagram.com/2gil29gallery_official",
         "https://www.2gil29gallery.com/"
       ],
       "og_title": "2GIL29 GALLERY 이길이구갤러리 | 현대미술 | 서울특별시 강남구 강남대로 158길 35 |  전시추천",
@@ -2019,12 +4250,15 @@
         "is_exhibition": true,
         "title": "Almost Landscape",
         "artists": null,
-        "venue_name": "2GIL29 GALLERY",
+        "venue_name": "2GIL29 GALLERY 이길이구갤러리",
         "start_date": null,
         "end_date": null,
         "thumbnail": "https://static.wixstatic.com/media/e7ddc9_405488f3ce1244ef9e15066e212d1392~mv2.jpg/v1/fill/w_2500,h_4194,al_c/e7ddc9_405488f3ce1244ef9e15066e212d1392~mv2.jpg",
-        "description_summary": "2GIL29 GALLERY에서 진행 중인 'Almost Landscape' 전시",
-        "confidence": 0.6
+        "description_summary": "이길이구갤러리의 현재 진행 전시",
+        "confidence": 0.45,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "gangnam_igirigugaelreori",
@@ -2043,11 +4277,12 @@
     {
       "id": "837ee81bfbe8",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:14:06Z",
+      "submitted_at": "2026-06-29T08:22:44Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://galeriebhak.com/",
       "source_urls": [
+        "https://www.instagram.com/galeriebhak",
         "https://galeriebhak.com/"
       ],
       "og_title": "갤러리박 BHAK",
@@ -2056,12 +4291,15 @@
         "is_exhibition": true,
         "title": "In Between State",
         "artists": "Armando Chant, Sungmin Park",
-        "venue_name": "갤러리박 BHAK",
+        "venue_name": "BHAK",
         "start_date": "2026-06-18",
         "end_date": "2026-08-01",
         "thumbnail": null,
-        "description_summary": "시각 인식의 행위와 이미지의 물질적, 감각적 과정을 탐구하는 전시. 두 작가의 작업은 반복적인 구성과 해체의 순환을 통해 고정된 이미지에 도전하고 새로운 의미와 경험의 가능성을 열어낸다.",
-        "confidence": 0.95
+        "description_summary": "두 작가의 작품을 통해 지각의 행위와 이미지가 물질적, 감각적 과정을 통해 해체되고 재구성되는 방식을 탐구하는 전시. 반복적인 구성과 해체의 행위를 통해 고정된 이미지에 도전하고 의미의 새로운 가능성을 열어낸다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "yongsan_bhak",
@@ -2154,34 +4392,38 @@
     {
       "id": "8d4dc781c844",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-15T16:37:13Z",
+      "submitted_at": "2026-06-29T08:21:43Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://thepage-gallery.com/",
       "source_urls": [
+        "https://www.instagram.com/thepage_gallery",
         "https://thepage-gallery.com/"
       ],
       "og_title": "The Page Gallery",
-      "og_image": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/pages/slideshow_backup/items/43/4341840b22e2412d83c74ae3a08fff7d/_bcj8630-.jpg",
+      "og_image": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/library/images/main/pages/1/web_-_tpg_10.jpg",
       "extracted": {
         "is_exhibition": true,
         "title": "TIME INTERFACE",
-        "artists": "Vio Choe",
-        "venue_name": "The Page Gallery",
+        "artists": "최비오",
+        "venue_name": "더페이지갤러리",
         "start_date": "2026-04-15",
         "end_date": "2026-05-30",
-        "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/pages/slideshow_backup/items/43/4341840b22e2412d83c74ae3a08fff7d/_bcj8630-.jpg",
-        "description_summary": "서울 기반 작가 최비오(b. 1971)의 개인전으로, 2022년 'Observer' 이후 4년 만에 선보이는 전시. 작가가 천착해온 시간의 개념을 회화로 표현한 작업들을 소개한다.",
-        "confidence": 0.95
+        "thumbnail": null,
+        "description_summary": "서울을 기반으로 활동하는 작가 최비오의 개인전으로, 2022년 《Observer》 이후 4년 만에 선보이는 전시이며 작가가 천착해온 시간의 개념을 회화로 표현한다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "seongdong_d_gallery",
       "venue_name": "더페이지갤러리",
       "title": "TIME INTERFACE",
-      "artists": "Vio Choe",
+      "artists": "최비오",
       "start_date": "2026-04-15",
       "end_date": "2026-05-30",
-      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/pages/slideshow_backup/items/43/4341840b22e2412d83c74ae3a08fff7d/_bcj8630-.jpg",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/library/images/main/pages/1/web_-_tpg_10.jpg",
       "lat": 37.5455171,
       "lng": 127.0427626,
       "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 G205",
@@ -2265,11 +4507,12 @@
     {
       "id": "4a6d022f215e",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:09:24Z",
+      "submitted_at": "2026-06-29T08:19:21Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.grimson.co.kr/",
       "source_urls": [
+        "https://www.instagram.com/gallerygrimson",
         "https://www.grimson.co.kr/"
       ],
       "og_title": "갤러리 그림손",
@@ -2282,8 +4525,11 @@
         "start_date": "2026-06-17",
         "end_date": "2026-07-14",
         "thumbnail": null,
-        "description_summary": "갤러리 그림손 기획 초대전으로 한조영 작가의 개인전입니다.",
-        "confidence": 0.95
+        "description_summary": "갤러리 그림손 기획 초대전으로, 한조영 작가의 개인전입니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "jongno_gaelreori_geurimson",
@@ -2413,11 +4659,12 @@
     {
       "id": "9bbed4e49f4d",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:06:44Z",
+      "submitted_at": "2026-06-29T08:17:24Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.topohaus.com",
       "source_urls": [
+        "https://www.instagram.com/topohaus2004/",
         "https://www.topohaus.com"
       ],
       "og_title": "전시 | Topohaus",
@@ -2430,8 +4677,11 @@
         "start_date": "2026-06-10",
         "end_date": "2026-06-29",
         "thumbnail": "https://static.wixstatic.com/media/b4c224_2a2f67e40e4b4623b22b3cf0ca537cf1%7Emv2.png/v1/fit/w_2500,h_1330,al_c/b4c224_2a2f67e40e4b4623b22b3cf0ca537cf1%7Emv2.png",
-        "description_summary": "서울 인사동에 위치한 토포하우스의 제3전시실에서 개최되는 허준, 박청용의 2인전",
-        "confidence": 0.95
+        "description_summary": "토포하우스에서 개최하는 허준, 박청용 2인전",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "jongno_topohauseu_ateusenteo",
@@ -2602,11 +4852,12 @@
     {
       "id": "1a9ff72dff14",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:05:04Z",
+      "submitted_at": "2026-06-29T08:16:40Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.sungallery.co.kr/",
       "source_urls": [
+        "https://www.instagram.com/sungallery_1977/",
         "https://www.sungallery.co.kr/"
       ],
       "og_title": "Sun Gallery",
@@ -2619,8 +4870,11 @@
         "start_date": "2024-06-17",
         "end_date": "2024-07-21",
         "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2022/usr/images/pages/slideshow_data/1/eternal-flow-10-11-1-.jpg",
-        "description_summary": "Sun Gallery에서 개최되는 Jian Yoo의 전시 'Where Time Settles into Light'.",
-        "confidence": 0.85
+        "description_summary": "Jian Yoo의 개인전으로, 시간이 빛으로 정착되는 과정을 다루는 작품들을 선보인다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "jongno_sun_gallery",
@@ -2639,11 +4893,12 @@
     {
       "id": "0124c33d5d79",
       "source": "gallery_crawler",
-      "submitted_at": "2026-06-28T22:03:56Z",
+      "submitted_at": "2026-06-29T08:15:23Z",
       "submitted_by": "auto",
       "submitter_note": "자동 수집 (instagram+homepage; 좌표=venues.json)",
       "source_url": "https://www.ocimuseum.org/",
       "source_urls": [
+        "https://www.instagram.com/ocimuseum",
         "https://www.ocimuseum.org/"
       ],
       "og_title": "OCI 미술관",
@@ -2652,12 +4907,15 @@
         "is_exhibition": true,
         "title": "정복되지 않은 세계",
         "artists": "서도이",
-        "venue_name": "OCI 미술관",
+        "venue_name": "OCI미술관",
         "start_date": "2026-06-18",
         "end_date": "2026-08-01",
-        "thumbnail": "https://www.ocimuseum.org/assets/images/logo_naver.jpg",
-        "description_summary": "OCI 미술관의 현재 기획전시. 서도이 작가의 개인전으로 2026년 6월부터 8월까지 개최예정.",
-        "confidence": 0.85
+        "thumbnail": null,
+        "description_summary": "OCI미술관의 현재 진행중인 전시로, 서도이 작가의 작품을 선보이는 전시입니다.",
+        "confidence": 0.95,
+        "sources_used": [
+          "homepage"
+        ]
       },
       "status": "pending",
       "venue_key": "jongno_ocimisulgwan",
