@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T08:12:21Z",
+  "generated_at": "2026-06-29T21:14:41Z",
   "source": "sema",
   "count": 15,
   "exhibitions": [
@@ -21,7 +21,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "80a75729d548",
@@ -41,7 +41,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "26458500b9ef",
@@ -61,7 +61,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "fd82255f40a1",
@@ -81,7 +81,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "85636baf089c",
@@ -101,7 +101,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "9a6ce05bab0c",
@@ -121,7 +121,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "5fdda35e076a",
@@ -141,7 +141,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "a9a7e67786af",
@@ -161,7 +161,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "d340ac7a2efe",
@@ -181,7 +181,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "c657aa61a28e",
@@ -201,7 +201,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "aebb8561f013",
@@ -221,7 +221,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "bd8a5f6ebb44",
@@ -241,7 +241,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-06-29T08:12:11Z"
+      "collected_at": "2026-06-29T21:14:31Z"
     },
     {
       "id": "1fc6325d75ce",
@@ -261,7 +261,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014132",
       "status": "upcoming",
-      "collected_at": "2026-06-29T08:12:16Z"
+      "collected_at": "2026-06-29T21:14:36Z"
     },
     {
       "id": "226ef85090c8",
@@ -281,7 +281,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012543",
       "status": "upcoming",
-      "collected_at": "2026-06-29T08:12:16Z"
+      "collected_at": "2026-06-29T21:14:36Z"
     },
     {
       "id": "530ed74c9894",
@@ -301,7 +301,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1013117",
       "status": "upcoming",
-      "collected_at": "2026-06-29T08:12:16Z"
+      "collected_at": "2026-06-29T21:14:36Z"
     }
   ]
 }
