@@ -1950,5 +1950,701 @@
     "source_url": "",
     "status_code": 0,
     "fetched_at": "2026-06-14T13:41:05Z"
+  },
+  "yongsan_v_4752d608f8": {
+    "venue_key": "yongsan_v_4752d608f8",
+    "image_url": "https://pipegallery.com/OpenGraphImage.jpg",
+    "source": "official_url",
+    "source_url": "https://pipegallery.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "yongsan_v_b8039ba05c": {
+    "venue_key": "yongsan_v_b8039ba05c",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/353617400_272473601934232_4663602494654176111_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40ODguQzMifQ%3D%3D&_nc_ohc=3-Q29CJjxfkQ7kNvwHLXNi_&_nc_oc=AdowUcb5H2VBhbh8FLoooVd-w9h6pjPBKama9elCEVgiX5v-L0Q6dZj8k8qKvShmZKs&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af_wOwkUfbDNpOEZVXZbETT4EgqmP6MBdDbK1wHVxq0BTw&oe=6A47E22C",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/shower199sqm",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "gangnam_v_6129d85a40": {
+    "venue_key": "gangnam_v_6129d85a40",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/287735362_706487187095488_3177561677111557812_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=GgC-sIDLRzsQ7kNvwFAhlVE&_nc_oc=Adoqz6CelaDX_xe0YsEjJwoppJKb5NA-Wg6hj-goPhn4ajj97wTe4id-jdAiKtADWQE&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af__-wR0qe25tPksO3u-sKzJvy6LJWDGy9-BRZAf3nYFZQ&oe=6A47E786",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/whitecube/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "jongno_wwnn": {
+    "venue_key": "jongno_wwnn",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/340495827_769895978098141_7983548205763450978_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=TZxuOgQP7xwQ7kNvwGPYqr4&_nc_oc=AdoYpsmajv2KIpH5EQCvqqyt9qqd68BS-rdIkJxhcWKYa5szi3-Jk3lT57H3Hbg6adc&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af8YbHvqnjc9bNYUCrAx18JJ7Y7BquQl3P9aF60x_EIKIQ&oe=6A47F78B",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/wwnn.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "junggu_v_1d6f902696": {
+    "venue_key": "junggu_v_1d6f902696",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/374697306_323667236895430_8145784481846503066_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=iCSFRgHQVPAQ7kNvwFyejtO&_nc_oc=AdqX_h5gQ1GnxaCeUQcMhymms9cEN5NX3cvSD3CXpbBohy_Ytc5kh9G291y704eV3fY&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_ITvVruCOCblznpYY_xhjgaaNLPDvDFiX3dgTt4aQPzg&oe=6A47D698",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/biogalleryseoul",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "jongno_v_6e58bfae5a": {
+    "venue_key": "jongno_v_6e58bfae5a",
+    "image_url": "http://www.pibigallery.com/uploads/meta/65cd67c4beaf2.png",
+    "source": "official_url",
+    "source_url": "http://www.pibigallery.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "jongno_v_9018596c87": {
+    "venue_key": "jongno_v_9018596c87",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/30078683_609992639352276_5488910059020746752_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NDAuQzMifQ%3D%3D&_nc_ohc=Ypui3sZwoFkQ7kNvwEwGWBV&_nc_oc=AdpJFwbHJsP_kw3rf_6Y_dj5JT4ucPgPHDdANx4hntbTNFTVPZYpAD1ympMiLK05DSc&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af80cLqucKropmWU2CculXHPtLRkZADFNHMdIsAqjobJFw&oe=6A47DD58",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/dslashp/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:17Z"
+  },
+  "jongno_v_142b1ecf35": {
+    "venue_key": "jongno_v_142b1ecf35",
+    "image_url": "https://cdn.imweb.me/upload/S202507235177b171224c2/2ca0cf7028506.png",
+    "source": "official_url",
+    "source_url": "https://spaceso.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:17Z"
+  },
+  "junggu_v_496c2869c5": {
+    "venue_key": "junggu_v_496c2869c5",
+    "image_url": "http://nslasha.kr/na/n_a_preview.jpg",
+    "source": "official_url",
+    "source_url": "https://nslasha.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "gwanak_v_fb4b686677": {
+    "venue_key": "gwanak_v_fb4b686677",
+    "image_url": "http://static1.squarespace.com/static/5fcd03190db0542b88469f69/t/60f54229668793736d482bde/1626685993276/%EC%8B%A4%EB%A6%B0%EB%8D%94%ED%94%BC%EC%97%94%EC%A5%90.png?format=1500w",
+    "source": "official_url",
+    "source_url": "https://www.cylinderseoul.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:17Z"
+  },
+  "gangnam_v_9224d78dbb": {
+    "venue_key": "gangnam_v_9224d78dbb",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/519673947_17845721787530114_5178452730830528811_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NTAuQzMifQ%3D%3D&_nc_ohc=XkMP8cowI0IQ7kNvwGfQ9xu&_nc_oc=Ado5WTiX9LXAD3z4C7iKGFszDoBKNSD5izlNbGdkLRfdPuEeINu1JeSsLEt9FRniyBw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=XqaSty9l-AN4fB4RFcaiLw&_nc_ss=7f60f&oh=00_Af9Tlmrvmvd3SqhjIr1N74UWZWiQ-JVmzDwhdtB-v5QswA&oe=6A47E86F",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/ps.underlayer/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "junggu_v_a9a1411ef6": {
+    "venue_key": "junggu_v_a9a1411ef6",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/685568456_17928480723275725_4101083376165516928_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ErUIPFVXj0sQ7kNvwEKtE5J&_nc_oc=AdrRDBeLY4vngLJXG6Kkl7-094h0gbHNhYYXEQXBqEz1q_NF1nJMQtJkON7lERsNbaM&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=awWWRdz7yKUTVyP3j5_46A&_nc_ss=7f60f&oh=00_Af-kwzVST8CTbYd3Nb1uz74F4lutURxxVmwuSUkn4znNQQ&oe=6A47E29A",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/sionmang/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "yongsan_v_1addd44094": {
+    "venue_key": "yongsan_v_1addd44094",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/370602757_3423893177922794_132859560022670752_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-Z5JH_kNQDkQ7kNvwH8xVwQ&_nc_oc=AdpbhyOIyapNscxCWPox6sY-7sUX0tqCfuqESnswXAfODZMZLTiqX4pO3SoymvYxJMU&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-ksu40IeefcwucB9KRKBmuMVXDWdtebRKloLPk8OBBHw&oe=6A47E85F",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/ldk_roomservice",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "seocho_v_9f00860878": {
+    "venue_key": "seocho_v_9f00860878",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/42417930_175083613406487_1481709768035794944_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NzUuQzMifQ%3D%3D&_nc_ohc=RFnIrpgSPYwQ7kNvwED_PFu&_nc_oc=AdpOp0VPwngoWuvkvGNT6JJ1HG3k0j_JfBfKKBidfB6NzkAInMj9CoJK7O5oi0aAvCk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9xaBm0vJYc_ELaSeQdAu-dvMy3XUs9BbHnBj12DdjPJQ&oe=6A47C2A9",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/whitenoiseseoul",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "yongsan_v_ec17edd245": {
+    "venue_key": "yongsan_v_ec17edd245",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/386402842_333889899213019_3462154430489258827_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zNzIuQzMifQ%3D%3D&_nc_ohc=YAQiprzQGVAQ7kNvwF3i5EU&_nc_oc=AdqulURuCYS8z6mY-jN-1McwAb8H-aslRmpqdRkvvSJ6N2KrucTDNQj85DXY6B6O-jg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af9o-CAvw7KBZLLi_jqShndkQHpAHJ6qft_61J222ntdeA&oe=6A47EC34",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/gallerybisunjae",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "jongno_v_b342f8bbb1": {
+    "venue_key": "jongno_v_b342f8bbb1",
+    "image_url": "https://cdn.imweb.me/upload/S201707245975746e1ca00/5a125055028ce.png",
+    "source": "official_url",
+    "source_url": "https://www.sarubia.org/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:17Z"
+  },
+  "mapo_v_fb2f6f327b": {
+    "venue_key": "mapo_v_fb2f6f327b",
+    "image_url": "https://www.rainbowcube-space.co.kr/wp/wp-content/uploads/2023/08/main1.jpg",
+    "source": "official_url",
+    "source_url": "https://www.rainbowcube-space.co.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "mapo_v_b859c19fc7": {
+    "venue_key": "mapo_v_b859c19fc7",
+    "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F3615535%2Fattach%2Faf255727f6c546d9a271e0f925ee6128",
+    "source": "official_url",
+    "source_url": "https://outhouse.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "mapo_v_3bb83d165e": {
+    "venue_key": "mapo_v_3bb83d165e",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.75761-19/501233700_17845891170487800_3160201121114737638_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=kdxthgIqEG0Q7kNvwFIDFxC&_nc_oc=Adqx1iNFvRZAgqgrABWl8DhdBa3dqSg_RQo2hm-xtsZNRm16NCzSf5oGQUvcEpO7v4A&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=Mx9pV6BmgJWGJC69TCxXfg&_nc_ss=7f20f&oh=00_Af_d4pEFYc7V57kk--qGFgUh9YhfQ1wZBDxAG3ZAVHRGTg&oe=6A47E6E3",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/cutthekake_",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "jongno_v_f19462d789": {
+    "venue_key": "jongno_v_f19462d789",
+    "image_url": "https://lh3.googleusercontent.com/sitesv/AA5AbUDmwRXMKpYHNEwavPFUi3EhGyE9qG-NdYfxgBmXEz-t_22OmXf27hm8dTIn01rQl8MKhIU3o4XoHgk-H7bovrVkRPlbuyifkP49E7hPdqsZnTlhGIARbRudb8xtElGocfRdOjF1X1zQ0eEeAKric2H77qzc2dTF8VCOah1zEAxV_5Pqr0ePIW-2TkqtgFA=w16383",
+    "source": "official_url",
+    "source_url": "https://www.drawingroom.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:17Z"
+  },
+  "jongno_v_80019d9b01": {
+    "venue_key": "jongno_v_80019d9b01",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.75761-19/507929443_18004280288784031_408425527929277662_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ku44Ip996y8Q7kNvwEZoqGU&_nc_oc=Ado2hSHE-4reiNlXNXbPUaUjgk4anfi-ne0fYo3WDyvkWPHI4BnKrUGWekx03E2GsoM&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=p-27miCy56sKWUEMvGA_iA&_nc_ss=7f60f&oh=00_Af9XmVyoYaoy8--8wC5N8AqBxgwu3Nz4n1ZmFsCZUgRKKA&oe=6A47ED5B",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/locus____solus/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "mapo_v_d2d2dd5276": {
+    "venue_key": "mapo_v_d2d2dd5276",
+    "image_url": "https://storage.googleapis.com/cr-resource/image/84bdfdee2fd6d8c57b6b02ca177801b1/spacepado/650/ca78985c63a4bfca6f37dc7779984369.jpg?_1782713299",
+    "source": "official_url",
+    "source_url": "https://spacepado.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "seodaemun_v_84aeb3035f": {
+    "venue_key": "seodaemun_v_84aeb3035f",
+    "image_url": "https://www.placemak.com/files/attach/images/2225/227/002/34d1aed8aaf7da612906bf90fc44c6ec.gif",
+    "source": "official_url",
+    "source_url": "https://www.placemak.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seodaemun_v_72b8703c40": {
+    "venue_key": "seodaemun_v_72b8703c40",
+    "image_url": "https://www.placemak.com/files/attach/images/2225/227/002/34d1aed8aaf7da612906bf90fc44c6ec.gif",
+    "source": "official_url",
+    "source_url": "https://www.placemak.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seodaemun_v_4c4efd17f0": {
+    "venue_key": "seodaemun_v_4c4efd17f0",
+    "image_url": "https://freight.cargo.site/i/12716e5ec94647298749f822735d388e3572f302954fa582aeab44c019e8465a/ap-gray.png",
+    "source": "official_url",
+    "source_url": "https://annpaak-space.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:17Z"
+  },
+  "jongno_v_e272946631": {
+    "venue_key": "jongno_v_e272946631",
+    "image_url": "https://www.primarypractice.kr/media/site/99c76725e4-1779182837/og-image-1200x630-crop-q100.jpg",
+    "source": "official_url",
+    "source_url": "https://www.primarypractice.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seodaemun_v_a592db6e13": {
+    "venue_key": "seodaemun_v_a592db6e13",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/437190245_958568708736434_288523379255116226_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BRAuRvcA2ewQ7kNvwHWP-rK&_nc_oc=AdoTR_KnBr624hcRxvqHR82EJFMlWyND-qjklPMABMzHhnmip1B-P9hrmYrhOJV2KXg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8_S3f_P9solXLj46iyTooKhG-co7NqJQBdowsToiwpRQ&oe=6A47C4B2",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/the_necessaries/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "eunpyeong_v_0629eb12c6": {
+    "venue_key": "eunpyeong_v_0629eb12c6",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/20635257_1954729951472779_896150763170955264_a.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41NjEuQzMifQ%3D%3D&_nc_ohc=IaG0EzB5OTkQ7kNvwEkjIco&_nc_oc=Adra-LFjeX98j_46VQUOG5laG0C94EbwY-ZU69nSPIeSDqNE8TEFjk1flUFaaTM7PNg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_6YBRn6l3nNe7RKO4tbN3jziA4ZZ7Jvba3-ShQBbmPcg&oe=6A47E418",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/hwangumhyang/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seodaemun_v_3df2209137": {
+    "venue_key": "seodaemun_v_3df2209137",
+    "image_url": "https://cdn.imweb.me/upload/S20220601187bcb4177f9c/133aeb4b5d80e.png",
+    "source": "official_url",
+    "source_url": "https://www.mihakgwan.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "mapo_v_475d632368": {
+    "venue_key": "mapo_v_475d632368",
+    "image_url": "https://kinima.kr/kinima_logo.png",
+    "source": "official_url",
+    "source_url": "https://kinima.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seongbuk_v_844b49c9f7": {
+    "venue_key": "seongbuk_v_844b49c9f7",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/101451368_552108192119457_3430325044272693248_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQzLkMzIn0%3D&_nc_ohc=EHLnsU8tC2AQ7kNvwGFXP9c&_nc_oc=AdoK1WiI1QESG9FAjyYWu-4uCjNZo9vgLmB6Ed2Z9W3aBWr5ZPr1KleyGdO8w2RXfJ8&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af-EkcCbPEz-4S0UyP-Ye48uIItbYMyUGwSCsMJjQ1ig1A&oe=6A47E2B9",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/saegonggan",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "jongno_v_ca551ae04e": {
+    "venue_key": "jongno_v_ca551ae04e",
+    "image_url": "https://cdn.imweb.me/upload/S202102036f485293e86c6/b6cc821c0b64a.png",
+    "source": "official_url",
+    "source_url": "https://www.factory2.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seongbuk_v_1a34caeb00": {
+    "venue_key": "seongbuk_v_1a34caeb00",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/272373305_316285943763245_2335890604730511070_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=uhIhOoGgtTQQ7kNvwH-Dthl&_nc_oc=Adq_d_-bHfCqDTKUr4OqmBvC74H0u-tw3QXWED9DP7Uh_DFc58KJdhK-AuSNVSc2zoY&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-Z4v_EgI6tigwbEV7clHJ9qQOhrNdFpKxYe_TU4dfzGA&oe=6A47DC5E",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/suchi.info/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "junggu_v_89770031e9": {
+    "venue_key": "junggu_v_89770031e9",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/400268480_1484865872369109_4972203822728934299_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=1J4cwAIw4nsQ7kNvwFGi3Hh&_nc_oc=Adrv7FDuM1ie40HEZVb6StryRwJn2IDRYvH3k2-IZLwOs5DOzn_u277gc32Fuz9ZTII&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_hzUqS8S-9n-vf0pV1j3o3gSajC3pMJl5hk_zwocek1A&oe=6A47C84C",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/miraebuilding/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "seongbuk_v_234da4adfb": {
+    "venue_key": "seongbuk_v_234da4adfb",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/430222266_398391239466644_6821071969748054588_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=AWEX2g_AdfcQ7kNvwFUMHzi&_nc_oc=AdqWzEodiHhHxsrnDOkaVQV80LBStbEqGcpT5xzOHEKdtnQb2iQkvyiMf9dCjRyFOU0&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-7gHM5pwjPz3-jAw9Gd4GgOW--EY67QRx_ao8l5Ljl6w&oe=6A47F360",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/chamber26_6",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "jongno_v_6ddeb846b1": {
+    "venue_key": "jongno_v_6ddeb846b1",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/455295580_1246702739821541_3880807392237877563_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NzUuQzMifQ%3D%3D&_nc_ohc=VFjahGOWCDkQ7kNvwH_STA-&_nc_oc=Ado-YmHidrPejrw66Kq1n3_IJU9Z7uqZA0bqThiLkIfB6XxMl1UEMSTBK343Pse9dMA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9QEmWt4DBPOKc9R9tn3mEvFDzVTRkMsJFbFWT0irqdQw&oe=6A47F905",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/boofy_seoul/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "seodaemun_v_70eeb38658": {
+    "venue_key": "seodaemun_v_70eeb38658",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/410200187_2374609066057854_1465930073506805438_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NDAuQzMifQ%3D%3D&_nc_ohc=ePzbFZnlOesQ7kNvwEKjmvP&_nc_oc=Adr5cZlEYLRiW7kvTnqpwPZzYOdP31f8b1I24eFvRbl3ojfYEGG7UXO4Ytkp39lda3w&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8gwX0PHGcCcKQpQc2FsvlLSwqUjmuGUHia6LIb5hdDvw&oe=6A47C79E",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/tentothen/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "seongbuk_wess": {
+    "venue_key": "seongbuk_wess",
+    "image_url": "https://wess.kr/wp-content/uploads/2020/05/og.png",
+    "source": "official_url",
+    "source_url": "https://wess.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "yeongdeungpo_hall_1": {
+    "venue_key": "yeongdeungpo_hall_1",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/119210151_1067172967034757_7622743922299376260_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vyAWNMI9jHYQ7kNvwFhm3mB&_nc_oc=Ado1Fwus0u-k4mX1yPTfZezkqvd-Y_5V7Z2cg2_UjPjo295fvEA4vhWD-tulkUbq-iY&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af83jaSubYfSz5Bsuulkv6I686GSKM6hu21M5XhECXs42A&oe=6A47E9E9",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/hallinfo2020/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "mapo_v_749eb3d164": {
+    "venue_key": "mapo_v_749eb3d164",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/74621026_709355166217138_5945395147633065984_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MjcuQzMifQ%3D%3D&_nc_ohc=Vx8FNnfthXYQ7kNvwFwWT8s&_nc_oc=Adq9OzR09P2LBovczxMHkvxbFGl5frCgkCkP31Xb_N8IISHkWgqix-4JBL5uzsgEJcs&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8uLw4QLvb7tqahvF_uj45gbOPLnrw25BshSDW6yckHfw&oe=6A47DA9D",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/ujeongguk/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "yeongdeungpo_v_f05e7cd485": {
+    "venue_key": "yeongdeungpo_v_f05e7cd485",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/319067746_5611924642257829_8247942253445642809_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-WyEleKD_p4Q7kNvwFysuMu&_nc_oc=Ado0663VU_K_WFpYctyYRXoUtcgLH2h40KZXU2JWC2I9dloYpJcf0-kpyydYCdAK4-w&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-fIlOb2H68nAramNqmW7oqo-RqkrA0X6mfdSAaqYSDwQ&oe=6A47C8F5",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/arcade.seoul/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "yongsan_v_9d32d43656": {
+    "venue_key": "yongsan_v_9d32d43656",
+    "image_url": "https://freight.cargo.site/i/3b6ba22ccb4d69efd3be785225bce00940c528bb65093b6e61c4d2d9ea308c5e/sangheeut-logo-02.png",
+    "source": "official_url",
+    "source_url": "https://sangheeut.net/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:16Z"
+  },
+  "junggu_v_5bed25a7a8": {
+    "venue_key": "junggu_v_5bed25a7a8",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/364991149_1783220648800653_3401709441875199106_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MTAuQzMifQ%3D%3D&_nc_ohc=hw9wyktJcJEQ7kNvwGmaZha&_nc_oc=Adqhstgox9EnFOvvmvSqhSPDc6c64MgJLfeyzu7FDnRBAcbqraz0B67V3Thqsqhh4es&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8edWDL7tqllE89wYXaUsAVWgI8p3xCNvfdthhKgdjA_g&oe=6A47EE96",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/culturestationseoul284/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "junggu_v_8b8a9bd1b0": {
+    "venue_key": "junggu_v_8b8a9bd1b0",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/320923200_161719662856567_324637629592757648_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=OQvEc5zL7NIQ7kNvwFnZ0aA&_nc_oc=AdpXgjh8RieDROxtT9XO3U5gQ1_rm9jTP61myt6lBPnxNZgoFuaOcd3al4px2y59tg8&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_R8NemiiCZh6cSlhLDfovij2OmKf9lAaCvWb2jfVwKhQ&oe=6A47EFF8",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/artchosun_space/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "mapo_v_699cb8dda7": {
+    "venue_key": "mapo_v_699cb8dda7",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/312369240_1183607615903731_6003701400865486001_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40MTcuQzMifQ%3D%3D&_nc_ohc=LqdUUirEBIIQ7kNvwGHXdV2&_nc_oc=Adom4HXS0R11AhtIdWqPmJoV0aBHLPY5bRNmxvepSml_PRX4wDMxDRy1YNdBp2Z0od0&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af9bY9DSOsCA5QgETYXeBz1d1Kp__9d4livRyDy6QIPC8Q&oe=6A47D637",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/anthologiaseoul/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "songpa_v_d70fbc0d60": {
+    "venue_key": "songpa_v_d70fbc0d60",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/402433168_1695338074296096_6515250878082831419_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=cjO85MRUrFAQ7kNvwFZnloI&_nc_oc=Adr97NBk8FwIAxpKmsvVYayeBXLmTRyIMlXL5bRj0E4QCgXbnwm5oHN3Oam7dAoZZRs&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-H9e1iYj4T4teK83EMGEjs05fz4a2a6WraBCGwHipNbw&oe=6A47E0C7",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/space_ubo",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "gwanak_v_06c42750e3": {
+    "venue_key": "gwanak_v_06c42750e3",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/609113896_17874788679467850_2068802612860557993_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=k-y4fvEvTCAQ7kNvwGpLZTy&_nc_oc=Adri_KVP31YQSy5WHYNQ6iLqWxukjpr0Y7vAmNyvAqmkYh0i7OmbUZHFkU5ai-3A-wo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=FDJ9sZy0QxLWwSwG3NSLjQ&_nc_ss=7f60f&oh=00_Af-bPKj-vpw19xJkFRkN0c7i0Y3Oivl2cCOauwpdkwtMNA&oe=6A47DB64",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/arkcore_official",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "yongsan_v_c6efd91396": {
+    "venue_key": "yongsan_v_c6efd91396",
+    "image_url": "http://dimensiongallery.co.kr/img/og_img.png",
+    "source": "official_url",
+    "source_url": "http://dimensiongallery.co.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "dobong_v_ee40f11a65": {
+    "venue_key": "dobong_v_ee40f11a65",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/69169135_1209581312559352_2635430488747016192_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=NxZJKmVG4c8Q7kNvwG1VoSD&_nc_oc=AdrjCLrt-vF8bNECovIoKl3njf7Z1w3SE24lqyUYRBnCNympeXkebmQH_viuROK2GzI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af-BafcuuGv3bhtLtCQu9BwpRf2pLJLoruQKcTSYQCCMsg&oe=6A47EE89",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/culturebunker",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "jongno_v_8b22461dc6": {
+    "venue_key": "jongno_v_8b22461dc6",
+    "image_url": "https://forevergallery.org/d.png",
+    "source": "official_url",
+    "source_url": "https://forevergallery.org/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:19Z"
+  },
+  "jongno_v_d5ea859f29": {
+    "venue_key": "jongno_v_d5ea859f29",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/29414996_2348273325399658_5155306389928673280_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ho4XKfF31WMQ7kNvwFQ1Nem&_nc_oc=AdpiiB3sZ5dA7WniCC91kzIKAbDUIhqxotg3GCbtw8zSSzHOpKHfnUR1vX4ZaI304H0&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-AVQTVfc0CpXixq_91kq0F8SIKMs9pbOCPI8i_HWqUIQ&oe=6A47CEAC",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/sueno339",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "dongdaemun_v_e90ba6e4fe": {
+    "venue_key": "dongdaemun_v_e90ba6e4fe",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/376692877_810486134113178_8214793132076652644_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ELZHuTxNEScQ7kNvwEAYUK2&_nc_oc=Adq5a65tkgQxkpCet9lyPZpOJRcYg4WvX1hXZtdwwd-OIrsjV2hxsYvrFl7TajuIIFU&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8d42UsaHnWSw0IkBlM42R-XK2X5pExDO7Bzt0eqZLXEw&oe=6A47EC2C",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/space._nk",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "gwangjin_v_d034867463": {
+    "venue_key": "gwangjin_v_d034867463",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/672332514_18083457740624367_6005103041624574231_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4dprU2Ryhe4Q7kNvwEJaf57&_nc_oc=Adoo8HNLn-ZDUJL7Sma_Gf5xaw0GzyWPC_rpX_rL8v4Car0yCa9T-DejgB16MsrRCTw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=OKqmuP-FfEa4EeyEdEnsbA&_nc_ss=7f60f&oh=00_Af9CZZeFwcSDOkzOKnfpMwQYrqSGrheZ32e-w4NaLiU9lA&oe=6A47EF01",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/samwongallery",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "yeongdeungpo_v_3001ad66a7": {
+    "venue_key": "yeongdeungpo_v_3001ad66a7",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/49759352_763361197371007_3353768463402270720_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjMuQzMifQ%3D%3D&_nc_ohc=hIaIHwwI4l4Q7kNvwEFHv3Z&_nc_oc=Adp3Pl1g9Ey0TtwO3JLF70GSD0TVn10dOm8CMyaNR8R1w2CxE0oQ0nmrsPaDR93ITZA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9w_S78xCvPErCZCie3x_Ezj51MWX6RFeqUaSiDAOdLzg&oe=6A47E8F8",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/art_space.ipo/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "jongno_v_94056b8409": {
+    "venue_key": "jongno_v_94056b8409",
+    "image_url": "https://gallerycrane.com/img/headerLogo.jpg",
+    "source": "official_url",
+    "source_url": "https://gallerycrane.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "seocho_v_174afdea29": {
+    "venue_key": "seocho_v_174afdea29",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/292768760_5447364665294998_2106860433715687420_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=eRRoJwA7c2EQ7kNvwHNiVr4&_nc_oc=AdoMUt1TjRxmfNHiH-yn9ayFE35tbWKVwUnpxujlxonK0_qRoq74wAo2ELuOTGi95Go&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9iJMQzf_t1O9r4mUMYP0UBhlSeVKsvARGpeYxdGV9bhw&oe=6A47CEE0",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/seoulartnow",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "yongsan_v_42091b6e38": {
+    "venue_key": "yongsan_v_42091b6e38",
+    "image_url": "https://cdn.imweb.me/upload/S20231102c2ae897bf8327/ecf4097f3941d.png",
+    "source": "official_url",
+    "source_url": "https://www.diamondg.co.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "jongno_v_7621337f8e": {
+    "venue_key": "jongno_v_7621337f8e",
+    "image_url": "https://maruartcenter.co.kr/default/img/common/og-img.png",
+    "source": "official_url",
+    "source_url": "https://maruartcenter.co.kr/default/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "jongno_v_445fa1915b": {
+    "venue_key": "jongno_v_445fa1915b",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/275001599_674439860366790_1256561505290520320_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JNCVlw3NcKoQ7kNvwEySQ1w&_nc_oc=AdqJ2_q71RLg9Cvg8QqAM1O6QtX06Jo3eOhNPOGggFCLhTP6lAlXENU_NaWAPk3wcVw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_Q0iaOM4cI5cg2_4S8r4al5zbD-BWYvk_gfE9y8JWBNg&oe=6A47DE68",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/sun_artspace",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:20Z"
+  },
+  "jongno_v_61c04d1b7f": {
+    "venue_key": "jongno_v_61c04d1b7f",
+    "image_url": "",
+    "source": "none",
+    "source_url": "http://www.kyunginart.co.kr/kor/index.asp",
+    "status_code": 0,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "jongno_v_87b0cfe0f3": {
+    "venue_key": "jongno_v_87b0cfe0f3",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/66397343_700504610390926_7819156565604171776_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MDAuQzMifQ%3D%3D&_nc_ohc=XVH8t3nt-nIQ7kNvwHomTU_&_nc_oc=AdoKv7b4Nkd7gx7WMxWuXLmRK7j0CNP5pU5ZlkxgBRn9Wd3QTakvuGPUVyUm9aJ1NmA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9NTyxAnpSB483LjYxDu-lFkDgS-Xi488QCNDi8nwuxCQ&oe=6A47E005",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/gallerywoong",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "yongsan_v_0da659e80b": {
+    "venue_key": "yongsan_v_0da659e80b",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/284273251_5303070883076668_8439409681139265481_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NDMuQzMifQ%3D%3D&_nc_ohc=E8KDU2ra_l8Q7kNvwFuVnUW&_nc_oc=AdrQCCfMTOuI97nkumtslxbJG6tY8sXEki43SNYbwnXzHAGN1OzohwKjgm1KTBrNGpw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-xG1Ox6fo673zJUn8qLWehqGipNj1o84Umkf5LkpHb9A&oe=6A47E870",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/windmill.perform",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:18Z"
+  },
+  "jongno_v_9336cd79ac": {
+    "venue_key": "jongno_v_9336cd79ac",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/368558497_284575957538756_9069363666166255885_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=e7qSP8ZAHXcQ7kNvwEpK9gW&_nc_oc=AdpTSPwptv-pW_fcDIO-1Q0oC_W2WH93pmA3MAbZ3-KRUN1ufffjSGQPiuNMUzltMBo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af-VtgajOIaCu6962qa3iAtfhSuBd-bu1vrMMXu70RXYjA&oe=6A47D49E",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/gallery_soyeun/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "junggu_v_3e97b5d47e": {
+    "venue_key": "junggu_v_3e97b5d47e",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/144353305_1836903006474505_7854557604925114260_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eCxVKS5hrSAQ7kNvwF_5pBs&_nc_oc=AdrewLsXBTeO89a_64M8Fexw9ZMAFKKb3gHdAEkbycemGLq5TnRCBsGT-ZfwNRmmXMI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af99Zc0iDJj8Np73IF0i9b5hzoDsCZuNJ9Twu4BNBtqERQ&oe=6A47F06E",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/friezeofficial/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "yongsan_v_cd65860036": {
+    "venue_key": "yongsan_v_cd65860036",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/458243176_1028107222151484_4848916350763234648_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NzkuQzMifQ%3D%3D&_nc_ohc=NNG3irdz7zwQ7kNvwEm2lww&_nc_oc=AdrsJWZvcA1876Z_15HlXIKXYsZsnkT3t4_83ThMsR57PYIICR43Gv0pxu-QUfjLXNM&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8tq5gIIZ6fPRnxuGbGc-CbgyP4iINepCcpQAVrsV2sNA&oe=6A47C416",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/gallery_royoon",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "jongno_v_a5111dc307": {
+    "venue_key": "jongno_v_a5111dc307",
+    "image_url": "",
+    "source": "none",
+    "source_url": "http://www.baegak.co.kr/",
+    "status_code": 0,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_de84fba707": {
+    "venue_key": "jongno_v_de84fba707",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/150463734_125037006111562_8316728273545644312_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WBpbVtmpWW4Q7kNvwGgxARf&_nc_oc=Ado_Z1qFa3TvwzNIUQSS6t1DeyKoC3JbM6MK8zmxaR21XZNz1k4Rr52SGCCjkllpCv4&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_KTdgfXYm3wI9I0fyEc3H6jgYKf_FFxgJa4c1ZhP6nlQ&oe=6A47EFF7",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/dongduk__artgallery/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "seongdong_v_e53bd9cf9c": {
+    "venue_key": "seongdong_v_e53bd9cf9c",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/669908966_18088570549996703_7779001655628427004_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42NDAuQzMifQ%3D%3D&_nc_ohc=gRsHIy0PJxwQ7kNvwEdz_Gw&_nc_oc=AdrAlL1UUQL4qheh8G3xCuMGb-DN0TE48ufJ1fDkTDOjXAyDL4uQGK959oXB_GyM9RQ&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=HbyUhkiKnw4ExYUaG-us8A&_nc_ss=7f60f&oh=00_Af_JNrVNzPbLTpfnuPq6zSdRWA5865A1EbBu_PO_pUtmaw&oe=6A47D6DC",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/thetmuseum",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "seongbuk_v_171b2e1705": {
+    "venue_key": "seongbuk_v_171b2e1705",
+    "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0434/usr/images/exhibitions/home_page_image/items/b9/b9ae0f0989824ef1b84ba2b77edbdc54/036a3590c.jpg",
+    "source": "official_url",
+    "source_url": "https://www.jasonhaam.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "jongno_v_e641b9b426": {
+    "venue_key": "jongno_v_e641b9b426",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/286774796_2893299034307360_8174990789785390516_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNjAuQzMifQ%3D%3D&_nc_ohc=YT3cZ5yGizMQ7kNvwFO6d5K&_nc_oc=AdoNjIKwWIlQnKglPyAeDSKHWSWVBFxlpAHxBSiBLsUp3Fa4bWv1bz2G0IHFgIdW_cI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9_MPDCxM9it8C689E_nH3i2uuAElvzBVFI-uPhty08Ug&oe=6A47DEC9",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/insa__1010/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "gangnam_v_5dfb3f94c0": {
+    "venue_key": "gangnam_v_5dfb3f94c0",
+    "image_url": "https://choeunsookgallery.com/49/wp-content/uploads/2025/04/logo02.png",
+    "source": "official_url",
+    "source_url": "https://choeunsookgallery.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_932d8978a7": {
+    "venue_key": "jongno_v_932d8978a7",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/289818958_797631411608766_2202521201776019241_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=vXFtDpSKjKsQ7kNvwF0lRj-&_nc_oc=Adr22PHEScaZGT4jFi58EUR3tI4yI5iMQ0SXvDMes7JIIo5_ds5tgYNIWETlDVImT9Q&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9kGxNBspsbuKnPEuPhA2xBpUWohhwWk-cUklajdryNyg&oe=6A47DA67",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/galleryluben",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_2804aa3a69": {
+    "venue_key": "jongno_v_2804aa3a69",
+    "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+    "source": "official_url",
+    "source_url": "https://galleryharang.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_ff63e492bc": {
+    "venue_key": "jongno_v_ff63e492bc",
+    "image_url": "https://cdn.imweb.me/upload/S202012014e7062d15fd76/05f4a58e8beda.png",
+    "source": "official_url",
+    "source_url": "https://moowoosoogallery.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "songpa_v_d151efaf15": {
+    "venue_key": "songpa_v_d151efaf15",
+    "image_url": "https://cdn.prod.website-files.com/643386621b6533a0ccb8d669/645308858cdea0dbf80eb1d5_mecenart-og-img.png",
+    "source": "official_url",
+    "source_url": "https://www.mecenart.co.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "seongbuk_v_82a3224227": {
+    "venue_key": "seongbuk_v_82a3224227",
+    "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
+    "source": "official_url",
+    "source_url": "https://www.woosongallery.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:21Z"
+  },
+  "jongno_v_65b75297bf": {
+    "venue_key": "jongno_v_65b75297bf",
+    "image_url": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
+    "source": "official_url",
+    "source_url": "https://www.galleryinsaart.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "seocho_v_801e44b887": {
+    "venue_key": "seocho_v_801e44b887",
+    "image_url": "http://www.goutergallery.com/theme/gouter/img/logo.png",
+    "source": "official_url",
+    "source_url": "http://www.goutergallery.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_e9a41d79db": {
+    "venue_key": "jongno_v_e9a41d79db",
+    "image_url": "",
+    "source": "none",
+    "source_url": "https://milbaekheon2ou.zaemit.com/",
+    "status_code": 0,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "gangnam_v_f6b46eb210": {
+    "venue_key": "gangnam_v_f6b46eb210",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/19122235_1580853811988823_1779051844291526656_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=59yo1T6OdeMQ7kNvwGiLmgN&_nc_oc=AdpXrO8df6P6xlxLsiqLpAAkojDGzA8gA6BB8XqM0QqX4Kukj-tGIAWnxEFxwJ_imkU&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f20f&oh=00_Af_GicUbmpcBCS_V_D49QmySRvVAC4zaSzG3OLdf1DjGPw&oe=6A47D075",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/superior_gallery",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_089da64969": {
+    "venue_key": "jongno_v_089da64969",
+    "image_url": "https://cdn.imweb.me/upload/S2017040458e345a88c5ee/58ec80188358b.png",
+    "source": "official_url",
+    "source_url": "https://hhart.co.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "jongno_v_ee9bac3f58": {
+    "venue_key": "jongno_v_ee9bac3f58",
+    "image_url": "https://www.galleryeun.com/myimage.jpg",
+    "source": "official_url",
+    "source_url": "https://galleryeun.com/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:23Z"
+  },
+  "yeongdeungpo_v_84ed88a3db": {
+    "venue_key": "yeongdeungpo_v_84ed88a3db",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/441503579_7560955033991960_3797055557536869171_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=37Ah2x8pEo4Q7kNvwGZe-Op&_nc_oc=AdqhFcIu75MTcrAd69XSwyA00Hlp89aKUsGaaTtoFx6gsb2CCEXrGYyntUUgvlnALmw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9wRVtrgVGvfuAAMKHEbe_HMFPLzGHKA1vZs_hxwtcOgw&oe=6A47C2DE",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/artfield_gallery/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "gangnam_v_038a4cccd9": {
+    "venue_key": "gangnam_v_038a4cccd9",
+    "image_url": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
+    "source": "official_url",
+    "source_url": "https://www.lazymike.art/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "yongsan_v_bc3667b2bc": {
+    "venue_key": "yongsan_v_bc3667b2bc",
+    "image_url": "https://wwf.kr/og_img.png",
+    "source": "official_url",
+    "source_url": "https://wwf.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "gangnam_v_c0eee613ca": {
+    "venue_key": "gangnam_v_c0eee613ca",
+    "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/469938414_1126319932338259_3350302054547375928_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jvnjAavPgcwQ7kNvwFEJXUp&_nc_oc=AdrjCqpH1Z9oJib7gXA1xWEed2VQCqJlQ7-VK-z5wrUVmkAEgatrJT7ETbY6LcdOmmk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9gHD8HtUABECBnyTHjFo5eeJ_q_qgIKOOmECzDHcFgFw&oe=6A47F6C8",
+    "source": "instagram_url",
+    "source_url": "https://www.instagram.com/artspacey_gallery",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
+  },
+  "yangcheon_v_24bd3a7e6c": {
+    "venue_key": "yangcheon_v_24bd3a7e6c",
+    "image_url": "https://cdn.imweb.me/upload/S20221027505687ae2c718/124bab518b15b.png",
+    "source": "official_url",
+    "source_url": "https://gugugallery.co.kr/",
+    "status_code": 200,
+    "fetched_at": "2026-06-29T06:08:22Z"
   }
 }
