@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:24Z",
+  "generated_at": "2026-07-03T09:28:27Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2124,7 +2124,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_arariogaelreori_seoul",
       "venue_name": "아라리오갤러리 서울",
       "title": "HUANG Hankang: The Sky Remains as the Bird Departs",
@@ -2136,7 +2136,8 @@
       "lng": 126.9885265,
       "address": "서울 종로구 율곡로 85",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:27.030Z"
     },
     {
       "id": "47cdd8e3959f",
