@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:52Z",
+  "generated_at": "2026-07-03T09:32:57Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3751,11 +3751,11 @@
         "description_summary": "한불수교 140주년 기념전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seoul_craft_museum",
       "venue_name": "서울공예박물관",
       "title": "더 하이브리드",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-28",
       "end_date": "2026-07-26",
       "thumbnail": "",
@@ -3763,7 +3763,8 @@
       "lng": 126.983379,
       "address": "서울 종로구 율곡로3길 4",
       "region": "seoul",
-      "category": "박물관"
+      "category": "박물관",
+      "reviewed_at": "2026-07-03T09:32:56.552Z"
     },
     {
       "id": "fa174df4e0de",
