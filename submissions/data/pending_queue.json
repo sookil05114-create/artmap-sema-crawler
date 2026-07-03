@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:07Z",
+  "generated_at": "2026-07-03T09:28:24Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1957,7 +1957,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_page_room_8",
       "venue_name": "페이지룸8",
       "title": "더블 스프레드 Double Spread",
@@ -1969,7 +1969,8 @@
       "lng": 126.9676475,
       "address": "서울 종로구 옥인길 18",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:08.740Z"
     },
     {
       "id": "38206e825f89",
@@ -2081,11 +2082,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreorisejul",
       "venue_name": "갤러리세줄",
       "title": "What Holds Us | 우리를 붙드는 것",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-02-26",
       "end_date": "2026-04-04",
       "thumbnail": "",
@@ -2093,7 +2094,8 @@
       "lng": 126.9751579,
       "address": "서울 종로구 평창30길 40",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:23.615Z"
     },
     {
       "id": "1b8cd735229f",
