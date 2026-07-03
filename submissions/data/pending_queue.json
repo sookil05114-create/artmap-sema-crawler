@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:08Z",
+  "generated_at": "2026-07-03T09:27:11Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1159,7 +1159,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_9d32d43656",
       "venue_name": "상히읗",
       "title": "Fool's Spring",
@@ -1171,7 +1171,8 @@
       "lng": 126.9872544,
       "address": "서울 용산구 신흥로 30 지하 02호",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:10.976Z"
     },
     {
       "id": "cfe01e552e49",
