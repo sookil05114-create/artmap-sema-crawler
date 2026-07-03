@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:35Z",
+  "generated_at": "2026-07-03T09:28:38Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2041,7 +2041,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_totalmisulgwan",
       "venue_name": "토탈미술관",
       "title": "먼 곳의 크기",
@@ -2053,7 +2053,8 @@
       "lng": 126.9756892,
       "address": "서울 종로구 평창32길 8 (평창동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:37.754Z"
     },
     {
       "id": "630865672543",
@@ -2208,7 +2209,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "euljiro_gallerymos_official",
       "venue_name": "갤러리모스",
       "title": "Cult Baby!",
@@ -2220,7 +2221,8 @@
       "lng": 126.9931911,
       "address": "서울 중구 을지로 138",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:35.815Z"
     },
     {
       "id": "6d83d7482be2",
