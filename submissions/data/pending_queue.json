@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:51Z",
+  "generated_at": "2026-07-03T09:28:55Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2555,7 +2555,7 @@
         "description_summary": "한국 구상조각회 초대전으로 구상의 새로운 좌표를 제시하는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_1afb74bc02",
       "venue_name": "매스갤러리 한남",
       "title": "Re - Form 구상의 새로운 좌표",
@@ -2567,7 +2567,8 @@
       "lng": 127.0044368,
       "address": "서울 용산구 한남대로 91 나인원 한남 고메이 494 G층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:54.618Z"
     },
     {
       "id": "f4ec24a7f8de",
