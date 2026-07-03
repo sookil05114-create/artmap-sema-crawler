@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:25Z",
+  "generated_at": "2026-07-03T09:27:28Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1369,7 +1369,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_32ec7830fb",
       "venue_name": "파운드리 서울",
       "title": "Summer Sparks II: Ignite at Frieze House Seoul",
@@ -1381,7 +1381,8 @@
       "lng": 126.9985407,
       "address": "서울특별시 용산구 이태원로 223",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:27.984Z"
     },
     {
       "id": "4c40fe1d11c1",
