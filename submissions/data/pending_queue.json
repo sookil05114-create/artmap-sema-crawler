@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:29:04Z",
+  "generated_at": "2026-07-03T09:29:08Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2745,7 +2745,7 @@
         "description_summary": "HORI ART SPACE에서 개최되는 4명의 작가가 참여하는 전시 '전부이거나 아무것도 아니거나'.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_horiateuseupeiseu",
       "venue_name": "호리아트스페이스",
       "title": "EVERYTHING, OR NOTHING AT ALL",
@@ -2757,7 +2757,8 @@
       "lng": 126.9811597,
       "address": "서울 종로구 삼청로7길 11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:05.006Z"
     },
     {
       "id": "af08c0c88683",
@@ -2786,7 +2787,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_operagaelreori",
       "venue_name": "오페라갤러리",
       "title": "How to Grow a Flower from a Supernova",
@@ -2798,7 +2799,8 @@
       "lng": 127.0355021,
       "address": "서울 강남구 언주로164길 24 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:07.675Z"
     },
     {
       "id": "e6b3298e7fd9",
