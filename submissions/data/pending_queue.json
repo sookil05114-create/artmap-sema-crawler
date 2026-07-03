@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:52Z",
+  "generated_at": "2026-07-03T09:26:56Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -781,7 +781,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seodaemun_v_3df2209137",
       "venue_name": "미학관",
       "title": "Drawing-Growing",
@@ -793,7 +793,8 @@
       "lng": 126.9364328,
       "address": "서울 서대문구 홍제내2나길 2 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:53.064Z"
     },
     {
       "id": "1c4b4bb1fecc",
@@ -864,7 +865,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_749eb3d164",
       "venue_name": "탈영역우정국",
       "title": "멀티 디멘셔널 컨버터 : 데이터의 유물 (Multi-Dimensional Converter : Artifacts of Data)",
@@ -876,7 +877,8 @@
       "lng": 126.9276602,
       "address": "서울 마포구 독막로20길 42",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:56.184Z"
     },
     {
       "id": "e60fb5033bf9",
