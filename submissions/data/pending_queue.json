@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:30:56Z",
+  "generated_at": "2026-07-03T09:31:00Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3343,7 +3343,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_a1078304d2",
       "venue_name": "갤러리바톤",
       "title": "Heavy Breathers",
@@ -3355,7 +3355,8 @@
       "lng": 127.0121759,
       "address": "서울 용산구 독서당로 116",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:30:59.110Z"
     },
     {
       "id": "a21d458450f2",
