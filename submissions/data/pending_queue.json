@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:32Z",
+  "generated_at": "2026-07-03T09:27:36Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1495,11 +1495,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongbuk_v_20fced5d29",
       "venue_name": "유영공간",
       "title": "어떻게 사랑할 것인가",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-17",
       "end_date": "2026-07-05",
       "thumbnail": "",
@@ -1507,7 +1507,8 @@
       "lng": 127.0003509,
       "address": "서울특별시 성북구 성북로16가길 1, 유영공간",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:36.354Z"
     },
     {
       "id": "ae645a1f92dc",
@@ -1536,11 +1537,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_89feaa7787",
       "venue_name": "캔 파운데이션",
       "title": "MO BY CAN",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "https://can-foundation.org/cp/wp-content/themes/can/assets/share.png?v=2",
@@ -1548,7 +1549,8 @@
       "lng": 126.9949214,
       "address": "서울시 용산구 한남동 733-70 (이태원로 27길 101) 1층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:33.716Z"
     },
     {
       "id": "1673af76b93b",
@@ -1577,11 +1579,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_eb0ebb9f10",
       "venue_name": "더레퍼런스",
       "title": "Private Protocol",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "https://the-ref.kr/link-image.png",
@@ -1589,7 +1591,8 @@
       "lng": 126.9718063,
       "address": "서울시 종로구 자하문로24길 44 B1/1F",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:27:32.921Z"
     },
     {
       "id": "3657e2136556",
