@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:57Z",
+  "generated_at": "2026-07-03T09:33:06Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3789,11 +3789,11 @@
         "description_summary": "톨레도 미술관의 명작을 소개하는 전시로 렘브란트에서 고야까지의 작품을 선보인다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yeongdeungpo_alt1",
       "venue_name": "ALT.1 더현대서울",
       "title": "렘브란트에서 고야까지 : 톨레도 미술관 명작展",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-03-21",
       "end_date": "2026-07-04",
       "thumbnail": "http://www.ehyundai.com/images/webhome/k_logo.png",
@@ -3801,7 +3801,8 @@
       "lng": 126.9289154,
       "address": "서울 영등포구 여의대로 108",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:32:58.122Z"
     },
     {
       "id": "8a7b4e6d8ef8",
@@ -3826,7 +3827,7 @@
         "description_summary": "2026년 한국 근대 거장전으로 유영국의 작품을 소개하는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gwanak_v_4903d075a2",
       "venue_name": "서울시립 남서울미술관",
       "title": "유영국: 산은 내 안에 있다",
@@ -3838,7 +3839,8 @@
       "lng": 126.9795205,
       "address": "서울 관악구 남부순환로 2076",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:33:05.470Z"
     },
     {
       "id": "a2aeb2c50d26",
