@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:50Z",
+  "generated_at": "2026-07-03T09:27:59Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1873,11 +1873,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_d2d167936c",
       "venue_name": "타데우스로팍 서울",
       "title": "마음의 눈",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-22",
       "end_date": "2026-08-01",
       "thumbnail": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
@@ -1885,7 +1885,8 @@
       "lng": 127.0128664,
       "address": "서울 용산구 독서당로 122-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:58.630Z"
     },
     {
       "id": "ea7a25f63e31",
