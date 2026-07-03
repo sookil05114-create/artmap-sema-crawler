@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:30:52Z",
+  "generated_at": "2026-07-03T09:30:56Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3301,11 +3301,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "dobong_v_dd23d120a3",
       "venue_name": "서울시립 사진미술관",
       "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-02",
       "end_date": "2027-05-30",
       "thumbnail": "",
@@ -3313,7 +3313,8 @@
       "lng": 127.0487773,
       "address": "서울 도봉구 마들로13길 68",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:30:55.018Z"
     },
     {
       "id": "66b62ac204f5",
