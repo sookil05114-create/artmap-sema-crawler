@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:17Z",
+  "generated_at": "2026-07-03T09:27:21Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1242,7 +1242,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "junggu_v_1d6f902696",
       "venue_name": "바이오갤러리",
       "title": "Mornming",
@@ -1254,7 +1254,8 @@
       "lng": 126.9871621,
       "address": "서울 중구 소파로 129 구관4층 401호",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:20.514Z"
     },
     {
       "id": "0244bd04d57d",
