@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:04Z",
+  "generated_at": "2026-07-03T09:27:08Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1075,7 +1075,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_4752d608f8",
       "venue_name": "파이프갤러리",
       "title": "Transient",
@@ -1087,7 +1087,8 @@
       "lng": 127.0008313,
       "address": "서울 용산구 대사관로 21 2층, 3층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:04.713Z"
     },
     {
       "id": "5a25dc7b4641",
@@ -1116,7 +1117,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_b8039ba05c",
       "venue_name": "샤워",
       "title": "Everyone Else Is Asleep",
@@ -1128,7 +1129,8 @@
       "lng": 126.9790905,
       "address": "서울 용산구 두텁바위로 61 지층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:07.524Z"
     },
     {
       "id": "3907149878d1",
