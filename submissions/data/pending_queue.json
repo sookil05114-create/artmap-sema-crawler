@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:36Z",
+  "generated_at": "2026-07-03T09:27:40Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1663,11 +1663,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yeouido_hanwha_pompidou",
       "venue_name": "한화 퐁피두센터",
       "title": "큐비스트: 시각의 혁신가들",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-04",
       "end_date": "2026-10-04",
       "thumbnail": "https://www.centrepompidou-hanwha.kr/assets/images/og-image.jpg",
@@ -1675,7 +1675,8 @@
       "lng": 126.9401102,
       "address": "서울 영등포구 여의대로 (63빌딩 인근)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:27:39.714Z"
     },
     {
       "id": "5aa32bd7f71d",
