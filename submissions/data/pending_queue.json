@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:20Z",
+  "generated_at": "2026-07-03T09:26:25Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -487,7 +487,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_87b0cfe0f3",
       "venue_name": "웅갤러리",
       "title": "형상이 된 반복",
@@ -499,7 +499,8 @@
       "lng": 126.9596434,
       "address": "서울 종로구 자하문로 299",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:24.699Z"
     },
     {
       "id": "df1c930ee931",
