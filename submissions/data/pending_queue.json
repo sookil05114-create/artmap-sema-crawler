@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:25:57Z",
+  "generated_at": "2026-07-03T09:26:01Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -317,11 +317,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_65b75297bf",
       "venue_name": "갤러리인사아트",
       "title": "제 25회 아트메트로 2026",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-24",
       "end_date": "2026-06-29",
       "thumbnail": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
@@ -329,7 +329,8 @@
       "lng": 126.9839129,
       "address": "서울 종로구 인사동길 56",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:01.268Z"
     },
     {
       "id": "c17bad99a57f",
