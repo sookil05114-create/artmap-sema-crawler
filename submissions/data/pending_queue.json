@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:36:18Z",
+  "generated_at": "2026-07-03T09:36:26Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4881,7 +4881,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_tonginhwarang",
       "venue_name": "통인화랑",
       "title": "몽·중·몽",
@@ -4893,7 +4893,8 @@
       "lng": 126.9858072,
       "address": "서울 종로구 인사동길 32",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:36:19.154Z"
     },
     {
       "id": "b8bdff774ae4",
@@ -4918,7 +4919,7 @@
         "description_summary": "김용호 작가의 개인전",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreoriateuringkeu",
       "venue_name": "갤러리아트링크",
       "title": "KYH VOL.1",
@@ -4930,7 +4931,8 @@
       "lng": 126.9798206,
       "address": "서울 종로구 삼청로 22 3층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:36:19.911Z"
     },
     {
       "id": "bdd00fee76ac",
@@ -4955,7 +4957,7 @@
         "description_summary": "변화하고 흔들리는 상태의 자아를 탐구하는 전시. 화면 속 인물이 주변의 식물과 사물, 공간 속에서 끊임없이 다른 감각과 관계를 만들어내며 고정되지 않는 자아의 상태를 드러낸다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreoriijeu",
       "venue_name": "갤러리이즈",
       "title": "백 주 희 개인전",
@@ -4967,7 +4969,8 @@
       "lng": 126.9841615,
       "address": "서울 종로구 인사동길 52-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:36:20.408Z"
     },
     {
       "id": "1a9ff72dff14",
@@ -4996,7 +4999,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_sun_gallery",
       "venue_name": "선화랑",
       "title": "Where Time Settles into Light",
@@ -5008,7 +5011,8 @@
       "lng": 126.9856846,
       "address": "서울 종로구 인사동5길 8",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:36:24.843Z"
     },
     {
       "id": "0124c33d5d79",
