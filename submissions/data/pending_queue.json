@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:36:11Z",
+  "generated_at": "2026-07-03T09:36:15Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4759,11 +4759,11 @@
         "description_summary": "환기미술관 별관에서 진행 중인 신소장품 전시로 디지털 작품과 시(詩)를 주제로 하는 전시입니다.",
         "confidence": 0.45
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_hwangimisulgwan",
       "venue_name": "환기미술관",
       "title": "디지털 신소장품_시의 시: PART II",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "http://whankimuseum.org/wp-content/uploads/2022/05/og-2.jpg",
@@ -4771,7 +4771,8 @@
       "lng": 126.9661217,
       "address": "서울 종로구 자하문로40길 63 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:36:14.641Z"
     },
     {
       "id": "9bbed4e49f4d",
