@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:27Z",
+  "generated_at": "2026-07-03T09:28:31Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2166,7 +2166,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
@@ -2178,7 +2178,8 @@
       "lng": 126.9804771,
       "address": "서울 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:30.146Z"
     },
     {
       "id": "86ec41ae3646",
