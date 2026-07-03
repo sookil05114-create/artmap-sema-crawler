@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:47Z",
+  "generated_at": "2026-07-03T09:32:52Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3713,7 +3713,7 @@
         "description_summary": "로버트 메이플소프의 형태의 시학을 주제로 한 전시로, 국제적으로 중요한 현대미술 작가의 작품을 소개하는 국제갤러리의 서울 전시.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Robert Mapplethorpe The Poetics of Form",
@@ -3725,7 +3725,8 @@
       "lng": 126.9804771,
       "address": "서울 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:32:52.063Z"
     },
     {
       "id": "1bcdf7a0a82b",
