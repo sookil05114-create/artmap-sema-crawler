@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:31:06Z",
+  "generated_at": "2026-07-03T09:31:54Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3385,7 +3385,7 @@
           "homepage"
         ]
       },
-      "status": "approved",
+      "status": "rejected",
       "venue_key": "gangnam_seupeiseuk_seoul",
       "venue_name": "스페이스K 서울",
       "title": "Friends and Neighbors",
@@ -3398,7 +3398,7 @@
       "address": "서울 강서구 마곡중앙8로 32 (코오롱원앤온리타워)",
       "region": "seoul",
       "category": "갤러리",
-      "reviewed_at": "2026-07-03T09:31:04.834Z"
+      "reviewed_at": "2026-07-03T09:31:53.656Z"
     },
     {
       "id": "f8466496210e",
