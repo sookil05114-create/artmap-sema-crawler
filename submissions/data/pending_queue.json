@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:36:15Z",
+  "generated_at": "2026-07-03T09:36:18Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4801,7 +4801,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_topohauseu_ateusenteo",
       "venue_name": "토포하우스 아트센터",
       "title": "먹빛변주",
@@ -4813,7 +4813,8 @@
       "lng": 126.984313,
       "address": "서울 종로구 인사동11길 6",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:36:16.334Z"
     },
     {
       "id": "03c6c3e58d5c",
@@ -4838,7 +4839,7 @@
         "description_summary": "배형경 작가의 개인전으로 청동 조각 작업을 선보이는 전시. 경복궁에서 만난 위로의 조각상을 주제로 진행된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreorisimon",
       "venue_name": "갤러리시몬",
       "title": "What Still Remains",
@@ -4850,7 +4851,8 @@
       "lng": 126.9732514,
       "address": "서울 종로구 자하문로6길 20",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:36:18.457Z"
     },
     {
       "id": "4a52108c3ab5",
