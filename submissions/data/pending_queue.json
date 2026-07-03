@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:29:32Z",
+  "generated_at": "2026-07-03T09:30:48Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2943,19 +2943,20 @@
         "description_summary": "낙원의 의미를 탐구하는 김태협의 개인전. 고요함과 충만함 또는 격렬한 감정의 소용돌이라는 두 가지 낙원의 개념을 다룬다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_totalmisulgwan",
       "venue_name": "토탈미술관",
       "title": "Kim Tae-hyup: World.exe: Eden and Its Shadow",
       "artists": "Kim Tae-hyup",
-      "start_date": "",
-      "end_date": "",
+      "start_date": "2026-03-10",
+      "end_date": "2026-07-31",
       "thumbnail": "",
       "lat": 37.6121235,
       "lng": 126.9756892,
       "address": "서울 종로구 평창32길 8 (평창동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:30:47.884Z"
     },
     {
       "id": "5d791cc79468",
@@ -3094,7 +3095,7 @@
         "description_summary": "홍순환 기획 초대전",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gwanhungaelreori",
       "venue_name": "관훈갤러리",
       "title": "홍순환",
@@ -3106,7 +3107,8 @@
       "lng": 126.9842613,
       "address": "서울 종로구 인사동11길 11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:33.940Z"
     },
     {
       "id": "4c938011da90",
@@ -3131,7 +3133,7 @@
         "description_summary": "로버트 메플소프의 형태의 시학을 주제로 한 전시로, 쿡제 갤러리 서울 한옥 공간에서 개최된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Robert Mapplethorpe: The Poetics of Form",
@@ -3143,7 +3145,8 @@
       "lng": 126.9804771,
       "address": "서울 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:33.055Z"
     },
     {
       "id": "3ae6969c2201",
