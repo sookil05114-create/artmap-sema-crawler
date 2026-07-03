@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:59Z",
+  "generated_at": "2026-07-03T09:28:04Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1915,7 +1915,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_pyogaelreori",
       "venue_name": "표갤러리",
       "title": "검은 숲, 찬란한 밑바닥 (Dark Forest, Radiant Depths)",
@@ -1927,7 +1927,8 @@
       "lng": 126.9708457,
       "address": "서울 종로구 자하문로5길 18-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:03.597Z"
     },
     {
       "id": "73ba38d4b29f",
