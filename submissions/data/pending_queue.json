@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:17Z",
+  "generated_at": "2026-07-03T09:34:22Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4447,7 +4447,7 @@
         "description_summary": "Park Taehoon의 개인전 'Obsesstopia'가 Kimreeaa Gallery에서 개최됩니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_gimriagaelreori",
       "venue_name": "김리아갤러리",
       "title": "Park Taehoon: Obsesstopia",
@@ -4459,7 +4459,8 @@
       "lng": 127.0469052,
       "address": "서울 강남구 압구정로75길 5",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:18.906Z"
     },
     {
       "id": "de5564469bc1",
@@ -4484,7 +4485,7 @@
         "description_summary": "김홍석의 개인전으로, 캔버스와 실, 한지가 어우러진 회화적 실험을 선보인다. 개폐 연작과 발아 연작을 중심으로 한국 현대미술사와 단색화의 흐름 속에서 재조명되는 작가의 작품세계를 조망한다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_johyeonhwarang_seoul",
       "venue_name": "조현화랑 서울",
       "title": "Where Threads Breathe",
@@ -4496,7 +4497,8 @@
       "lng": 127.0051533,
       "address": "서울 중구 동호로 249 서울 신라호텔 B1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:22.273Z"
     },
     {
       "id": "8d4dc781c844",
