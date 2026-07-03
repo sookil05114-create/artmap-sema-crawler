@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:04Z",
+  "generated_at": "2026-07-03T09:28:07Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1998,11 +1998,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_kiche",
       "venue_name": "갤러리 KICHE",
       "title": "바람을 안고 UPWIND",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-27",
       "end_date": "2026-08-01",
       "thumbnail": "",
@@ -2010,7 +2010,8 @@
       "lng": 127.0039086,
       "address": "서울 성북구 창경궁로43길 27",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:06.912Z"
     },
     {
       "id": "1c91551079ec",
