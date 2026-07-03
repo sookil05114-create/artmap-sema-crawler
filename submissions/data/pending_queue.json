@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:38Z",
+  "generated_at": "2026-07-03T09:28:41Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2289,7 +2289,7 @@
         "description_summary": "에스 데블린의 전시로 푸투라서울에서 개최되는 '세 번째 시' 연작 전시.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_futura_seoul",
       "venue_name": "푸투라 서울",
       "title": "세 번째 시, 에스 데블린: 다시 집으로 (3rd Poem, Es Devlin: Come Home Again)",
@@ -2301,7 +2301,8 @@
       "lng": 126.9848149,
       "address": "서울 종로구 북촌로 61",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:41.261Z"
     },
     {
       "id": "ba363937cc8e",
