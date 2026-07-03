@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:33:06Z",
+  "generated_at": "2026-07-03T09:33:10Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3865,7 +3865,7 @@
         "description_summary": "2026년 한국 근대 거장전으로 유영국의 작품을 소개하는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "geumcheon_v_75b99b9f74",
       "venue_name": "서울시립 서서울미술관",
       "title": "유영국: 산은 내 안에 있다",
@@ -3877,7 +3877,8 @@
       "lng": 126.8954095,
       "address": "서울 금천구 시흥대로79길 65",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:33:06.306Z"
     },
     {
       "id": "f4a8f56eca44",
@@ -3902,7 +3903,7 @@
         "description_summary": "한국의 건축가 조병수의 개인전으로, 자연의 섬세한 감수성으로 구축해온 건축 세계를 회화, 드로잉, 건축 모형, 설치 등 다양한 매체를 통해 선보인다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongbuk_bb_m",
       "venue_name": "BB&M",
       "title": "공간이 '繪'화가 될 때 (When Space Becomes Painting)",
@@ -3914,7 +3915,8 @@
       "lng": 126.9954009,
       "address": "서울 성북구 성북로23길 10",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:33:09.582Z"
     },
     {
       "id": "825859ad1e8e",
