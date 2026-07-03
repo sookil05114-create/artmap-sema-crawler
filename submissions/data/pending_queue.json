@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:33:18Z",
+  "generated_at": "2026-07-03T09:33:23Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4055,7 +4055,7 @@
         "description_summary": "Ki Seul Ki의 개인전 \"Liquid Light\"가 Chapter II 갤러리에서 개최된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_c8ed0c7725",
       "venue_name": "챕터투",
       "title": "Ki Seul Ki: Liquid Light",
@@ -4067,7 +4067,8 @@
       "lng": 126.9212316,
       "address": "서울 마포구 동교로27길 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:33:22.056Z"
     },
     {
       "id": "53aff1bf2e38",
@@ -4092,7 +4093,7 @@
         "description_summary": "김수지 작가의 개인전으로 박서보재단의 26SQM 공간에서 개최되는 전시.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_48d3ac28a9",
       "venue_name": "박서보미술관",
       "title": "보이지 않는 흔적",
@@ -4104,7 +4105,8 @@
       "lng": 126.935569,
       "address": "서울 서대문구 연희로24길 9-2",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:33:23.053Z"
     },
     {
       "id": "1d5762c29ca8",
