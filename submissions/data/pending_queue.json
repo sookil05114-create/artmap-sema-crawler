@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:44Z",
+  "generated_at": "2026-07-03T09:27:50Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1747,11 +1747,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "dobong_v_dd23d120a3",
       "venue_name": "서울시립 사진미술관",
       "title": "사진공유 프로젝트 《집-들이!》",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-19",
       "end_date": "2026-07-05",
       "thumbnail": "",
@@ -1759,7 +1759,8 @@
       "lng": 127.0487773,
       "address": "서울 도봉구 마들로13길 68",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:27:45.356Z"
     },
     {
       "id": "f23485ed25e8",
@@ -1788,7 +1789,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_00d8331098",
       "venue_name": "팩션",
       "title": "하이퍼 삼계탕",
@@ -1800,7 +1801,8 @@
       "lng": 126.9259985,
       "address": "서울 서대문구 홍제천로6길 26 지하1층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:50.139Z"
     },
     {
       "id": "d9db0b8be500",
@@ -1829,7 +1831,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_c0ce0399d0",
       "venue_name": "캡션서울",
       "title": "CAPTION × Inquiry",
@@ -1841,7 +1843,8 @@
       "lng": 126.9671902,
       "address": "서울 용산구 원효로81길 5 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:49.359Z"
     },
     {
       "id": "4ae8a0df73a2",
