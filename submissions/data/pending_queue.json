@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:29:00Z",
+  "generated_at": "2026-07-03T09:29:04Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2669,7 +2669,7 @@
         "description_summary": "미타니 류지의 솔로 전시로, 비오는 날을 위한 작품들을 선보입니다.",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_d530e9f450",
       "venue_name": "모노하 한남",
       "title": "SEASON OF RAIN",
@@ -2681,7 +2681,8 @@
       "lng": 127.0077538,
       "address": "서울 용산구 독서당로 36",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:01.113Z"
     },
     {
       "id": "3dcb9877f752",
@@ -2706,7 +2707,7 @@
         "description_summary": "Mika Tajima의 개인전으로 Pace Gallery Los Angeles에서 개최되는 전시입니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_40618ac755",
       "venue_name": "페이스갤러리 서울",
       "title": "37 Dimensions",
@@ -2718,7 +2719,8 @@
       "lng": 127.0013336,
       "address": "서울 용산구 이태원로 262",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:03.898Z"
     },
     {
       "id": "765c91866fd8",
