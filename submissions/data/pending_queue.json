@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:32Z",
+  "generated_at": "2026-07-03T09:32:38Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3469,7 +3469,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_page_room_8",
       "venue_name": "페이지룸8",
       "title": "더블스프레드 (Double Spread) - 조각가의 드로잉 3",
@@ -3481,7 +3481,8 @@
       "lng": 126.9676475,
       "address": "서울 종로구 옥인길 18",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:32:34.247Z"
     },
     {
       "id": "c878964bc858",
@@ -3510,7 +3511,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_wolhamisul",
       "venue_name": "월하미술",
       "title": "안천용 <고요한 귀로 歸路>",
@@ -3522,7 +3523,8 @@
       "lng": 127.0686373,
       "address": "서울 동대문구 장한로 79",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:32:37.477Z"
     },
     {
       "id": "38aba483b4da",
