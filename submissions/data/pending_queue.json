@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:30:48Z",
+  "generated_at": "2026-07-03T09:30:52Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3217,11 +3217,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "geumcheon_v_75b99b9f74",
       "venue_name": "서울시립 서서울미술관",
       "title": "서서울의 투명한 |청소년| 기계",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-05-14",
       "end_date": "2026-07-26",
       "thumbnail": "",
@@ -3229,7 +3229,8 @@
       "lng": 126.8954095,
       "address": "서울 금천구 시흥대로79길 65",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:30:49.259Z"
     },
     {
       "id": "0689b622466b",
@@ -3258,11 +3259,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "nowon_v_682ba5c8bc",
       "venue_name": "노원아트뮤지엄",
       "title": "2026 경춘선숲길 갤러리 <닿는 언어>",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-24",
       "end_date": "2026-07-12",
       "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
@@ -3270,7 +3271,8 @@
       "lng": 127.0802907,
       "address": "서울 노원구 중계로 181 4층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:30:51.868Z"
     },
     {
       "id": "36e37eadeb5f",
