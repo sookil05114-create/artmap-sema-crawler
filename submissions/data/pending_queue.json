@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:56Z",
+  "generated_at": "2026-07-03T09:26:59Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -907,7 +907,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "mapo_v_d2d2dd5276",
       "venue_name": "공간 파도",
       "title": "백야",
@@ -919,7 +919,8 @@
       "lng": 126.9405987,
       "address": "서울 마포구 고산7길 23",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:57.549Z"
     },
     {
       "id": "0f048e1a5bb3",
@@ -948,7 +949,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_f19462d789",
       "venue_name": "드로잉룸",
       "title": "풀. 숲",
@@ -960,7 +961,8 @@
       "lng": 126.9692875,
       "address": "서울 종로구 자하문로7길 68-4 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:59.396Z"
     },
     {
       "id": "2b690c13fb5d",
