@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:38Z",
+  "generated_at": "2026-07-03T09:32:42Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3549,11 +3549,11 @@
         "description_summary": "학고재 아트센터에서 개최되는 전시. 1F, B1F, B2F 전시 공간에서 운영 예정.",
         "confidence": 0.75
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_hakgojae_ateusenteo",
       "venue_name": "학고재 아트센터",
       "title": "Boiling Point 90°C",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-18",
       "end_date": "2026-07-04",
       "thumbnail": "http://hakgojaeartcenter.com/resources/images/common/site_logo_sns.jpg",
@@ -3561,7 +3561,8 @@
       "lng": 126.9804601,
       "address": "서울 종로구 삼청로 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:32:38.835Z"
     },
     {
       "id": "ef5fbe453a6b",
@@ -3590,7 +3591,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_topohauseu_ateusenteo",
       "venue_name": "토포하우스 아트센터",
       "title": "허준, 박청용 2인전 먹빛변주",
@@ -3602,7 +3603,8 @@
       "lng": 126.984313,
       "address": "서울 종로구 인사동11길 6",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:32:41.885Z"
     },
     {
       "id": "f36369188efc",
