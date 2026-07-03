@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:45Z",
+  "generated_at": "2026-07-03T09:28:51Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2403,11 +2403,11 @@
         "description_summary": "서울시립 북서울미술관에서 개최하는 글짓, 쓰는 예술 전시로, 다양한 교육 프로그램과 퍼포먼스가 연계되어 진행된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "geumcheon_v_75b99b9f74",
       "venue_name": "서울시립 서서울미술관",
       "title": "글짓, 쓰는 예술",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-23",
       "end_date": "2026-07-12",
       "thumbnail": "",
@@ -2415,7 +2415,8 @@
       "lng": 126.8954095,
       "address": "서울 금천구 시흥대로79길 65",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:46.825Z"
     },
     {
       "id": "c0f26714d403",
@@ -2440,11 +2441,11 @@
         "description_summary": "노원미술협회 초대전으로 미래를 향한 시선과 예술로의 연결을 주제로 한 전시입니다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "nowon_v_682ba5c8bc",
       "venue_name": "노원아트뮤지엄",
       "title": "2026 노원미술협회 초대전 <더 드림 아트 페스타 : 미래를 향한 시선, 예술로 연결되다>",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-07",
       "end_date": "2026-07-19",
       "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
@@ -2452,7 +2453,8 @@
       "lng": 127.0802907,
       "address": "서울 노원구 중계로 181 4층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:46.052Z"
     },
     {
       "id": "3e45ea00162a",
@@ -2515,7 +2517,7 @@
         "description_summary": "차토리 시미즈의 전시 '하이퍼 삼계탕'을 faction에서 예매할 수 있습니다.",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_00d8331098",
       "venue_name": "팩션",
       "title": "하이퍼 삼계탕 (Hyper Samgyetang)",
@@ -2527,7 +2529,8 @@
       "lng": 126.9259985,
       "address": "서울 서대문구 홍제천로6길 26 지하1층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:28:51.281Z"
     },
     {
       "id": "9b13f7c3f851",
