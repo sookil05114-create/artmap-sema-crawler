@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:59Z",
+  "generated_at": "2026-07-03T09:27:04Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -991,11 +991,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_142b1ecf35",
       "venue_name": "스페이스소",
       "title": "분신술 / The Art of Shadow Cloning",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-18",
       "end_date": "2026-07-18",
       "thumbnail": "",
@@ -1003,7 +1003,8 @@
       "lng": 126.964113,
       "address": "서울 종로구 자하문로 242 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:00.864Z"
     },
     {
       "id": "4372d0073267",
@@ -1032,7 +1033,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gwanak_v_fb4b686677",
       "venue_name": "실린더",
       "title": "Vessel",
@@ -1044,7 +1045,8 @@
       "lng": 126.9438008,
       "address": "서울 관악구 양녕로1길 48",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:03.070Z"
     },
     {
       "id": "bfd550794c67",
