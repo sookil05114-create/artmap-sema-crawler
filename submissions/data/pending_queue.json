@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:22Z",
+  "generated_at": "2026-07-03T09:34:26Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4527,7 +4527,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongdong_d_gallery",
       "venue_name": "더페이지갤러리",
       "title": "TIME INTERFACE",
@@ -4539,7 +4539,8 @@
       "lng": 127.0427626,
       "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 G205",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:23.923Z"
     },
     {
       "id": "c1c54a0eb0db",
@@ -4564,7 +4565,7 @@
         "description_summary": "조각가의 드로잉 3 프로젝트의 일환으로, 권오상과 함성주의 회화 및 입체 작품을 전시합니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_page_room_8",
       "venue_name": "페이지룸8",
       "title": "더블스프레드 Double Spread",
@@ -4576,7 +4577,8 @@
       "lng": 126.9676475,
       "address": "서울 종로구 옥인길 18",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:26.086Z"
     },
     {
       "id": "3388a86b264d",
