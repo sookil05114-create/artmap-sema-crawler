@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:33:10Z",
+  "generated_at": "2026-07-03T09:33:14Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3941,11 +3941,11 @@
         "description_summary": "민화, 누리슬 회원들의 작품을 선보이는 생활문화 전시",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "nowon_v_682ba5c8bc",
       "venue_name": "노원아트뮤지엄",
       "title": "[생활문화] 민화, 누리슬 회원전 '하루를 담은 색'",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-10",
       "end_date": "2026-06-23",
       "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
@@ -3953,7 +3953,8 @@
       "lng": 127.0802907,
       "address": "서울 노원구 중계로 181 4층",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:33:11.218Z"
     },
     {
       "id": "58728b12af9e",
@@ -3978,7 +3979,7 @@
         "description_summary": "2026년 한국 근대 거장전으로 유영국의 작품을 선보이는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "dobong_v_dd23d120a3",
       "venue_name": "서울시립 사진미술관",
       "title": "유영국: 산은 내 안에 있다",
@@ -3990,7 +3991,8 @@
       "lng": 127.0487773,
       "address": "서울 도봉구 마들로13길 68",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:33:13.737Z"
     },
     {
       "id": "8dddb5b2897f",
