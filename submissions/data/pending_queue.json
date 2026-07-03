@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:29:11Z",
+  "generated_at": "2026-07-03T09:29:24Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2905,7 +2905,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_geumhomisulgwan",
       "venue_name": "금호미술관",
       "title": "사람들은 진실에 관심이 없다",
@@ -2917,7 +2917,8 @@
       "lng": 126.9798242,
       "address": "서울 종로구 삼청로 18 (사간동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:29:12.056Z"
     },
     {
       "id": "5ebf9d6635c5",
@@ -2979,7 +2980,7 @@
         "description_summary": "갤러리담에서 개최되는 비랑 작가의 전시로, 2026년 6월 20일부터 29일까지 진행된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreoridam",
       "venue_name": "갤러리담",
       "title": "비랑 : 덫-칠하는 삶",
@@ -2991,7 +2992,8 @@
       "lng": 126.9834402,
       "address": "서울 종로구 윤보선길 72",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:23.350Z"
     },
     {
       "id": "33f6a73aac6f",
