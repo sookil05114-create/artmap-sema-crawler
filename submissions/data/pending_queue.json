@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:42Z",
+  "generated_at": "2026-07-03T09:26:48Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -655,7 +655,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_42091b6e38",
       "venue_name": "다이아몬드지",
       "title": "The Layers of Perception, Artist R.",
@@ -667,7 +667,8 @@
       "lng": 126.9838504,
       "address": "서울 용산구 신흥로20길 37-3 제1호",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:26:43.262Z"
     },
     {
       "id": "c1e46828e689",
@@ -696,11 +697,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "junggu_v_5bed25a7a8",
       "venue_name": "문화역서울 284",
       "title": "서울역 2026: 다시 뛰는 심장",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-11",
       "end_date": "2026-08-17",
       "thumbnail": "",
@@ -708,7 +709,8 @@
       "lng": 126.9715927,
       "address": "서울 중구 통일로 1 문화역서울284",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:26:47.064Z"
     },
     {
       "id": "bd718734eb91",
