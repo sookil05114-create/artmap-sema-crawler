@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:13Z",
+  "generated_at": "2026-07-03T09:34:17Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4409,7 +4409,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_bhak",
       "venue_name": "BHAK",
       "title": "In Between State",
@@ -4421,7 +4421,8 @@
       "lng": 127.0032171,
       "address": "서울 용산구 한남대로40길 19",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:16.723Z"
     },
     {
       "id": "c2a471ba43ad",
