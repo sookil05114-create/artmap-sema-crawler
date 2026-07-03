@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:26Z",
+  "generated_at": "2026-07-03T09:34:31Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4603,7 +4603,7 @@
         "description_summary": "박정연 작가의 개인전. Hakgojae Art Center 1F에서 개최.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_hakgojae_ateusenteo",
       "venue_name": "학고재 아트센터",
       "title": "The Bather",
@@ -4615,7 +4615,8 @@
       "lng": 126.9804601,
       "address": "서울 종로구 삼청로 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:27.765Z"
     },
     {
       "id": "4a6d022f215e",
@@ -4644,7 +4645,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_geurimson",
       "venue_name": "갤러리 그림손",
       "title": "나는 풍경 안에 있지 않다",
@@ -4656,7 +4657,8 @@
       "lng": 126.9861401,
       "address": "서울 종로구 인사동10길 22",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:28.569Z"
     },
     {
       "id": "edfaa3bcd172",
@@ -4681,11 +4683,11 @@
         "description_summary": "협력 기획단 '우리들'과 함께하는 토론극장 전시",
         "confidence": 0.4
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_geumhomisulgwan",
       "venue_name": "금호미술관",
       "title": "토론극장: 우리_들",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -4693,7 +4695,8 @@
       "lng": 126.9798242,
       "address": "서울 종로구 삼청로 18 (사간동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:34:30.478Z"
     },
     {
       "id": "15a0c7c0b1d1",
