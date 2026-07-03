@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:33:23Z",
+  "generated_at": "2026-07-03T09:33:59Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4131,19 +4131,20 @@
         "description_summary": "조은 작가의 원화전시로, '오늘의 정원'을 주제로 전개되는 전시입니다.",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_65b5f85b8b",
       "venue_name": "그라운드시소 한남",
       "title": "조은 원화전: 오늘의 정원",
       "artists": "조은",
-      "start_date": "",
-      "end_date": "",
+      "start_date": "2026-07-17",
+      "end_date": "2026-11-29",
       "thumbnail": "",
       "lat": 37.5362657,
       "lng": 127.0049872,
       "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:33:59.036Z"
     },
     {
       "id": "f9c165673d70",
