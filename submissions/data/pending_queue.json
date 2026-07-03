@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:28Z",
+  "generated_at": "2026-07-03T09:26:39Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -571,7 +571,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongbuk_v_171b2e1705",
       "venue_name": "제이슨함",
       "title": "Amanda Baldwin: Sun Rose / Marie Cloquet: Superbloom",
@@ -583,7 +583,8 @@
       "lng": 126.9884306,
       "address": "서울 성북구 성북로31길 73",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:38.620Z"
     },
     {
       "id": "c9222e3af244",
