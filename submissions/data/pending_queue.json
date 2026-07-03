@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:01Z",
+  "generated_at": "2026-07-03T09:26:08Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -239,11 +239,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_ff63e492bc",
       "venue_name": "무우수갤러리",
       "title": "르 스펙트르 드 레트르",
-      "artists": null,
+      "artists": "",
       "start_date": "2025-03-05",
       "end_date": "2025-04-07",
       "thumbnail": "",
@@ -251,7 +251,8 @@
       "lng": 126.9863344,
       "address": "서울 종로구 인사동길 19-2 와담빌딩 3,4층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:07.105Z"
     },
     {
       "id": "2c614d1918b4",
@@ -276,11 +277,11 @@
         "description_summary": "백악미술관에서 개최되는 한묵전 전시",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_a5111dc307",
       "venue_name": "백악미술관",
       "title": "한묵전",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-25",
       "end_date": "2026-07-01",
       "thumbnail": "",
@@ -288,7 +289,8 @@
       "lng": 126.9841283,
       "address": "서울 종로구 인사동9길 16",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:26:03.312Z"
     },
     {
       "id": "ef7c7076700c",
