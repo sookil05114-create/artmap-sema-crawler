@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:21Z",
+  "generated_at": "2026-07-03T09:27:25Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1201,7 +1201,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_6e58bfae5a",
       "venue_name": "피비갤러리",
       "title": "Jim Dine: My Words & Pinocchio",
@@ -1213,7 +1213,8 @@
       "lng": 126.9831766,
       "address": "서울 종로구 북촌로 125-6",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:22.014Z"
     },
     {
       "id": "3ca96c17a2eb",
@@ -1326,7 +1327,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_5cdbfb0748",
       "venue_name": "TYA갤러리",
       "title": "INDEX vol.02 《발견》",
@@ -1338,7 +1339,8 @@
       "lng": 126.9703285,
       "address": "서울시 종로구 자하문로5길 28",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:25.496Z"
     },
     {
       "id": "5b124e519762",
