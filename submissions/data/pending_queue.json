@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:33:59Z",
+  "generated_at": "2026-07-03T09:34:05Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4169,7 +4169,7 @@
         "description_summary": "이강원 작가의 개인전 'Variables'",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_e4315d5de2",
       "venue_name": "눈컨템포러리",
       "title": "Variables",
@@ -4181,7 +4181,8 @@
       "lng": 126.9784555,
       "address": "서울 용산구 소월로 72",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:00.644Z"
     },
     {
       "id": "5f943baf340f",
@@ -4206,7 +4207,7 @@
         "description_summary": "Whitestone Gallery의 베이징 전시공간에서 개최되는 대잉(DAI YING)의 개인전으로, 생명과 죽음의 영역을 주제로 한 작품들을 선보인다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_e9960bfb05",
       "venue_name": "화이트스톤갤러리 서울",
       "title": "DAI YING: The Field of Life and Death",
@@ -4218,7 +4219,8 @@
       "lng": 126.9782202,
       "address": "서울 용산구 소월로 70",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:04.844Z"
     },
     {
       "id": "80b6d1c6c0bd",
