@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:29:28Z",
+  "generated_at": "2026-07-03T09:29:32Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3018,7 +3018,7 @@
         "description_summary": "마손의 일러스트 작품을 선보이는 전시로 모든 계절을 주제로 한다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreoriateuringkeu",
       "venue_name": "갤러리아트링크",
       "title": "마손 일러스트 전시 < 모든 계절>",
@@ -3030,7 +3030,8 @@
       "lng": 126.9798206,
       "address": "서울 종로구 삼청로 22 3층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:29.696Z"
     },
     {
       "id": "9fe5f57cd1a2",
@@ -3171,7 +3172,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "euljiro_alternativespaceloop",
       "venue_name": "대안공간루프",
       "title": "It Goes by No Name",
@@ -3183,7 +3184,8 @@
       "lng": 126.9968182,
       "address": "미정 (이사 예정)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:32.036Z"
     },
     {
       "id": "f10f3da9a9a7",
