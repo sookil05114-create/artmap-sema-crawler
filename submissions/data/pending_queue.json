@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:25Z",
+  "generated_at": "2026-07-03T09:26:28Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -529,7 +529,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongbuk_v_82a3224227",
       "venue_name": "우손갤러리 서울",
       "title": "After the Hull",
@@ -541,7 +541,8 @@
       "lng": 127.00017,
       "address": "서울 성북구 선잠로2나길 9",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:27.900Z"
     },
     {
       "id": "52a48790e020",
