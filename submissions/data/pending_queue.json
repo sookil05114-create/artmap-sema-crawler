@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:55Z",
+  "generated_at": "2026-07-03T09:29:00Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2593,11 +2593,11 @@
         "description_summary": "태국을 대표하는 문화유산을 소개하는 특별전시로, 태국미술의 명품들을 선보인다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_3218026cac",
       "venue_name": "국립중앙박물관",
       "title": "어메이징 타일랜드: 태국미술명품전",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-23",
       "end_date": "2026-09-06",
       "thumbnail": "https://www.museum.go.kr/design/common/images/nmk_sns_logo.png",
@@ -2605,7 +2605,8 @@
       "lng": 126.9779352,
       "address": "서울 용산구 서빙고로 137",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:55.663Z"
     },
     {
       "id": "213d1fc68f40",
@@ -2630,7 +2631,7 @@
         "description_summary": "CAPTION에서 개최하는 전시로 Vanilla Miryam Charles, Atarangi Anderson, Seungyeon Yi의 작품을 선보입니다.",
         "confidence": 0.65
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_c0ce0399d0",
       "venue_name": "캡션서울",
       "title": "Vanilla Miryam Charles Atarangi Anderson Seungyeon Yi",
@@ -2642,7 +2643,8 @@
       "lng": 126.9671902,
       "address": "서울 용산구 원효로81길 5 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:00.177Z"
     },
     {
       "id": "d91e8c2fd4e9",
