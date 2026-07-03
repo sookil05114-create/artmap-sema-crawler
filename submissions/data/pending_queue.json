@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:41Z",
+  "generated_at": "2026-07-03T09:28:45Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2327,11 +2327,11 @@
         "description_summary": "2026 뮤지엄다이어리 프로그램으로 상상력을 키워나가는 다채로운 창작의 시간을 담은 전시",
         "confidence": 0.5
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongdong_v_5cbca32c8f",
       "venue_name": "헬로우뮤지엄",
       "title": "펠트괴물",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -2339,7 +2339,8 @@
       "lng": 127.0532505,
       "address": "서울 성동구 성수일로12길 20",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:42.039Z"
     },
     {
       "id": "fcc0a8aa92ef",
@@ -2364,11 +2365,11 @@
         "description_summary": "서울시립 북서울미술관에서 개최되는 전시로, 쓰기와 예술을 주제로 한 전시입니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gwanak_v_4903d075a2",
       "venue_name": "서울시립 남서울미술관",
       "title": "글짓, 쓰는 예술",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-23",
       "end_date": "2026-07-12",
       "thumbnail": "",
@@ -2376,7 +2377,8 @@
       "lng": 126.9795205,
       "address": "서울 관악구 남부순환로 2076",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:42.763Z"
     },
     {
       "id": "1b0ea2c21fb5",
@@ -2475,11 +2477,11 @@
         "description_summary": "서울시립 북서울미술관에서 개최되는 글쓰기와 관련된 예술 전시로, 전시 연계 퍼포먼스 등 다양한 프로그램이 운영됩니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "dobong_v_dd23d120a3",
       "venue_name": "서울시립 사진미술관",
       "title": "글짓, 쓰는 예술",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-04-23",
       "end_date": "2026-07-12",
       "thumbnail": "",
@@ -2487,7 +2489,8 @@
       "lng": 127.0487773,
       "address": "서울 도봉구 마들로13길 68",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:28:45.333Z"
     },
     {
       "id": "be96a4321111",
