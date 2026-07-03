@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:28Z",
+  "generated_at": "2026-07-03T09:27:32Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1411,7 +1411,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_d3cfec7ce6",
       "venue_name": "갤러리조선",
       "title": "Talpidae",
@@ -1423,7 +1423,8 @@
       "lng": 126.9814996,
       "address": "서울시 종로구 북촌로 5길 64 갤러리조선",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:29.251Z"
     },
     {
       "id": "5801eee0219e",
@@ -1452,7 +1453,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_8a8a494901",
       "venue_name": "갤러리밈",
       "title": "M'VOID Current",
@@ -1464,7 +1465,8 @@
       "lng": 126.9859438,
       "address": "서울특별시 종로구 인사동 5길 3 갤러리밈",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:30.251Z"
     },
     {
       "id": "8bbe7b78ebcc",
@@ -1616,11 +1618,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "geumcheon_v_d72845d889",
       "venue_name": "아트센터 예술의 시간",
       "title": "나의 인류",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -1628,7 +1630,8 @@
       "lng": 126.8900963,
       "address": "서울시 금천구 범안로 9길 23, H동",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:27:32.048Z"
     },
     {
       "id": "1e56b9e0ab81",
