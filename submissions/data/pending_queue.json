@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:29:08Z",
+  "generated_at": "2026-07-03T09:29:11Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2825,7 +2825,7 @@
         "description_summary": "The Page Gallery에서 개최하는 KUHO JUNG의 개인전으로, 2026년 6월 26일부터 7월 24일까지 전시된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seongdong_d_gallery",
       "venue_name": "더페이지갤러리",
       "title": "KUHO JUNG: 白骨銅 BAEK GOL DONG",
@@ -2837,7 +2837,8 @@
       "lng": 127.0427626,
       "address": "서울 성동구 서울숲2길 32-14 갤러리아 포레 G205",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:08.951Z"
     },
     {
       "id": "a24ee8dd0148",
@@ -2862,11 +2863,11 @@
         "description_summary": "KICHE에서 개최하는 전시",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gaelreori_kiche",
       "venue_name": "갤러리 KICHE",
       "title": "바람을 안고 (UPWIND)",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-27",
       "end_date": "2026-08-01",
       "thumbnail": "",
@@ -2874,7 +2875,8 @@
       "lng": 127.0039086,
       "address": "서울 성북구 창경궁로43길 27",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:29:11.095Z"
     },
     {
       "id": "cde2d74cccb2",
