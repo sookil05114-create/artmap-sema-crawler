@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:36:26Z",
+  "generated_at": "2026-07-03T09:36:29Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -5041,7 +5041,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_ocimisulgwan",
       "venue_name": "OCI미술관",
       "title": "정복되지 않은 세계",
@@ -5053,7 +5053,8 @@
       "lng": 126.9821074,
       "address": "서울 종로구 우정국로 45-14",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:36:29.009Z"
     },
     {
       "id": "234c5c8c4a24",
