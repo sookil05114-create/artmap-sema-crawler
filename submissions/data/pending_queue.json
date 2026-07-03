@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:24Z",
+  "generated_at": "2026-07-03T09:32:32Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -3427,7 +3427,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_horiateuseupeiseu",
       "venue_name": "호리아트스페이스",
       "title": "전부이거나 아무것도 아니거나 (EVERYTHING, OR NOTHING AT ALL)",
@@ -3439,7 +3439,8 @@
       "lng": 126.9811597,
       "address": "서울 종로구 삼청로7길 11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:32:31.711Z"
     },
     {
       "id": "f05763d63729",
