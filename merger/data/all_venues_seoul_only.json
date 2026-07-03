@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-02T21:07:52Z",
+  "generated_at": "2026-07-03T10:04:04Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 254,
+  "venue_count": 260,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -523,9 +523,22 @@
       "instagram_url": "https://www.instagram.com/alternativespaceloop/",
       "image_url": "http://altspaceloop.com/assets/images/og-image.png",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "3ae6969c2201",
+          "title": "It Goes by No Name",
+          "artists": "Sangwoon Jung",
+          "start_date": "2026-07-03",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "http://altspaceloop.com/assets/images/og-image.png",
+          "url": "http://altspaceloop.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "euljiro_pilseungsa_art",
@@ -733,9 +746,21 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofcraftart",
       "image_url": "https://craftmuseum.seoul.go.kr/images/common/og_images.png",
       "category": "박물관",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "1bcdf7a0a82b",
+          "title": "더 하이브리드",
+          "artists": "",
+          "start_date": "2026-04-28",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://craftmuseum.seoul.go.kr/main",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "a903037f0746",
           "title": "색유만개: 권순형 기증특별전시",
@@ -884,9 +909,21 @@
       "instagram_url": "https://www.instagram.com/kukjegallery/",
       "image_url": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
       "category": "갤러리",
-      "active_count": 3,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "47cdd8e3959f",
+          "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
+          "artists": "Robert Mapplethorpe",
+          "start_date": "2026-06-09",
+          "end_date": "2026-07-19",
+          "status": "active",
+          "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+          "url": "https://www.kukjegallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "b5e4cb5e42cc",
           "title": "Objects in Oscillation",
@@ -936,9 +973,21 @@
       "instagram_url": "https://www.instagram.com/ocimuseum",
       "image_url": "https://www.ocimuseum.org/assets/images/logo_naver.jpg",
       "category": "미술관",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "0124c33d5d79",
+          "title": "정복되지 않은 세계",
+          "artists": "서도이",
+          "start_date": "2026-06-18",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "https://www.ocimuseum.org/assets/images/logo_naver.jpg",
+          "url": "https://www.ocimuseum.org/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "4250cc7db837",
           "title": "2026 OCI AGAIN: 귀한 인연 선정작가 전시",
@@ -1050,9 +1099,22 @@
       "instagram_url": "https://www.instagram.com/kwanhoongallery/",
       "image_url": "http://www.kwanhoongallery.com/images/site_img.jpg",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "ea45da53b053",
+          "title": "홍순환",
+          "artists": "홍순환",
+          "start_date": "2026-06-26",
+          "end_date": "2026-07-24",
+          "status": "active",
+          "thumbnail": "http://www.kwanhoongallery.com/images/site_img.jpg",
+          "url": "http://www.kwanhoongallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_jaedanbeobin_yeol_yeolbukchonga",
@@ -1183,9 +1245,21 @@
       "instagram_url": "https://www.instagram.com/arariogallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/28750837_1600436476700045_3019456412469166080_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fkwyLcJrp4EQ7kNvwFyxPXV&_nc_oc=AdoNhh5uEuRm-p0tn2UPi0JL_QC4sCAHB9VEDE5X8cpx2vRUPzeGXeH1wEFiaiE6M_I&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7qhWRvxMRwae5KmqRBIIJFH6jYhap_xa8sQcQp9To54g&oe=6A1C464A",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "9fe5f57cd1a2",
+          "title": "The Sky Remains as the Bird Departs",
+          "artists": "HUANG Hankang",
+          "start_date": "2026-05-15",
+          "end_date": "2026-07-04",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.arariogallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "e61941f7c997",
           "title": "《김인배 개인전》",
@@ -1387,9 +1461,22 @@
       "instagram_url": "https://www.instagram.com/totalmuseum/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/345424239_926947498553572_3057014545432440263_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MDAuQzMifQ%3D%3D&_nc_ohc=yDxXaLn8HyIQ7kNvwGUmonf&_nc_oc=Adq2KabUkN0TZgolq2gsFYaqh3X3OCC98-bTDX5fIXcu5LzcJzInPOOjWtDCdizFLBw&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6dcQdRdPfasXBWnE0AHNjc3WPT9_kSSfG2IV7aNwfQ5A&oe=6A1C46A0",
       "category": "미술관",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "5ebf9d6635c5",
+          "title": "Kim Tae-hyup: World.exe: Eden and Its Shadow",
+          "artists": "Kim Tae-hyup",
+          "start_date": "2026-03-10",
+          "end_date": "2026-07-31",
+          "status": "active",
+          "thumbnail": "",
+          "url": "http://totalmuseum.org/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_jongromunhwajaedan",
@@ -1505,9 +1592,22 @@
       "instagram_url": "https://www.instagram.com/gallery_kiche/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/167188359_442639073730879_32504790078026436_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy40NjguQzMifQ%3D%3D&_nc_ohc=5kWX1bcVZzoQ7kNvwGBTo1n&_nc_oc=AdqNEluwFCWMBqSp77P8U4thPnHjNLJCQgXqdZnil_6We0jkSRnPQPN1rSSJEAyhFdg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6Uhy3TWX5sTNCc8xlpTL5PQOO5ks5zWbJYRkVc88qhDA&oe=6A1C1EF3",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "a24ee8dd0148",
+          "title": "바람을 안고 (UPWIND)",
+          "artists": "",
+          "start_date": "2026-06-27",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.gallerykiche.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_gaelreori_geurimson",
@@ -1520,9 +1620,22 @@
       "instagram_url": "https://www.instagram.com/gallerygrimson",
       "image_url": "https://www.grimson.co.kr/images/meta_img.png",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "4a6d022f215e",
+          "title": "나는 풍경 안에 있지 않다",
+          "artists": "한조영",
+          "start_date": "2026-06-17",
+          "end_date": "2026-07-14",
+          "status": "active",
+          "thumbnail": "/images/meta_img.png",
+          "url": "https://www.grimson.co.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_ganaateusenteo",
@@ -1595,9 +1708,22 @@
       "instagram_url": "https://www.instagram.com/pageroom8",
       "image_url": "https://cdn.imweb.me/upload/S202009142dea1a088d897/4954257d4044d.png",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "f05763d63729",
+          "title": "더블스프레드 (Double Spread) - 조각가의 드로잉 3",
+          "artists": "권오상, 함성주",
+          "start_date": "2026-06-19",
+          "end_date": "2026-07-18",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.pageroom8.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_gallery_now",
@@ -1625,9 +1751,22 @@
       "instagram_url": "https://www.instagram.com/pyogallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/311434144_1773224589707059_8194258020542288462_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41OTEuQzMifQ%3D%3D&_nc_ohc=h-dU49FwyQ4Q7kNvwGnlFxy&_nc_oc=Ado_xNxxj-4t70LBgH6aX8DeDjpWDHQOhz4G9hCloR81HoVDfKLvd4QMEjzyxjFOe8s&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af4uGv2COGg-rqVFswaNyz0X_8HKph-zo3DHZnwxK8Qbww&oe=6A1C4815",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "ea7a25f63e31",
+          "title": "검은 숲, 찬란한 밑바닥 (Dark Forest, Radiant Depths)",
+          "artists": "김미로",
+          "start_date": "2026-07-03",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "https://static.wixstatic.com/media/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/d27b6c_1118e389525e4368a37b8638b0861a69%7Emv2.jpg",
+          "url": "https://www.pyogallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "seongdong_atelier_aki",
@@ -1670,9 +1809,22 @@
       "instagram_url": "https://www.instagram.com/thepage_gallery",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/images/exhibitions/home_page_image/items/8f/8f4ad84b8de14a78ab240e4fc7568e8a/web_time-interface_tpg_39.jpg",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "e6b3298e7fd9",
+          "title": "KUHO JUNG: 白骨銅 BAEK GOL DONG",
+          "artists": "KUHO JUNG",
+          "start_date": "2026-06-26",
+          "end_date": "2026-07-24",
+          "status": "active",
+          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1534/usr/library/images/main/pages/1/web_-_tpg_10.jpg",
+          "url": "https://thepage-gallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_songeun",
@@ -1770,7 +1922,7 @@
       "instagram_url": "https://www.instagram.com/operagallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/279458240_1011030982861650_2480122311166139900_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NzUuQzMifQ%3D%3D&_nc_ohc=dzAaupW7_loQ7kNvwGxOjEj&_nc_oc=Adomn0zs8f-LhLueaWDhdSK_HSzCtvukPkCeKKIi8Chdz3tbyKMsS1YV7zEEpVXyZV4&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af7RLKRKunqqOT1w7lJwF55TnxYGoGi9iMpnT7fQQW50zw&oe=6A1C18F0",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -1779,6 +1931,18 @@
           "artists": "Pieter Obels, Feng Xiao-Min",
           "start_date": "2026-06-04",
           "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.operagallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "af08c0c88683",
+          "title": "How to Grow a Flower from a Supernova",
+          "artists": "Gustavo Nazareno",
+          "start_date": "2026-06-26",
+          "end_date": "2026-07-15",
           "status": "active",
           "thumbnail": "",
           "url": "https://www.operagallery.com/",
@@ -1828,9 +1992,22 @@
       "instagram_url": "https://www.instagram.com/galeriebhak",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/103752904_294735581710516_7605946901102829055_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=R2dkgLQjMHQQ7kNvwH7alc2&_nc_oc=AdpKBXafrj-5JbwmYlqXEepQbY_HEvPraqVWXyqvFaLxmhuP7AQN-5K9R9Aodc3pS1M&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6wtGbl4i6HwCSA3vXwleO-DdvNRAdh6X7sq7BeblHQyQ&oe=6A1C4266",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "837ee81bfbe8",
+          "title": "In Between State",
+          "artists": "Armando Chant, Sungmin Park",
+          "start_date": "2026-06-18",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://galeriebhak.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_olmiateuseupeiseu",
@@ -2086,13 +2263,13 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
-          "id": "03f0648c4281",
-          "title": "Bae Yoon Hwan",
+          "id": "66b62ac204f5",
+          "title": "Heavy Breathers",
           "artists": "Bae Yoon Hwan",
           "start_date": "2026-06-27",
           "end_date": "2026-07-31",
           "status": "active",
-          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/03/03984784825841f8aae108101514aec0/gb_byh_2022_portrait_2_photo-by-jeon-byung-cheol.jpg",
+          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,g_xy_center,x_w_mul_0.5,y_h_mul_0.81,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0072/usr/images/exhibitions/home_page_image/items/e8/e8107261d596491fad382703f7cb54ca/gb_byh_2026_baritone_charcoal-on-canvas_162.2-x-130.3-cm.jpg?focal=50,81",
           "url": "https://gallerybaton.com/",
           "price": "",
           "source": "gallery_crawler"
@@ -2150,9 +2327,34 @@
       "instagram_url": "https://www.instagram.com/pacegallery/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/243574911_121265536936922_4503679489271178471_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=gm1MKaO-bjwQ7kNvwGF-J6T&_nc_oc=Ado189g5WsDmX0VlWJhESlGdTcN7_pc8_3ZRl0OwEpI9YtMxczgfxqLO1IkIwZbJtRE&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6sGlHyQcNeWZEXWBseKv2m5p5ZjsxrOMYLnr6uRmrIiA&oe=6A1C2D23",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 2,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "776fc3482ef0",
+          "title": "When Form Meets Gesture",
+          "artists": "Park Young Sook",
+          "start_date": "2026-06-19",
+          "end_date": "2026-08-14",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.pacegallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "3dcb9877f752",
+          "title": "37 Dimensions",
+          "artists": "Mika Tajima",
+          "start_date": "2026-06-27",
+          "end_date": "2026-08-15",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.pacegallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "yongsan_v_8100d2824a",
@@ -2195,9 +2397,33 @@
       "instagram_url": "https://www.instagram.com/ThaddaeusRopac/",
       "image_url": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
       "category": "갤러리",
-      "active_count": 2,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "4ae8a0df73a2",
+          "title": "마음의 눈",
+          "artists": "",
+          "start_date": "2026-05-22",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+          "url": "https://ropac.net/ko/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "80b6d1c6c0bd",
+          "title": "The Sky in the Cave",
+          "artists": "Oliver Beer",
+          "start_date": "2026-06-05",
+          "end_date": "2026-07-31",
+          "status": "active",
+          "thumbnail": "https://static-assets.artlogic.net/c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/seo_overrides/og_image/1/gtr-london_oliver-beer_resonance-project_photo-steve-white-2-_300dpi-copie.jpg",
+          "url": "https://ropac.net/ko/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "dba7c68e6d87",
           "title": "Mandy El-Sayegh Jewel Tones",
@@ -2528,9 +2754,33 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/272649020_146753087724856_3611605368936965787_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQzLkMzIn0%3D&_nc_ohc=G8LoayxOWbkQ7kNvwHy_PFd&_nc_oc=AdpGhpeWuJJqaRV-d2LZMWRJb8QT4852vvCqkHa3SZmuLFFKZ0whPDF3PgEbvku2oMI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5_7abhs5nHpMS67tfp1oBPRSFLOPYv4B6A3n7zw3ny0w&oe=6A1C3129",
       "category": "미술관",
-      "active_count": 0,
+      "active_count": 2,
       "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "3e45ea00162a",
+          "title": "글짓, 쓰는 예술",
+          "artists": "",
+          "start_date": "2026-04-23",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "54e7e0b26892",
+          "title": "사진공유 프로젝트 《집-들이!》",
+          "artists": "",
+          "start_date": "2026-06-19",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "84cf27aca8a2",
           "title": "《마틴 파 개인전》",
@@ -2629,7 +2879,7 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofart",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/272649020_146753087724856_3611605368936965787_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQzLkMzIn0%3D&_nc_ohc=G8LoayxOWbkQ7kNvwHy_PFd&_nc_oc=AdpGhpeWuJJqaRV-d2LZMWRJb8QT4852vvCqkHa3SZmuLFFKZ0whPDF3PgEbvku2oMI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5_7abhs5nHpMS67tfp1oBPRSFLOPYv4B6A3n7zw3ny0w&oe=6A1C3129",
       "category": "미술관",
-      "active_count": 3,
+      "active_count": 5,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -2649,6 +2899,30 @@
           "title": "알렉사에게",
           "artists": "",
           "start_date": "2026-03-26",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "1b0ea2c21fb5",
+          "title": "글짓, 쓰는 예술",
+          "artists": "",
+          "start_date": "2026-04-23",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "f10f3da9a9a7",
+          "title": "서서울의 투명한 |청소년| 기계",
+          "artists": "",
+          "start_date": "2026-05-14",
           "end_date": "2026-07-26",
           "status": "active",
           "thumbnail": "",
@@ -2681,9 +2955,21 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofart",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/272649020_146753087724856_3611605368936965787_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQzLkMzIn0%3D&_nc_ohc=G8LoayxOWbkQ7kNvwHy_PFd&_nc_oc=AdpGhpeWuJJqaRV-d2LZMWRJb8QT4852vvCqkHa3SZmuLFFKZ0whPDF3PgEbvku2oMI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af5_7abhs5nHpMS67tfp1oBPRSFLOPYv4B6A3n7zw3ny0w&oe=6A1C3129",
       "category": "미술관",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "fcc0a8aa92ef",
+          "title": "글짓, 쓰는 예술",
+          "artists": "",
+          "start_date": "2026-04-23",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "95d121c9cba9",
           "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
@@ -2740,8 +3026,20 @@
       "image_url": "https://cdn.imweb.me/upload/S20240805c458e0fcdf3d8/a7c8224dd8326.png",
       "category": "갤러리",
       "active_count": 2,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
+        {
+          "id": "5aa32bd7f71d",
+          "title": "세 번째 시: 에스 데블린, 다시 집으로 (3rd Poem: Es Devlin, Come Home Again)",
+          "artists": "Es Devlin",
+          "start_date": "2026-08-20",
+          "end_date": "2027-01-31",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://futuraseoul.org/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "aa60a541418d",
           "title": "《김보희 개인전》",
@@ -2807,9 +3105,21 @@
       "instagram_url": "https://www.instagram.com/centrepompidouhanwha/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "1e56b9e0ab81",
+          "title": "큐비스트: 시각의 혁신가들",
+          "artists": "",
+          "start_date": "2026-06-04",
+          "end_date": "2026-10-04",
+          "status": "active",
+          "thumbnail": "https://www.centrepompidou-hanwha.kr/assets/images/og-image.jpg",
+          "url": "https://www.centrepompidou-hanwha.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
         {
           "id": "a79165f880f7",
           "title": "큐비즘 소장품 개관전",
@@ -2940,9 +3250,22 @@
       "instagram_url": "https://www.instagram.com/spaceuooyoung",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "8bbe7b78ebcc",
+          "title": "어떻게 사랑할 것인가",
+          "artists": "",
+          "start_date": "2026-06-17",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://spaceuooyoung.art/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_v_964ed2ccaf",
@@ -2970,9 +3293,22 @@
       "instagram_url": "https://www.instagram.com/_gallerymeme/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "5801eee0219e",
+          "title": "M'VOID Current",
+          "artists": "Jung Jungyeob",
+          "start_date": "2026-06-17",
+          "end_date": "2026-08-12",
+          "status": "active",
+          "thumbnail": "",
+          "url": "http://www.gallerymeme.com/web/main.html",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_v_d3cfec7ce6",
@@ -2985,9 +3321,22 @@
       "instagram_url": "https://www.instagram.com/gallerychosun",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "4c40fe1d11c1",
+          "title": "Talpidae",
+          "artists": "Jiyeon LEE, Kyungeun SON",
+          "start_date": "2026-07-01",
+          "end_date": "2026-07-25",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.gallerychosun.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "junggu_v_19330d2f7a",
@@ -3030,9 +3379,22 @@
       "instagram_url": "https://www.instagram.com/thereyouare_tya/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "9903ac5b6a33",
+          "title": "INDEX vol.02 《발견》",
+          "artists": "김도완, 김주은, 김카이아, 우즌, 유나니, 이규헌",
+          "start_date": "2026-06-25",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "https://tya.kr/wp-content/uploads/2026/04/2024-tya-로고-960x600-1.png",
+          "url": "https://tya.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_v_6f0829ac57",
@@ -3150,9 +3512,22 @@
       "instagram_url": "https://www.instagram.com/biogalleryseoul",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/374697306_323667236895430_8145784481846503066_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=iCSFRgHQVPAQ7kNvwFyejtO&_nc_oc=AdqX_h5gQ1GnxaCeUQcMhymms9cEN5NX3cvSD3CXpbBohy_Ytc5kh9G291y704eV3fY&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af_ITvVruCOCblznpYY_xhjgaaNLPDvDFiX3dgTt4aQPzg&oe=6A47D698",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "3ca96c17a2eb",
+          "title": "Mornming",
+          "artists": "Kim Hyunjin",
+          "start_date": "2026-06-12",
+          "end_date": "2026-07-18",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://biogallery.co/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "junggu_v_a9a1411ef6",
@@ -3195,9 +3570,22 @@
       "instagram_url": "https://www.instagram.com/pibigallery_official/",
       "image_url": "http://www.pibigallery.com/uploads/meta/65cd67c4beaf2.png",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "cfe01e552e49",
+          "title": "Jim Dine: My Words & Pinocchio",
+          "artists": "Jim Dine",
+          "start_date": "2026-05-28",
+          "end_date": "2026-07-04",
+          "status": "active",
+          "thumbnail": "http://www.pibigallery.com/uploads/meta/65cd67c4beaf2.png",
+          "url": "http://www.pibigallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_v_6129d85a40",
@@ -3300,9 +3688,22 @@
       "instagram_url": "https://www.instagram.com/space__so",
       "image_url": "https://cdn.imweb.me/upload/S202507235177b171224c2/2ca0cf7028506.png",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "2b690c13fb5d",
+          "title": "분신술 / The Art of Shadow Cloning",
+          "artists": "",
+          "start_date": "2026-06-18",
+          "end_date": "2026-07-18",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://spaceso.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_v_f19462d789",
@@ -3810,9 +4211,22 @@
       "instagram_url": "https://www.instagram.com/culturestationseoul284/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/364991149_1783220648800653_3401709441875199106_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy45MTAuQzMifQ%3D%3D&_nc_ohc=hw9wyktJcJEQ7kNvwGmaZha&_nc_oc=Adqhstgox9EnFOvvmvSqhSPDc6c64MgJLfeyzu7FDnRBAcbqraz0B67V3Thqsqhh4es&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af8edWDL7tqllE89wYXaUsAVWgI8p3xCNvfdthhKgdjA_g&oe=6A47EE96",
       "category": "기타",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "c1e46828e689",
+          "title": "서울역 2026: 다시 뛰는 심장",
+          "artists": "",
+          "start_date": "2026-06-11",
+          "end_date": "2026-08-17",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.seoul284.org/main",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "mapo_v_699cb8dda7",
@@ -4020,9 +4434,22 @@
       "instagram_url": "https://www.instagram.com/woosongallery",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "df1c930ee931",
+          "title": "After the Hull",
+          "artists": "Ahnnlee Lee",
+          "start_date": "2026-05-28",
+          "end_date": "2026-07-25",
+          "status": "active",
+          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
+          "url": "https://www.woosongallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_v_87b0cfe0f3",
@@ -4290,9 +4717,22 @@
       "instagram_url": "https://www.instagram.com/lazymike.art/",
       "image_url": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "fd4264ca1022",
+          "title": "The Unflattening Mandate",
+          "artists": "",
+          "start_date": "2026-06-13",
+          "end_date": "2026-07-11",
+          "status": "active",
+          "thumbnail": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
+          "url": "https://www.lazymike.art/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_v_932d8978a7",
@@ -4320,9 +4760,22 @@
       "instagram_url": "https://www.instagram.com/galleryharang",
       "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "daf82d1d41d5",
+          "title": "옻칠, 빛으로 피어나다",
+          "artists": "김정은, 박승비, 손수경, 신란숙, 윤현섭, 정회윤",
+          "start_date": "2026-07-01",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+          "url": "https://galleryharang.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "yeongdeungpo_v_84ed88a3db",
@@ -4380,9 +4833,22 @@
       "instagram_url": "https://www.instagram.com/artspacey_gallery",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/469938414_1126319932338259_3350302054547375928_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=jvnjAavPgcwQ7kNvwFEJXUp&_nc_oc=AdrjCqpH1Z9oJib7gXA1xWEed2VQCqJlQ7-VK-z5wrUVmkAEgatrJT7ETbY6LcdOmmk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9gHD8HtUABECBnyTHjFo5eeJ_q_qgIKOOmECzDHcFgFw&oe=6A47F6C8",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "55623948e507",
+          "title": "PLAY : NANCY LANG",
+          "artists": "NANCY LANG",
+          "start_date": "2026-06-10",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://static.wixstatic.com/media/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6e6148_0792b5afbf5e4aea8eab0798482743c0%7Emv2.png",
+          "url": "https://www.artspacey.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "seocho_v_801e44b887",
@@ -4395,9 +4861,22 @@
       "instagram_url": "https://www.instagram.com/goutergallery/",
       "image_url": "http://www.goutergallery.com/theme/gouter/img/logo.png",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "31be22bbb97b",
+          "title": "JUNE FESTA 4",
+          "artists": "김영관 외 14인",
+          "start_date": "2026-06-17",
+          "end_date": "2026-07-05",
+          "status": "active",
+          "thumbnail": "http://www.goutergallery.com/theme/gouter/img/logo.png",
+          "url": "http://www.goutergallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_v_f6b46eb210",
@@ -4428,6 +4907,34 @@
       "active_count": 0,
       "upcoming_count": 0,
       "exhibitions": []
+    },
+    {
+      "venue_key": "yeongdeungpo_alt1",
+      "venue_name": "ALT.1 더현대서울",
+      "region": "seoul",
+      "address": "서울 영등포구 여의대로 108",
+      "lat": 37.5260667,
+      "lng": 126.9289154,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "http://www.ehyundai.com/images/webhome/k_logo.png",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "fa174df4e0de",
+          "title": "렘브란트에서 고야까지 : 톨레도 미술관 명작展",
+          "artists": "",
+          "start_date": "2026-03-21",
+          "end_date": "2026-07-04",
+          "status": "active",
+          "thumbnail": "http://www.ehyundai.com/images/webhome/k_logo.png",
+          "url": "https://www.ehyundai.com/newPortal/index.do",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "jongno_seoulsirip_misurakaibeu",
@@ -4584,8 +5091,8 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
-          "id": "538e49ebc917",
-          "title": "고요한 귀로 歸路",
+          "id": "c878964bc858",
+          "title": "안천용 <고요한 귀로 歸路>",
           "artists": "안천용",
           "start_date": "2026-05-12",
           "end_date": "2026-08-22",
@@ -4608,7 +5115,7 @@
       "instagram_url": "",
       "image_url": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
       "category": "기타",
-      "active_count": 1,
+      "active_count": 2,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -4617,6 +5124,18 @@
           "artists": "",
           "start_date": "2026-05-30",
           "end_date": "2026-07-19",
+          "status": "active",
+          "thumbnail": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
+          "url": "https://www.whitestone-gallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "5f943baf340f",
+          "title": "DAI YING: The Field of Life and Death",
+          "artists": "DAI YING",
+          "start_date": "2026-06-13",
+          "end_date": "2026-07-18",
           "status": "active",
           "thumbnail": "http://www.whitestone-gallery.com/cdn/shop/files/image_3cd0f5df-dbab-4c18-82ad-4ead78259245_1200x1200.png?v=1631758094",
           "url": "https://www.whitestone-gallery.com/",
@@ -4636,7 +5155,7 @@
       "instagram_url": "",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1227/usr/images/pages/slideshow_data/1/johyun-gallery-jin-meyerson-the-shape-of-re_entry-6-.jpg",
       "category": "기타",
-      "active_count": 2,
+      "active_count": 3,
       "upcoming_count": 0,
       "exhibitions": [
         {
@@ -4662,6 +5181,18 @@
           "url": "https://www.johyungallery.com/",
           "price": "",
           "source": "gallery_crawler"
+        },
+        {
+          "id": "de5564469bc1",
+          "title": "Where Threads Breathe",
+          "artists": "Kim Hong-Seuk",
+          "start_date": "2026-06-11",
+          "end_date": "2026-08-02",
+          "status": "active",
+          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1227/usr/images/pages/slideshow_data/1/13_-johyun-gallery-kim-hong-suk-77-21-1977-162.5-x-130.5-cm.jpg",
+          "url": "https://www.johyungallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
@@ -4676,8 +5207,8 @@
       "instagram_url": "",
       "image_url": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
       "category": "기타",
-      "active_count": 1,
-      "upcoming_count": 0,
+      "active_count": 2,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "30d3fc6bbc3d",
@@ -4686,6 +5217,30 @@
           "start_date": "2026-06-09",
           "end_date": "2026-07-29",
           "status": "active",
+          "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
+          "url": "https://www.nowonarts.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "0689b622466b",
+          "title": "2026 경춘선숲길 갤러리 <닿는 언어>",
+          "artists": "",
+          "start_date": "2026-06-24",
+          "end_date": "2026-07-12",
+          "status": "active",
+          "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
+          "url": "https://www.nowonarts.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "c0f26714d403",
+          "title": "2026 노원미술협회 초대전 <더 드림 아트 페스타 : 미래를 향한 시선, 예술로 연결되다>",
+          "artists": "",
+          "start_date": "2026-07-07",
+          "end_date": "2026-07-19",
+          "status": "upcoming",
           "thumbnail": "https://www.nowonarts.kr/html/resources/images/common/ogimage.png?v1",
           "url": "https://www.nowonarts.kr/",
           "price": "",
@@ -4742,6 +5297,146 @@
           "url": "",
           "price": "무료",
           "source": "sema"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_horiateuseupeiseu",
+      "venue_name": "호리아트스페이스",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로7길 11",
+      "lat": 37.5837595,
+      "lng": 126.9811597,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "https://storage.googleapis.com/cr-resource/image/af2cfcb18504cd1a4882cdd4ad14d71a/horiartspacee/650/1e35e06bb2007011a180a374ca5ba8ce.png?_1779850038",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "f8466496210e",
+          "title": "전부이거나 아무것도 아니거나 (EVERYTHING, OR NOTHING AT ALL)",
+          "artists": "KIM EUNMI, LEE EUNKYUNG, CHOI WOOYOUNG, ATCHALINEE KESORNSOOK",
+          "start_date": "2026-06-18",
+          "end_date": "2026-07-18",
+          "status": "active",
+          "thumbnail": "https://storage.googleapis.com/cr-resource/image/af2cfcb18504cd1a4882cdd4ad14d71a/horiartspacee/650/1e35e06bb2007011a180a374ca5ba8ce.png?_1782080939",
+          "url": "https://horiartspace.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "jongno_gaelreoriateuringkeu",
+      "venue_name": "갤러리아트링크",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 22 3층",
+      "lat": 37.5779147,
+      "lng": 126.9798206,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "http://www.artlink.co.kr/img/home_img.png",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "33f6a73aac6f",
+          "title": "마손 일러스트 전시 < 모든 계절>",
+          "artists": "마손",
+          "start_date": "2026-06-22",
+          "end_date": "2026-07-13",
+          "status": "active",
+          "thumbnail": "/img/home_img.png",
+          "url": "http://www.artlink.co.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "yongsan_v_3218026cac",
+      "venue_name": "국립중앙박물관",
+      "region": "seoul",
+      "address": "서울 용산구 서빙고로 137",
+      "lat": 37.5226783,
+      "lng": 126.9779352,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "https://www.museum.go.kr/design/common/images/nmk_sns_logo.png",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "f4ec24a7f8de",
+          "title": "어메이징 타일랜드: 태국미술명품전",
+          "artists": "",
+          "start_date": "2026-06-23",
+          "end_date": "2026-09-06",
+          "status": "active",
+          "thumbnail": "https://www.museum.go.kr/design/common/images/nmk_sns_logo.png",
+          "url": "https://www.museum.go.kr/MUSEUM/main/index.do",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "yongsan_v_1afb74bc02",
+      "venue_name": "매스갤러리 한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로 91 나인원 한남 고메이 494 G층",
+      "lat": 37.5371049,
+      "lng": 127.0044368,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "https://cdn.imweb.me/upload/S2023090412309433c66ec/0996d6837c518.png",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "9b13f7c3f851",
+          "title": "Re - Form 구상의 새로운 좌표",
+          "artists": "강민규, 권치규, 김경민, 김대성, 김리원, 김성지, 박형오, 이경태, 이상윤, 전덕제, 정국택, 정기웅, 정창대, 조유나, 최목운, 한진섭",
+          "start_date": "2026-06-24",
+          "end_date": "2026-07-30",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.massgallery.info/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
+    },
+    {
+      "venue_key": "yongsan_v_65b5f85b8b",
+      "venue_name": "그라운드시소 한남",
+      "region": "seoul",
+      "address": "서울 용산구 한남대로 91 고메이494 한남 B층",
+      "lat": 37.5362657,
+      "lng": 127.0049872,
+      "official_url": "",
+      "instagram_url": "",
+      "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/297455867_446773054007384_3845681389464434025_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=eNi5M3j89WQQ7kNvwGM2fgn&_nc_oc=AdrCJTJvJiug4u2r4f9QfjZOz8ariJfnjayWk4BA3E1Q3PgdBXKuUSh2nev9tNH1ijA&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6VthY_VDeX13Xq9JVFuAVMJkJONa3opZKB0xqXTxAkxQ&oe=6A1C4386",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "1d5762c29ca8",
+          "title": "조은 원화전: 오늘의 정원",
+          "artists": "조은",
+          "start_date": "2026-07-17",
+          "end_date": "2026-11-29",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://groundseesaw.co.kr/",
+          "price": "",
+          "source": "gallery_crawler"
         }
       ]
     },
