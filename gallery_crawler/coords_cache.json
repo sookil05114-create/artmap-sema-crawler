@@ -327,14 +327,6 @@
     "matched_title": "토탈미술관",
     "matched_address": "서울특별시 종로구 평창32길 8"
   },
-  "jongno_jongromunhwajaedan": {
-    "lat": 37.5690103,
-    "lng": 126.9696709,
-    "query": "종로문화재단 서울 종로구",
-    "confidence": "ok",
-    "matched_title": "종로문화재단",
-    "matched_address": "서울특별시 종로구 새문안로 41 4~5층"
-  },
   "jongno_jahamisulgwan": {
     "lat": 37.5893759,
     "lng": 126.9603187,
@@ -2535,5 +2527,11 @@
     "matched_address": "서울특별시 종로구 인사동길 45-1 갤러리은",
     "confidence": "ok_sync260623"
   },
-  "generated_at": "2026-06-29T08:41:58Z"
+  "jongno_kim_chang_yeol_house": {
+    "lat": 37.6161707,
+    "lng": 126.9786563,
+    "matched_title": "김창열화가의집",
+    "matched_address": "서울특별시 종로구 평창7길 74 김창열 화가의 집",
+    "confidence": "ok_manual"
+  }
 }
