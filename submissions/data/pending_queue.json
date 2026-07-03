@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:28:31Z",
+  "generated_at": "2026-07-03T09:28:35Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -2249,7 +2249,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "euljiro_ypc_seoul",
       "venue_name": "YPC스페이스",
       "title": "새 양윤화 개인전",
@@ -2261,7 +2261,8 @@
       "lng": 127.0004057,
       "address": "서울 중구 퇴계로 258",
       "region": "seoul",
-      "category": "전시공간"
+      "category": "전시공간",
+      "reviewed_at": "2026-07-03T09:28:35.094Z"
     },
     {
       "id": "efa6df15d09c",
