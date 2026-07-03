@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:25:50Z",
+  "generated_at": "2026-07-03T09:25:57Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -113,11 +113,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_089da64969",
       "venue_name": "혜화아트센터",
       "title": "그럼에도 불구하고, 결국 그림",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-26",
       "end_date": "2026-07-01",
       "thumbnail": "",
@@ -125,7 +125,8 @@
       "lng": 127.001811,
       "address": "서울 종로구 대학로 156 1층",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-03T09:25:51.353Z"
     },
     {
       "id": "daf82d1d41d5",
@@ -154,7 +155,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_2804aa3a69",
       "venue_name": "하랑갤러리",
       "title": "옻칠, 빛으로 피어나다",
@@ -166,7 +167,8 @@
       "lng": 126.9656704,
       "address": "서울 종로구 자하문로38길 45",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:25:57.533Z"
     },
     {
       "id": "fd4264ca1022",
@@ -195,11 +197,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_v_038a4cccd9",
       "venue_name": "레이지 마이크",
       "title": "The Unflattening Mandate",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-13",
       "end_date": "2026-07-11",
       "thumbnail": "https://images.weserv.nl/?url=cdn.lazymike.art%2FZ80WxcJ7i4oDKFB4LY57DC.webp&w=1200&output=jpg",
@@ -207,7 +209,8 @@
       "lng": 127.0493608,
       "address": "서울 강남구 도산대로83길 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:25:57.024Z"
     },
     {
       "id": "df935c1ed570",
