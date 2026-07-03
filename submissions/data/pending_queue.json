@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:31Z",
+  "generated_at": "2026-07-03T09:34:50Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4723,7 +4723,7 @@
       },
       "status": "pending",
       "venue_key": "jongno_jongromunhwajaedan",
-      "venue_name": "종로문화재단",
+      "venue_name": "김창열 화가의 집",
       "title": "김창열, 물방울의 흔적",
       "artists": "김창열",
       "start_date": "2026-05-29",
@@ -4733,7 +4733,8 @@
       "lng": 126.9696709,
       "address": "서울 종로구 새문안로 41",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:34:50.578Z"
     },
     {
       "id": "71e2202558f4",
