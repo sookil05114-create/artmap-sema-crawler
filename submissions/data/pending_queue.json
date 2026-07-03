@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:09Z",
+  "generated_at": "2026-07-03T09:34:13Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4325,7 +4325,7 @@
         "description_summary": "Yuichi Hirako participates in Art Basel 2026 Unlimited sector from June 15-21, 2026.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_a1078304d2",
       "venue_name": "갤러리바톤",
       "title": "Art Basel 2026 Unlimited sector",
@@ -4337,7 +4337,8 @@
       "lng": 127.0121759,
       "address": "서울 용산구 독서당로 116",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:10.393Z"
     },
     {
       "id": "a2eb6bd7e5ff",
@@ -4366,11 +4367,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_igirigugaelreori",
       "venue_name": "이길이구갤러리",
       "title": "Almost Landscape",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "https://static.wixstatic.com/media/e7ddc9_405488f3ce1244ef9e15066e212d1392~mv2.jpg/v1/fill/w_2500,h_4194,al_c/e7ddc9_405488f3ce1244ef9e15066e212d1392~mv2.jpg",
@@ -4378,7 +4379,8 @@
       "lng": 127.0215026,
       "address": "서울 강남구 강남대로158길 35",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:12.268Z"
     },
     {
       "id": "837ee81bfbe8",
