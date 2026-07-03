@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:26:39Z",
+  "generated_at": "2026-07-03T09:26:42Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -613,7 +613,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seocho_v_174afdea29",
       "venue_name": "서울아트나우",
       "title": "눈부신 서가",
@@ -625,7 +625,8 @@
       "lng": 127.0117414,
       "address": "서울 서초구 반포대로24길 41-14 102호",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:26:42.038Z"
     },
     {
       "id": "524c818198ba",
