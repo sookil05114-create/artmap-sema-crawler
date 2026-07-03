@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:32:00Z",
+  "generated_at": "2026-07-03T09:32:24Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -6617,7 +6617,7 @@
           "homepage"
         ]
       },
-      "status": "approved",
+      "status": "rejected",
       "venue_key": "euljiro_alternativespaceloop",
       "venue_name": "대안공간루프",
       "title": "the orange revile",
@@ -6630,7 +6630,7 @@
       "address": "",
       "region": "seoul",
       "category": "갤러리",
-      "reviewed_at": "2026-06-11T06:59:14.071Z"
+      "reviewed_at": "2026-07-03T09:32:22.862Z"
     },
     {
       "id": "a72ca800bf9a",
