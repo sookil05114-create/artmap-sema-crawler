@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:50Z",
+  "generated_at": "2026-07-03T09:36:11Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4721,7 +4721,7 @@
         "description_summary": "김창열 화가의 집 개관전으로 화가 김창열의 물방울을 주제로 한 작품들을 선보이는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_jongromunhwajaedan",
       "venue_name": "김창열 화가의 집",
       "title": "김창열, 물방울의 흔적",
@@ -4734,7 +4734,7 @@
       "address": "서울 종로구 새문안로 41",
       "region": "seoul",
       "category": "미술관",
-      "reviewed_at": "2026-07-03T09:34:50.578Z"
+      "reviewed_at": "2026-07-03T09:36:10.536Z"
     },
     {
       "id": "71e2202558f4",
