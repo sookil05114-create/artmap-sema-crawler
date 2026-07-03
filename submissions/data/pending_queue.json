@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:34:05Z",
+  "generated_at": "2026-07-03T09:34:09Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4245,7 +4245,7 @@
         "description_summary": "Oliver Beer의 개인전 'The Sky in the Cave'는 2026년 6월 5일부터 7월 31일까지 Thaddaeus Ropac에서 개최된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_d2d167936c",
       "venue_name": "타데우스로팍 서울",
       "title": "The Sky in the Cave",
@@ -4257,7 +4257,8 @@
       "lng": 127.0128664,
       "address": "서울 용산구 독서당로 122-1",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:06.357Z"
     },
     {
       "id": "776fc3482ef0",
@@ -4286,7 +4287,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_40618ac755",
       "venue_name": "페이스갤러리 서울",
       "title": "When Form Meets Gesture",
@@ -4298,7 +4299,8 @@
       "lng": 127.0013336,
       "address": "서울 용산구 이태원로 262",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:34:08.878Z"
     },
     {
       "id": "26bb3de1ef4a",
