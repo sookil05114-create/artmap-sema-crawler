@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-06-29T08:41:58Z",
+  "generated_at": "2026-07-03T09:25:45Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -29,7 +29,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "seocho_v_801e44b887",
       "venue_name": "구띠갤러리",
       "title": "JUNE FESTA 4",
@@ -41,7 +41,8 @@
       "lng": 127.0070324,
       "address": "서울 서초구 서초대로38길 15 구띠갤러리",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:25:44.679Z"
     },
     {
       "id": "55623948e507",
