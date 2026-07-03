@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:27:11Z",
+  "generated_at": "2026-07-03T09:27:17Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -1283,7 +1283,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "junggu_v_496c2869c5",
       "venue_name": "N/A(엔에이)",
       "title": "The Death of Solomon Grundy: Sunday, and Part of Ghost/Trace, and Some Grave Ornaments",
@@ -1295,7 +1295,8 @@
       "lng": 126.9964407,
       "address": "서울 중구 창경궁로5길 27",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-03T09:27:16.884Z"
     },
     {
       "id": "9903ac5b6a33",
