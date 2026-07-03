@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-03T09:33:14Z",
+  "generated_at": "2026-07-03T09:33:18Z",
   "items": [
     {
       "id": "31be22bbb97b",
@@ -4017,7 +4017,7 @@
         "description_summary": "2026년 한국 근대 거장전으로 유영국의 작품을 소개하는 전시",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongbuk_v_4d7461f17f",
       "venue_name": "서울시립 북서울미술관",
       "title": "유영국: 산은 내 안에 있다",
@@ -4029,7 +4029,8 @@
       "lng": 127.0667885,
       "address": "서울 노원구 동일로 1238",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-03T09:33:17.682Z"
     },
     {
       "id": "8aeeb320ef90",
