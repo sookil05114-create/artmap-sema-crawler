@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T20:49:08Z",
+  "generated_at": "2026-07-04T20:40:27Z",
   "source": "sema",
-  "venue_count": 6,
+  "venue_count": 7,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -64,9 +64,19 @@
       "lat": 37.6452,
       "lng": 127.0734,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
-      "active_count": 3,
+      "active_count": 4,
       "upcoming_count": 0,
       "exhibitions": [
+        {
+          "id": "bd8a5f6ebb44",
+          "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+          "start_date": "2026-04-02",
+          "end_date": "2027-05-30",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+          "url": "",
+          "price": "무료"
+        },
         {
           "id": "c657aa61a28e",
           "title": "《글짓, 쓰는 예술》",
@@ -130,19 +140,9 @@
       "lat": 37.4793,
       "lng": 126.9577,
       "official_url": "https://sema.seoul.go.kr/kr/visit/namseoul",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "9a6ce05bab0c",
-          "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
-          "start_date": "2026-05-20",
-          "end_date": "2026-07-05",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "3cb3d46af3b1",
           "title": "2026년 한국 대표 조각가전 《조숙진: 지나가는 자리》",
@@ -163,19 +163,9 @@
       "lat": 37.6612,
       "lng": 127.0432,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "26458500b9ef",
-          "title": "사진공유 프로젝트 《집-들이!》",
-          "start_date": "2026-06-19",
-          "end_date": "2026-07-05",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "226ef85090c8",
           "title": "《마틴 파 : We Are Martin Parr》",
@@ -196,9 +186,20 @@
       "lat": 37.6097,
       "lng": 126.9742,
       "official_url": "https://sema.seoul.go.kr/kr/visit/art_archive",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "d9fcc33b96b0",
+          "title": "알렉사에게",
+          "start_date": "2026-03-26",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
+          "url": "",
+          "price": "무료"
+        }
+      ]
     },
     {
       "venue_key": "nanji",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:08:30Z",
+  "generated_at": "2026-07-04T20:59:48Z",
   "sources": [
     "sema",
     "mmca",
@@ -449,6 +449,26 @@
       "collected_at": "2026-06-28T22:23:22Z"
     },
     {
+      "id": "d9fcc33b96b0",
+      "source": "sema",
+      "title": "알렉사에게",
+      "artists": "",
+      "venue_raw": "서울시립 미술아카이브",
+      "venue_key": "art_archive",
+      "venue_name": "서울시립 미술아카이브",
+      "region": "seoul",
+      "address": "서울 종로구 평창문화로 101",
+      "lat": 37.6097,
+      "lng": 126.9742,
+      "start_date": "2026-03-26",
+      "end_date": "2026-07-26",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
+      "status": "active",
+      "collected_at": "2026-07-04T20:40:17Z"
+    },
+    {
       "id": "234c5c8c4a24",
       "source": "gallery_crawler",
       "title": "알렉사에게",
@@ -567,6 +587,26 @@
       "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
       "status": "ended",
       "collected_at": "2026-05-17T14:42:59Z"
+    },
+    {
+      "id": "bd8a5f6ebb44",
+      "source": "sema",
+      "title": "유휴공간 프로젝트 전시 《몸을 위한 간주곡 ― 소목장세미》",
+      "artists": "",
+      "venue_raw": "서울시립 북서울미술관",
+      "venue_key": "bukseoul",
+      "venue_name": "서울시립 북서울미술관",
+      "region": "seoul",
+      "address": "서울 노원구 동일로 1238",
+      "lat": 37.6452,
+      "lng": 127.0734,
+      "start_date": "2026-04-02",
+      "end_date": "2027-05-30",
+      "price": "무료",
+      "url": "",
+      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
+      "status": "active",
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "166324b1a1be",
@@ -766,7 +806,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "c863e0f33477",
@@ -866,7 +906,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005466",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "fcc0a8aa92ef",
@@ -1086,7 +1126,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "fd6985c92de5",
@@ -1246,7 +1286,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "614105985711",
@@ -1526,7 +1566,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "f10f3da9a9a7",
@@ -1586,7 +1626,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "9fe5f57cd1a2",
@@ -1766,7 +1806,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "92f823f6b7bf",
@@ -1827,26 +1867,6 @@
       "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1442/usr/images/exhibitions/home_page_image/items/58/580d5bdd66c04cc5b569aa78b7b91029/3.-sohyun-ban-2026-acrylic-on-canvas-162-x-130-cm.jpeg",
       "status": "ended",
       "collected_at": "2026-05-25T07:03:54Z"
-    },
-    {
-      "id": "9a6ce05bab0c",
-      "source": "sema",
-      "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
-      "artists": "",
-      "venue_raw": "서울시립 남서울미술관",
-      "venue_key": "namseoul",
-      "venue_name": "서울시립 남서울미술관",
-      "region": "seoul",
-      "address": "서울 관악구 남부순환로 2076",
-      "lat": 37.4793,
-      "lng": 126.9577,
-      "start_date": "2026-05-20",
-      "end_date": "2026-07-05",
-      "price": "무료",
-      "url": "",
-      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
-      "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
     },
     {
       "id": "95d121c9cba9",
@@ -2185,7 +2205,7 @@
       "price": "",
       "url": "https://chapterii.org/",
       "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1647/usr/images/exhibitions/home_page_image/items/26/26e4633de0184390910e1ef2bb58aa82/20260529-_dsc1458.jpg",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-06-08T13:14:43Z"
     },
     {
@@ -2606,7 +2626,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "c1e46828e689",
@@ -2746,7 +2766,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "31be22bbb97b",
@@ -2929,26 +2949,6 @@
       "collected_at": "2026-06-29T08:15:23Z"
     },
     {
-      "id": "26458500b9ef",
-      "source": "sema",
-      "title": "사진공유 프로젝트 《집-들이!》",
-      "artists": "",
-      "venue_raw": "서울시립 사진미술관",
-      "venue_key": "photosema",
-      "venue_name": "서울시립 사진미술관",
-      "region": "seoul",
-      "address": "서울 도봉구 마들로13길 68",
-      "lat": 37.6612,
-      "lng": 127.0432,
-      "start_date": "2026-06-19",
-      "end_date": "2026-07-05",
-      "price": "무료",
-      "url": "",
-      "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
-      "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
-    },
-    {
       "id": "80a75729d548",
       "source": "sema",
       "title": "[2026 신진미술인 지원 프로그램] 반재하 개인전 《모퉁이를 돌면 거짓 친구》",
@@ -2966,7 +2966,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012025",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "54e7e0b26892",
@@ -3106,7 +3106,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "33f6a73aac6f",
@@ -3226,7 +3226,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "9903ac5b6a33",
@@ -3446,7 +3446,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1013117",
       "status": "active",
-      "collected_at": "2026-07-03T20:48:59Z"
+      "collected_at": "2026-07-04T20:40:17Z"
     },
     {
       "id": "daf82d1d41d5",
@@ -3586,7 +3586,7 @@
       "url": "https://ilmin.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "226ef85090c8",
@@ -3606,7 +3606,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014363",
       "status": "upcoming",
-      "collected_at": "2026-07-03T20:49:04Z"
+      "collected_at": "2026-07-04T20:40:22Z"
     },
     {
       "id": "84cf27aca8a2",
@@ -3626,7 +3626,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "1d5762c29ca8",
@@ -3666,7 +3666,7 @@
       "url": "https://www.spacek.co.kr/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "fd6e830fa660",
@@ -3686,7 +3686,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "9f19bf1ebc70",
@@ -3706,7 +3706,7 @@
       "url": "https://artsonje.org/exhibition-program/exhibition/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "3cb3d46af3b1",
@@ -3726,7 +3726,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1013845",
       "status": "upcoming",
-      "collected_at": "2026-07-03T20:49:04Z"
+      "collected_at": "2026-07-04T20:40:22Z"
     },
     {
       "id": "9ae886c0d6c9",
@@ -3746,7 +3746,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "cd405fc79942",
@@ -3766,7 +3766,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "1a0d0d38e652",
@@ -3786,7 +3786,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "7639e2fdd78b",
@@ -3806,7 +3806,7 @@
       "url": "https://songeun.or.kr/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "5aa32bd7f71d",
@@ -3866,7 +3866,7 @@
       "url": "https://www.ocimuseum.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "072a2c23daa1",
@@ -3886,7 +3886,7 @@
       "url": "https://www.artside.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "e5dbf479b082",
@@ -3906,7 +3906,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "a27227969ee3",
@@ -3926,7 +3926,7 @@
       "url": "https://www.pkmgallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "c47a3d013b6d",
@@ -3946,7 +3946,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "2413571b8918",
@@ -3966,7 +3966,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "36f84ca4ce30",
@@ -3986,7 +3986,7 @@
       "url": "https://craftmuseum.seoul.go.kr/main",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "283d437eba18",
@@ -4006,7 +4006,7 @@
       "url": "https://apma.amorepacific.com/contents/exhibition/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "e61941f7c997",
@@ -4026,7 +4026,7 @@
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "52ea3c4fc5ed",
@@ -4046,7 +4046,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "1fc6325d75ce",
@@ -4066,7 +4066,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014132",
       "status": "upcoming",
-      "collected_at": "2026-07-03T20:49:04Z"
+      "collected_at": "2026-07-04T20:40:22Z"
     },
     {
       "id": "feba8ad5a36e",
@@ -4146,7 +4146,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "6084da7d42c9",
@@ -4166,7 +4166,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "42c6c1f81417",
@@ -4186,7 +4186,7 @@
       "url": "https://sma.sbculture.or.kr/sma/index.do",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "7cb07997a386",
@@ -4206,7 +4206,7 @@
       "url": "http://www.kumhomuseum.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "d461c80af4a3",
@@ -4226,7 +4226,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "a79165f880f7",
@@ -4246,7 +4246,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "7c47035bd4b9",
@@ -4266,7 +4266,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "a059d2bbc6e7",
@@ -4286,7 +4286,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "cfb061425017",
@@ -4306,7 +4306,7 @@
       "url": "https://www.galleryhyundai.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "aa60a541418d",
@@ -4326,7 +4326,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "bd554a6b43e3",
@@ -4346,7 +4346,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "2010c9a53b04",
@@ -4366,7 +4366,7 @@
       "url": "http://www.perrotin.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "d5d0205a7e9b",
@@ -4386,7 +4386,7 @@
       "url": "https://www.ggallery.kr/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "87645c379e81",
@@ -4406,7 +4406,7 @@
       "url": "https://ropac.net/ko/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     },
     {
       "id": "8ed4ee11d6c9",
@@ -4426,7 +4426,7 @@
       "url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-03T21:08:30Z"
+      "collected_at": "2026-07-04T20:59:48Z"
     }
   ]
 }
