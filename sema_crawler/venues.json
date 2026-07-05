@@ -1,13 +1,13 @@
 {
-  "_comment": "서울시립미술관(SeMA) 분관 메타데이터. region은 항상 'seoul'. (2026-06-14: bunker, warehouse 폐관으로 제거)",
+  "_comment": "서울시립미술관(SeMA) 분관 메타데이터 v22. org_code는 sema.seoul.go.kr 분관 필터(exPlace) 코드. 좌표는 카카오 지오코딩 검증값(v10 audit)으로 보정. 벙커/창고는 폐관으로 제거(v13).",
   "venues": [
-    {"venue_key":"seosomun","venue_name":"서울시립미술관 서소문본관","region":"seoul","address":"서울 중구 덕수궁길 61","lat":37.5641,"lng":126.9737,"official_url":"https://sema.seoul.go.kr/kr/visit/seosomun","aliases":["서소문본관","서울시립미술관","SeMA 서소문"]},
-    {"venue_key":"bukseoul","venue_name":"서울시립 북서울미술관","region":"seoul","address":"서울 노원구 동일로 1238","lat":37.6452,"lng":127.0734,"official_url":"https://sema.seoul.go.kr/kr/visit/bukseoul","aliases":["북서울미술관","북서울시립미술관"]},
-    {"venue_key":"seoseoul","venue_name":"서울시립 서서울미술관","region":"seoul","address":"서울 금천구 시흥대로73길 70","lat":37.4581,"lng":126.8959,"official_url":"https://sema.seoul.go.kr/kr/visit/seoseoul","aliases":["서서울미술관","서서울시립미술관"]},
-    {"venue_key":"namseoul","venue_name":"서울시립 남서울미술관","region":"seoul","address":"서울 관악구 남부순환로 2076","lat":37.4793,"lng":126.9577,"official_url":"https://sema.seoul.go.kr/kr/visit/namseoul","aliases":["남서울미술관","남서울시립미술관"]},
-    {"venue_key":"photosema","venue_name":"서울시립 사진미술관","region":"seoul","address":"서울 도봉구 마들로13길 68","lat":37.6612,"lng":127.0432,"official_url":"https://sema.seoul.go.kr/kr/visit/photosema","aliases":["사진미술관","SeMA 사진미술관"]},
-    {"venue_key":"art_archive","venue_name":"서울시립 미술아카이브","region":"seoul","address":"서울 종로구 평창문화로 101","lat":37.6097,"lng":126.9742,"official_url":"https://sema.seoul.go.kr/kr/visit/art_archive","aliases":["미술아카이브","SeMA AA"]},
-    {"venue_key":"nanji","venue_name":"서울시립 난지미술창작스튜디오","region":"seoul","address":"서울 마포구 하늘공원로 108-1","lat":37.5704,"lng":126.8757,"official_url":"https://sema.seoul.go.kr/kr/visit/nanji_residency","aliases":["난지미술창작스튜디오","난지 스튜디오"]},
-    {"venue_key":"paik_house","venue_name":"서울시립 백남준을 기억하는 집","region":"seoul","address":"서울 종로구 창신길 197","lat":37.5778,"lng":127.0117,"official_url":"https://sema.seoul.go.kr/kr/visit/nam_june_paik_house","aliases":["백남준을 기억하는 집","백남준기념관"]}
+    {"venue_key":"seosomun","venue_name":"서울시립미술관 서소문본관","org_code":"ORG01","region":"seoul","address":"서울 중구 덕수궁길 61","lat":37.5641,"lng":126.9737,"official_url":"https://sema.seoul.go.kr/kr/visit/seosomun","aliases":["서소문본관","서울시립미술관","SeMA 서소문"]},
+    {"venue_key":"bukseoul","venue_name":"서울시립 북서울미술관","org_code":"ORG08","region":"seoul","address":"서울 노원구 동일로 1238","lat":37.6409659,"lng":127.0667885,"official_url":"https://sema.seoul.go.kr/kr/visit/bukseoul","aliases":["북서울미술관","북서울시립미술관"]},
+    {"venue_key":"seoseoul","venue_name":"서울시립 서서울미술관","org_code":"ORG50","region":"seoul","address":"서울 금천구 시흥대로73길 70","lat":37.4577976,"lng":126.8954095,"official_url":"https://sema.seoul.go.kr/kr/visit/seoseoul","aliases":["서서울미술관","서서울시립미술관"]},
+    {"venue_key":"namseoul","venue_name":"서울시립 남서울미술관","org_code":"ORG03","region":"seoul","address":"서울 관악구 남부순환로 2076","lat":37.4760645,"lng":126.9795205,"official_url":"https://sema.seoul.go.kr/kr/visit/namseoul","aliases":["남서울미술관","남서울시립미술관"]},
+    {"venue_key":"photosema","venue_name":"서울시립 사진미술관","org_code":"ORG51","region":"seoul","address":"서울 도봉구 마들로13길 68","lat":37.655482,"lng":127.0487773,"official_url":"https://sema.seoul.go.kr/kr/visit/photosema","aliases":["사진미술관","SeMA 사진미술관"]},
+    {"venue_key":"art_archive","venue_name":"서울시립 미술아카이브","org_code":"ORG52","region":"seoul","address":"서울 종로구 평창문화로 101","lat":37.6078975,"lng":126.9719266,"official_url":"https://sema.seoul.go.kr/kr/visit/art_archive","aliases":["미술아카이브","SeMA AA"]},
+    {"venue_key":"nanji","venue_name":"서울시립 난지미술창작스튜디오","org_code":"ORG04","region":"seoul","address":"서울 마포구 하늘공원로 108-1","lat":37.5704,"lng":126.8757,"official_url":"https://sema.seoul.go.kr/kr/visit/nanji_residency","aliases":["난지미술창작스튜디오","난지 스튜디오"]},
+    {"venue_key":"paik_house","venue_name":"서울시립 백남준을 기억하는 집","org_code":"ORG10","region":"seoul","address":"서울 종로구 창신길 197","lat":37.5778,"lng":127.0117,"official_url":"https://sema.seoul.go.kr/kr/visit/nam_june_paik_house","aliases":["백남준을 기억하는 집","백남준기념관"]}
   ]
 }
