@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T06:20:13Z",
+  "generated_at": "2026-07-05T20:44:46Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -200,19 +200,9 @@
       "lat": 37.4760645,
       "lng": 126.9795205,
       "official_url": "https://sema.seoul.go.kr/kr/visit/namseoul",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "2f5202e97ea4",
-          "title": "제14회 서울미디어시티비엔날레 사전프로그램 《포란》",
-          "start_date": "2026-05-20",
-          "end_date": "2026-07-05",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1010758",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "9058465a96fe",
           "title": "2026년 한국 대표 조각가전 《조숙진: 지나가는 자리》",
@@ -243,19 +233,9 @@
       "lat": 37.655482,
       "lng": 127.0487773,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "68bd36015638",
-          "title": "사진공유 프로젝트 《집-들이!》",
-          "start_date": "2026-06-19",
-          "end_date": "2026-07-05",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012242",
-          "url": "",
-          "price": "무료"
-        },
         {
           "id": "df9472b8ba0b",
           "title": "《마틴 파 : We Are Martin Parr》",
