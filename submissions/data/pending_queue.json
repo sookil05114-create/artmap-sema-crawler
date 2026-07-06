@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:42:53Z",
+  "generated_at": "2026-07-06T03:42:57Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -214,11 +214,11 @@
         "description_summary": "갤러리 크레인에서 개최되는 전시 'TRACE BELOW'",
         "confidence": 0.65
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_94056b8409",
       "venue_name": "갤러리크레인",
       "title": "TRACE BELOW",
-      "artists": null,
+      "artists": "",
       "start_date": "2024-07-04",
       "end_date": "2024-08-01",
       "thumbnail": "https://gallerycrane.com/img/headerLogo.jpg",
@@ -226,7 +226,8 @@
       "lng": 126.9747808,
       "address": "서울 종로구 평창30길 17",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:42:56.444Z"
     },
     {
       "id": "7f535ad437e8",
@@ -251,7 +252,7 @@
         "description_summary": "최인아 작가의 개인전 『Night Run』. 별관에서 5월 30일부터 6월 14일까지 개최되며, 월요일 휴관.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_b859c19fc7",
       "venue_name": "별관",
       "title": "Night Run",
@@ -263,7 +264,8 @@
       "lng": 126.9452347,
       "address": "서울 마포구 망원로 74 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:42:54.713Z"
     },
     {
       "id": "bf44de0d2b04",
