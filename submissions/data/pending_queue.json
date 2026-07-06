@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:43:21Z",
+  "generated_at": "2026-07-06T03:43:26Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -481,11 +481,11 @@
         "description_summary": "유영공간에서 개최되는 전시. 성북동의 전통한옥을 전시공간으로 활용하는 기획.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongbuk_v_20fced5d29",
       "venue_name": "유영공간",
       "title": "2026 어떻게 사랑할 것인가",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-17",
       "end_date": "2026-07-05",
       "thumbnail": "",
@@ -493,7 +493,8 @@
       "lng": 127.0003509,
       "address": "서울특별시 성북구 성북로16가길 1, 유영공간",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:21.838Z"
     },
     {
       "id": "42344281a0b2",
@@ -518,7 +519,7 @@
         "description_summary": "염지혜의 개인전",
         "confidence": 0.7
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_6c835ad545",
       "venue_name": "뮤지엄헤드",
       "title": "홀홀홀 HoleHoleHole",
@@ -530,7 +531,8 @@
       "lng": 126.9869932,
       "address": "서울시 종로구 계동길 84-3, 1층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:22.844Z"
     },
     {
       "id": "36f445f81e71",
@@ -555,7 +557,7 @@
         "description_summary": "Lee Deok Young의 개인전 'Grotto'",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "mapo_v_c8ed0c7725",
       "venue_name": "챕터투",
       "title": "Lee Deok Young: Grotto",
@@ -567,7 +569,8 @@
       "lng": 126.9212316,
       "address": "서울 마포구 동교로27길 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:26.144Z"
     },
     {
       "id": "382a8478d17b",
