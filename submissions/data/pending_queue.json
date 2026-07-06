@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:42:46Z",
+  "generated_at": "2026-07-06T03:42:53Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -101,7 +101,7 @@
         "description_summary": "갤러리 인사아트 본전시장 및 특별전시장에서 개최되는 이청욱 개인전",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_65b75297bf",
       "venue_name": "갤러리인사아트",
       "title": "이청욱 개인전",
@@ -113,7 +113,8 @@
       "lng": 126.9839129,
       "address": "서울 종로구 인사동길 56",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:42:46.852Z"
     },
     {
       "id": "80f9d220bd0e",
@@ -138,7 +139,7 @@
         "description_summary": "천진주 개인전",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_e641b9b426",
       "venue_name": "인사1010",
       "title": "文質彬彬",
@@ -150,7 +151,8 @@
       "lng": 126.9857089,
       "address": "서울 종로구 인사동10길 10 B1-4F",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:42:47.909Z"
     },
     {
       "id": "625e4aebc452",
@@ -286,7 +288,7 @@
         "description_summary": "작가와 기획자의 독립적이고 창의적인 실험을 위해 탄생한 공간 파도의 현시 전시",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_d2d2dd5276",
       "venue_name": "공간 파도",
       "title": "프레임 밖에서 우리는 흔들린다",
@@ -298,7 +300,8 @@
       "lng": 126.9405987,
       "address": "서울 마포구 고산7길 23",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:42:53.235Z"
     },
     {
       "id": "09d3028a43a7",
