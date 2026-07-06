@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:43:30Z",
+  "generated_at": "2026-07-06T03:43:34Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -709,11 +709,11 @@
         "description_summary": "Kimreeaa Gallery에서 개최되는 Majoongmool 2026 전시.",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_gimriagaelreori",
       "venue_name": "김리아갤러리",
       "title": "Majoongmool 2026",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-02-18",
       "end_date": "2026-07-18",
       "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1506/usr/images/pages/slideshow_data/1/5-.jpg",
@@ -721,7 +721,8 @@
       "lng": 127.0469052,
       "address": "서울 강남구 압구정로75길 5",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:30.898Z"
     },
     {
       "id": "695370f3d560",
@@ -746,7 +747,7 @@
         "description_summary": "김미로 작가의 개인전 '검은 숲, 찬란한 밑바닥'이 PYO Gallery에서 개최됩니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_pyogaelreori",
       "venue_name": "표갤러리",
       "title": "Dark Forest, Radiant Depths",
@@ -758,7 +759,8 @@
       "lng": 126.9708457,
       "address": "서울 종로구 자하문로5길 18-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:31.859Z"
     },
     {
       "id": "d4a1c77f5a74",
@@ -783,7 +785,7 @@
         "description_summary": "Harry Meyer의 개인전으로, 풍경을 주제로 한 작품들을 선보이는 전시입니다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_jahamisulgwan",
       "venue_name": "자하미술관",
       "title": "Every Landscape has a face",
@@ -795,7 +797,8 @@
       "lng": 126.9603187,
       "address": "서울 종로구 창의문로5가길 46 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-06T03:43:33.732Z"
     },
     {
       "id": "0a9850adc109",
