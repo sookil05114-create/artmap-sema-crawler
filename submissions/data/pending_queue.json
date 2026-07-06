@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:44:08Z",
+  "generated_at": "2026-07-06T03:44:14Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -861,11 +861,11 @@
         "description_summary": "2012년부터 시작된 'The Show Must Go On'은 여행하는 예술가의 포트폴리오로서 어디서든 펼쳐볼 수 있는 전시이다. 국제 비엔날레와 대규모 전시가 늘어나는 가운데 예술가들 간의 만남과 작품 교류에 대한 질문에서 출발했다.",
         "confidence": 0.7
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_totalmisulgwan",
       "venue_name": "토탈미술관",
       "title": "The Show Must Go On_Busan",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "",
@@ -873,7 +873,8 @@
       "lng": 126.9756892,
       "address": "서울 종로구 평창32길 8 (평창동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-06T03:44:09.171Z"
     },
     {
       "id": "5fbed4245b71",
@@ -898,7 +899,7 @@
         "description_summary": "CHOIANDCHOI Gallery에서 개최하는 마를론 보브스트의 개인전으로 contemporary art를 선보이는 전시",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_choi_choi",
       "venue_name": "초이앤초이갤러리",
       "title": "Six Love",
@@ -910,7 +911,8 @@
       "lng": 126.9275406,
       "address": "서울 서대문구 연희로11가길 48-10",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:44:13.572Z"
     },
     {
       "id": "f1a0b2d319da",
