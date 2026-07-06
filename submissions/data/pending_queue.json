@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:43:13Z",
+  "generated_at": "2026-07-06T03:43:21Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -443,7 +443,7 @@
         "description_summary": "갤러리TYA 6월 디렉토리에 새로 모인 여섯 작가의 첫 만남. 회화, 혼합매체, 장지에 채색, 종이에 먹 등 28점이 전시된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_5cdbfb0748",
       "venue_name": "TYA갤러리",
       "title": "발견 (INDEX vol.02)",
@@ -455,7 +455,8 @@
       "lng": 126.9703285,
       "address": "서울시 종로구 자하문로5길 28",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:20.743Z"
     },
     {
       "id": "5e7eb20cfb75",
