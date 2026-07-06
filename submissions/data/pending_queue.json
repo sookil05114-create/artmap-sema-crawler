@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:43:26Z",
+  "generated_at": "2026-07-06T03:43:30Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -595,7 +595,7 @@
         "description_summary": "ThisWeekendRoom의 현재 전시 'Net'은 Chaewon Lee, Linnéa Gad, Uesung Lee 세 작가의 작품을 선보이는 전시입니다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_82f34a42ae",
       "venue_name": "디스위켄드룸",
       "title": "Net",
@@ -607,7 +607,8 @@
       "lng": 127.0030782,
       "address": "서울 용산구 한남대로42길 30",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:27.042Z"
     },
     {
       "id": "0b4764420a11",
@@ -632,7 +633,7 @@
         "description_summary": "William Monk의 작품을 선보이는 전시.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_40618ac755",
       "venue_name": "페이스갤러리 서울",
       "title": "Noon Day Night",
@@ -644,7 +645,8 @@
       "lng": 127.0013336,
       "address": "서울 용산구 이태원로 262",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:28.033Z"
     },
     {
       "id": "76eb51ba4dd6",
@@ -669,7 +671,7 @@
         "description_summary": "배윤환의 개인전 'Heavy Breathers'가 Gallery Baton에서 개최된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_a1078304d2",
       "venue_name": "갤러리바톤",
       "title": "Bae Yoon Hwan: Heavy Breathers",
@@ -681,7 +683,8 @@
       "lng": 127.0121759,
       "address": "서울 용산구 독서당로 116",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:30.082Z"
     },
     {
       "id": "b18e0e329567",
