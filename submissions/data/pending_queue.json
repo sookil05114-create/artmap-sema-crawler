@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:42:57Z",
+  "generated_at": "2026-07-06T03:43:02Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -328,11 +328,11 @@
         "description_summary": "Gallery Bisunjae에서 개최되는 전시. 예약 가능.",
         "confidence": 0.4
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_ec17edd245",
       "venue_name": "갤러리비선재",
-      "title": null,
-      "artists": null,
+      "title": "",
+      "artists": "",
       "start_date": "2026-06-22",
       "end_date": "2026-07-30",
       "thumbnail": "https://static.wixstatic.com/media/edcd55_f4bcbf3bcbee400382680e087c911b76%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/edcd55_f4bcbf3bcbee400382680e087c911b76%7Emv2.jpg",
@@ -340,7 +340,8 @@
       "lng": 127.0142712,
       "address": "서울 용산구 유엔빌리지3길 54-14",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:01.763Z"
     },
     {
       "id": "63cf37d9de37",
