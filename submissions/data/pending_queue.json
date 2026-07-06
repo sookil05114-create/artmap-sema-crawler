@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:44:18Z",
+  "generated_at": "2026-07-06T03:44:21Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -975,11 +975,11 @@
         "description_summary": "LEEHWAIK GALLERY에서 개최되는 스머지 전시",
         "confidence": 0.7
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_ihwaikgaelreori",
       "venue_name": "이화익갤러리",
       "title": "스머지",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-09",
       "end_date": "2026-07-25",
       "thumbnail": "http://leehwaikgallery.com/img/logo.png",
@@ -987,7 +987,8 @@
       "lng": 126.98203,
       "address": "서울 종로구 율곡로3길 67 (안국동)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:44:18.919Z"
     },
     {
       "id": "756368805232",
@@ -1012,7 +1013,7 @@
         "description_summary": "관훈갤러리의 현재 전시로 홍순환 작가의 기획 초대전입니다.",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_gwanhungaelreori",
       "venue_name": "관훈갤러리",
       "title": "홍순환 기획, 초대전",
@@ -1024,7 +1025,8 @@
       "lng": 126.9842613,
       "address": "서울 종로구 인사동11길 11",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:44:20.741Z"
     },
     {
       "id": "1774d2e3d6ad",
