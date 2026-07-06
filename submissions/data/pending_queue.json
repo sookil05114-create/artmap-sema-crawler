@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:42:43Z",
+  "generated_at": "2026-07-06T03:42:46Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -63,11 +63,11 @@
         "description_summary": "moowoosoo gallery에서 개최되는 전시",
         "confidence": 0.85
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_ff63e492bc",
       "venue_name": "무우수갤러리",
       "title": "열망의 잔상",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-01",
       "end_date": "2026-07-13",
       "thumbnail": "",
@@ -75,7 +75,8 @@
       "lng": 126.9863344,
       "address": "서울 종로구 인사동길 19-2 와담빌딩 3,4층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:42:46.154Z"
     },
     {
       "id": "c67fc970770d",
