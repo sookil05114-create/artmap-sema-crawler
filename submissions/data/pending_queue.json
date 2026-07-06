@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:43:34Z",
+  "generated_at": "2026-07-06T03:44:08Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -823,7 +823,7 @@
         "description_summary": "2026 종로 문화예술 지원사업 디그업 종로 선정 프로젝트로, 킴콜린의 개인전과 지역 교류 프로그램을 진행한다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_kim_chang_yeol_house",
       "venue_name": "김창열 화가의 집",
       "title": "2026 종로 문화예술 지원사업 <디그업 종로> 선정 프로젝트 '킴콜린 개인전《THE UNSTILL LIFE TOUR》 &지역 교류 프로그램'",
@@ -835,7 +835,8 @@
       "lng": 126.9786563,
       "address": "서울 종로구 평창7길 74",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-06T03:44:07.970Z"
     },
     {
       "id": "8c92ada15aad",
