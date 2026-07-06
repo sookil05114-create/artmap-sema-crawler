@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:43:09Z",
+  "generated_at": "2026-07-06T03:43:13Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -405,7 +405,7 @@
         "description_summary": "은재필, 남화연, 양 미라 만 세 작가가 참여하는 전시.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_b8039ba05c",
       "venue_name": "샤워",
       "title": "연예 (On Entertainment)",
@@ -417,7 +417,8 @@
       "lng": 126.9790905,
       "address": "서울 용산구 두텁바위로 61 지층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-06T03:43:12.974Z"
     },
     {
       "id": "ae2e2b350b69",
