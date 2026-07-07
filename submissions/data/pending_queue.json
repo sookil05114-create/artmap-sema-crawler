@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-06T03:44:21Z",
+  "generated_at": "2026-07-07T04:00:31Z",
   "items": [
     {
       "id": "9311b0978181",
@@ -1051,7 +1051,7 @@
         "description_summary": "대안공간 루프 작가 공모 선정 전시로, 정상운의 개인전이 2026년 7월 3일부터 8월 1일까지 서울 중구 청계천로에 위치한 대안공간 루프에서 개최된다.",
         "confidence": 0.95
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "euljiro_alternativespaceloop",
       "venue_name": "대안공간루프",
       "title": "Sangwoon Jung Solo Exhibition: It Goes by No Name",
@@ -1063,7 +1063,8 @@
       "lng": 126.9968182,
       "address": "미정 (이사 예정)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-07T04:00:31.222Z"
     },
     {
       "id": "31be22bbb97b",
