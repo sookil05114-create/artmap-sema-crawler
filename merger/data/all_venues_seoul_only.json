@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T21:28:43Z",
+  "generated_at": "2026-07-10T21:17:25Z",
   "sources": [
     "sema",
     "mmca",
@@ -889,8 +889,8 @@
       "instagram_url": "https://www.instagram.com/ilminmuseumofart/",
       "image_url": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
       "category": "미술관",
-      "active_count": 1,
-      "upcoming_count": 1,
+      "active_count": 2,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "445a928c4841",
@@ -910,7 +910,7 @@
           "artists": "",
           "start_date": "2026-07-10",
           "end_date": "2026-09-13",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://ilmin.org/",
           "price": "",
@@ -2115,22 +2115,9 @@
       "instagram_url": "https://www.instagram.com/lina_gallery",
       "image_url": "https://storage.googleapis.com/cr-resource/image/6aa63f786b231ea8ad58ca17ab42c84a/linagallery/650/8940086b20d4ebfb7dd3115302e09599.jpg?_1779850039",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "6a314899ceaa",
-          "title": "Blue Blue Bear and Green, Blue Blue Bear and Sea",
-          "artists": "야스히토 가와사키",
-          "start_date": "2026-05-21",
-          "end_date": "2026-07-09",
-          "status": "active",
-          "thumbnail": "https://storage.googleapis.com/cr-resource/image/6aa63f786b231ea8ad58ca17ab42c84a/linagallery/650/8940086b20d4ebfb7dd3115302e09599.jpg?_1780924197",
-          "url": "https://www.linagallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "seocho_space_isu",
