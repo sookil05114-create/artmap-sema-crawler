@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T21:17:25Z",
+  "generated_at": "2026-07-11T20:55:25Z",
   "sources": [
     "sema",
     "mmca",
@@ -1369,8 +1369,8 @@
       "instagram_url": "https://www.instagram.com/choiandchoigallery",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1442/usr/images/exhibitions/home_page_image/items/58/580d5bdd66c04cc5b569aa78b7b91029/3.-sohyun-ban-2026-acrylic-on-canvas-162-x-130-cm.jpeg",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "5fbed4245b71",
@@ -1378,7 +1378,7 @@
           "artists": "Marlon Wobst",
           "start_date": "2026-07-11",
           "end_date": "2026-08-06",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1442/usr/images/exhibitions/home_page_image/items/af/af325b2d716d43c89292ca814b3c0280/24.-erdbeerbad-2026-30-x-40-cm-landing.jpg",
           "url": "https://www.choiandchoi.com/",
           "price": "",
