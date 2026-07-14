@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-13T21:05:51Z",
+  "generated_at": "2026-07-14T21:07:08Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 251,
+  "venue_count": 250,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -967,9 +967,9 @@
       "upcoming_count": 0,
       "exhibitions": [
         {
-          "id": "47cdd8e3959f",
-          "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
-          "artists": "Robert Mapplethorpe",
+          "id": "de7b51c499c4",
+          "title": "Objects in Oscillation (진동하는 사물들)",
+          "artists": "",
           "start_date": "2026-06-09",
           "end_date": "2026-07-19",
           "status": "active",
@@ -979,9 +979,9 @@
           "source": "gallery_crawler"
         },
         {
-          "id": "b5e4cb5e42cc",
-          "title": "Objects in Oscillation",
-          "artists": "",
+          "id": "47cdd8e3959f",
+          "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
+          "artists": "Robert Mapplethorpe",
           "start_date": "2026-06-09",
           "end_date": "2026-07-19",
           "status": "active",
@@ -2486,9 +2486,22 @@
       "instagram_url": "https://www.instagram.com/amadoartspace/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/164145470_291173909023605_7531703079980735425_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ue2Fjwi_ldUQ7kNvwHNPdAj&_nc_oc=AdpJwEAVx3CuV2S5uCjRmGETWyEi2WVH8BMBHaJXiVYWacomy45QxlT4bjzn3MAtBoQ&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6lg61MEbWml2HMELBjij7_02FkGeZK_SibxWfuPfDSBw&oe=6A1C1FCA",
       "category": "기타",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "02156c20c2c7",
+          "title": "제3회 아마도작가상 - 손윤원 개인전 《귀눈입코(耳目口鼻)》",
+          "artists": "손윤원",
+          "start_date": "2026-07-10",
+          "end_date": "2026-08-09",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://amadoart.org/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "yongsan_v_c0ce0399d0",
@@ -2574,9 +2587,22 @@
       "instagram_url": "https://www.instagram.com/gallery_komplex",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/574539815_17915223837213948_6068472205624250800_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=tqMct-7K_7IQ7kNvwG8w7y_&_nc_oc=AdrCwvlP7_6fCRRiSl3JEVVgughIVThWooX7ch7D8qllR3QEAzTtskC1PkL08wB4RB4&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=0uAOS_DQYodubO2aCbiu3g&_nc_ss=7f60f&oh=00_Af5VmfECqL3SFL-Rpz1gK2VM2dWn8cs63BvjcdmEXnnfdw&oe=6A1C12BD",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "53e1d863846c",
+          "title": "kinks",
+          "artists": "Ean Choi, Hyunjin Jo",
+          "start_date": "2026-07-08",
+          "end_date": "2026-08-01",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.komplex.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "mapo_v_c8ed0c7725",
@@ -2593,8 +2619,8 @@
       "upcoming_count": 1,
       "exhibitions": [
         {
-          "id": "36f445f81e71",
-          "title": "Lee Deok Young: Grotto",
+          "id": "2531446660e6",
+          "title": "Lee Deok Young : Grotto",
           "artists": "Lee Deok Young",
           "start_date": "2026-07-18",
           "end_date": "2026-08-14",
@@ -3102,9 +3128,22 @@
       "instagram_url": "https://www.instagram.com/thereyouare_tya/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "a96132b085eb",
+          "title": "Biffure — 지워진 풍경",
+          "artists": "임규환",
+          "start_date": "2026-07-08",
+          "end_date": "2026-07-19",
+          "status": "active",
+          "thumbnail": "https://tya.kr/wp-content/uploads/2026/04/2024-tya-로고-960x600-1.png",
+          "url": "https://tya.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gangnam_v_6f0829ac57",
@@ -3355,9 +3394,22 @@
       "instagram_url": "https://www.instagram.com/pipe_gallery",
       "image_url": "https://pipegallery.com/OpenGraphImage.jpg",
       "category": "갤러리",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 0,
-      "exhibitions": []
+      "exhibitions": [
+        {
+          "id": "04ccd6226f3a",
+          "title": "오래 보는 일",
+          "artists": "이수진",
+          "start_date": "2026-07-14",
+          "end_date": "2026-08-07",
+          "status": "active",
+          "thumbnail": "https://pipegallery.com/OpenGraphImage.jpg",
+          "url": "https://pipegallery.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "gwanak_v_fb4b686677",
@@ -4396,22 +4448,9 @@
       "instagram_url": "https://www.instagram.com/mws_gallery_",
       "image_url": "https://cdn.imweb.me/upload/S202012014e7062d15fd76/05f4a58e8beda.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "59b0babfe96b",
-          "title": "열망의 잔상",
-          "artists": "",
-          "start_date": "2026-07-01",
-          "end_date": "2026-07-13",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://moowoosoogallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "yongsan_v_bc3667b2bc",
@@ -4470,8 +4509,21 @@
       "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
       "category": "갤러리",
       "active_count": 0,
-      "upcoming_count": 0,
-      "exhibitions": []
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "518bcc53b02d",
+          "title": "사라지는 영원: 생성과 소멸 사이",
+          "artists": "김나정",
+          "start_date": "2026-07-15",
+          "end_date": "2026-07-26",
+          "status": "upcoming",
+          "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+          "url": "https://galleryharang.com/",
+          "price": "",
+          "source": "gallery_crawler"
+        }
+      ]
     },
     {
       "venue_key": "yeongdeungpo_v_84ed88a3db",
@@ -4898,34 +4950,6 @@
           "status": "active",
           "thumbnail": "https://storage.googleapis.com/cr-resource/image/af2cfcb18504cd1a4882cdd4ad14d71a/horiartspacee/650/1e35e06bb2007011a180a374ca5ba8ce.png?_1782684828",
           "url": "https://horiartspace.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
-    },
-    {
-      "venue_key": "jongno_gaelreoriateuringkeu",
-      "venue_name": "갤러리아트링크",
-      "region": "seoul",
-      "address": "서울 종로구 삼청로 22 3층",
-      "lat": 37.5779147,
-      "lng": 126.9798206,
-      "official_url": "",
-      "instagram_url": "",
-      "image_url": "http://www.artlink.co.kr/img/home_img.png",
-      "category": "기타",
-      "active_count": 1,
-      "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "33f6a73aac6f",
-          "title": "마손 일러스트 전시 < 모든 계절>",
-          "artists": "마손",
-          "start_date": "2026-06-22",
-          "end_date": "2026-07-13",
-          "status": "active",
-          "thumbnail": "/img/home_img.png",
-          "url": "http://www.artlink.co.kr/",
           "price": "",
           "source": "gallery_crawler"
         }

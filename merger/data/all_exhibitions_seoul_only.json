@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-13T21:05:51Z",
+  "generated_at": "2026-07-14T21:07:08Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "count": 245,
+  "count": 252,
   "exhibitions": [
     {
       "id": "f2c03a40ade7",
@@ -266,7 +266,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=975877",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:21Z"
+      "collected_at": "2026-07-14T20:46:41Z"
     },
     {
       "id": "f054cc222fce",
@@ -446,7 +446,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:37Z"
+      "collected_at": "2026-07-14T20:46:58Z"
     },
     {
       "id": "9bef1cc22873",
@@ -466,7 +466,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:37Z"
+      "collected_at": "2026-07-14T20:46:58Z"
     },
     {
       "id": "79722354fe7b",
@@ -566,7 +566,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
       "status": "active",
-      "collected_at": "2026-07-13T20:46:01Z"
+      "collected_at": "2026-07-14T20:47:21Z"
     },
     {
       "id": "234c5c8c4a24",
@@ -706,7 +706,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003457",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:31Z"
+      "collected_at": "2026-07-14T20:46:52Z"
     },
     {
       "id": "166324b1a1be",
@@ -906,7 +906,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1003842",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:21Z"
+      "collected_at": "2026-07-14T20:46:41Z"
     },
     {
       "id": "c863e0f33477",
@@ -1206,7 +1206,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005949",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:21Z"
+      "collected_at": "2026-07-14T20:46:41Z"
     },
     {
       "id": "fd6985c92de5",
@@ -1366,7 +1366,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "614105985711",
@@ -1646,7 +1646,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:37Z"
+      "collected_at": "2026-07-14T20:46:58Z"
     },
     {
       "id": "f10f3da9a9a7",
@@ -1706,7 +1706,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "9fe5f57cd1a2",
@@ -1886,7 +1886,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1007678",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:21Z"
+      "collected_at": "2026-07-14T20:46:41Z"
     },
     {
       "id": "92f823f6b7bf",
@@ -2549,6 +2549,26 @@
       "collected_at": "2026-06-01T19:24:32Z"
     },
     {
+      "id": "de7b51c499c4",
+      "source": "gallery_crawler",
+      "title": "Objects in Oscillation (진동하는 사물들)",
+      "artists": "",
+      "venue_raw": "국제갤러리",
+      "venue_key": "kukje_gallery",
+      "venue_name": "국제갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 삼청로 54",
+      "lat": 37.5807006,
+      "lng": 126.9804771,
+      "start_date": "2026-06-09",
+      "end_date": "2026-07-19",
+      "price": "",
+      "url": "https://www.kukjegallery.com/",
+      "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
+      "status": "active",
+      "collected_at": "2026-07-12T21:52:37Z"
+    },
+    {
       "id": "47cdd8e3959f",
       "source": "gallery_crawler",
       "title": "Robert Mapplethorpe The Poetics of Form (형태의 시학)",
@@ -2706,7 +2726,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1011451",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:31Z"
+      "collected_at": "2026-07-14T20:46:52Z"
     },
     {
       "id": "c1e46828e689",
@@ -3186,7 +3206,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "33f6a73aac6f",
@@ -3205,7 +3225,7 @@
       "price": "",
       "url": "http://www.artlink.co.kr/",
       "thumbnail": "/img/home_img.png",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-06-28T22:05:55Z"
     },
     {
@@ -3306,7 +3326,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
       "status": "active",
-      "collected_at": "2026-07-13T20:45:31Z"
+      "collected_at": "2026-07-14T20:46:52Z"
     },
     {
       "id": "9903ac5b6a33",
@@ -3585,7 +3605,7 @@
       "price": "",
       "url": "https://moowoosoogallery.com/",
       "thumbnail": "",
-      "status": "active",
+      "status": "ended",
       "collected_at": "2026-07-05T22:26:43Z"
     },
     {
@@ -3849,6 +3869,46 @@
       "collected_at": "2026-06-28T22:21:12Z"
     },
     {
+      "id": "a96132b085eb",
+      "source": "gallery_crawler",
+      "title": "Biffure — 지워진 풍경",
+      "artists": "임규환",
+      "venue_raw": "TYA갤러리",
+      "venue_key": "jongno_v_5cdbfb0748",
+      "venue_name": "TYA갤러리",
+      "region": "seoul",
+      "address": "서울시 종로구 자하문로5길 28",
+      "lat": 37.5778184,
+      "lng": 126.9703285,
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-19",
+      "price": "",
+      "url": "https://tya.kr/",
+      "thumbnail": "https://tya.kr/wp-content/uploads/2026/04/2024-tya-로고-960x600-1.png",
+      "status": "active",
+      "collected_at": "2026-07-12T22:06:33Z"
+    },
+    {
+      "id": "53e1d863846c",
+      "source": "gallery_crawler",
+      "title": "kinks",
+      "artists": "Ean Choi, Hyunjin Jo",
+      "venue_raw": "Komplex",
+      "venue_key": "yongsan_komplex",
+      "venue_name": "Komplex",
+      "region": "seoul",
+      "address": "서울 용산구 후암로 59 2층",
+      "lat": 37.5510836,
+      "lng": 126.9768376,
+      "start_date": "2026-07-08",
+      "end_date": "2026-08-01",
+      "price": "",
+      "url": "https://www.komplex.kr/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-07-12T22:02:22Z"
+    },
+    {
       "id": "b3c44f78deab",
       "source": "gallery_crawler",
       "title": "스머지",
@@ -3869,6 +3929,26 @@
       "collected_at": "2026-07-05T22:04:22Z"
     },
     {
+      "id": "02156c20c2c7",
+      "source": "gallery_crawler",
+      "title": "제3회 아마도작가상 - 손윤원 개인전 《귀눈입코(耳目口鼻)》",
+      "artists": "손윤원",
+      "venue_raw": "아마도예술공간",
+      "venue_key": "yongsan_v_e94dc905f1",
+      "venue_name": "아마도예술공간",
+      "region": "seoul",
+      "address": "서울 용산구 이태원로54길 8",
+      "lat": 37.5377662,
+      "lng": 127.0017855,
+      "start_date": "2026-07-10",
+      "end_date": "2026-08-09",
+      "price": "",
+      "url": "https://amadoart.org/",
+      "thumbnail": "",
+      "status": "active",
+      "collected_at": "2026-07-12T22:01:44Z"
+    },
+    {
       "id": "731e06acfa30",
       "source": "art_week",
       "title": "《동시대 이미지 주제전》",
@@ -3886,7 +3966,7 @@
       "url": "https://ilmin.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "5fbed4245b71",
@@ -3909,6 +3989,46 @@
       "collected_at": "2026-07-05T22:05:46Z"
     },
     {
+      "id": "04ccd6226f3a",
+      "source": "gallery_crawler",
+      "title": "오래 보는 일",
+      "artists": "이수진",
+      "venue_raw": "파이프갤러리",
+      "venue_key": "yongsan_v_4752d608f8",
+      "venue_name": "파이프갤러리",
+      "region": "seoul",
+      "address": "서울 용산구 대사관로 21 2층, 3층",
+      "lat": 37.5341819,
+      "lng": 127.0008313,
+      "start_date": "2026-07-14",
+      "end_date": "2026-08-07",
+      "price": "",
+      "url": "https://pipegallery.com/",
+      "thumbnail": "https://pipegallery.com/OpenGraphImage.jpg",
+      "status": "active",
+      "collected_at": "2026-07-12T22:08:26Z"
+    },
+    {
+      "id": "518bcc53b02d",
+      "source": "gallery_crawler",
+      "title": "사라지는 영원: 생성과 소멸 사이",
+      "artists": "김나정",
+      "venue_raw": "하랑갤러리",
+      "venue_key": "jongno_v_2804aa3a69",
+      "venue_name": "하랑갤러리",
+      "region": "seoul",
+      "address": "서울 종로구 자하문로38길 45",
+      "lat": 37.5941635,
+      "lng": 126.9656704,
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-26",
+      "price": "",
+      "url": "https://galleryharang.com/",
+      "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
+      "status": "upcoming",
+      "collected_at": "2026-07-12T22:17:07Z"
+    },
+    {
       "id": "df9472b8ba0b",
       "source": "sema",
       "title": "《마틴 파 : We Are Martin Parr》",
@@ -3926,7 +4046,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014363",
       "status": "upcoming",
-      "collected_at": "2026-07-13T20:45:55Z"
+      "collected_at": "2026-07-14T20:47:15Z"
     },
     {
       "id": "84cf27aca8a2",
@@ -3946,7 +4066,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "1d5762c29ca8",
@@ -3967,6 +4087,26 @@
       "thumbnail": "",
       "status": "upcoming",
       "collected_at": "2026-06-15T16:43:39Z"
+    },
+    {
+      "id": "2531446660e6",
+      "source": "gallery_crawler",
+      "title": "Lee Deok Young : Grotto",
+      "artists": "Lee Deok Young",
+      "venue_raw": "챕터투",
+      "venue_key": "mapo_v_c8ed0c7725",
+      "venue_name": "챕터투",
+      "region": "seoul",
+      "address": "서울 마포구 동교로27길 54",
+      "lat": 37.5602136,
+      "lng": 126.9212316,
+      "start_date": "2026-07-18",
+      "end_date": "2026-08-14",
+      "price": "",
+      "url": "https://chapterii.org/",
+      "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1647/usr/images/exhibitions/home_page_image/items/c1/c149f2edb10b4dcbabf2cbf855205723/ct_ldy_103-2025-ink-on-paper-45.5x45.jpg",
+      "status": "upcoming",
+      "collected_at": "2026-07-12T22:02:29Z"
     },
     {
       "id": "36f445f81e71",
@@ -4006,7 +4146,7 @@
       "url": "https://www.spacek.co.kr/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "fd6e830fa660",
@@ -4026,7 +4166,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "9f19bf1ebc70",
@@ -4046,7 +4186,7 @@
       "url": "https://artsonje.org/exhibition-program/exhibition/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "9058465a96fe",
@@ -4066,7 +4206,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1013845",
       "status": "upcoming",
-      "collected_at": "2026-07-13T20:45:48Z"
+      "collected_at": "2026-07-14T20:47:09Z"
     },
     {
       "id": "9ae886c0d6c9",
@@ -4086,7 +4226,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "cd405fc79942",
@@ -4106,7 +4246,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "1a0d0d38e652",
@@ -4126,7 +4266,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "7639e2fdd78b",
@@ -4146,7 +4286,7 @@
       "url": "https://songeun.or.kr/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "5aa32bd7f71d",
@@ -4206,7 +4346,7 @@
       "url": "https://www.ocimuseum.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "072a2c23daa1",
@@ -4226,7 +4366,7 @@
       "url": "https://www.artside.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "e5dbf479b082",
@@ -4246,7 +4386,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "a27227969ee3",
@@ -4266,7 +4406,7 @@
       "url": "https://www.pkmgallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "c47a3d013b6d",
@@ -4286,7 +4426,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "2413571b8918",
@@ -4306,7 +4446,7 @@
       "url": "",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "36f84ca4ce30",
@@ -4326,7 +4466,7 @@
       "url": "https://craftmuseum.seoul.go.kr/main",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "283d437eba18",
@@ -4346,7 +4486,7 @@
       "url": "https://apma.amorepacific.com/contents/exhibition/index.do",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "e61941f7c997",
@@ -4366,7 +4506,7 @@
       "url": "https://www.arariogallery.com/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "52ea3c4fc5ed",
@@ -4386,7 +4526,7 @@
       "url": "https://www.leeumhoam.org/",
       "thumbnail": "",
       "status": "upcoming",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "3fa504646d5e",
@@ -4406,7 +4546,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014132",
       "status": "upcoming",
-      "collected_at": "2026-07-13T20:45:25Z"
+      "collected_at": "2026-07-14T20:46:46Z"
     },
     {
       "id": "feba8ad5a36e",
@@ -4486,7 +4626,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "6084da7d42c9",
@@ -4506,7 +4646,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "42c6c1f81417",
@@ -4526,7 +4666,7 @@
       "url": "https://sma.sbculture.or.kr/sma/index.do",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "7cb07997a386",
@@ -4546,7 +4686,7 @@
       "url": "http://www.kumhomuseum.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "d461c80af4a3",
@@ -4566,7 +4706,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "a79165f880f7",
@@ -4586,7 +4726,7 @@
       "url": "",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "7c47035bd4b9",
@@ -4606,7 +4746,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "a059d2bbc6e7",
@@ -4626,7 +4766,7 @@
       "url": "https://www.kukjegallery.com/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "cfb061425017",
@@ -4646,7 +4786,7 @@
       "url": "https://www.galleryhyundai.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "aa60a541418d",
@@ -4666,7 +4806,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "bd554a6b43e3",
@@ -4686,7 +4826,7 @@
       "url": "https://futuraseoul.org/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "2010c9a53b04",
@@ -4706,7 +4846,7 @@
       "url": "http://www.perrotin.com",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "d5d0205a7e9b",
@@ -4726,7 +4866,7 @@
       "url": "https://www.ggallery.kr/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "87645c379e81",
@@ -4746,7 +4886,7 @@
       "url": "https://ropac.net/ko/",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "8ed4ee11d6c9",
@@ -4766,7 +4906,7 @@
       "url": "https://www.isu.co.kr/kor/culture/spaceisu.jsp",
       "thumbnail": "",
       "status": "active",
-      "collected_at": "2026-07-13T21:05:51Z"
+      "collected_at": "2026-07-14T21:07:08Z"
     },
     {
       "id": "9b407876b9ff",
@@ -4786,7 +4926,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=929810",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:45:21Z"
+      "collected_at": "2026-07-14T20:46:41Z"
     },
     {
       "id": "05518eb66e12",
@@ -4806,7 +4946,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=962227",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:45:21Z"
+      "collected_at": "2026-07-14T20:46:41Z"
     },
     {
       "id": "248386c2dcad",
@@ -4826,7 +4966,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=962731",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:45:31Z"
+      "collected_at": "2026-07-14T20:46:52Z"
     },
     {
       "id": "383071b3c068",
@@ -4846,7 +4986,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=883715",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:45:44Z"
+      "collected_at": "2026-07-14T20:47:04Z"
     },
     {
       "id": "7073930f8a0f",
@@ -4866,7 +5006,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1009561",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:46:01Z"
+      "collected_at": "2026-07-14T20:47:21Z"
     },
     {
       "id": "41d9d8807366",
@@ -4886,7 +5026,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=980140",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:46:07Z"
+      "collected_at": "2026-07-14T20:47:27Z"
     },
     {
       "id": "6e564d4dadda",
@@ -4906,7 +5046,7 @@
       "url": "",
       "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=977823",
       "status": "permanent",
-      "collected_at": "2026-07-13T20:46:13Z"
+      "collected_at": "2026-07-14T20:47:33Z"
     }
   ],
   "filter": "region=seoul"
