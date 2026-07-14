@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:22Z",
+  "generated_at": "2026-07-14T05:59:28Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -403,7 +403,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_f19462d789",
       "venue_name": "드로잉룸",
       "title": "조현수",
@@ -415,7 +415,8 @@
       "lng": 126.9692875,
       "address": "서울 종로구 자하문로7길 68-4 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:23.513Z"
     },
     {
       "id": "3dfd87562b67",
@@ -444,11 +445,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_142b1ecf35",
       "venue_name": "스페이스소",
       "title": "분신술 (The Art of Shadow Cloning)",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-18",
       "end_date": "2026-07-18",
       "thumbnail": "",
@@ -456,7 +457,8 @@
       "lng": 126.964113,
       "address": "서울 종로구 자하문로 242 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:28.080Z"
     },
     {
       "id": "04ccd6226f3a",
