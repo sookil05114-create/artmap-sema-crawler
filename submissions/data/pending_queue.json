@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:02Z",
+  "generated_at": "2026-07-14T05:59:06Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -71,7 +71,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_2804aa3a69",
       "venue_name": "하랑갤러리",
       "title": "사라지는 영원: 생성과 소멸 사이",
@@ -83,7 +83,8 @@
       "lng": 126.9656704,
       "address": "서울 종로구 자하문로38길 45",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:06.322Z"
     },
     {
       "id": "4c9e96905ee4",
