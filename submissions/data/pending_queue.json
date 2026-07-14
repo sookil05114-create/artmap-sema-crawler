@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:16Z",
+  "generated_at": "2026-07-14T05:59:22Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -235,11 +235,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_e641b9b426",
       "venue_name": "인사1010",
       "title": "YODA BRIDGE 기획전 < 외부와 내부, 드러남과 응시 사이 >",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-08",
       "end_date": "2026-07-13",
       "thumbnail": "",
@@ -247,7 +247,8 @@
       "lng": 126.9857089,
       "address": "서울 종로구 인사동10길 10 B1-4F",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:17.091Z"
     },
     {
       "id": "a72cab2a1168",
@@ -276,11 +277,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_7621337f8e",
       "venue_name": "마루아트센터",
       "title": "Rest in Minhwa",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-08",
       "end_date": "2026-07-13",
       "thumbnail": "/default/img/common/og-img.png",
@@ -288,7 +289,8 @@
       "lng": 126.9850588,
       "address": "서울 종로구 인사동길 35-6 B1F, 1F, 3F",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-14T05:59:17.872Z"
     },
     {
       "id": "90ddd618c074",
@@ -317,11 +319,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seongbuk_wess",
       "venue_name": "WESS",
       "title": "2025 WESS Exhibition Publication OPEN",
-      "artists": null,
+      "artists": "",
       "start_date": "2025-12-11",
       "end_date": "2025-12-14",
       "thumbnail": "https://wess.kr/wp-content/uploads/2020/05/og.png",
@@ -329,7 +331,8 @@
       "lng": 127.0051239,
       "address": "서울 성북구 창경궁로 320",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:20.960Z"
     },
     {
       "id": "adb12dead521",
@@ -358,7 +361,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "mapo_v_b859c19fc7",
       "venue_name": "별관",
       "title": "새의 선물 : Borderline",
@@ -370,7 +373,8 @@
       "lng": 126.9452347,
       "address": "서울 마포구 망원로 74 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:22.192Z"
     },
     {
       "id": "591bdfbf4b6b",
