@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:38Z",
+  "generated_at": "2026-07-14T05:59:43Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -529,7 +529,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_v_38003b16e2",
       "venue_name": "띠오",
       "title": "SEOUL FANDI",
@@ -541,7 +541,8 @@
       "lng": 127.0528785,
       "address": "서울 강남구 봉은사로68길 55-3 B1F",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:38.781Z"
     },
     {
       "id": "a96132b085eb",
@@ -654,7 +655,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "mapo_v_c8ed0c7725",
       "venue_name": "챕터투",
       "title": "Lee Deok Young : Grotto",
@@ -666,7 +667,8 @@
       "lng": 126.9212316,
       "address": "서울 마포구 동교로27길 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:40.222Z"
     },
     {
       "id": "53e1d863846c",
@@ -695,7 +697,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_komplex",
       "venue_name": "Komplex",
       "title": "kinks",
@@ -707,7 +709,8 @@
       "lng": 126.9768376,
       "address": "서울 용산구 후암로 59 2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:42.505Z"
     },
     {
       "id": "02156c20c2c7",
