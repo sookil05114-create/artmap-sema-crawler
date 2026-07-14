@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:06Z",
+  "generated_at": "2026-07-14T05:59:12Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -113,11 +113,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_ff63e492bc",
       "venue_name": "무우수갤러리",
       "title": "MODERN DANCHEONG",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-01-14",
       "end_date": "2026-02-09",
       "thumbnail": "",
@@ -125,7 +125,8 @@
       "lng": 126.9863344,
       "address": "서울 종로구 인사동길 19-2 와담빌딩 3,4층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:12.130Z"
     },
     {
       "id": "78d0c236e55e",
@@ -150,7 +151,7 @@
         "description_summary": "백악미술관에서 개최되는 남재원 작가의 전시",
         "confidence": 0.6
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_v_a5111dc307",
       "venue_name": "백악미술관",
       "title": "남재원전",
@@ -162,7 +163,8 @@
       "lng": 126.9841283,
       "address": "서울 종로구 인사동9길 16",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-14T05:59:11.505Z"
     },
     {
       "id": "bdf0be0f8daa",
