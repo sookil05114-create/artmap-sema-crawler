@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:51Z",
+  "generated_at": "2026-07-14T05:59:57Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -991,11 +991,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Objects in Oscillation (진동하는 사물들)",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-09",
       "end_date": "2026-07-19",
       "thumbnail": "https://www.kukjegallery.com/assets/images/common/K3_800.jpg",
@@ -1003,7 +1003,8 @@
       "lng": 126.9804771,
       "address": "서울 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:56.467Z"
     },
     {
       "id": "c5e56104f325",
