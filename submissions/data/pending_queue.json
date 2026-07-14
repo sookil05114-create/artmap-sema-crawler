@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-12T22:18:04Z",
+  "generated_at": "2026-07-14T05:59:02Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -29,7 +29,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_v_c0eee613ca",
       "venue_name": "아트스페이스와이",
       "title": "PLAY: NANCY LANG",
@@ -41,7 +41,8 @@
       "lng": 127.028352,
       "address": "서울 강남구 강남대로100길 28 B1, B2",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:02.030Z"
     },
     {
       "id": "518bcc53b02d",
