@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:57Z",
+  "generated_at": "2026-07-14T06:00:02Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -1033,11 +1033,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "seoul_craft_museum",
       "venue_name": "서울공예박물관",
       "title": "漆-옻나무에서 칠기로",
-      "artists": null,
+      "artists": "",
       "start_date": "2025-06-27",
       "end_date": "2026-12-31",
       "thumbnail": "",
@@ -1045,7 +1045,8 @@
       "lng": 126.983379,
       "address": "서울 종로구 율곡로3길 4",
       "region": "seoul",
-      "category": "박물관"
+      "category": "박물관",
+      "reviewed_at": "2026-07-14T05:59:57.751Z"
     },
     {
       "id": "db7d76dd296a",
@@ -1074,7 +1075,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "euljiro_gallerymos_official",
       "venue_name": "갤러리모스",
       "title": "영 映",
@@ -1086,7 +1087,8 @@
       "lng": 126.9931911,
       "address": "서울 중구 을지로 138",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:58.638Z"
     },
     {
       "id": "e5cd5218a28b",
@@ -1115,7 +1117,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "euljiro_ypc_seoul",
       "venue_name": "YPC스페이스",
       "title": "My Plum. My Planet.",
@@ -1127,7 +1129,8 @@
       "lng": 127.0004057,
       "address": "서울 중구 퇴계로 258",
       "region": "seoul",
-      "category": "전시공간"
+      "category": "전시공간",
+      "reviewed_at": "2026-07-14T06:00:01.192Z"
     },
     {
       "id": "9311b0978181",
