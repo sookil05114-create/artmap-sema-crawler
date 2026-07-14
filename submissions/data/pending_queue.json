@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:43Z",
+  "generated_at": "2026-07-14T05:59:47Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -739,7 +739,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_e94dc905f1",
       "venue_name": "아마도예술공간",
       "title": "제3회 아마도작가상 - 손윤원 개인전 《귀눈입코(耳目口鼻)》",
@@ -751,7 +751,8 @@
       "lng": 127.0017855,
       "address": "서울 용산구 이태원로54길 8",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-14T05:59:43.380Z"
     },
     {
       "id": "594a03b98aaf",
@@ -780,11 +781,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_seupeiseuk_seoul",
       "venue_name": "스페이스K 서울",
       "title": "친구, 그리고 이웃 (FRIENDS AND NEIGHBORS)",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-23",
       "end_date": "2026-12-27",
       "thumbnail": "",
@@ -792,7 +793,8 @@
       "lng": 126.831149,
       "address": "서울 강서구 마곡중앙8로 32 (코오롱원앤온리타워)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:45.022Z"
     },
     {
       "id": "048970cc8826",
@@ -821,7 +823,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_tang_contemporary_art",
       "venue_name": "탕 컨템포러리 아트",
       "title": "Benzilla: Protagonist",
@@ -833,7 +835,8 @@
       "lng": 127.0470224,
       "address": "서울 강남구 압구정로75길 6 지하2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:46.826Z"
     },
     {
       "id": "57cd33b0af74",
