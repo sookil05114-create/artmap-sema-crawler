@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-14T05:59:33Z",
+  "generated_at": "2026-07-14T05:59:38Z",
   "items": [
     {
       "id": "ed5366d027b0",
@@ -570,7 +570,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_5cdbfb0748",
       "venue_name": "TYA갤러리",
       "title": "Biffure — 지워진 풍경",
@@ -582,7 +582,8 @@
       "lng": 126.9703285,
       "address": "서울시 종로구 자하문로5길 28",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-14T05:59:37.830Z"
     },
     {
       "id": "2ea430988e48",
