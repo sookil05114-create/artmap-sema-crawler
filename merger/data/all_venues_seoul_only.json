@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T21:07:08Z",
+  "generated_at": "2026-07-15T20:47:11Z",
   "sources": [
     "sema",
     "mmca",
@@ -361,32 +361,116 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 1,
-      "upcoming_count": 2,
+      "active_count": 5,
+      "upcoming_count": 6,
       "exhibitions": [
         {
-          "id": "52b0ef2a39df",
-          "title": "《이것은 개념미술이 (아니)다》",
-          "artists": "",
+          "id": "e29350c595df",
+          "title": "MMCA 다원예술 2026: 탐정의 시간",
+          "artists": "료지 이케다/앙상블 모데른, 마말리안 다이빙 리플렉스, 엘 콘데 데 토레필, 마테오 마랑고니/디터 반도렌, 신서, 위성희, 리타 후프와이크, 살로메 무이, 샘 소이어만, 박민희, 크리스토퍼 놀란, 정여름",
+          "start_date": "2026-04-01",
+          "end_date": "2026-12-06",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/02/2026022405253166716635.gif",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002024&exhFlag=1",
+          "price": "개별 프로그램 별 상이",
+          "source": "mmca"
+        },
+        {
+          "id": "bf130acf18c8",
+          "title": "그래도 해보던 날들",
+          "artists": "양정욱",
+          "start_date": "2026-04-17",
+          "end_date": "2026-08-30",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/04/2026040803310161019462.gif",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603300002070&exhFlag=1",
+          "price": "무료",
+          "source": "mmca"
+        },
+        {
+          "id": "1fe18767dc6b",
+          "title": "오~감각미술관",
+          "artists": "깪, 엄정순, 함진",
+          "start_date": "2026-04-30",
+          "end_date": "2027-02-21",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/03/202603250437045881725.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202603240002068&exhFlag=1",
+          "price": "무료",
+          "source": "mmca"
+        },
+        {
+          "id": "36902d52e51e",
+          "title": "캐시 메모리: MMCA 뉴미디어 컬렉션 다시 읽기",
+          "artists": "하룬 파로키, 김범, 정연두, 조나단 호로비츠, 안리 살라, 셰일라 카메리치, 임흥순, 에릭 보들레르, 아크람 자타리, 아피찻퐁 위라세타쿤, 양푸동, 안톤 비도클, 로랑 그라소, 호 추 니엔, 와엘 샤키, 김아영, 김희천, 염지혜, 사라 세진 장(사라 반 데어 헤이드)",
+          "start_date": "2026-06-16",
+          "end_date": "2026-07-17",
+          "status": "active",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061102465835711722.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202606100002078&exhFlag=1",
+          "price": "무료",
+          "source": "mmca"
+        },
+        {
+          "id": "a6ec77ae545e",
+          "title": "이것은 개념미술이 (아니)다",
+          "artists": "공성훈, 곽덕준, 김구림, 김범, 김소라, 김순기, 김용민, 김용익, 김용철, 김차섭, 김홍석, 박이소, 박현기, 성능경, 안규철, 오인환, 우순옥, 윤동천, 윤진섭, 이건용, 이교준, 이승택, 정서영, 조경숙, 주재환, 최병소, 코디최, 홍명섭",
           "start_date": "2026-06-19",
           "end_date": "2026-10-11",
           "status": "active",
-          "thumbnail": "",
-          "url": "",
-          "price": "",
-          "source": "art_week"
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026051904102270419400.gif",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002027&exhFlag=1",
+          "price": "2,000원",
+          "source": "mmca"
         },
         {
-          "id": "fd6e830fa660",
-          "title": "《올해의 작가상 2026》",
-          "artists": "",
+          "id": "6004803b5fbf",
+          "title": "장 클로드 루소: 2026 서울국제실험영화페스티벌 엑스레트로",
+          "artists": "장 클로드 루소",
+          "start_date": "2026-07-24",
+          "end_date": "2026-08-02",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/2026071310263892215377.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202607130002082&exhFlag=2",
+          "price": "무료",
+          "source": "mmca"
+        },
+        {
+          "id": "51659f018a70",
+          "title": "올해의 작가상 2026",
+          "artists": "이해민선, 홍진훤, 이정우, 전현선",
           "start_date": "2026-07-24",
           "end_date": "2026-12-06",
           "status": "upcoming",
-          "thumbnail": "",
-          "url": "",
-          "price": "",
-          "source": "art_week"
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
+          "price": "2,000원",
+          "source": "mmca"
+        },
+        {
+          "id": "580fded5c044",
+          "title": "MMCA×LG OLED 시리즈 2026",
+          "artists": "-",
+          "start_date": "2026-07-31",
+          "end_date": "2026-11-29",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/06/2026061002041170016962.gif",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601060002028&exhFlag=2",
+          "price": "-",
+          "source": "mmca"
+        },
+        {
+          "id": "e6f107b3043a",
+          "title": "서도호",
+          "artists": "서도호",
+          "start_date": "2026-08-27",
+          "end_date": "2027-02-09",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012011255342514134.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601200002041&exhFlag=2",
+          "price": "-",
+          "source": "mmca"
         },
         {
           "id": "2413571b8918",
@@ -399,6 +483,18 @@
           "url": "",
           "price": "",
           "source": "art_week"
+        },
+        {
+          "id": "a1a64de63d62",
+          "title": "읽기의 기술: 종이에서 픽셀로",
+          "artists": "-",
+          "start_date": "2026-11-20",
+          "end_date": "2027-04-04",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/2026012010573049519685.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601160002037&exhFlag=2",
+          "price": "-",
+          "source": "mmca"
         }
       ]
     },
@@ -414,8 +510,20 @@
       "image_url": "",
       "category": "",
       "active_count": 0,
-      "upcoming_count": 1,
+      "upcoming_count": 3,
       "exhibitions": [
+        {
+          "id": "576a1c954144",
+          "title": "이대원",
+          "artists": "이대원",
+          "start_date": "2026-08-06",
+          "end_date": "2026-11-08",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121007334671125.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
+          "price": "-",
+          "source": "mmca"
+        },
         {
           "id": "cd405fc79942",
           "title": "《이대원 개인전》",
@@ -427,6 +535,18 @@
           "url": "",
           "price": "",
           "source": "art_week"
+        },
+        {
+          "id": "37c00224b438",
+          "title": "파리의 이방인",
+          "artists": "권옥연, 김기린, 김순기, 김창열, 김흥수, 남관, 문신, 방혜자, 이성자, 이세득, 이응노, 이우환, 이항성, 임세택, 한묵 등 50여 명",
+          "start_date": "2026-12-17",
+          "end_date": "2027-05-09",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/01/202601121009205461858.jpg",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002030&exhFlag=2",
+          "price": "-",
+          "source": "mmca"
         }
       ]
     },
@@ -1620,22 +1740,9 @@
       "instagram_url": "https://www.instagram.com/gallerygrimson",
       "image_url": "https://www.grimson.co.kr/images/meta_img.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "4a6d022f215e",
-          "title": "나는 풍경 안에 있지 않다",
-          "artists": "한조영",
-          "start_date": "2026-06-17",
-          "end_date": "2026-07-14",
-          "status": "active",
-          "thumbnail": "/images/meta_img.png",
-          "url": "https://www.grimson.co.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_ganaateusenteo",
@@ -4478,8 +4585,8 @@
       "instagram_url": "https://www.instagram.com/galleryharang",
       "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "518bcc53b02d",
@@ -4487,7 +4594,7 @@
           "artists": "김나정",
           "start_date": "2026-07-15",
           "end_date": "2026-07-26",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
           "url": "https://galleryharang.com/",
           "price": "",
