@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T20:46:48Z",
+  "generated_at": "2026-07-16T20:40:57Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -148,7 +148,7 @@
       "lng": 126.8954095,
       "official_url": "https://sema.seoul.go.kr/kr/visit/seoseoul",
       "active_count": 3,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "82851de12c06",
@@ -177,6 +177,16 @@
           "end_date": "2026-07-26",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "fb34afaed9b4",
+          "title": "서울시립 서서울미술관 미디어 작가전 《김희천: 두더지들》",
+          "start_date": "2026-08-20",
+          "end_date": "2026-11-08",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1015413",
           "url": "",
           "price": "무료"
         }
@@ -223,15 +233,15 @@
       "lat": 37.655482,
       "lng": 127.0487773,
       "official_url": "https://sema.seoul.go.kr/kr/visit/photosema",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "df9472b8ba0b",
           "title": "《마틴 파 : We Are Martin Parr》",
           "start_date": "2026-07-16",
           "end_date": "2026-10-18",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014363",
           "url": "",
           "price": "무료"
