@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:40Z",
+  "generated_at": "2026-07-20T03:58:46Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -449,7 +449,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "yongsan_v_b8039ba05c",
       "venue_name": "샤워",
       "title": "임재균",
@@ -461,7 +461,8 @@
       "lng": 126.9790905,
       "address": "서울 용산구 두텁바위로 61 지층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:40.703Z"
     },
     {
       "id": "0bc2f28d1690",
@@ -490,7 +491,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_40618ac755",
       "venue_name": "페이스갤러리 서울",
       "title": "Artists on Artists: Lee Ufan x Park Young Sook",
@@ -502,7 +503,8 @@
       "lng": 127.0013336,
       "address": "서울 용산구 이태원로 262",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:41.580Z"
     },
     {
       "id": "8c4cfc6524c6",
@@ -531,11 +533,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_seupeiseuk_seoul",
       "venue_name": "스페이스K 서울",
       "title": "친구, 그리고 이웃",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-23",
       "end_date": "2026-12-27",
       "thumbnail": "",
@@ -543,7 +545,8 @@
       "lng": 126.831149,
       "address": "서울 강서구 마곡중앙8로 32 (코오롱원앤온리타워)",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:43.263Z"
     },
     {
       "id": "3cf21b7004d8",
@@ -572,11 +575,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_tang_contemporary_art",
       "venue_name": "탕 컨템포러리 아트",
       "title": "Panta Rhei – The Eternal Voyager",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-04",
       "end_date": "2026-08-08",
       "thumbnail": "",
@@ -584,7 +587,8 @@
       "lng": 127.0470224,
       "address": "서울 강남구 압구정로75길 6 지하2층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:45.497Z"
     },
     {
       "id": "78c119f95a11",
@@ -613,11 +617,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "gangnam_igirigugaelreori",
       "venue_name": "이길이구갤러리",
       "title": "Sinsa Blues: Eleven Views",
-      "artists": null,
+      "artists": "",
       "start_date": "",
       "end_date": "",
       "thumbnail": "https://static.wixstatic.com/media/e7ddc9_405488f3ce1244ef9e15066e212d1392~mv2.jpg/v1/fill/w_2500,h_4194,al_c/e7ddc9_405488f3ce1244ef9e15066e212d1392~mv2.jpg",
@@ -625,7 +629,8 @@
       "lng": 127.0215026,
       "address": "서울 강남구 강남대로158길 35",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:46.668Z"
     },
     {
       "id": "1e42f551301b",
