@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:25Z",
+  "generated_at": "2026-07-20T03:58:29Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -113,7 +113,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_v_038a4cccd9",
       "venue_name": "레이지 마이크",
       "title": "Sniffers Buffet",
@@ -125,7 +125,8 @@
       "lng": 127.0493608,
       "address": "서울 강남구 도산대로83길 48-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:29.100Z"
     },
     {
       "id": "fff7f8bebe7a",
@@ -154,11 +155,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_ff63e492bc",
       "venue_name": "무우수갤러리",
       "title": "낙원 가는 길",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-15",
       "end_date": "2026-08-03",
       "thumbnail": "",
@@ -166,7 +167,8 @@
       "lng": 126.9863344,
       "address": "서울 종로구 인사동길 19-2 와담빌딩 3,4층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:27.272Z"
     },
     {
       "id": "f12f02a6b71f",
