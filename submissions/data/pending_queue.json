@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:46Z",
+  "generated_at": "2026-07-20T03:58:52Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -659,11 +659,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "gangnam_operagaelreori",
       "venue_name": "오페라갤러리",
       "title": "Summer Vibes IV",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-25",
       "end_date": "2026-08-29",
       "thumbnail": "",
@@ -671,7 +671,8 @@
       "lng": 127.0355021,
       "address": "서울 강남구 언주로164길 24 5층",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:48.043Z"
     },
     {
       "id": "e84ffb5c67e6",
@@ -700,7 +701,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_pyogaelreori",
       "venue_name": "표갤러리",
       "title": "검은 숲, 찬란한 밑바닥",
@@ -712,7 +713,8 @@
       "lng": 126.9708457,
       "address": "서울 종로구 자하문로5길 18-4",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:51.444Z"
     },
     {
       "id": "257b158d6661",
