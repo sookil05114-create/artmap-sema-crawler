@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:29Z",
+  "generated_at": "2026-07-20T03:58:35Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -280,11 +280,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_7621337f8e",
       "venue_name": "마루아트센터",
       "title": "2026 5th 한국현대회화 100선",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-15",
       "end_date": "2026-07-20",
       "thumbnail": "/default/img/common/og-img.png",
@@ -292,7 +292,8 @@
       "lng": 126.9850588,
       "address": "서울 종로구 인사동길 35-6 B1F, 1F, 3F",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-20T03:58:34.967Z"
     },
     {
       "id": "4d6df4b12b40",
@@ -321,7 +322,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "yongsan_v_42091b6e38",
       "venue_name": "다이아몬드지",
       "title": "The Beautiful Pop",
@@ -333,7 +334,8 @@
       "lng": 126.9838504,
       "address": "서울 용산구 신흥로20길 37-3 제1호",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-20T03:58:33.492Z"
     },
     {
       "id": "07f145b98aa6",
