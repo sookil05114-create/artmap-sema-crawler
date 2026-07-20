@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:57Z",
+  "generated_at": "2026-07-20T03:59:02Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -827,7 +827,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_totalmisulgwan",
       "venue_name": "토탈미술관",
       "title": "우종택 개인전 《무시광겁(無始曠劫)의 묘유(妙有)》",
@@ -839,7 +839,8 @@
       "lng": 126.9756892,
       "address": "서울 종로구 평창32길 8 (평창동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-20T03:58:58.025Z"
     },
     {
       "id": "c385d2ed165c",
@@ -868,7 +869,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_topohauseu_ateusenteo",
       "venue_name": "토포하우스 아트센터",
       "title": "하성흡 개인전 ​갈길이 멀다",
@@ -880,7 +881,8 @@
       "lng": 126.984313,
       "address": "서울 종로구 인사동11길 6",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:59:01.067Z"
     },
     {
       "id": "0c500ad5768d",
@@ -909,7 +911,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_ocimisulgwan",
       "venue_name": "OCI미술관",
       "title": "풍경을 이루는 순간들",
@@ -921,7 +923,8 @@
       "lng": 126.9821074,
       "address": "서울 종로구 우정국로 45-14",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-20T03:59:02.059Z"
     },
     {
       "id": "e52a9ef5a26d",
