@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:22Z",
+  "generated_at": "2026-07-20T03:58:25Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -71,7 +71,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_089da64969",
       "venue_name": "혜화아트센터",
       "title": "백자의 숲:어둠을 밝히는 희망의 달항아리- 이진이展",
@@ -83,7 +83,8 @@
       "lng": 127.001811,
       "address": "서울 종로구 대학로 156 1층",
       "region": "seoul",
-      "category": "기타"
+      "category": "기타",
+      "reviewed_at": "2026-07-20T03:58:23.986Z"
     },
     {
       "id": "067d2a1eaa6c",
@@ -194,11 +195,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "jongno_v_65b75297bf",
       "venue_name": "갤러리인사아트",
       "title": "삼인삼색; 옻칠을 탐하다",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-07-15",
       "end_date": "2026-07-21",
       "thumbnail": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
@@ -206,7 +207,8 @@
       "lng": 126.9839129,
       "address": "서울 종로구 인사동길 56",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:25.043Z"
     },
     {
       "id": "8f1a46fff6a7",
