@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:58:52Z",
+  "generated_at": "2026-07-20T03:58:57Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -743,7 +743,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_gaelreori_geurimson",
       "venue_name": "갤러리 그림손",
       "title": "태고적 몸짓",
@@ -755,7 +755,8 @@
       "lng": 126.9861401,
       "address": "서울 종로구 인사동10길 22",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:58:54.505Z"
     },
     {
       "id": "d1245b93f658",
@@ -784,7 +785,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "rejected",
       "venue_key": "jongno_jahamisulgwan",
       "venue_name": "자하미술관",
       "title": "그곳, THERE",
@@ -796,7 +797,8 @@
       "lng": 126.9603187,
       "address": "서울 종로구 창의문로5가길 46 (부암동)",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-20T03:58:57.069Z"
     },
     {
       "id": "e90a3ffa326f",
