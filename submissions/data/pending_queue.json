@@ -1,6 +1,6 @@
 {
   "_comment": "URL 제보·자동 수집의 검수 대기 큐. 각 항목 status: pending/approved/rejected/edited",
-  "generated_at": "2026-07-20T03:59:02Z",
+  "generated_at": "2026-07-20T03:59:08Z",
   "items": [
     {
       "id": "c1e32c724b09",
@@ -953,7 +953,7 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "kukje_gallery",
       "venue_name": "국제갤러리",
       "title": "Park Chan-wook, par un matin calme",
@@ -965,7 +965,8 @@
       "lng": 126.9804771,
       "address": "서울 종로구 삼청로 54",
       "region": "seoul",
-      "category": "갤러리"
+      "category": "갤러리",
+      "reviewed_at": "2026-07-20T03:59:03.393Z"
     },
     {
       "id": "fa388cbddcc2",
@@ -994,11 +995,11 @@
           "homepage"
         ]
       },
-      "status": "pending",
+      "status": "approved",
       "venue_key": "ilmin_museum",
       "venue_name": "일민미술관",
       "title": "다시 그린 세계 2026: 순수와 혼종",
-      "artists": null,
+      "artists": "",
       "start_date": "2026-06-26",
       "end_date": "2026-08-21",
       "thumbnail": "https://ilmin.org/wp-content/uploads/2021/04/og.png",
@@ -1006,7 +1007,8 @@
       "lng": 126.9776958,
       "address": "서울 종로구 세종대로 152",
       "region": "seoul",
-      "category": "미술관"
+      "category": "미술관",
+      "reviewed_at": "2026-07-20T03:59:08.021Z"
     },
     {
       "id": "ed5366d027b0",
