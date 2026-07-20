@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T20:35:46Z",
+  "generated_at": "2026-07-20T20:57:30Z",
   "source": "sema",
   "venue_count": 7,
   "venues": [
@@ -95,7 +95,7 @@
       "lng": 127.0667885,
       "official_url": "https://sema.seoul.go.kr/kr/visit/bukseoul",
       "active_count": 3,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "178507deee9d",
@@ -124,6 +124,16 @@
           "end_date": "2027-04-11",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012130",
+          "url": "",
+          "price": "무료"
+        },
+        {
+          "id": "8314caefaa0b",
+          "title": "2026 타이틀 매치 《오인환 vs. 장서영: 휴먼 에러》",
+          "start_date": "2026-08-13",
+          "end_date": "2026-10-25",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1014993",
           "url": "",
           "price": "무료"
         },
