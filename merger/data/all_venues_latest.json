@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:57:56Z",
+  "generated_at": "2026-07-21T20:56:43Z",
   "sources": [
     "sema",
     "mmca",
@@ -4447,22 +4447,9 @@
       "instagram_url": "https://www.instagram.com/maru_artcenter",
       "image_url": "https://maruartcenter.co.kr/default/img/common/og-img.png",
       "category": "기타",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "6afee3bfbac9",
-          "title": "2026 5th 한국현대회화 100선",
-          "artists": "",
-          "start_date": "2026-07-15",
-          "end_date": "2026-07-20",
-          "status": "active",
-          "thumbnail": "/default/img/common/og-img.png",
-          "url": "https://maruartcenter.co.kr/default/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_v_e641b9b426",
@@ -4475,22 +4462,9 @@
       "instagram_url": "https://www.instagram.com/insa__1010/",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/286774796_2893299034307360_8174990789785390516_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNjAuQzMifQ%3D%3D&_nc_ohc=YT3cZ5yGizMQ7kNvwFO6d5K&_nc_oc=AdoNjIKwWIlQnKglPyAeDSKHWSWVBFxlpAHxBSiBLsUp3Fa4bWv1bz2G0IHFgIdW_cI&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af9_MPDCxM9it8C689E_nH3i2uuAElvzBVFI-uPhty08Ug&oe=6A47DEC9",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "8f1a46fff6a7",
-          "title": "나의고백 2026 장백산에서",
-          "artists": "이신화",
-          "start_date": "2026-07-15",
-          "end_date": "2026-07-20",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.insa1010.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_v_61c04d1b7f",
