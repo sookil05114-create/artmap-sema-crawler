@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:56:43Z",
+  "generated_at": "2026-07-22T20:57:16Z",
   "sources": [
     "sema",
     "mmca",
@@ -4567,22 +4567,9 @@
       "instagram_url": "https://www.instagram.com/galleryinsaart/",
       "image_url": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "f12f02a6b71f",
-          "title": "삼인삼색; 옻칠을 탐하다",
-          "artists": "",
-          "start_date": "2026-07-15",
-          "end_date": "2026-07-21",
-          "status": "active",
-          "thumbnail": "https://www.galleryinsaart.com/wp-content/uploads/2018/04/logo-new-black.svg",
-          "url": "https://www.galleryinsaart.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_v_e9a41d79db",
@@ -5022,7 +5009,7 @@
       "image_url": "",
       "category": "기타",
       "active_count": 1,
-      "upcoming_count": 0,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "70be8a707221",
@@ -5032,6 +5019,18 @@
           "end_date": "2026-08-11",
           "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1012158",
+          "url": "",
+          "price": "무료",
+          "source": "sema"
+        },
+        {
+          "id": "a4859b61f521",
+          "title": "[2026 신진미술인 지원 프로그램] 최은빈 개인전 《Airborne》",
+          "artists": "",
+          "start_date": "2026-07-27",
+          "end_date": "2026-08-09",
+          "status": "upcoming",
+          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1015084",
           "url": "",
           "price": "무료",
           "source": "sema"
