@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:57:16Z",
+  "generated_at": "2026-07-23T20:48:54Z",
   "sources": [
     "sema",
     "mmca",
@@ -437,18 +437,6 @@
           "source": "mmca"
         },
         {
-          "id": "6004803b5fbf",
-          "title": "장 클로드 루소: 2026 서울국제실험영화페스티벌 엑스레트로",
-          "artists": "장 클로드 루소",
-          "start_date": "2026-07-24",
-          "end_date": "2026-08-02",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/2026071310263892215377.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202607130002082&exhFlag=2",
-          "price": "무료",
-          "source": "mmca"
-        },
-        {
           "id": "51659f018a70",
           "title": "올해의 작가상 2026",
           "artists": "이해민선, 홍진훤, 이정우, 전현선",
@@ -456,8 +444,20 @@
           "end_date": "2026-12-06",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=1",
           "price": "2,000원",
+          "source": "mmca"
+        },
+        {
+          "id": "6004803b5fbf",
+          "title": "장 클로드 루소: 2026 서울국제실험영화페스티벌 엑스레트로",
+          "artists": "장 클로드 루소",
+          "start_date": "2026-07-24",
+          "end_date": "2026-08-02",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/2026071310263892215377.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202607130002082&exhFlag=1",
+          "price": "무료",
           "source": "mmca"
         },
         {
@@ -2355,8 +2355,8 @@
       "instagram_url": "https://www.instagram.com/spacek_korea",
       "image_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/118559441_2809323499296246_7466899583495511003_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=LOkQn1HpSM4Q7kNvwFcnZJ_&_nc_oc=AdpQqZBoZAIyBo76vVE5URWitexoApG-R393kMmuIL-p6dxn-29gwWOe5KyaM_BLNyo&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_ss=7f60f&oh=00_Af6kGu_5TbdRxBkzxML3MBk13GR72Rb5WS-DvSTa-Y7-OA&oe=6A1C32E4",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "2659ada6c655",
@@ -2364,7 +2364,7 @@
           "artists": "",
           "start_date": "2026-07-23",
           "end_date": "2026-12-27",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.spacek.co.kr/index.do",
           "price": "",

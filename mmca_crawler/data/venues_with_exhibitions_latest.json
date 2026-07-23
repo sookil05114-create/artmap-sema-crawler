@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:56:58Z",
+  "generated_at": "2026-07-23T20:48:37Z",
   "source": "mmca",
   "venue_count": 5,
   "venues": [
@@ -48,17 +48,6 @@
           "price": "2,000원"
         },
         {
-          "id": "6004803b5fbf",
-          "title": "장 클로드 루소: 2026 서울국제실험영화페스티벌 엑스레트로",
-          "artists": "장 클로드 루소",
-          "start_date": "2026-07-24",
-          "end_date": "2026-08-02",
-          "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/2026071310263892215377.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202607130002082&exhFlag=2",
-          "price": "무료"
-        },
-        {
           "id": "51659f018a70",
           "title": "올해의 작가상 2026",
           "artists": "이해민선, 홍진훤, 이정우, 전현선",
@@ -66,8 +55,19 @@
           "end_date": "2026-12-06",
           "status": "upcoming",
           "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/05/2026052703455452614624.png",
-          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=2",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202512310002018&exhFlag=1",
           "price": "2,000원"
+        },
+        {
+          "id": "6004803b5fbf",
+          "title": "장 클로드 루소: 2026 서울국제실험영화페스티벌 엑스레트로",
+          "artists": "장 클로드 루소",
+          "start_date": "2026-07-24",
+          "end_date": "2026-08-02",
+          "status": "upcoming",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/2026071310263892215377.png",
+          "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202607130002082&exhFlag=1",
+          "price": "무료"
         },
         {
           "id": "580fded5c044",

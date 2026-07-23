@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T20:57:16Z",
+  "generated_at": "2026-07-23T20:48:54Z",
   "sources": [
     "mmca"
   ],
-  "count": 27,
+  "count": 28,
   "programs": [
     {
       "id": "dcae67f3b85a",
@@ -28,7 +28,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202508180000836",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/2026062501333864316910.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:15Z"
+      "collected_at": "2026-07-23T20:48:54Z"
     },
     {
       "id": "960d2c66c898",
@@ -53,7 +53,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202510020000869",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2025/10/2025102801093962817555.PNG",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:15Z"
+      "collected_at": "2026-07-23T20:48:54Z"
     },
     {
       "id": "b546879e8fb4",
@@ -78,7 +78,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202504140000684",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/02/2026022501104986011422.gif",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:15Z"
+      "collected_at": "2026-07-23T20:48:54Z"
     },
     {
       "id": "f9db6347918e",
@@ -103,7 +103,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202602230000937",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/02/2026022501125609319479.gif",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:54Z"
     },
     {
       "id": "b1997a78722c",
@@ -128,7 +128,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202603130000943",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026070101581513919542.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "e61a3dd20c56",
@@ -153,7 +153,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202603200000946",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/03/2026032105415218315036_thumb.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "f482efa7893c",
@@ -178,7 +178,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202603240000949",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/03/2026033002095904212765.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "fec3744f799b",
@@ -203,7 +203,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202604220000973",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/04/2026042209532814815388.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "863155e5d963",
@@ -228,7 +228,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605120000986",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/202607161004598581944.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "f9181d8c490b",
@@ -253,7 +253,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605140000989",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/05/2026051405154973711363.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "6704618ad327",
@@ -278,7 +278,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202604290000982",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/04/2026042903254803211310_thumb.png",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:11Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "e40796fa3c39",
@@ -303,7 +303,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605270000995",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/202606020334527081905.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:50Z"
     },
     {
       "id": "a1278e807394",
@@ -328,7 +328,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202605270000994",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/05/2026052910141783619029.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "53d8371eb30c",
@@ -349,11 +349,11 @@
       "target_category": "성인",
       "price": "3,000",
       "capacity": "15",
-      "application_status": "open",
+      "application_status": "closed",
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606190001005",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/202606230109052571218_thumb.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "cc9553be8dbb",
@@ -378,7 +378,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606300001014",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/202606300148341221309_thumb.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "9d07833ecaa9",
@@ -403,7 +403,32 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606300001016",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/2026063002355996311915_thumb.jpg",
       "status": "active",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
+    },
+    {
+      "id": "df18c2afbe17",
+      "source": "mmca",
+      "title": "«방혜자 ― 천지에 마음의 빛 뿌리며 간다» 연계 프로그램 성인 대상 ‹명상 워크숍› (7월)",
+      "venue_raw": "청주",
+      "venue_key": "mmca_cheongju",
+      "venue_name": "국립현대미술관 청주",
+      "venue_detail": "기획전시실, 2층 배움터",
+      "region": "cheongju",
+      "address": "충북 청주시 청원구 상당로 314",
+      "lat": 36.6394,
+      "lng": 127.4944,
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-25",
+      "time_range": "",
+      "target_audience": "성인",
+      "target_category": "성인",
+      "price": "무료",
+      "capacity": "20명",
+      "application_status": "open",
+      "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607080001030",
+      "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026070809551579112431_thumb.png",
+      "status": "upcoming",
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "9371a5770f45",
@@ -424,11 +449,11 @@
       "target_category": "어린이미술관",
       "price": "3,000",
       "capacity": "30명",
-      "application_status": "open",
+      "application_status": "closed",
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606300001015",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/202606300238110671510_thumb.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "307c1d5b0e1d",
@@ -453,7 +478,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606290001009",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026070110105790313893_thumb.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "efa307b2cbe6",
@@ -478,7 +503,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607220001047",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026072201154233317785_thumb.png",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "2674625c9876",
@@ -503,7 +528,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607010001023",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026071401195833516163_thumb.png",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:07Z"
+      "collected_at": "2026-07-23T20:48:46Z"
     },
     {
       "id": "19c5bd7c5c03",
@@ -528,7 +553,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607060001027",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/202607060443586691434.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "9b7599bdf87d",
@@ -553,7 +578,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607220001045",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026072210311889713508_thumb.png",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "f4b1f0c8152f",
@@ -578,7 +603,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202606300001017",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/06/2026063002334563913408_thumb.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "741df1f0c6cf",
@@ -603,7 +628,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607160001043",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026072006005017613742.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "13bf29ae3a60",
@@ -628,7 +653,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607140001037",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/202607200909221881100_thumb.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "2a4b524cd0f2",
@@ -653,7 +678,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607220001046",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026072210411445312610_thumb.png",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     },
     {
       "id": "eabfcb234c38",
@@ -678,7 +703,7 @@
       "url": "https://www.mmca.go.kr/educations/educationsDetail.do?eduId=202607060001028",
       "thumbnail": "https://www.mmca.go.kr/upload/education/2026/07/2026070710555598011617.jpg",
       "status": "upcoming",
-      "collected_at": "2026-07-22T20:57:03Z"
+      "collected_at": "2026-07-23T20:48:41Z"
     }
   ]
 }
