@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T20:39:03Z",
+  "generated_at": "2026-07-26T20:43:59Z",
   "sources": [
     "sema",
     "mmca",
@@ -175,40 +175,40 @@
       "upcoming_count": 1,
       "exhibitions": [
         {
-          "id": "82851de12c06",
-          "title": "서서울미술관 개관특별전 《우리의 시간은 여기서부터》",
-          "artists": "",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008224",
-          "url": "",
-          "price": "무료",
-          "source": "sema"
-        },
-        {
-          "id": "9bef1cc22873",
+          "id": "79722354fe7b",
           "title": "SeMA 프로젝트V_얄루",
           "artists": "",
           "start_date": "2026-03-12",
           "end_date": "2026-07-26",
           "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008938",
+          "thumbnail": "",
           "url": "https://sema.seoul.go.kr/",
-          "price": "무료",
-          "source": "sema"
+          "price": "",
+          "source": "gallery_crawler"
         },
         {
-          "id": "8393cd50e1fe",
-          "title": "서울시립 서서울미술관 개관 특별 미디어 소장품전 《서서울의 투명한 |청소년| 기계》",
+          "id": "234c5c8c4a24",
+          "title": "알렉사에게",
+          "artists": "",
+          "start_date": "2026-03-26",
+          "end_date": "2026-07-26",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr/",
+          "price": "",
+          "source": "gallery_crawler"
+        },
+        {
+          "id": "f10f3da9a9a7",
+          "title": "서서울의 투명한 |청소년| 기계",
           "artists": "",
           "start_date": "2026-05-14",
           "end_date": "2026-07-26",
           "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1008266",
+          "thumbnail": "",
           "url": "https://sema.seoul.go.kr/",
-          "price": "무료",
-          "source": "sema"
+          "price": "",
+          "source": "gallery_crawler"
         },
         {
           "id": "fb34afaed9b4",
@@ -315,21 +315,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "daff611d7dd1",
-          "title": "알렉사에게",
-          "artists": "",
-          "start_date": "2026-03-26",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1005102",
-          "url": "https://sema.seoul.go.kr/",
-          "price": "무료",
-          "source": "sema"
-        },
         {
           "id": "c47a3d013b6d",
           "title": "《오윤 컬렉션》",
@@ -1277,22 +1265,9 @@
       "instagram_url": "https://www.instagram.com/leehwaikgallery/",
       "image_url": "http://leehwaikgallery.com/img/logo.png",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "b3c44f78deab",
-          "title": "스머지",
-          "artists": "",
-          "start_date": "2026-07-09",
-          "end_date": "2026-07-25",
-          "status": "active",
-          "thumbnail": "http://leehwaikgallery.com/img/logo.png",
-          "url": "http://www.leehwaikgallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_nohwarang",
@@ -3093,22 +3068,9 @@
       "instagram_url": "https://www.instagram.com/gallerychosun",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "4c40fe1d11c1",
-          "title": "Talpidae",
-          "artists": "Jiyeon LEE, Kyungeun SON",
-          "start_date": "2026-07-01",
-          "end_date": "2026-07-25",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://www.gallerychosun.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "junggu_v_19330d2f7a",
@@ -4193,22 +4155,9 @@
       "instagram_url": "https://www.instagram.com/woosongallery",
       "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "df1c930ee931",
-          "title": "After the Hull",
-          "artists": "Ahnnlee Lee",
-          "start_date": "2026-05-28",
-          "end_date": "2026-07-25",
-          "status": "active",
-          "thumbnail": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0764/usr/images/exhibitions/home_page_image/items/12/121b72fa8d2e4b0ea718a26e4cf5b99e/dscf0238.jpg",
-          "url": "https://www.woosongallery.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "jongno_v_87b0cfe0f3",
