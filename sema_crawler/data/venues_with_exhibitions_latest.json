@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:43:37Z",
+  "generated_at": "2026-07-27T20:58:34Z",
   "source": "sema",
   "venue_count": 6,
   "venues": [
@@ -305,8 +305,8 @@
       "lat": null,
       "lng": null,
       "official_url": "",
-      "active_count": 1,
-      "upcoming_count": 2,
+      "active_count": 2,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "70be8a707221",
@@ -325,7 +325,7 @@
           "venue_raw": "",
           "start_date": "2026-07-27",
           "end_date": "2026-08-09",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "https://sema.seoul.go.kr/common/imgFileView?FILE_ID=1015084",
           "url": "",
           "price": "무료"

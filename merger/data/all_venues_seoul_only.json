@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-26T20:43:59Z",
+  "generated_at": "2026-07-27T20:58:57Z",
   "sources": [
     "sema",
     "mmca",
     "submissions",
     "art_week"
   ],
-  "venue_count": 244,
+  "venue_count": 243,
   "venues": [
     {
       "venue_key": "seosomun",
@@ -171,45 +171,9 @@
       "instagram_url": "",
       "image_url": "",
       "category": "",
-      "active_count": 3,
+      "active_count": 0,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "79722354fe7b",
-          "title": "SeMA 프로젝트V_얄루",
-          "artists": "",
-          "start_date": "2026-03-12",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://sema.seoul.go.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "234c5c8c4a24",
-          "title": "알렉사에게",
-          "artists": "",
-          "start_date": "2026-03-26",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://sema.seoul.go.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
-        {
-          "id": "f10f3da9a9a7",
-          "title": "서서울의 투명한 |청소년| 기계",
-          "artists": "",
-          "start_date": "2026-05-14",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://sema.seoul.go.kr/",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "fb34afaed9b4",
           "title": "서울시립 서서울미술관 미디어 작가전 《김희천: 두더지들》",
@@ -519,7 +483,7 @@
           "start_date": "2026-08-06",
           "end_date": "2026-11-08",
           "status": "upcoming",
-          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/202607240246167951770.jpg",
+          "thumbnail": "https://www.mmca.go.kr/upload/exhibition/2026/07/2026072704151976715708.gif",
           "url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhId=202601120002029&exhFlag=2",
           "price": "2,000원 (덕수궁 입장료 1,000원 별도)",
           "source": "mmca"
@@ -902,21 +866,9 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofcraftart",
       "image_url": "https://craftmuseum.seoul.go.kr/images/common/og_images.png",
       "category": "박물관",
-      "active_count": 2,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
-        {
-          "id": "1bcdf7a0a82b",
-          "title": "더 하이브리드",
-          "artists": "",
-          "start_date": "2026-04-28",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "",
-          "url": "https://craftmuseum.seoul.go.kr/main",
-          "price": "",
-          "source": "gallery_crawler"
-        },
         {
           "id": "a903037f0746",
           "title": "색유만개: 권순형 기증특별전시",
@@ -4481,22 +4433,9 @@
       "instagram_url": "https://www.instagram.com/galleryharang",
       "image_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
       "category": "갤러리",
-      "active_count": 1,
+      "active_count": 0,
       "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "518bcc53b02d",
-          "title": "사라지는 영원: 생성과 소멸 사이",
-          "artists": "김나정",
-          "start_date": "2026-07-15",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F2769054%2Fattach%2Fd7d0268d89b14da68d1fd99eee99b6e1",
-          "url": "https://galleryharang.com/",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
+      "exhibitions": []
     },
     {
       "venue_key": "yeongdeungpo_v_84ed88a3db",
@@ -4615,34 +4554,6 @@
       "active_count": 0,
       "upcoming_count": 0,
       "exhibitions": []
-    },
-    {
-      "venue_key": "songpa_v_53ecff4b65",
-      "venue_name": "소마미술관",
-      "region": "seoul",
-      "address": "서울 송파구 올림픽로 424",
-      "lat": 37.5169172,
-      "lng": 127.1179749,
-      "official_url": "",
-      "instagram_url": "",
-      "image_url": "https://soma.kspo.or.kr/resources/soma_sns.jpg",
-      "category": "기타",
-      "active_count": 1,
-      "upcoming_count": 0,
-      "exhibitions": [
-        {
-          "id": "41925f945ecd",
-          "title": "이승택: 조각의 바깥에서",
-          "artists": "이승택",
-          "start_date": "2026-04-10",
-          "end_date": "2026-07-26",
-          "status": "active",
-          "thumbnail": "https://soma.kspo.or.kr/resources/soma_sns.jpg",
-          "url": "https://soma.kspo.or.kr/main",
-          "price": "",
-          "source": "gallery_crawler"
-        }
-      ]
     },
     {
       "venue_key": "seocho_yesuruijeondang_hangaramdijainmisulgwan",
