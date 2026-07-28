@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T12:00:00Z",
+  "generated_at": "2026-07-28T16:00:00Z",
   "sources": [
     "seoul_art_week_2026"
   ],
-  "venue_count": 140,
+  "venue_count": 137,
   "venues": [
     {
       "venue_key": "saw_buk_seoul_museum_of_art",
@@ -3334,34 +3334,6 @@
       ]
     },
     {
-      "venue_key": "saw_yun_hyong_keun_house",
-      "venue_name": "윤형근의 집",
-      "region": "seoul",
-      "address": "서울시 마포구 와우산로21길 19-17",
-      "lat": 37.5495,
-      "lng": 126.9218,
-      "official_url": "https://www.pkmgallery.com",
-      "instagram_url": "https://www.instagram.com/yunhyongkeun_official/",
-      "image_url": "",
-      "category": "전시공간",
-      "active_count": 0,
-      "upcoming_count": 1,
-      "exhibitions": [
-        {
-          "id": "907b9f960d0f",
-          "title": "윤형근의 집",
-          "artists": "",
-          "start_date": "2026-09-01",
-          "end_date": "2026-10-17",
-          "status": "upcoming",
-          "thumbnail": "",
-          "url": "https://www.pkmgallery.com",
-          "price": "20,000원",
-          "source": "seoul_art_week_2026"
-        }
-      ]
-    },
-    {
       "venue_key": "saw_space_so",
       "venue_name": "스페이스 소",
       "region": "seoul",
@@ -3900,62 +3872,6 @@
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://eckeida.my.canva.site/step1",
-          "price": "무료",
-          "source": "seoul_art_week_2026"
-        }
-      ]
-    },
-    {
-      "venue_key": "saw_starch",
-      "venue_name": "스타치",
-      "region": "seoul",
-      "address": "서울 중구 마른내로4길 25 1층",
-      "lat": 37.5631317,
-      "lng": 126.9936304,
-      "official_url": "",
-      "instagram_url": "https://www.instagram.com/eckeida/",
-      "image_url": "",
-      "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
-      "exhibitions": [
-        {
-          "id": "434e709c9b56",
-          "title": "그저 그러함 (에케이다 협력)",
-          "artists": "",
-          "start_date": "2026-08-01",
-          "end_date": "2026-09-13",
-          "status": "upcoming",
-          "thumbnail": "",
-          "url": "",
-          "price": "무료",
-          "source": "seoul_art_week_2026"
-        }
-      ]
-    },
-    {
-      "venue_key": "saw_salon_nokwon",
-      "venue_name": "살롱 녹원",
-      "region": "seoul",
-      "address": "서울 중구 충무로2길 37 1층",
-      "lat": 37.5623764,
-      "lng": 126.9952358,
-      "official_url": "",
-      "instagram_url": "https://www.instagram.com/eckeida/",
-      "image_url": "",
-      "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
-      "exhibitions": [
-        {
-          "id": "ac884551f762",
-          "title": "한 칸의 예술, 이야기 한 모금 (에케이다 협력)",
-          "artists": "",
-          "start_date": "2026-08-20",
-          "end_date": "2026-09-13",
-          "status": "upcoming",
-          "thumbnail": "",
-          "url": "",
           "price": "무료",
           "source": "seoul_art_week_2026"
         }
