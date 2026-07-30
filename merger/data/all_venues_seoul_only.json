@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T16:00:00Z",
+  "generated_at": "2026-07-30T12:00:00Z",
   "sources": [
     "seoul_art_week_2026"
   ],
-  "venue_count": 137,
+  "venue_count": 138,
   "venues": [
     {
       "venue_key": "saw_buk_seoul_museum_of_art",
@@ -3956,6 +3956,34 @@
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://pcf.or.kr/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_spaceunit_plus",
+      "venue_name": "스페이스유닛플러스",
+      "region": "seoul",
+      "address": "서울시 중구 을지로 143, 1F",
+      "lat": 37.5666093,
+      "lng": 126.9939463,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/space.unit_plus/",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "1a9465d4ba08",
+          "title": "《모든 사라지는 것들은 흔적을 남긴다》(가제)",
+          "artists": "김영란",
+          "start_date": "2026-08-28",
+          "end_date": "2026-09-06",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "",
           "price": "무료",
           "source": "seoul_art_week_2026"
         }
