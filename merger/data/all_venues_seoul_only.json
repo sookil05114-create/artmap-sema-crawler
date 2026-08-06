@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T16:30:00Z",
+  "generated_at": "2026-07-30T18:00:00Z",
   "sources": [
     "seoul_art_week_2026"
   ],
-  "venue_count": 138,
+  "venue_count": 140,
   "venues": [
     {
       "venue_key": "saw_buk_seoul_museum_of_art",
@@ -3984,6 +3984,62 @@
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.instagram.com/space.unit_plus/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_a52036a2",
+      "venue_name": "에케이다 x 스타치",
+      "region": "seoul",
+      "address": "서울 중구 마른내로4길 25 1층",
+      "lat": 37.5631317,
+      "lng": 126.9936304,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/starch.seoul/",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "9396496afe25",
+          "title": "그저 그러함",
+          "artists": "이숨 김지영",
+          "start_date": "2026-08-01",
+          "end_date": "2026-09-13",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.instagram.com/starch.seoul/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_4caa9498",
+      "venue_name": "에케이다 x 살롱 녹원",
+      "region": "seoul",
+      "address": "서울 중구 충무로2길 37, 1층",
+      "lat": 37.5623764,
+      "lng": 126.9952358,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/salon_nokwon/",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "29109c9cc692",
+          "title": "한 칸의 예술, 이야기 한 모금",
+          "artists": "서지인, 송영주, 이은우, 이숨 김지영, 이지수, 유시연, 최주연",
+          "start_date": "2026-08-20",
+          "end_date": "2026-09-13",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.instagram.com/salon_nokwon/",
           "price": "무료",
           "source": "seoul_art_week_2026"
         }
