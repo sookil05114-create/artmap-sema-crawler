@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T18:00:00Z",
+  "generated_at": "2026-08-19T04:00:00Z",
   "sources": [
     "seoul_art_week_2026"
   ],
-  "venue_count": 140,
+  "venue_count": 149,
   "venues": [
     {
       "venue_key": "saw_buk_seoul_museum_of_art",
@@ -16,8 +16,8 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "9073c4f22dd4",
@@ -25,7 +25,7 @@
           "artists": "",
           "start_date": "2026-08-13",
           "end_date": "2026-10-25",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://sema.seoul.go.kr",
           "price": "무료",
@@ -44,16 +44,16 @@
       "instagram_url": "https://www.instagram.com/gallerynowseoul/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "7a7556e2abea",
-          "title": "이동기 솔로 전시",
+          "title": "영원한 것은 없다 Nothing is Forever",
           "artists": "",
           "start_date": "2026-08-19",
           "end_date": "2026-09-22",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://gallery-now.com/",
           "price": "무료",
@@ -80,7 +80,7 @@
           "title": "Sliver",
           "artists": "",
           "start_date": "2026-09-04",
-          "end_date": "2026-09-29",
+          "end_date": "2026-09-27",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.mihakgwan.com/",
@@ -100,8 +100,8 @@
       "instagram_url": "https://www.instagram.com/hakgojaegallery/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "41efed93edd0",
@@ -109,7 +109,7 @@
           "artists": "",
           "start_date": "2026-08-12",
           "end_date": "2026-09-12",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "http://www.hakgojae.com/",
           "price": "무료",
@@ -189,7 +189,7 @@
       "exhibitions": [
         {
           "id": "fcf78ba74e1d",
-          "title": "송영후 개인전 《칼라풀》",
+          "title": "《The Color of Memory 메모리의 색》",
           "artists": "",
           "start_date": "2026-08-27",
           "end_date": "2026-09-19",
@@ -220,7 +220,7 @@
           "title": "보물찾기골목길",
           "artists": "",
           "start_date": "2026-08-31",
-          "end_date": "2026-09-15",
+          "end_date": "2026-09-06",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.instagram.com/art.dimension.seoul",
@@ -259,7 +259,7 @@
     },
     {
       "venue_key": "saw_artewith",
-      "venue_name": "아르테위드",
+      "venue_name": "갤러리 디아르테 청담",
       "region": "seoul",
       "address": "서울 강남구 영동대로131길 14 B1",
       "lat": 37.5205895,
@@ -296,8 +296,8 @@
       "instagram_url": "https://www.instagram.com/ganaart__official/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "01aaf53fdfac",
@@ -305,7 +305,7 @@
           "artists": "",
           "start_date": "2026-08-06",
           "end_date": "2026-09-08",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.ganaart.com",
           "price": "무료",
@@ -357,9 +357,9 @@
       "exhibitions": [
         {
           "id": "5b0fa4636ab7",
-          "title": "餘在(여재): 남아 존재 하는 것",
+          "title": "餘在 : What Remains",
           "artists": "",
-          "start_date": "2026-08-27",
+          "start_date": "2026-08-26",
           "end_date": "2026-10-24",
           "status": "upcoming",
           "thumbnail": "",
@@ -388,7 +388,7 @@
           "title": "세 번째 시: 에스 데블린, 다시 집으로",
           "artists": "",
           "start_date": "2026-08-20",
-          "end_date": "2027-01-31",
+          "end_date": "2027-01-17",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://futuraseoul.org/",
@@ -436,8 +436,8 @@
       "instagram_url": "https://www.instagram.com/sungkokartmuseum/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "f263b4fb3926",
@@ -445,7 +445,7 @@
           "artists": "",
           "start_date": "2026-08-12",
           "end_date": "2026-10-03",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "http://www.sungkokmuseum.org/",
           "price": "추후 확정",
@@ -464,8 +464,8 @@
       "instagram_url": "https://www.instagram.com/kumhomuseumofart/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "3f627c930649",
@@ -473,7 +473,7 @@
           "artists": "",
           "start_date": "2026-08-07",
           "end_date": "2026-10-18",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.kumhomuseum.com",
           "price": "성인 5,000원",
@@ -553,10 +553,10 @@
       "exhibitions": [
         {
           "id": "a8e115700f79",
-          "title": "마이크 리 개인전 (가제)",
+          "title": "Idyll by the Tide",
           "artists": "",
-          "start_date": "2026-08-21",
-          "end_date": "2026-10-10",
+          "start_date": "2026-08-29",
+          "end_date": "2026-11-01",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.jasonhaam.com/",
@@ -581,7 +581,7 @@
       "exhibitions": [
         {
           "id": "b749f7a71b75",
-          "title": "예정 (가제)",
+          "title": "클레어의 카메라",
           "artists": "",
           "start_date": "2026-08-31",
           "end_date": "2026-10-18",
@@ -637,10 +637,10 @@
       "exhibitions": [
         {
           "id": "f97e9a6d254b",
-          "title": "차민영 개인전",
+          "title": "휘플링",
           "artists": "",
-          "start_date": "2026-08-13",
-          "end_date": "2026-09-12",
+          "start_date": "2026-08-22",
+          "end_date": "2026-09-22",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.pyogallery.com",
@@ -653,9 +653,9 @@
       "venue_key": "saw_gallery_baton",
       "venue_name": "갤러리바톤",
       "region": "seoul",
-      "address": "서울시 용산구 이태원로55길 111-61",
-      "lat": 37.5364251,
-      "lng": 127.0121759,
+      "address": "서울특별시 용산구 이태원로 223-9",
+      "lat": 37.5354607,
+      "lng": 126.9985407,
       "official_url": "https://gallerybaton.com",
       "instagram_url": "https://www.instagram.com/gallerybaton/",
       "image_url": "",
@@ -665,10 +665,10 @@
       "exhibitions": [
         {
           "id": "f72746e94a01",
-          "title": "단체전 (전시명 추후 공개)",
+          "title": "Grace",
           "artists": "",
-          "start_date": "2026-08-26",
-          "end_date": "2026-09-23",
+          "start_date": "2026-09-01",
+          "end_date": "2026-09-30",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://gallerybaton.com",
@@ -716,8 +716,8 @@
       "instagram_url": "https://www.instagram.com/galleryplanet/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "aa01c78a45f0",
@@ -725,7 +725,7 @@
           "artists": "고근호·백경호·서지우",
           "start_date": "2026-08-19",
           "end_date": "2026-09-18",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "http://galleryplanet.co.kr/",
           "price": "무료",
@@ -777,10 +777,10 @@
       "exhibitions": [
         {
           "id": "c98cf3803936",
-          "title": "데이비드 험프리 개인전",
+          "title": "Letters to a Wolf",
           "artists": "",
-          "start_date": "2026-09-02",
-          "end_date": "2026-10-02",
+          "start_date": "2026-09-01",
+          "end_date": "2026-10-10",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://thomaspark.site",
@@ -805,7 +805,7 @@
       "exhibitions": [
         {
           "id": "74b0c3e442ad",
-          "title": "김명진: Edgewalker-A Space Odyssey",
+          "title": "Edgewalker- A Space Odyssey",
           "artists": "",
           "start_date": "2026-08-26",
           "end_date": "2026-09-13",
@@ -940,16 +940,16 @@
       "instagram_url": "https://www.instagram.com/rhogallery54/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "6f71651a5552",
-          "title": "김덕기 개인전 (제목 미정)",
+          "title": "빛이 머무는 (Where Light Lingers)",
           "artists": "",
           "start_date": "2026-08-13",
           "end_date": "2026-09-10",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://rhogallery.com/",
           "price": "무료",
@@ -968,8 +968,8 @@
       "instagram_url": "https://www.instagram.com/perigeegallery/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "6f25fef27fc4",
@@ -977,7 +977,7 @@
           "artists": "김윤서·박민하·박선호",
           "start_date": "2026-08-05",
           "end_date": "2026-09-05",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.perigee.co.kr/",
           "price": "무료",
@@ -1136,8 +1136,8 @@
       "instagram_url": "https://www.instagram.com/artspacey_gallery/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "9b0a3734118e",
@@ -1145,7 +1145,7 @@
           "artists": "",
           "start_date": "2026-08-07",
           "end_date": "2026-09-06",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.instagram.com/artspacey_gallery/",
           "price": "무료",
@@ -1164,8 +1164,8 @@
       "instagram_url": "https://www.instagram.com/mmcakorea/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 3,
-      "upcoming_count": 2,
+      "active_count": 4,
+      "upcoming_count": 1,
       "exhibitions": [
         {
           "id": "18ba9e6601a0",
@@ -1209,7 +1209,7 @@
           "artists": "",
           "start_date": "2026-07-31",
           "end_date": "2026-11-29",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.mmca.go.kr",
           "price": "무료",
@@ -1240,8 +1240,8 @@
       "instagram_url": "https://www.instagram.com/gallerychosun/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "082a246f5ecd",
@@ -1249,7 +1249,7 @@
           "artists": "",
           "start_date": "2026-08-06",
           "end_date": "2026-09-30",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.gallerychosun.com",
           "price": "무료",
@@ -1352,16 +1352,16 @@
       "instagram_url": "https://www.instagram.com/hansot_artspace/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "5750f0163458",
-          "title": "이상원 개인전 《레스토피아》",
+          "title": "이상원 개인전<레스토피아 : RESTOPIA>",
           "artists": "",
           "start_date": "2026-08-08",
           "end_date": "2026-09-19",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://blog.naver.com/hansot_artspace",
           "price": "무료",
@@ -1380,8 +1380,8 @@
       "instagram_url": "https://www.instagram.com/kimreeaagallery/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "ffbef1739bb1",
@@ -1389,7 +1389,7 @@
           "artists": "",
           "start_date": "2026-08-19",
           "end_date": "2026-10-03",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.kimreeaa.com",
           "price": "무료",
@@ -1413,10 +1413,10 @@
       "exhibitions": [
         {
           "id": "fb77a300b623",
-          "title": "Give me the 3Dcream",
+          "title": "《Build on 3D Printing》",
           "artists": "",
           "start_date": "2026-08-22",
-          "end_date": "2026-11-14",
+          "end_date": "2026-11-07",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://blog.naver.com/oksangfactory",
@@ -1464,8 +1464,8 @@
       "instagram_url": "https://www.instagram.com/sehwamoa/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "7965c15fca78",
@@ -1473,7 +1473,7 @@
           "artists": "",
           "start_date": "2026-08-13",
           "end_date": "2026-12-27",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://sehwamuseum.org/",
           "price": "일반 15,000원",
@@ -1492,8 +1492,8 @@
       "instagram_url": "https://www.instagram.com/osisun.ch/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "d86390f78610",
@@ -1501,7 +1501,7 @@
           "artists": "",
           "start_date": "2026-08-15",
           "end_date": "2026-09-17",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.instagram.com/osisun.ch/",
           "price": "무료",
@@ -1548,8 +1548,8 @@
       "instagram_url": "https://www.instagram.com/mmcakorea/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "fa88a42719a7",
@@ -1557,7 +1557,7 @@
           "artists": "",
           "start_date": "2026-08-06",
           "end_date": "2026-11-08",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.mmca.go.kr",
           "price": "2,000원",
@@ -1637,7 +1637,7 @@
       "exhibitions": [
         {
           "id": "88436d4d82cf",
-          "title": "만고상청(萬古常靑): 군자의 품격",
+          "title": "만고상청: 군자의 품격",
           "artists": "",
           "start_date": "2025-09-05",
           "end_date": "2026-12-27",
@@ -1660,16 +1660,16 @@
       "instagram_url": "https://www.instagram.com/gallerygrimson/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "10f6295ab344",
-          "title": "이태량 개인전 - 가볍게 처절하게",
+          "title": "이태량 개인전 가볍게 처절하게",
           "artists": "",
           "start_date": "2026-08-19",
-          "end_date": "2026-09-14",
-          "status": "upcoming",
+          "end_date": "2026-09-15",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.grimson.co.kr",
           "price": "무료",
@@ -1693,7 +1693,7 @@
       "exhibitions": [
         {
           "id": "3115f2a63d29",
-          "title": "가장 베이직한 베일",
+          "title": "박소현 Sohyun Park 개인전, 가장 베이직한 베일",
           "artists": "",
           "start_date": "2026-08-29",
           "end_date": "2026-09-13",
@@ -1789,7 +1789,7 @@
       "exhibitions": [
         {
           "id": "b65f615abb1a",
-          "title": "2026 DDP 디자인마이애미, 서울",
+          "title": "디자인마이애미 서울 2026",
           "artists": "",
           "start_date": "2026-08-31",
           "end_date": "2026-09-06",
@@ -1824,8 +1824,8 @@
       "instagram_url": "https://www.instagram.com/pibigallery_official/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "bafabe7bbb81",
@@ -1833,7 +1833,7 @@
           "artists": "",
           "start_date": "2026-08-12",
           "end_date": "2026-10-03",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "http://www.pibigallery.com",
           "price": "무료",
@@ -1908,8 +1908,8 @@
       "instagram_url": "https://www.instagram.com/the_reference_seoul/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "b562d12ccc1d",
@@ -1917,7 +1917,7 @@
           "artists": "최성임·강주리·오연진",
           "start_date": "2026-08-06",
           "end_date": "2026-09-05",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://the-ref.kr",
           "price": "무료",
@@ -2076,8 +2076,8 @@
       "instagram_url": "https://www.instagram.com/arko_art_center/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "84977bd14116",
@@ -2085,7 +2085,7 @@
           "artists": "",
           "start_date": "2026-08-07",
           "end_date": "2026-09-27",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.arko.or.kr/artcenter/",
           "price": "무료",
@@ -2205,7 +2205,7 @@
       "exhibitions": [
         {
           "id": "d5e35c9f5795",
-          "title": "2026 제2회 서울시 유리지공예상 기념전",
+          "title": "제2회 서울시 유리지공예상 기념전",
           "artists": "",
           "start_date": "2026-09-01",
           "end_date": "2026-10-11",
@@ -2317,7 +2317,7 @@
       "exhibitions": [
         {
           "id": "fce66ccb7a4e",
-          "title": "이환희·최리아·최선아 (제목 미정)",
+          "title": "Modes of Emergence",
           "artists": "",
           "start_date": "2026-08-29",
           "end_date": "2026-10-17",
@@ -2345,7 +2345,7 @@
       "exhibitions": [
         {
           "id": "33d88c609051",
-          "title": "스테파노 갈리 개인전 (가제)",
+          "title": "Stefano Galli <Liminal Traces>",
           "artists": "",
           "start_date": "2026-08-31",
           "end_date": "2026-09-13",
@@ -2432,7 +2432,7 @@
           "title": "오윤",
           "artists": "",
           "start_date": "2026-08-27",
-          "end_date": "2027-02-21",
+          "end_date": "2027-02-14",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://sema.seoul.go.kr",
@@ -2457,7 +2457,7 @@
       "exhibitions": [
         {
           "id": "2690408ba0a6",
-          "title": "월화·도래",
+          "title": "[월 화 (月 華) • 도 래(陶 來 )]",
           "artists": "강석영·조기현",
           "start_date": "2026-08-31",
           "end_date": "2026-09-06",
@@ -2485,10 +2485,10 @@
       "exhibitions": [
         {
           "id": "eba253c1b39a",
-          "title": "싸다싸",
+          "title": "딱지 앉을 집",
           "artists": "",
           "start_date": "2026-08-31",
-          "end_date": "2026-09-15",
+          "end_date": "2026-09-06",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.instagram.com/boofy_seoul/",
@@ -2625,7 +2625,7 @@
       "exhibitions": [
         {
           "id": "772409417c09",
-          "title": "EVE (가제)",
+          "title": "이영빈 개인전 《EVE》",
           "artists": "",
           "start_date": "2026-09-04",
           "end_date": "2026-10-17",
@@ -2648,16 +2648,16 @@
       "instagram_url": "https://www.instagram.com/sahngupgallery/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "ed6927e69d30",
           "title": "하품을 기다리며",
           "artists": "",
-          "start_date": "2026-08-18",
-          "end_date": "2026-09-19",
-          "status": "upcoming",
+          "start_date": "2026-08-19",
+          "end_date": "2026-09-23",
+          "status": "active",
           "thumbnail": "",
           "url": "https://sahngupgallery.com/",
           "price": "무료",
@@ -2681,7 +2681,7 @@
       "exhibitions": [
         {
           "id": "9c0717ab92d3",
-          "title": "마법적 사고 (가제)",
+          "title": "마법적 사고",
           "artists": "",
           "start_date": "2026-09-01",
           "end_date": "2026-09-30",
@@ -2821,10 +2821,10 @@
       "exhibitions": [
         {
           "id": "c093348cf055",
-          "title": "챕터투 입주작가전",
+          "title": "2026년 레지던시 입주작가 프리뷰",
           "artists": "",
           "start_date": "2026-09-02",
-          "end_date": "2026-10-08",
+          "end_date": "2026-10-23",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://chapterii.org/",
@@ -2849,7 +2849,7 @@
       "exhibitions": [
         {
           "id": "dc0ac01bfc3d",
-          "title": "상상력 옷장: 이랜드 컬렉션 특별전",
+          "title": "이랜드 컬렉션: 상상력 옷장",
           "artists": "",
           "start_date": "2026-04-24",
           "end_date": "2026-08-23",
@@ -2973,7 +2973,7 @@
       "exhibitions": [
         {
           "id": "88e8e7f720c1",
-          "title": "한지민 개인전",
+          "title": "앞서 사라진 모든 이와 후에 와야 할 모든 이로부터",
           "artists": "",
           "start_date": "2026-08-28",
           "end_date": "2026-09-27",
@@ -2996,8 +2996,8 @@
       "instagram_url": "https://www.instagram.com/artmoment.doksan/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 2,
+      "active_count": 2,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "681d1dd2053d",
@@ -3005,7 +3005,7 @@
           "artists": "백현주·임흥순·차재민 외",
           "start_date": "2026-07-31",
           "end_date": "2026-09-19",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://artmoment.org/",
           "price": "무료",
@@ -3017,7 +3017,7 @@
           "artists": "",
           "start_date": "2026-07-31",
           "end_date": "2026-09-19",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://artmoment.org/",
           "price": "무료",
@@ -3036,8 +3036,8 @@
       "instagram_url": "https://www.instagram.com/leeeugeangallery/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "acf9c944366e",
@@ -3045,7 +3045,7 @@
           "artists": "경현수·이안리·정수경",
           "start_date": "2026-08-19",
           "end_date": "2026-09-19",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.leeeugeangallery.com",
           "price": "무료",
@@ -3128,7 +3128,7 @@
           "title": "냅 Ⅱ",
           "artists": "",
           "start_date": "2026-09-02",
-          "end_date": "2026-10-01",
+          "end_date": "2026-09-29",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.komplex.kr/",
@@ -3211,8 +3211,8 @@
           "id": "415748e35eca",
           "title": "슈뢰딩거의 고양이를 인출하기",
           "artists": "도이(박민하)·남다현 외",
-          "start_date": "2026-09-04",
-          "end_date": "2026-09-26",
+          "start_date": "2026-09-05",
+          "end_date": "2026-09-27",
           "status": "upcoming",
           "thumbnail": "",
           "url": "",
@@ -3344,16 +3344,16 @@
       "instagram_url": "https://www.instagram.com/space__so/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "444fe2ba4244",
-          "title": "마인",
+          "title": "mine",
           "artists": "방소윤·조재영",
           "start_date": "2026-08-13",
           "end_date": "2026-09-12",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://spaceso.kr/",
           "price": "무료",
@@ -3372,8 +3372,8 @@
       "instagram_url": "https://www.instagram.com/yk_presents/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "ee1e489e8058",
@@ -3381,7 +3381,7 @@
           "artists": "",
           "start_date": "2026-08-08",
           "end_date": "2026-08-31",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://ykpresents.com",
           "price": "무료",
@@ -3407,8 +3407,8 @@
           "id": "5aa98ecce421",
           "title": "사랑의 기술",
           "artists": "노송희·안초롱·이강승",
-          "start_date": "2026-07-18",
-          "end_date": "2026-09-13",
+          "start_date": "2026-07-25",
+          "end_date": "2026-09-19",
           "status": "active",
           "thumbnail": "",
           "url": "https://www.primarypractice.kr",
@@ -3517,7 +3517,7 @@
       "exhibitions": [
         {
           "id": "293d1ca9e002",
-          "title": "복수",
+          "title": "제15회 두산연강예술상 수상자 정여름 개인전 《복수》",
           "artists": "",
           "start_date": "2026-08-26",
           "end_date": "2026-10-17",
@@ -3680,8 +3680,8 @@
       "instagram_url": "https://www.instagram.com/songeun_official/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "0d4df33f3912",
@@ -3689,7 +3689,7 @@
           "artists": "역대 수상·본선작가 178인",
           "start_date": "2026-08-19",
           "end_date": "2026-10-10",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.songeun.or.kr",
           "price": "무료",
@@ -3776,8 +3776,8 @@
       "instagram_url": "https://www.instagram.com/flow.n.beat/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "3b00145b589d",
@@ -3785,7 +3785,7 @@
           "artists": "",
           "start_date": "2026-08-18",
           "end_date": "2026-09-06",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://flownbeat0.imweb.me/",
           "price": "무료",
@@ -3804,16 +3804,16 @@
       "instagram_url": "https://www.instagram.com/cadalogs_space/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "8da4e577c6b6",
-          "title": "외나무다리",
+          "title": "외나무다리 (Bound to Meet)",
           "artists": "김소이·안진선",
-          "start_date": "2026-08-13",
-          "end_date": "2026-09-10",
-          "status": "upcoming",
+          "start_date": "2026-08-14",
+          "end_date": "2026-09-13",
+          "status": "active",
           "thumbnail": "",
           "url": "https://cadlogs.com",
           "price": "무료",
@@ -3837,7 +3837,7 @@
       "exhibitions": [
         {
           "id": "b3c7bcd88d55",
-          "title": "대기",
+          "title": "이유성 개인전: 대기(大氣)",
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-09-27",
@@ -3977,7 +3977,7 @@
       "exhibitions": [
         {
           "id": "1a9465d4ba08",
-          "title": "《모든 사라지는 것들은 흔적을 남긴다》(가제)",
+          "title": "김영란 개인전 -사라지는 모든 것들은 흔적을 남긴다",
           "artists": "김영란",
           "start_date": "2026-08-28",
           "end_date": "2026-09-06",
@@ -4000,8 +4000,8 @@
       "instagram_url": "https://www.instagram.com/starch.seoul/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "9396496afe25",
@@ -4009,7 +4009,7 @@
           "artists": "이숨 김지영",
           "start_date": "2026-08-01",
           "end_date": "2026-09-13",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.instagram.com/starch.seoul/",
           "price": "무료",
@@ -4044,7 +4044,259 @@
           "source": "seoul_art_week_2026"
         }
       ]
+    },
+    {
+      "venue_key": "saw_744b70e5",
+      "venue_name": "롯데뮤지엄",
+      "region": "seoul",
+      "address": "서울시 송파구 올림픽로 300 롯데월드타워 7층",
+      "lat": 37.512492,
+      "lng": 127.102829,
+      "official_url": "https://www.lottemuseum.com/ko/",
+      "instagram_url": "https://www.instagram.com/lottemuseum/",
+      "image_url": "",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "0ae7f3094ff2",
+          "title": "이강소 : 일어나고 사라지는",
+          "artists": "",
+          "start_date": "2026-08-21",
+          "end_date": "2026-11-01",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.lottemuseum.com/ko/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_b7d5dc8b",
+      "venue_name": "아르티펙스메이전시",
+      "region": "seoul",
+      "address": "서울시 송파구 법원로128, 문정SKV1 B동 715호",
+      "lat": 37.4827602,
+      "lng": 127.1219166,
+      "official_url": "https://www.artifexbase.com/",
+      "instagram_url": "",
+      "image_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "8c10a1dc0484",
+          "title": "소통의 스펙트럼 _ Between Form & Freedom",
+          "artists": "",
+          "start_date": "2026-08-31",
+          "end_date": "2026-09-05",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.artifexbase.com/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_4039d684",
+      "venue_name": "아트앤초이스",
+      "region": "seoul",
+      "address": "서울시 용산구 한남동 746-21 1층",
+      "lat": 37.5366671,
+      "lng": 126.9975145,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/artandchois/",
+      "image_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "0b87feab78ff",
+          "title": "여기서부터는 다른 풍경이다",
+          "artists": "",
+          "start_date": "2026-09-01",
+          "end_date": "2026-09-23",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.instagram.com/artandchois/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_47046e11",
+      "venue_name": "서울시립 서서울미술관",
+      "region": "seoul",
+      "address": "서울시 금천구 시흥대로79길 65",
+      "lat": 37.4577976,
+      "lng": 126.8954095,
+      "official_url": "https://sema.seoul.go.kr",
+      "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
+      "image_url": "",
+      "category": "미술관",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "d963ad19831b",
+          "title": "서울시립 서서울미술관 미디어 작가전 《김희천: 두더지들》",
+          "artists": "",
+          "start_date": "2026-08-20",
+          "end_date": "2026-11-08",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_421a2890",
+      "venue_name": "윤형근의 집",
+      "region": "seoul",
+      "address": "서울특별시 마포구 와우산로 21길 19-17",
+      "lat": 37.5516504,
+      "lng": 126.9228275,
+      "official_url": "https://www.pkmgallery.com/exhibitions/yun-hyong-keun6",
+      "instagram_url": "https://www.instagram.com/yunhyongkeun_official/",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "845bdb7efb49",
+          "title": "윤형근의 집",
+          "artists": "",
+          "start_date": "2026-09-01",
+          "end_date": "2026-10-17",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.pkmgallery.com/exhibitions/yun-hyong-keun6",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_563064c1",
+      "venue_name": "한국국제교류재단 KF갤러리",
+      "region": "seoul",
+      "address": "서울 중구 을지로5길 26, 미래에셋센터원 서관 2층",
+      "lat": 37.5675839,
+      "lng": 126.9849243,
+      "official_url": "https://www.kf.or.kr",
+      "instagram_url": "https://www.instagram.com/koreafoundation/",
+      "image_url": "",
+      "category": "복합문화공간",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "919885129d2c",
+          "title": "크로싱 그라운드: 예술, 디자인&테크놀로지",
+          "artists": "",
+          "start_date": "2026-07-28",
+          "end_date": "2026-09-11",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.kf.or.kr",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_b1843d37",
+      "venue_name": "16아카이브",
+      "region": "seoul",
+      "address": "서울 중구 퇴계로45길 31-15 2층",
+      "lat": 37.5633785,
+      "lng": 126.9988474,
+      "official_url": "https://blog.naver.com/16akaiv",
+      "instagram_url": "https://www.instagram.com/16akaiv/",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "4fc5b9e04371",
+          "title": "다른 이름으로 저장",
+          "artists": "",
+          "start_date": "2026-08-01",
+          "end_date": "2026-09-05",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://blog.naver.com/16akaiv",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_63b92460",
+      "venue_name": "사이드룸",
+      "region": "seoul",
+      "address": "서울시 종로구 팔판길 21",
+      "lat": 37.5827878,
+      "lng": 126.9810184,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/sideroom.seoul/",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "1c999bd47999",
+          "title": "The Lab : Pending Classification",
+          "artists": "",
+          "start_date": "2026-08-29",
+          "end_date": "2026-09-26",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.instagram.com/sideroom.seoul/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_4e769058",
+      "venue_name": "눈 컨템포러리",
+      "region": "seoul",
+      "address": "서울시 용산구 소월로 72",
+      "lat": 37.5541682,
+      "lng": 126.9782202,
+      "official_url": "https://www.nooncontemporary.com/",
+      "instagram_url": "https://www.instagram.com/nooncontemporary/",
+      "image_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "3c4b62c976e8",
+          "title": "사운딩",
+          "artists": "",
+          "start_date": "2026-08-20",
+          "end_date": "2026-09-20",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.nooncontemporary.com/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
     }
   ],
   "filter": "region=seoul"
-}
+        }
