@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T03:40:00Z",
+  "generated_at": "2026-08-20T05:00:00Z",
   "sources": [
     "seoul_art_week_2026"
   ],
-  "venue_count": 149,
+  "venue_count": 152,
   "venues": [
     {
       "venue_key": "saw_buk_seoul_museum_of_art",
@@ -128,8 +128,8 @@
       "instagram_url": "https://www.instagram.com/hakgojaegallery/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "e28245a2f164",
@@ -137,7 +137,7 @@
           "artists": "굿모닝타운·순이지·주재범",
           "start_date": "2026-08-20",
           "end_date": "2026-09-12",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "http://www.hakgojae.com/",
           "price": "무료",
@@ -380,8 +380,8 @@
       "instagram_url": "https://www.instagram.com/futuraseoul/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "719760745a9c",
@@ -389,7 +389,7 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2027-01-17",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://futuraseoul.org/",
           "price": "추후 안내",
@@ -1497,10 +1497,10 @@
       "exhibitions": [
         {
           "id": "d86390f78610",
-          "title": "장시재전 (가제)",
+          "title": "오래된 것들이 말을 걸어왔지만 사람들은 바람이 분다고만 말한다",
           "artists": "",
           "start_date": "2026-08-15",
-          "end_date": "2026-09-17",
+          "end_date": "2026-09-15",
           "status": "active",
           "thumbnail": "",
           "url": "https://www.instagram.com/osisun.ch/",
@@ -1716,8 +1716,8 @@
       "instagram_url": "https://www.instagram.com/galleryjoeun/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "94d9255d489a",
@@ -1725,7 +1725,7 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-09-19",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://galleryjoeun.com/",
           "price": "무료",
@@ -2760,8 +2760,8 @@
       "instagram_url": "https://www.instagram.com/galeriebhak/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "cbe11fb2a522",
@@ -2769,7 +2769,7 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-09-23",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://galeriebhak.com",
           "price": "무료",
@@ -3181,7 +3181,7 @@
       "exhibitions": [
         {
           "id": "170f1b037698",
-          "title": "소풍 (가제)",
+          "title": "채집록",
           "artists": "",
           "start_date": "2026-08-29",
           "end_date": "2026-09-23",
@@ -3652,8 +3652,8 @@
       "instagram_url": "https://www.instagram.com/haus_mrk/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "fec8190128dd",
@@ -3661,7 +3661,7 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-09-22",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.instagram.com/haus_mrk/",
           "price": "무료",
@@ -3832,8 +3832,8 @@
       "instagram_url": "https://www.instagram.com/ypc.seoul/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "b3c7bcd88d55",
@@ -3841,7 +3841,7 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-09-27",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://yellowpenclub.com",
           "price": "무료",
@@ -4028,8 +4028,8 @@
       "instagram_url": "https://www.instagram.com/salon_nokwon/",
       "image_url": "",
       "category": "기타",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "29109c9cc692",
@@ -4037,7 +4037,7 @@
           "artists": "서지인, 송영주, 이은우, 이숨 김지영, 이지수, 유시연, 최주연",
           "start_date": "2026-08-20",
           "end_date": "2026-09-13",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.instagram.com/salon_nokwon/",
           "price": "무료",
@@ -4068,7 +4068,7 @@
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://www.lottemuseum.com/ko/",
-          "price": "무료",
+          "price": "성인 20,000원 / 어린이·청소년 13,000원",
           "source": "seoul_art_week_2026"
         }
       ]
@@ -4140,7 +4140,7 @@
       "instagram_url": "https://www.instagram.com/seoulmuseumofart/",
       "image_url": "",
       "category": "미술관",
-      "active_count": 0,
+      "active_count": 1,
       "upcoming_count": 1,
       "exhibitions": [
         {
@@ -4149,6 +4149,18 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-11-08",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://sema.seoul.go.kr",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        },
+        {
+          "id": "ebbf4b9cdca9",
+          "title": "어쩌면 우리에게 더 멋진 일이 있을지도 몰라",
+          "artists": "",
+          "start_date": "2026-09-01",
+          "end_date": "2026-10-11",
           "status": "upcoming",
           "thumbnail": "",
           "url": "https://sema.seoul.go.kr",
@@ -4280,8 +4292,8 @@
       "instagram_url": "https://www.instagram.com/nooncontemporary/",
       "image_url": "",
       "category": "갤러리",
-      "active_count": 0,
-      "upcoming_count": 1,
+      "active_count": 1,
+      "upcoming_count": 0,
       "exhibitions": [
         {
           "id": "3c4b62c976e8",
@@ -4289,9 +4301,93 @@
           "artists": "",
           "start_date": "2026-08-20",
           "end_date": "2026-09-20",
-          "status": "upcoming",
+          "status": "active",
           "thumbnail": "",
           "url": "https://www.nooncontemporary.com/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_bfaa1752",
+      "venue_name": "대안공간 루프",
+      "region": "seoul",
+      "address": "서울 중구 청계천로 172-1, 3층",
+      "lat": 37.5683668,
+      "lng": 126.9968163,
+      "official_url": "http://altspaceloop.com/",
+      "instagram_url": "",
+      "image_url": "",
+      "category": "기타",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "ec7865fdc9ba",
+          "title": "비비 주 개인전: (불)투명한 마음",
+          "artists": "",
+          "start_date": "2026-08-14",
+          "end_date": "2026-09-12",
+          "status": "active",
+          "thumbnail": "",
+          "url": "http://altspaceloop.com/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_07cd7c33",
+      "venue_name": "바이오갤러리",
+      "region": "seoul",
+      "address": "서울 중구 소파로 129 부영남산빌딩 구관 401호",
+      "lat": 37.5566897,
+      "lng": 126.9848991,
+      "official_url": "",
+      "instagram_url": "https://www.instagram.com/biogalleryseoul/",
+      "image_url": "",
+      "category": "갤러리",
+      "active_count": 0,
+      "upcoming_count": 1,
+      "exhibitions": [
+        {
+          "id": "40c1fb1380cc",
+          "title": "black MIDI (가제)",
+          "artists": "",
+          "start_date": "2026-08-28",
+          "end_date": "2026-10-03",
+          "status": "upcoming",
+          "thumbnail": "",
+          "url": "https://www.instagram.com/biogalleryseoul/",
+          "price": "무료",
+          "source": "seoul_art_week_2026"
+        }
+      ]
+    },
+    {
+      "venue_key": "saw_603f1572",
+      "venue_name": "키셰이프",
+      "region": "seoul",
+      "address": "서울 영등포구 양평로 100 3층",
+      "lat": 37.5368789,
+      "lng": 126.8963414,
+      "official_url": "https://www.artspacekeyshape.com",
+      "instagram_url": "",
+      "image_url": "",
+      "category": "갤러리",
+      "active_count": 1,
+      "upcoming_count": 0,
+      "exhibitions": [
+        {
+          "id": "91937eaad1e3",
+          "title": "안녕의 기원",
+          "artists": "",
+          "start_date": "2026-08-19",
+          "end_date": "2026-08-30",
+          "status": "active",
+          "thumbnail": "",
+          "url": "https://www.artspacekeyshape.com",
           "price": "무료",
           "source": "seoul_art_week_2026"
         }
